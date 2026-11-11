@@ -1,0 +1,2444 @@
+{
+  "exam": {
+    "institute": "IBA (DU)",
+    "program": "MBA",
+    "session": "June 2015",
+    "source_pdf": "iba_mba_June_2015.pdf",
+    "parts_marks": {
+      "mcq": 75,
+      "writing": 25
+    }
+  },
+  "parts": [
+    {
+      "part_label": "Part I: Multiple Choice Questions [75 marks]",
+      "sections": [
+        {
+          "section_no": 1,
+          "source_section_label": "Section 1: Language and Communication",
+          "subject": "language",
+          "groups": [
+            {
+              "source_group_label": "Question 1 to 7",
+              "instruction": "Choose the most appropriate word(s)/ Phrase to fill in the blank in the given sentence.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "fill-blank",
+                  "stem": "1. If you look ____ the sky ____ a clear night, it is possible to see thousands of stars.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "at; on"
+                    },
+                    {
+                      "label": "B",
+                      "text": "on; at"
+                    },
+                    {
+                      "label": "C",
+                      "text": "up; in"
+                    },
+                    {
+                      "label": "D",
+                      "text": "up; at"
+                    },
+                    {
+                      "label": "E",
+                      "text": "in; on"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Look at the sky\" and \"on a clear night\" are the correct collocations. (Matches the printed key.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "fill-blank",
+                  "stem": "2. If you don't know what the word means, look it ____ ____ a dictionary.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "up; from"
+                    },
+                    {
+                      "label": "B",
+                      "text": "in; from"
+                    },
+                    {
+                      "label": "C",
+                      "text": "up; in"
+                    },
+                    {
+                      "label": "D",
+                      "text": "for; in"
+                    },
+                    {
+                      "label": "E",
+                      "text": "from; inside"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"Look it up in a dictionary\" is the idiom. (Matches the printed key.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "fill-blank",
+                  "stem": "3. I will give you a map of the new town in case you ____ lost.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "will get"
+                    },
+                    {
+                      "label": "B",
+                      "text": "would get"
+                    },
+                    {
+                      "label": "C",
+                      "text": "got"
+                    },
+                    {
+                      "label": "D",
+                      "text": "get"
+                    },
+                    {
+                      "label": "E",
+                      "text": "will be getting"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"In case\" takes the present simple: \"in case you get lost\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "fill-blank",
+                  "stem": "4. Don't make such a ____! your mom is only trying to help you.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "fuss"
+                    },
+                    {
+                      "label": "B",
+                      "text": "trouble"
+                    },
+                    {
+                      "label": "C",
+                      "text": "worry"
+                    },
+                    {
+                      "label": "D",
+                      "text": "reaction"
+                    },
+                    {
+                      "label": "E",
+                      "text": "scene"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Make such a fuss\" is the idiomatic phrase.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 5,
+                  "question_type": "fill-blank",
+                  "stem": "5. The play ____ of 10 acts, each one featuring a different artist.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "comprises"
+                    },
+                    {
+                      "label": "B",
+                      "text": "includes"
+                    },
+                    {
+                      "label": "C",
+                      "text": "consists"
+                    },
+                    {
+                      "label": "D",
+                      "text": "contains"
+                    },
+                    {
+                      "label": "E",
+                      "text": "indulges"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"Consists of\" is correct (comprise does not take \"of\").",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 6,
+                  "question_type": "fill-blank",
+                  "stem": "6. My friend was exceptionally calm even after facing such a big loss and ____ about her business as if nothing had happened.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "continued"
+                    },
+                    {
+                      "label": "B",
+                      "text": "came"
+                    },
+                    {
+                      "label": "C",
+                      "text": "brought"
+                    },
+                    {
+                      "label": "D",
+                      "text": "went"
+                    },
+                    {
+                      "label": "E",
+                      "text": "moved"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Went about her business\" is the idiom.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "fill-blank",
+                  "stem": "7. The major source of our pharmaceuticals ____ is plants, some of them ____ of as weeds.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "materials, well-known"
+                    },
+                    {
+                      "label": "B",
+                      "text": "resources, regularly thought"
+                    },
+                    {
+                      "label": "C",
+                      "text": "inputs, considered often"
+                    },
+                    {
+                      "label": "D",
+                      "text": "supplies, commonly thought"
+                    },
+                    {
+                      "label": "E",
+                      "text": "sector, considered"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Pharmaceutical supplies ... commonly thought of as weeds\" fits both blanks.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 8 to 12",
+              "instruction": "Select the choice the best replaces the underlined part of the given sentence conveying the original meaning. If you think that the original sentence is the best choice select the first choice.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 8,
+                  "question_type": "sentence-correction",
+                  "stem": "8. I suggest that we will meet outside the school tomorrow.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "that we will meet"
+                    },
+                    {
+                      "label": "B",
+                      "text": "we will meet"
+                    },
+                    {
+                      "label": "C",
+                      "text": "that we meet"
+                    },
+                    {
+                      "label": "D",
+                      "text": "that we will be meeting"
+                    },
+                    {
+                      "label": "E",
+                      "text": "we will be meeting"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"Suggest that\" takes the subjunctive base form: \"that we meet\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 9,
+                  "question_type": "sentence-correction",
+                  "stem": "9. We are not used to being invited to high profile parties.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "used to being invited"
+                    },
+                    {
+                      "label": "B",
+                      "text": "use to being invited"
+                    },
+                    {
+                      "label": "C",
+                      "text": "used to having being invited"
+                    },
+                    {
+                      "label": "D",
+                      "text": "used to having invited"
+                    },
+                    {
+                      "label": "E",
+                      "text": "use to having been invited"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Used to being invited\" (accustomed to) is correct; the original is best.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 10,
+                  "question_type": "sentence-correction",
+                  "stem": "10. Having been the shortest in the class, she cannot see the blackboard from the back.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Having been the shortest in the class, she cannot see the blackboard from the back."
+                    },
+                    {
+                      "label": "B",
+                      "text": "Having been the shortest in the class, the blackboard could not be seen by her."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Having being the shortest in the class, she cannot see the blackboard from the back."
+                    },
+                    {
+                      "label": "D",
+                      "text": "Being the shortest in the class, the blackboard could not be seen by her."
+                    },
+                    {
+                      "label": "E",
+                      "text": "Being the shortest in class, she cannot see the blackboard from the back."
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Her shortness is a present state, so \"Being the shortest ... she cannot see\" is correct (and keeps \"she\" as subject).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 11,
+                  "question_type": "sentence-correction",
+                  "stem": "11. Since when did you became an advocate of nuclear family?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "did you became"
+                    },
+                    {
+                      "label": "B",
+                      "text": "have you became"
+                    },
+                    {
+                      "label": "C",
+                      "text": "have you become"
+                    },
+                    {
+                      "label": "D",
+                      "text": "you became"
+                    },
+                    {
+                      "label": "E",
+                      "text": "are you becoming"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"Since when\" takes the present perfect: \"have you become\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 12,
+                  "question_type": "sentence-correction",
+                  "stem": "12. I had been listening to a great radio show on the way to work today morning.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "had been listening"
+                    },
+                    {
+                      "label": "B",
+                      "text": "have been listening"
+                    },
+                    {
+                      "label": "C",
+                      "text": "listen"
+                    },
+                    {
+                      "label": "D",
+                      "text": "had listened"
+                    },
+                    {
+                      "label": "E",
+                      "text": "was listening"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "A specific past action (on the way this morning) takes the past continuous: \"was listening\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 13 to 17",
+              "instruction": "For each question, identify the word from the given choices that is the most opposite in meaning to the underlined word.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 13,
+                  "question_type": "antonym",
+                  "stem": "13. Perhaps to the student there is no part of elementary mathematics so repulsive as is spherical trigonometry.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "complex"
+                    },
+                    {
+                      "label": "B",
+                      "text": "confusing"
+                    },
+                    {
+                      "label": "C",
+                      "text": "pleasant"
+                    },
+                    {
+                      "label": "D",
+                      "text": "easy"
+                    },
+                    {
+                      "label": "E",
+                      "text": "experimental"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The opposite of \"repulsive\" (off-putting) is \"pleasant\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 14,
+                  "question_type": "antonym",
+                  "stem": "14. It was utterly ridiculous to cry about something so trivial, and yet it felt good.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "pertinent"
+                    },
+                    {
+                      "label": "B",
+                      "text": "subjective"
+                    },
+                    {
+                      "label": "C",
+                      "text": "ridiculous"
+                    },
+                    {
+                      "label": "D",
+                      "text": "abnormal"
+                    },
+                    {
+                      "label": "E",
+                      "text": "vicious"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The opposite of \"trivial\" (unimportant) is \"pertinent\" (relevant/important).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 15,
+                  "question_type": "antonym",
+                  "stem": "15. She gave a furtive look at the deserted shops on the opposite side of the road.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "confused"
+                    },
+                    {
+                      "label": "B",
+                      "text": "tacit"
+                    },
+                    {
+                      "label": "C",
+                      "text": "impersonal"
+                    },
+                    {
+                      "label": "D",
+                      "text": "inquisitive"
+                    },
+                    {
+                      "label": "E",
+                      "text": "honest"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The opposite of \"furtive\" (secretive/stealthy) is \"honest\" (open).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 16,
+                  "question_type": "antonym",
+                  "stem": "16. It was difficult to tell what the doctor was thinking, as his expression was impassive.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "indifferent"
+                    },
+                    {
+                      "label": "B",
+                      "text": "apathetic"
+                    },
+                    {
+                      "label": "C",
+                      "text": "emotional"
+                    },
+                    {
+                      "label": "D",
+                      "text": "confusing"
+                    },
+                    {
+                      "label": "E",
+                      "text": "banal"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The opposite of \"impassive\" (expressionless) is \"emotional\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 17,
+                  "question_type": "antonym",
+                  "stem": "17. While the men died, the women, living in comparative indolence, lived longer lives.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "accompanied"
+                    },
+                    {
+                      "label": "B",
+                      "text": "diligence"
+                    },
+                    {
+                      "label": "C",
+                      "text": "happiness"
+                    },
+                    {
+                      "label": "D",
+                      "text": "apathy"
+                    },
+                    {
+                      "label": "E",
+                      "text": "serenity"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The opposite of \"indolence\" (laziness) is \"diligence\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions: 18 to 22",
+              "instruction": "Answer the Questions based on the following article.",
+              "stimulus": {
+                "passage": "On 24 February 1815, the watchtower of Marseilles signaled the arrival of the Pharaon from the Orient, with a cargo of cloth and dyes. As usual, a crowd of curious onlookers gathered on the quayside to watch the docking of such a big ship, more so, since the Pharaon belonged to Monsieur Morrel, a citizen of Marseilles.\n\nHowever, the melancholy manner of the ship's approach indicated that all was not well on board. Further, those on shore noticed that a tall, young sailor, instead of old Captain Leclere, was at the helm. M. Morrel, impatient to get news, got into a rowboat and was soon on board the Pharaon. He was greeted by Edmund Dantes, the young sailor at the wheel.\n\nThe ship owner looked anxiously at Dantes. \"A great misfortune, M. Morrel\", replied Edmund. \"Captain Leclere contracted brain fever and died in great agony after we left Naples. I, as First Mate, assumed command from then on. Your ship and cargo are safe and sound\".\n\nMorrel accepted the loss of his captain philosophically. His keen eyes, however, noticed that the young Dantes handled the ship skillfully. He had also observed that the crew accepted Edmund as their leader. He made up his mind and said, \"But for my partner's consent, Edmund, which I am sure of obtaining, you are appointed as Captain of the Pharaon.\"",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 18,
+                  "question_type": "reading-comp",
+                  "stem": "18. Based on the first paragraph, which of the following is not a stated reason for huge crowded gathering on the quayside to watch the docking?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "They were very curious by nature"
+                    },
+                    {
+                      "label": "B",
+                      "text": "The ship belonged to a local citizen"
+                    },
+                    {
+                      "label": "C",
+                      "text": "The ship was very big"
+                    },
+                    {
+                      "label": "D",
+                      "text": "It was part of their usual habit"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The paragraph gives curiosity, the ship's size, local ownership and the usual habit as reasons, so all A-D are stated — hence E. (Matches the printed key.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 19,
+                  "question_type": "reading-comp",
+                  "stem": "19. People were surprised to see Dantes at the wheels because,",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "He looked very young"
+                    },
+                    {
+                      "label": "B",
+                      "text": "He was an unfamiliar face"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Captain Leclere was supposed to be heading the ship"
+                    },
+                    {
+                      "label": "D",
+                      "text": "The ship looked melancholy"
+                    },
+                    {
+                      "label": "E",
+                      "text": "All of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "They noticed a young sailor at the helm \"instead of old Captain Leclere\", who was expected to be in charge.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 20,
+                  "question_type": "reading-comp",
+                  "stem": "20. After Captain Leclere's demise, Dantes assumed command of the ship because:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "There was nobody else to take charge"
+                    },
+                    {
+                      "label": "B",
+                      "text": "People accepted him as the leader"
+                    },
+                    {
+                      "label": "C",
+                      "text": "He was very skillful at handing ships"
+                    },
+                    {
+                      "label": "D",
+                      "text": "He, as First Mate, was next in the chain of command"
+                    },
+                    {
+                      "label": "E",
+                      "text": "All of the above"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Dantes says \"I, as First Mate, assumed command\" — i.e. he was next in the chain of command. (Matches the printed key.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 21,
+                  "question_type": "reading-comp",
+                  "stem": "21. The word \"keen\" in paragraph 4 can be replaced with:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Loving"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Ecstatic"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Enthusiastic"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Euphoric"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Intense"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "\"Keen eyes\" means sharp, perceptive eyes; of the choices, \"intense\" (E) is the closest in sense (loving, ecstatic, enthusiastic and euphoric describe feelings, not sharpness of perception).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 22,
+                  "question_type": "reading-comp",
+                  "stem": "22. An appropriate title for the given passage could be:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "The sudden and unfortunate death of Captain Leclere"
+                    },
+                    {
+                      "label": "B",
+                      "text": "The day Dantes was first declared as the captain of the Pharaon"
+                    },
+                    {
+                      "label": "C",
+                      "text": "The Pharaon"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Monsieur Morrel and his ship"
+                    },
+                    {
+                      "label": "E",
+                      "text": "What happened on board the Pharaon"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The passage covers the Pharaon's troubled arrival, Captain Leclere's death and Dantes's appointment as captain, so the title that covers all of it is \"What happened on board the Pharaon\" (E). A, B and D cover only part of it and C is too vague.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions: 23 to 27",
+              "instruction": "Underlined parts of the following sentences may contain error(s) in grammar, diction, usage or idiom. Choose the underlined portion that is incorrect. If there is no error then select (E).",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 23,
+                  "question_type": "error-identification",
+                  "stem": "23. Rina dressed with (A) a pronounced elegance which seem to proclaim (B) to the world just how (C) distinguished she was (D). No error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "dressed with"
+                    },
+                    {
+                      "label": "B",
+                      "text": "which seem to proclaim"
+                    },
+                    {
+                      "label": "C",
+                      "text": "just how"
+                    },
+                    {
+                      "label": "D",
+                      "text": "distinguished she was"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "To agree with the past \"dressed\", (B) should be \"which seemed to proclaim\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 24,
+                  "question_type": "error-identification",
+                  "stem": "24. I am looking (A) for (B) a job for (C) a long time (D) now. No error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "I am looking"
+                    },
+                    {
+                      "label": "B",
+                      "text": "for"
+                    },
+                    {
+                      "label": "C",
+                      "text": "a job for"
+                    },
+                    {
+                      "label": "D",
+                      "text": "a long time"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"For a long time now\" requires the present perfect continuous: \"I have been looking\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 25,
+                  "question_type": "error-identification",
+                  "stem": "25. The salary structure of (A) the firm is not (B) commensurate from (C) the work requirements (D). No error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "The salary structure of"
+                    },
+                    {
+                      "label": "B",
+                      "text": "is not"
+                    },
+                    {
+                      "label": "C",
+                      "text": "commensurate from"
+                    },
+                    {
+                      "label": "D",
+                      "text": "the work requirements"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The idiom is \"commensurate with\", not \"commensurate from\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 26,
+                  "question_type": "error-identification",
+                  "stem": "26. The culture at (A) our office is not at all (B) conducive for (C) employee growth (D). No error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "The culture at"
+                    },
+                    {
+                      "label": "B",
+                      "text": "is not at all"
+                    },
+                    {
+                      "label": "C",
+                      "text": "conducive for"
+                    },
+                    {
+                      "label": "D",
+                      "text": "employee growth"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The idiom is \"conducive to\", not \"conducive for\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 27,
+                  "question_type": "error-identification",
+                  "stem": "27. There are a (A) few issues I would (B) like to bring on (C) at the next meeting of our division (D). No error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "There are a"
+                    },
+                    {
+                      "label": "B",
+                      "text": "I would"
+                    },
+                    {
+                      "label": "C",
+                      "text": "like to bring on"
+                    },
+                    {
+                      "label": "D",
+                      "text": "at the next meeting of our division"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "To raise issues, the idiom is \"bring up\", not \"bring on\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 28 to 30:",
+              "instruction": "Identify the sentence(s) that is/ are showing the correct use of the given word in bold.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 28,
+                  "question_type": "word-substitution",
+                  "stem": "28. Part\ni. When she arrived, her parting words made quite an impression.\nii. She was accused of taking part in the nefarious scheme!\niii. It is difficult to part with something that has belonged to us for a considerable amount of time.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "i only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "both i + ii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "ii only"
+                    },
+                    {
+                      "label": "D",
+                      "text": "both ii and iii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "i, ii, iii"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "\"Parting words\", \"taking part\" and \"part with\" are all correct uses, so all three.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 29,
+                  "question_type": "word-substitution",
+                  "stem": "29. Loathsome\ni. It is loathsome to see a young man ingratiating himself with his superior for material benefits.\nii. I simply loath the idea of traveling long distance by road.\niii. Coming from two wealthy competing families from the same location, each member loathed the other for every success and good fortune.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "both i and iii"
+                    },
+                    {
+                      "label": "B",
+                      "text": "both i + ii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "i, ii and iii"
+                    },
+                    {
+                      "label": "D",
+                      "text": "i only"
+                    },
+                    {
+                      "label": "E",
+                      "text": "ii only"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Loathsome\" (i) and \"loathed\" (iii) are correct. In (ii) the verb \"loathe\" is needed (\"loath\" is an adjective meaning reluctant), so (ii) is wrong. Hence i and iii.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 30,
+                  "question_type": "word-substitution",
+                  "stem": "30. Zeal\ni. The world is the way it is because of the way we understand and deal with zealots in general.\nii. The most acknowledged minds of times gone by have always been over-zealous in their pursuit of knowledge and accomplishments.\niii. What I like about her is that she never gives up - after an exam had not gone well, she just goes ahead with renewed zeal in preparing herself for the next one.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "i only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "both i and ii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "both ii and iii"
+                    },
+                    {
+                      "label": "D",
+                      "text": "i, ii and iii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "iii only"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Zealots\", \"over-zealous\" and \"zeal\" are all correct forms used correctly, so all three.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 2,
+          "source_section_label": "Section 2: Mathematics",
+          "subject": "mathematics",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": "Solve each of the following problems and mark the correct answer on your Answer Sheet. DO NOT USE A CALCULATOR. Figures are not drawn to scale.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 31,
+                  "question_type": "problem-solving",
+                  "stem": "31. The total weight of three children and one man is the same as the weight of 6 children. If each child weights 30 kgs, what is the weight of the man?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "76"
+                    },
+                    {
+                      "label": "B",
+                      "text": "95"
+                    },
+                    {
+                      "label": "C",
+                      "text": "110"
+                    },
+                    {
+                      "label": "D",
+                      "text": "90"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "The man equals 3 children $=3\\times30=90$ kg.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 32,
+                  "question_type": "problem-solving",
+                  "stem": "32. In a construction project, a contractor completed $\\frac{6}{10}$ of the project before another contractor completed an additional $\\frac{1}{5}$ of the project. What fraction of the project is left undone?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{1}{3}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{4}{9}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{1}{5}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{1}{4}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$\\frac{6}{10}+\\frac15=\\frac35+\\frac15=\\frac45$ done, so $\\frac15$ is left.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 33,
+                  "question_type": "problem-solving",
+                  "stem": "33. What is the value of z in the sequence of 2, 5, 10, 17, 28, z?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "15"
+                    },
+                    {
+                      "label": "B",
+                      "text": "26"
+                    },
+                    {
+                      "label": "C",
+                      "text": "37"
+                    },
+                    {
+                      "label": "D",
+                      "text": "41"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The terms are $n^2+1$ (2, 5, 10, 17, 26, 37); the next term is $6^2+1=37$. (The printed '28' appears to be an OCR slip for 26.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 34,
+                  "question_type": "problem-solving",
+                  "stem": "34. If $|x - 12| = 4x$, then $x = ?$",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "-8"
+                    },
+                    {
+                      "label": "B",
+                      "text": "-4"
+                    },
+                    {
+                      "label": "C",
+                      "text": "1"
+                    },
+                    {
+                      "label": "D",
+                      "text": "4"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "For $x<12$: $12-x=4x\\Rightarrow x=2.4$ (the other case gives $x=-4$, invalid since $4x<0$). $2.4$ is not among A-D, so E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 35,
+                  "question_type": "problem-solving",
+                  "stem": "35. A man spent  $\\frac{1}{2}$  of his money and then lost  $\\frac{1}{4}$  of the remainder. He was left with Tk. 3600. How much did he start with?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Tk. 8000"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Tk. 8600"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Tk. 9600"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Tk. 9200"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Left $=\\frac34\\times\\frac12 S=\\frac38 S=3600\\Rightarrow S=9600$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 36,
+                  "question_type": "problem-solving",
+                  "stem": "36. If p and q are positive integers and $p(p + q)$ is even, which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "if p is odd, then q is odd"
+                    },
+                    {
+                      "label": "B",
+                      "text": "if p is odd, then q is even"
+                    },
+                    {
+                      "label": "C",
+                      "text": "if p is even, then q is even"
+                    },
+                    {
+                      "label": "D",
+                      "text": "if p is even, then q is odd"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "If $p$ is odd, then for $p(p+q)$ to be even, $p+q$ must be even, so $q$ is odd.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 37,
+                  "question_type": "problem-solving",
+                  "stem": "37. An investor made a profit of Tk. 420 plus 30% of the amount originally paid for a stock. If the cost of the stock was originally Tk. 2800 what percent of the cost was the total profit?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "35"
+                    },
+                    {
+                      "label": "B",
+                      "text": "50"
+                    },
+                    {
+                      "label": "C",
+                      "text": "45"
+                    },
+                    {
+                      "label": "D",
+                      "text": "30"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Profit $=420+0.3\\times2800=420+840=1260$; as a percent of cost $=\\frac{1260}{2800}=45\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 38,
+                  "question_type": "problem-solving",
+                  "stem": "38. Tasty Cookies sells two kinds of cakes: Lemon for Tk. 40 and Lazeez for Tk. 25. On a certain day, the shop sold 100 cakes and got Tk. 2980 in revenue from the sales. How many Lemon cakes did they sell?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "30"
+                    },
+                    {
+                      "label": "B",
+                      "text": "32"
+                    },
+                    {
+                      "label": "C",
+                      "text": "40"
+                    },
+                    {
+                      "label": "D",
+                      "text": "48"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$40L+25(100-L)=2980\\Rightarrow15L=480\\Rightarrow L=32$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 39,
+                  "question_type": "problem-solving",
+                  "stem": "39. If x is even integer and $\\frac{x}{12}$ is an odd integer, which of the following is NOT an even integer?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{x^2}{9}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{x^2}{12}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$(x^2)24$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{x^2}{36}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "With $x=12k$ ($k$ odd), each of $\\frac{x^2}{9}=16k^2$, $\\frac{x^2}{12}=12k^2$, $\\frac{x^2}{24}=6k^2$, $\\frac{x^2}{36}=4k^2$ is even, so none is non-even — E.",
+                  "images": [],
+                  "needs_review": false,
+                  "source_defect": "Option C is printed \"(x²)24\" (no fraction bar)."
+                },
+                {
+                  "number": 40,
+                  "question_type": "problem-solving",
+                  "stem": "40. The ratio of red, black marbles in a jar is 3:5. If the number of red marbles is increased by 20% and the number of black marbles is increased by 5 units then the new ratio of red and black marbles remains the same. How many red marbles were in the jar?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "12"
+                    },
+                    {
+                      "label": "B",
+                      "text": "15"
+                    },
+                    {
+                      "label": "C",
+                      "text": "24"
+                    },
+                    {
+                      "label": "D",
+                      "text": "30"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Let red $=3k$, black $=5k$. $\\frac{3.6k}{5k+5}=\\frac35\\Rightarrow18k=15k+15\\Rightarrow k=5$, so red $=15$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 41,
+                  "question_type": "problem-solving",
+                  "stem": "41. Given  $2x + 2y = 6z$ ,  $2x - 2y = 2z$  and y - z = 0, how many unique solutions are there for y?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "1"
+                    },
+                    {
+                      "label": "B",
+                      "text": "2"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3"
+                    },
+                    {
+                      "label": "D",
+                      "text": "4"
+                    },
+                    {
+                      "label": "E",
+                      "text": "more than 4"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "With $z=y$, both equations reduce to $x=2y$, leaving $y$ free; there are infinitely many solutions, so more than 4.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 42,
+                  "question_type": "problem-solving",
+                  "stem": "42. Apu can have his mobile phone repaired for tk. 4000 or he can trade it in and receive tk. 2000 credit toward the purchase of a new mobile that sells for tk. 8400. If Apu trades in his current mobile phone, the cost to him of purchasing the new mobile is what percent greater than the cost of having his current mobile phone repaired?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "44"
+                    },
+                    {
+                      "label": "B",
+                      "text": "60"
+                    },
+                    {
+                      "label": "C",
+                      "text": "70"
+                    },
+                    {
+                      "label": "D",
+                      "text": "75"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Trade-in cost $=8400-2000=6400$; it is $\\frac{6400-4000}{4000}=60\\%$ greater than the 4000 repair cost.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 43,
+                  "question_type": "problem-solving",
+                  "stem": "43. On a particular day, a shop sold 3 fewer laptops of brand X than two times the number of laptops of brand Y. If a customer who bought a laptop of X brand had purchase a laptop of Y brand instead of X brand, the number of brand X and the number of brand Y sold would have been the same. What is the total number of laptops sold?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "8"
+                    },
+                    {
+                      "label": "B",
+                      "text": "9"
+                    },
+                    {
+                      "label": "C",
+                      "text": "10"
+                    },
+                    {
+                      "label": "D",
+                      "text": "12"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$X=2Y-3$, and $X-1=Y+1\\Rightarrow X=Y+2$. So $Y+2=2Y-3\\Rightarrow Y=5,X=7$; total $=12$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 44,
+                  "question_type": "problem-solving",
+                  "stem": "44. In a club, 40% of the members were female. Forty new male became members of the club and as a result the percent of female members dropped to 30%. How many female members are there in the club now?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "40"
+                    },
+                    {
+                      "label": "B",
+                      "text": "42"
+                    },
+                    {
+                      "label": "C",
+                      "text": "46"
+                    },
+                    {
+                      "label": "D",
+                      "text": "48"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$\\frac{0.4T}{T+40}=0.3\\Rightarrow0.1T=12\\Rightarrow T=120$; females $=0.4\\times120=48$ (unchanged).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 45,
+                  "question_type": "problem-solving",
+                  "stem": "45. Fifteen men take 21 days of 8 hours each to do a piece of work. How many days of 6 hours each would 21 women take, if 3 women do as much work as 2 men do?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "25"
+                    },
+                    {
+                      "label": "B",
+                      "text": "28"
+                    },
+                    {
+                      "label": "C",
+                      "text": "30"
+                    },
+                    {
+                      "label": "D",
+                      "text": "36"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Work $=15\\times21\\times8=2520$ man-hours. 21 women $=14$ men-equivalent; days $=\\frac{2520}{14\\times6}=30$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 46,
+                  "question_type": "problem-solving",
+                  "stem": "46. If the average (arithmetic mean) of three numbers x, y, z is 20. What is the average of the numbers (3x + 25), (3y + 10), (3z + 5)?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "30"
+                    },
+                    {
+                      "label": "B",
+                      "text": "45"
+                    },
+                    {
+                      "label": "C",
+                      "text": "60"
+                    },
+                    {
+                      "label": "D",
+                      "text": "70"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Sum $=3(x+y+z)+40=180+40=220$; average $=\\frac{220}{3}\\approx73.3$, which is not among A-D, so E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 47,
+                  "question_type": "problem-solving",
+                  "stem": "47. A number m is 8 times another number n, the percentage that n is less than m is:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "90%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "87.25%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "66.66%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "12.50%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "m = 8n, so n is less than m by (m - n)/m = 7n/8n = 87.5%. The page image prints option B as 87.25%, which is not 87.5%, so the correct choice is E (None of these).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 48,
+                  "question_type": "problem-solving",
+                  "stem": "48. A shopkeeper sold an article for Tk. 450 at a discount of $10\\%$ on the labeled price. He would have earned a profit of $25\\%$, had there been no discount. What was the profit earned, in percentage, at the discounted price?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "10"
+                    },
+                    {
+                      "label": "B",
+                      "text": "12"
+                    },
+                    {
+                      "label": "C",
+                      "text": "12.5"
+                    },
+                    {
+                      "label": "D",
+                      "text": "20"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Labeled price $=450/0.9=500$; cost $=500/1.25=400$. Profit at 450 $=\\frac{450-400}{400}=12.5\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 49,
+                  "question_type": "problem-solving",
+                  "stem": "49. The average age of 8 people increases by 2 years when two women are included in place of two men aged 20 and 24. Find the average age of the two women?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "30"
+                    },
+                    {
+                      "label": "B",
+                      "text": "32"
+                    },
+                    {
+                      "label": "C",
+                      "text": "35"
+                    },
+                    {
+                      "label": "D",
+                      "text": "40"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Total increase $=8\\times2=16$; the two women's total $=(20+24)+16=60$, average $=30$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 50,
+                  "question_type": "problem-solving",
+                  "stem": "50. If the price of pen is discounted by 40%, for Tk. 120 you can buy 4 more pens than you could buy at the original price. How many pens could be bought for Tk. 120 at the original price?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "6"
+                    },
+                    {
+                      "label": "B",
+                      "text": "8"
+                    },
+                    {
+                      "label": "C",
+                      "text": "10"
+                    },
+                    {
+                      "label": "D",
+                      "text": "12"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "$\\frac{120}{0.6p}-\\frac{120}{p}=4\\Rightarrow\\frac{80}{p}=4\\Rightarrow p=20$; at original price, $120/20=6$ pens.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 51,
+                  "question_type": "problem-solving",
+                  "stem": "51. A person covers a certain distance at a certain speed. If he decreases his speed by 20%, then he takes 10 minute more to cover the distance. Find the time taken by him to cover the distance at original speed?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "64"
+                    },
+                    {
+                      "label": "B",
+                      "text": "60"
+                    },
+                    {
+                      "label": "C",
+                      "text": "48"
+                    },
+                    {
+                      "label": "D",
+                      "text": "40"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "New time $=\\frac t{0.8}=1.25t$; $1.25t-t=0.25t=10\\Rightarrow t=40$ minutes.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 52,
+                  "question_type": "problem-solving",
+                  "stem": "52. If x and y are integers and  $x + y < 12$ , and x > 6, what is the smallest possible value of x - y?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "3"
+                    },
+                    {
+                      "label": "B",
+                      "text": "4"
+                    },
+                    {
+                      "label": "C",
+                      "text": "5"
+                    },
+                    {
+                      "label": "D",
+                      "text": "6"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "With $x\\ge7$ and $y\\le12-x-1=11-x$, $x-y\\ge2x-11$, minimized at $x=7$: $x-y=3$ (e.g. $x=7,y=4$).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 53,
+                  "question_type": "problem-solving",
+                  "stem": "53. If x < 10, then it must true that?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$-x < -10$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$-x - 2 < 12$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$-z + 2 < -8$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$z - 2 < 9$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$z<10\\Rightarrow z-2<8<9$, so $z-2<9$ must hold. (The OCR mixes 'x' and 'z'; the intended variable is z.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 54,
+                  "question_type": "problem-solving",
+                  "stem": "54. The average of the five numbers is 7. If one number is multiplied by 3, the average of the numbers increases to 9. Which of the five numbers is multiplied by 3?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "4"
+                    },
+                    {
+                      "label": "B",
+                      "text": "5"
+                    },
+                    {
+                      "label": "C",
+                      "text": "5.6"
+                    },
+                    {
+                      "label": "D",
+                      "text": "6"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Total rises from 35 to 45, an increase of 10; tripling a number $n$ adds $2n=10$, so $n=5$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 55,
+                  "question_type": "problem-solving",
+                  "stem": "55. Given that $xy > 0$ and $x > y$, which of the following must be true?\nI, $x + y > 0$ II, $x^2 + y^2 > xy$ III, $x^2 - y^2 > 0$",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "I"
+                    },
+                    {
+                      "label": "B",
+                      "text": "II"
+                    },
+                    {
+                      "label": "C",
+                      "text": "III"
+                    },
+                    {
+                      "label": "D",
+                      "text": "II and III"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$x^2-xy+y^2>0$ always holds (negative discriminant), so II is true. I and III need not hold, so only II.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 56 to 60:",
+              "instruction": "Each question consists of a problem followed by two statements. Decide whether the data in the statements are sufficient to answer the question. Select your answer according to following:\nA. Statement (1) alone is sufficient, but statements, but statement (2) alone is not sufficient to answer the question.\nB. Statement (2) alone is sufficient, but statements, but statement (2) alone is not sufficient to answer the question.\nC. Both statements taken together are sufficient to answer the question, but neither statement alone is sufficient.\nD. Each statement alone is sufficient.\nE. Statements (1) and (2) together ar not sufficient, and additional datat is needed to answer the question.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 56,
+                  "question_type": "data-sufficiency",
+                  "stem": "56. If $n$ is an integer, is $(n^3 + n^2 - n + 2)$ an odd integer?\n1. $n$ is $>0$\n2. $n$ is an odd integer",
+                  "options": [],
+                  "answer": "B",
+                  "explanation": "The expression is odd when $n$ is odd and even when $n$ is even. Statement 2 (n odd) determines it as odd — sufficient; statement 1 (n>0) does not fix parity. So B.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 57,
+                  "question_type": "data-sufficiency",
+                  "stem": "57. If x and y are integers and x > 5, what is the value of (x - y)?\n1. x + y < 10\n2. y > 1",
+                  "options": [],
+                  "answer": "E",
+                  "explanation": "Even together ($x\\ge6$, $y\\ge2$, $x+y<10$), $x-y$ can be 4 ($6,2$) or 5 ($7,2$), so it is not determined. E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 58,
+                  "question_type": "data-sufficiency",
+                  "stem": "58. If P is an integer greater than 30, is P > 40?\n1. P is multiple of 3\n2. P is a multiple of 8",
+                  "options": [],
+                  "answer": "C",
+                  "explanation": "Each alone allows values both $\\le40$ and $>40$. Together, P is a multiple of 24 greater than 30, i.e. 48 or 72 — both $>40$, so C.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 59,
+                  "question_type": "data-sufficiency",
+                  "stem": "59. What is the value of m+n?\n1. mn=16\n2. $\\frac{m}{n}=\\frac{4}{3}$",
+                  "options": [],
+                  "answer": "C",
+                  "explanation": "From 2, $m=\\frac43 n$; with 1, $\\frac43 n^2=16\\Rightarrow n^2=12$, giving a unique $m+n$. Neither alone suffices, so C.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 60,
+                  "question_type": "data-sufficiency",
+                  "stem": "60. If xyz > 0, is x > 0?\n1. xy > 0\n2. xz > 0",
+                  "options": [],
+                  "answer": "C",
+                  "explanation": "With both, $x,y$ share a sign and $x,z$ share a sign, so $y,z$ match $x$. If $x<0$ then $xyz<0$, contradicting $xyz>0$; hence $x>0$. Neither alone suffices, so C.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 3,
+          "source_section_label": "Section 3: Analytical Ability",
+          "subject": "analytical",
+          "groups": [
+            {
+              "source_group_label": "Questions 61 to 64:",
+              "instruction": null,
+              "stimulus": {
+                "passage": "Researchers know that exactly six prehistoric iron-working site --- Q, R, S, T, V and X --- existed in the Wari Boteswar area. Recently, the researchers have discovered three objects --- 1, 2 and 3 --- that they know must have been made by ironworkers in the Wari Boteswar area. The researchers would like now to determine the specific site at which each object was made. The objects are different enough in composition and style to leave no doubt that each was made at a different site. In addition, the researchers have established the following:\n- If any of the objects was made at Q, none of them was made at T.\n- If any of the objects was made at R, none of them was made at S.\n- One of the objects was made at V.\n- Objects 2 was not made at X.\n- Objects 3 was made neither at S nor at X.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 61,
+                  "question_type": "puzzle",
+                  "stem": "61. If object 1 was made at T, object 3 could have been made at which of the following?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Q"
+                    },
+                    {
+                      "label": "B",
+                      "text": "R"
+                    },
+                    {
+                      "label": "C",
+                      "text": "S"
+                    },
+                    {
+                      "label": "D",
+                      "text": "T"
+                    },
+                    {
+                      "label": "E",
+                      "text": "X"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Object 1 at T means none at Q. Object 3 cannot be at S, X, T (taken) or Q (excluded), so it can be R (or V). Among the options, R.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 62,
+                  "question_type": "puzzle",
+                  "stem": "62. Objects 1, object 2 and object 3, respectively, could have been made at",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Q, S and X"
+                    },
+                    {
+                      "label": "B",
+                      "text": "R, X and V"
+                    },
+                    {
+                      "label": "C",
+                      "text": "T, V and S"
+                    },
+                    {
+                      "label": "D",
+                      "text": "V, Q and T"
+                    },
+                    {
+                      "label": "E",
+                      "text": "V, S and Q"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "E (V, S, Q) uses V (required), keeps object 2 off X and object 3 off S/X, and Q without T. A/C put object 3 at X/S, B puts object 2 at X, D uses both Q and T.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 63,
+                  "question_type": "puzzle",
+                  "stem": "63. If neither Q nor T was a site at which any of the objects was made, which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Object 1 was made at X"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Object 2 was made at S"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Object 2 was made at V"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Object 3 was made at R"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Object 3 was made at V"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Without Q and T, three sites come from {R, S, V, X} (and R, S can't both be used). To get three sites one must include X, and only object 1 can be at X (object 2 and 3 can't). So object 1 was made at X.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 64,
+                  "question_type": "puzzle",
+                  "stem": "64. The researchers could determine exactly which object was made at which site if they knew that the only three sites at which objects were made were",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Q, R and V"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Q, V and X"
+                    },
+                    {
+                      "label": "C",
+                      "text": "R, T and V"
+                    },
+                    {
+                      "label": "D",
+                      "text": "S, T and V"
+                    },
+                    {
+                      "label": "E",
+                      "text": "S, V and X"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "With sites S, V, X: object 3 can't be S or X, so object 3 = V; object 2 can't be X, so object 2 = S; object 1 = X. The assignment is unique.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 65 to 68:",
+              "instruction": null,
+              "stimulus": {
+                "passage": "A shopkeeper is preparing a single shipment of articles to be packed in boxes X and Y. In each box, the shopkeeper will pack three of seven package of articles --- jellybeans, licorice, coat pin, peppermints, rock candy, sourballs, and toffee. The boxes must be packed according to the following directions:\n- The jellybeans must be included in the shipment and they must be packed in box X.\n- The licorice must be included in the shipment and it must be packed in box Y.\n- The sourballs can neither be packed in the same box as the licorice nor in the same box as the peppermint.\n- The coat pins and the toffee must be included in the shipment and must be packed together in one box.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 65,
+                  "question_type": "puzzle",
+                  "stem": "65. Which of the following combinations of the article packages can be packed in box X?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Jellybeans, rock candy, sourballs"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Jellybeans, coat pins, rock candy"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Licorice, coat pins, toffee"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Jellybeans, licorice, sourballs"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Licorice, coat pins, toffee"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "X must have jellybeans, not licorice. A (jellybeans, rock candy, sourballs) works with Y = licorice, coat pins, toffee (peppermint left out). B separates the coat pins/toffee pair; C, D, E put licorice in X.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 66,
+                  "question_type": "puzzle",
+                  "stem": "66. Which of the following combinations of the article packages can be packed in box Y?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Licorice, peppermint, rock candy"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Licorice peppermint, sourballs"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Licorice, sourballs, toffee"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Jellybeans, licorice, rock candy"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Licorice, coat pins, peppermint"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "A (licorice, peppermint, rock candy) works with X = jellybeans, coat pins, toffee. B and C put sourballs with licorice, D puts jellybeans in Y, E separates coat pins from toffee.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 67,
+                  "question_type": "puzzle",
+                  "stem": "67. If toffee is packed in box X, which of the following pairs of article packages must be packed in box Y?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Coat pins and peppermint"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Peppermint and rock candy"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Jellybeans and licorice"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Rock candy and sourballs"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Coat pins and sourballs"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Toffee in X drags coat pins into X, so X = jellybeans, coat pins, toffee. Y = licorice + two of {peppermint, rock candy, sourballs}, but sourballs can't be with licorice, so Y = licorice, peppermint, rock candy.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 68,
+                  "question_type": "puzzle",
+                  "stem": "68. If the toffee is packed in box Y, which of the following pairs of article packages can be packed in box X?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Coat pins and peppermint"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Coat pins and rock candy"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Coat pins and sourballs"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Peppermint and sourballs"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Rock candy and sourballs"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Toffee in Y drags coat pins into Y, so Y = licorice, coat pins, toffee and X = jellybeans + two of {peppermint, rock candy, sourballs}. Sourballs can't be with peppermint, so \"rock candy and sourballs\" (E) works.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Critical reasoning / logic (69-71)",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 69,
+                  "question_type": "critical-reasoning",
+                  "stem": "69. Today Aslam is twice as old as Bashir and Bashir is 4 years younger than Faruk. After 4 years from today, which of the following must be true?\nI. Aslam is twice from today, which of the following must be true?\nII. Bashir is 4 years younger than Faruk.\nIII. Aslam is older than Faruk.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "I only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "II only"
+                    },
+                    {
+                      "label": "C",
+                      "text": "II and III"
+                    },
+                    {
+                      "label": "D",
+                      "text": "I, II and III"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Age differences stay constant, so Bashir remains 4 years younger than Faruk (II). The \"twice\" relation changes once everyone ages, and whether Aslam exceeds Faruk depends on Bashir's age, so only II must be true.",
+                  "images": [],
+                  "needs_review": false,
+                  "source_defect": "Statement I is printed \"Aslam is twice from today, which of the following must be true?\" (garbled)."
+                },
+                {
+                  "number": 70,
+                  "question_type": "critical-reasoning",
+                  "stem": "70. The results of a recent poll in the country indicate that the public, by 80 percent to 17 percent, opposes relaxation of existing regulation of air pollution. Furthermore, not a single major segment of the public wants environment laws made less strict. The results of this poll reveal that legislators, by voting for renewal of Clean Air Act, will be responsive to the will of the public without alienating any significant special – interest groups.\nWhich of the following pieces of information would be most useful in evaluating the logic of the argument presented above?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "The groups in the population that were defined as major segments of the public and the group defined as special-interest groups."
+                    },
+                    {
+                      "label": "B",
+                      "text": "The length of time that current federal environment laws have been in effect and the length of time that states have regulated air pollution."
+                    },
+                    {
+                      "label": "C",
+                      "text": "The probable economic effect of renewal of the Clean Air Act on those opposed to and those in favor of relaxing environment laws."
+                    },
+                    {
+                      "label": "D",
+                      "text": "The people whom the author hopes to influence by citing the result of the poll."
+                    },
+                    {
+                      "label": "E",
+                      "text": "The percentage of those surveyed who chose not to respond to the questions asked of them."
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The argument hinges on \"major segments of the public\" and \"special-interest groups\"; knowing how those groups are defined is most useful for evaluating whether the conclusion follows.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 71,
+                  "question_type": "critical-reasoning",
+                  "stem": "71. In recent years shrimp harvest of commercial fishermen in Satkhira area have declined dramatically in total weight. The decline is due primarily to competition from a growing number of recreational fishermen, who are able to net young shrimp in the estuaries where they mature.\nWhich of the following regulatory actions would be most likely to help increase the shrimp harvest of commercial fishermen?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Requiring commercial fishermen to fish in estuaries"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Limiting the total number of exercise per season for commercial fishermen"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Requiring recreational fishermen to use nets in their fishing"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Putting an upper limit on the size shrimp recreational fishermen are allowed to catch"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Allowing recreational fishermen to move out of estuaries into the Bay of Bengal"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The decline comes from recreational fishermen netting young shrimp in the estuaries where they mature. Moving them out of the estuaries protects the maturing shrimp, boosting commercial harvests.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 72 to 75:",
+              "instruction": null,
+              "stimulus": {
+                "passage": "From exactly seven objects --- R, S, T, U, X, Y, Z --- a group of exactly four objects must be selected in accordance with the following condition:\n- If R is selected, T must also be selected\n- If S is selected, U must also be selected\n- If X and Y are both selected together, T cannot be selected",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 72,
+                  "question_type": "puzzle",
+                  "stem": "72. If X and Y ar both selected together which of the following must also be selected?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "R"
+                    },
+                    {
+                      "label": "B",
+                      "text": "S"
+                    },
+                    {
+                      "label": "C",
+                      "text": "T"
+                    },
+                    {
+                      "label": "D",
+                      "text": "U"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Z"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "X and Y together exclude T, which excludes R (R needs T). The two remaining picks come from {S, U, Z}; since S needs U, every valid pair includes U. So U must be selected.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 73,
+                  "question_type": "puzzle",
+                  "stem": "73. If S and Z are both selected together, each of the following could be selected EXCEPT",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "R"
+                    },
+                    {
+                      "label": "B",
+                      "text": "T"
+                    },
+                    {
+                      "label": "C",
+                      "text": "U"
+                    },
+                    {
+                      "label": "D",
+                      "text": "X"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Y"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "S forces U, so S, Z, U are in (three). The 4th pick can't be R, because R would require T as well, exceeding four. T, X or Y each work as the 4th. So R is the exception.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 74,
+                  "question_type": "puzzle",
+                  "stem": "74. If U is not selected, which of the following can be, but does not have to be, selected?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "R"
+                    },
+                    {
+                      "label": "B",
+                      "text": "S"
+                    },
+                    {
+                      "label": "C",
+                      "text": "T"
+                    },
+                    {
+                      "label": "D",
+                      "text": "X"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Z"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "No U means no S. The valid 4-groups are {R,T,X,Z} or {R,T,Y,Z}, so R, T, Z must be selected, while X (and Y) can be but need not be. So X.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 75,
+                  "question_type": "puzzle",
+                  "stem": "75. Selecting which pair will result in only one valid group?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "T, S"
+                    },
+                    {
+                      "label": "B",
+                      "text": "X, Y"
+                    },
+                    {
+                      "label": "C",
+                      "text": "T, R"
+                    },
+                    {
+                      "label": "D",
+                      "text": "T, U"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Each listed pair still leaves more than one way to choose the remaining objects into a valid group of four, so none forces a single unique group — E.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_label": "Part II: Writing Ability [25 marks]",
+      "sections": [
+        {
+          "section_no": 4,
+          "source_section_label": "Part II: Writing Ability [25 marks]",
+          "subject": "writing",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "essay",
+                  "stem": "A. Write an Essay on \"Migration of Workforce from Bangladesh\" [Use the space in this page and the next to answer this question]",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended essay. Discuss causes, scale, benefits (remittances, skills) and challenges (brain drain, worker rights) of workforce migration from Bangladesh, with examples, and conclude. No single correct answer.",
+                  "marks": 15,
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "argument",
+                  "stem": "B. \"Social media does more harm than good to young generation\"- Do you agree or not with the statement? Justify.",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended argument. Take a clear position on social media's net effect on youth, support it with reasons and examples, address the opposing view, and conclude. No single correct answer.",
+                  "marks": 10,
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    "Q33 prints the sequence '2, 5, 10, 17, 28, z' (stored as printed).",
+    "Q11 option D: a stray ',' appears after 'you became' in the print; not stored (cannot tell if it is a mark or punctuation).",
+    "Several printed typos kept (Q56-60 instruction, Q69 statement I, Q72, Q61-64 passage).",
+    "Marks printed: Part II A 15, B 10.",
+    "Answers and explanations are out of scope (to be regenerated by the user); stored values are unreliable."
+  ]
+}

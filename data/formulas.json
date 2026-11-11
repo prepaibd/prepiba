@@ -1,0 +1,134 @@
+{
+ "pct-change": {
+  "title_en": "Percentage change",
+  "title_bn": "শতকরা পরিবর্তন",
+  "body_en": "Change % = (New − Old) / Old × 100. Increase by a% then decrease by b%: net = a − b − ab/100 (%).",
+  "body_bn": "পরিবর্তন % = (নতুন − পুরাতন) / পুরাতন × 100। a% বাড়ার পর b% কমলে নিট = a − b − ab/100 (%)।"
+ },
+ "profit-loss": {
+  "title_en": "Profit, loss and discount",
+  "title_bn": "লাভ, ক্ষতি ও discount",
+  "body_en": "Profit % = (SP − CP)/CP × 100. SP = CP(1 + p/100). Discount is on Marked Price: SP = MP(1 − d/100). Profit/loss % is always on CP unless stated.",
+  "body_bn": "লাভ % = (SP − CP)/CP × 100। SP = CP(1 + p/100)। Discount হয় Marked Price-এর উপর: SP = MP(1 − d/100)। বিশেষ উল্লেখ না থাকলে লাভ/ক্ষতি % সবসময় CP-র উপর।"
+ },
+ "ratio": {
+  "title_en": "Ratio and proportion",
+  "title_bn": "অনুপাত ও সমানুপাত",
+  "body_en": "a:b = c:d ⇒ ad = bc. For a ratio a:b:c use parts: each = k·a, k·b, k·c. Total parts = a+b+c. When a quantity changes, keep the unchanged quantity fixed and rewrite the ratio.",
+  "body_bn": "a:b = c:d হলে ad = bc। a:b:c অনুপাতে ভাগ নিতে k·a, k·b, k·c ধরুন। মোট ভাগ = a+b+c। কোনো রাশি বদলালে যেটি অপরিবর্তিত থাকে সেটি ধ্রুব ধরে অনুপাত নতুন করে লিখুন।"
+ },
+ "mixture": {
+  "title_en": "Mixture and alligation",
+  "title_bn": "মিশ্রণ ও alligation",
+  "body_en": "Mixing two items of average values x1 < x2 to get x: ratio (qty1 : qty2) = (x2 − x) : (x − x1). Pure-component amount stays constant when water/other part is added.",
+  "body_bn": "x1 < x2 মানের দুটি জিনিস মিশিয়ে x মান পেতে: অনুপাত (পরিমাণ1 : পরিমাণ2) = (x2 − x) : (x − x1)। পানি বা অন্য অংশ যোগ করলে বিশুদ্ধ উপাদানের পরিমাণ অপরিবর্তিত থাকে।"
+ },
+ "work": {
+  "title_en": "Time and work",
+  "title_bn": "সময় ও কাজ",
+  "body_en": "Rate = 1/time. Combined rate = sum of rates. Work = rate × time. If A takes a days and B takes b days, together: ab/(a+b) days. Pipes: filling +, emptying −.",
+  "body_bn": "হার = 1/সময়। একসাথে হার = হারগুলোর যোগফল। কাজ = হার × সময়। A a দিনে এবং B b দিনে করলে একসাথে ab/(a+b) দিন। Pipe: ভরাট +, খালি −।"
+ },
+ "speed": {
+  "title_en": "Speed, distance, time",
+  "title_bn": "গতি, দূরত্ব, সময়",
+  "body_en": "Distance = speed × time. Average speed = total distance / total time (not the mean of speeds). Equal distances at v1 and v2: average = 2v1v2/(v1+v2).",
+  "body_bn": "দূরত্ব = গতি × সময়। গড় গতি = মোট দূরত্ব / মোট সময় (গতির গড় নয়)। সমান দূরত্ব v1 ও v2 গতিতে: গড় = 2v1v2/(v1+v2)।"
+ },
+ "relspeed": {
+  "title_en": "Relative speed, trains, boats",
+  "title_bn": "আপেক্ষিক গতি, ট্রেন, নৌকা",
+  "body_en": "Opposite directions: add speeds. Same direction: subtract speeds. A train crossing an object covers its own length (+ the other length if it is a train/platform). Boat: downstream = b + c, upstream = b − c. 1 km/h = 5/18 m/s.",
+  "body_bn": "বিপরীত দিকে: গতি যোগ। একই দিকে: গতি বিয়োগ। ট্রেন কোনো বস্তু অতিক্রম করতে নিজের দৈর্ঘ্য (এবং অন্য ট্রেন/platform-এর দৈর্ঘ্য) অতিক্রম করে। নৌকা: downstream = b + c, upstream = b − c। 1 km/h = 5/18 m/s।"
+ },
+ "average": {
+  "title_en": "Averages",
+  "title_bn": "গড়",
+  "body_en": "Average = Sum / Count. Sum = Average × Count. If a value is replaced, the change in sum = Count × change in average. Weighted average = Σ(w·x)/Σw.",
+  "body_bn": "গড় = যোগফল / সংখ্যা। যোগফল = গড় × সংখ্যা। কোনো মান বদলালে যোগফলের পরিবর্তন = সংখ্যা × গড়ের পরিবর্তন। Weighted গড় = Σ(w·x)/Σw।"
+ },
+ "age": {
+  "title_en": "Age problems",
+  "title_bn": "বয়সের অঙ্ক",
+  "body_en": "Set present ages as variables. 'n years ago' → subtract n from each; 'after n years' → add n. The difference between two ages never changes.",
+  "body_bn": "বর্তমান বয়স চলক ধরুন। 'n বছর আগে' → প্রত্যেকের থেকে n বিয়োগ; 'n বছর পরে' → n যোগ। দুজনের বয়সের পার্থক্য কখনো বদলায় না।"
+ },
+ "algebra": {
+  "title_en": "Algebra identities and equations",
+  "title_bn": "বীজগণিতের সূত্র ও সমীকরণ",
+  "body_en": "(a±b)² = a² ± 2ab + b²; a² − b² = (a−b)(a+b); a³ ± b³ = (a±b)(a² ∓ ab + b²). For ax² + bx + c = 0: x = [−b ± √(b²−4ac)]/2a. Perfect square needs b² = 4ac.",
+  "body_bn": "(a±b)² = a² ± 2ab + b²; a² − b² = (a−b)(a+b); a³ ± b³ = (a±b)(a² ∓ ab + b²)। ax² + bx + c = 0 হলে x = [−b ± √(b²−4ac)]/2a। পূর্ণবর্গ হতে হলে b² = 4ac।"
+ },
+ "abs-ineq": {
+  "title_en": "Absolute value and inequalities",
+  "title_bn": "পরম মান ও অসমতা",
+  "body_en": "|x| = a (a>0) ⇒ x = ±a. |x| < a ⇔ −a < x < a. Multiplying/dividing an inequality by a negative number reverses the sign. Never multiply by an expression whose sign is unknown.",
+  "body_bn": "|x| = a (a>0) হলে x = ±a। |x| < a ⇔ −a < x < a। ঋণাত্মক সংখ্যা দিয়ে গুণ/ভাগ করলে অসমতার চিহ্ন উল্টে যায়। চিহ্ন অজানা এমন রাশি দিয়ে গুণ করবেন না।"
+ },
+ "numprop": {
+  "title_en": "Number properties, divisibility, remainders",
+  "title_bn": "সংখ্যার ধর্ম, বিভাজ্যতা, ভাগশেষ",
+  "body_en": "Divisible by 4: last two digits; by 3/9: digit sum; by 11: alternate digit sum. N = d·q + r with 0 ≤ r < d. Even×anything = even; odd×odd = odd; odd±odd = even. LCM for 'together again' problems, HCF for 'largest equal piece'. Trailing zeros = number of (2,5) pairs in the factorisation.",
+  "body_bn": "4 দিয়ে: শেষ দুই অঙ্ক; 3/9 দিয়ে: অঙ্কের যোগফল; 11 দিয়ে: একান্তর অঙ্কের যোগফল। N = d·q + r, 0 ≤ r < d। জোড়×যেকোনো = জোড়; বিজোড়×বিজোড় = বিজোড়; বিজোড়±বিজোড় = জোড়। 'আবার একসাথে' প্রশ্নে LCM, 'বৃহত্তম সমান অংশ' প্রশ্নে HCF। শেষের শূন্য = উৎপাদকে (2,5) জোড়ার সংখ্যা।"
+ },
+ "exponents": {
+  "title_en": "Exponents, roots and surds",
+  "title_bn": "সূচক, মূল ও করণী",
+  "body_en": "aᵐ·aⁿ = aᵐ⁺ⁿ; aᵐ/aⁿ = aᵐ⁻ⁿ; (aᵐ)ⁿ = aᵐⁿ; a⁰ = 1; a⁻ⁿ = 1/aⁿ; a^(1/n) = ⁿ√a. Convert to the same base before comparing or equating exponents.",
+  "body_bn": "aᵐ·aⁿ = aᵐ⁺ⁿ; aᵐ/aⁿ = aᵐ⁻ⁿ; (aᵐ)ⁿ = aᵐⁿ; a⁰ = 1; a⁻ⁿ = 1/aⁿ; a^(1/n) = ⁿ√a। তুলনা বা সূচক সমান করার আগে ভিত্তি এক করে নিন।"
+ },
+ "sets": {
+  "title_en": "Sets and Venn diagrams",
+  "title_bn": "সেট ও Venn চিত্র",
+  "body_en": "|A∪B| = |A| + |B| − |A∩B|. For three sets: |A∪B∪C| = ΣA − Σ(pairs) + |A∩B∩C|. Total = (in at least one) + (in none). Only-A = A − (A∩B) − (A∩C) + (A∩B∩C).",
+  "body_bn": "|A∪B| = |A| + |B| − |A∩B|। তিনটি সেটে: |A∪B∪C| = ΣA − Σ(জোড়া) + |A∩B∩C|। মোট = (অন্তত একটিতে) + (কোনোটিতে নয়)। শুধু-A = A − (A∩B) − (A∩C) + (A∩B∩C)।"
+ },
+ "probability": {
+  "title_en": "Probability",
+  "title_bn": "সম্ভাবনা (Probability)",
+  "body_en": "P(E) = favourable / total outcomes. P(at least one) = 1 − P(none). Without replacement, the denominator drops each draw. Independent events: multiply; mutually exclusive events: add.",
+  "body_bn": "P(E) = অনুকূল / মোট ফলাফল। P(অন্তত একটি) = 1 − P(একটিও না)। প্রতিস্থাপন ছাড়া প্রতিবার হর কমে। স্বাধীন ঘটনায় গুণ; পরস্পর বর্জনশীল ঘটনায় যোগ।"
+ },
+ "combinatorics": {
+  "title_en": "Permutation and combination",
+  "title_bn": "বিন্যাস ও সমাবেশ",
+  "body_en": "nPr = n!/(n−r)! (order matters); nCr = n!/(r!(n−r)!) (order does not). Use the 'slot' method for digit/code problems and handle restricted slots first.",
+  "body_bn": "nPr = n!/(n−r)! (ক্রম গুরুত্বপূর্ণ); nCr = n!/(r!(n−r)!) (ক্রম গুরুত্বহীন)। digit/code-এর প্রশ্নে 'slot' পদ্ধতি নিন এবং শর্তযুক্ত slot আগে পূরণ করুন।"
+ },
+ "geometry": {
+  "title_en": "Geometry and mensuration",
+  "title_bn": "জ্যামিতি ও ক্ষেত্রমিতি",
+  "body_en": "Triangle ½bh; equilateral (√3/4)a²; circle πr², 2πr; rectangle lw, 2(l+w); trapezium ½(a+b)h; parallelogram bh; cylinder πr²h; cone ⅓πr²h; sphere 4/3πr³. Pythagoras a²+b²=c². Equilateral triangle height = (√3/2)a; inscribed in circle radius R: side = R√3. Angles on a straight line = 180°, in a triangle = 180°.",
+  "body_bn": "ত্রিভুজ ½bh; সমবাহু (√3/4)a²; বৃত্ত πr², 2πr; আয়তক্ষেত্র lw, 2(l+w); ট্রাপিজিয়াম ½(a+b)h; সামান্তরিক bh; সিলিন্ডার πr²h; কোণক ⅓πr²h; গোলক 4/3πr³। পিথাগোরাস a²+b²=c²। সমবাহু ত্রিভুজের উচ্চতা = (√3/2)a; R ব্যাসার্ধের বৃত্তে অন্তর্লিখিত হলে বাহু = R√3। সরলরেখায় কোণ = 180°, ত্রিভুজে = 180°।"
+ },
+ "series": {
+  "title_en": "Sequences and series",
+  "title_bn": "অনুক্রম ও ধারা",
+  "body_en": "AP: aₙ = a + (n−1)d; Sₙ = n/2·[2a + (n−1)d]. GP: aₙ = arⁿ⁻¹; Sₙ = a(rⁿ−1)/(r−1). Sum of squares 1²+…+n² = n(n+1)(2n+1)/6; sum of first n integers = n(n+1)/2.",
+  "body_bn": "AP: aₙ = a + (n−1)d; Sₙ = n/2·[2a + (n−1)d]। GP: aₙ = arⁿ⁻¹; Sₙ = a(rⁿ−1)/(r−1)। বর্গের যোগফল 1²+…+n² = n(n+1)(2n+1)/6; প্রথম n সংখ্যার যোগফল = n(n+1)/2।"
+ },
+ "interest": {
+  "title_en": "Simple and compound interest",
+  "title_bn": "সরল ও চক্রবৃদ্ধি সুদ",
+  "body_en": "SI = PRT/100. Compound: A = P(1 + r/100)ⁿ. Simple interest equals principal when R×T = 100.",
+  "body_bn": "SI = PRT/100। চক্রবৃদ্ধি: A = P(1 + r/100)ⁿ। R×T = 100 হলে সরল সুদ মূলধনের সমান হয়।"
+ },
+ "ds-method": {
+  "title_en": "Data sufficiency method",
+  "title_bn": "Data sufficiency-র পদ্ধতি",
+  "body_en": "Test each statement alone first (ignore the other), then both together. 'Sufficient' means one definite answer (a definite yes OR a definite no for yes/no questions). Do not solve fully; stop once you know whether a single value is forced.",
+  "body_bn": "প্রথমে প্রতিটি statement আলাদাভাবে যাচাই করুন (অন্যটি ভুলে যান), তারপর দুটি একসাথে। 'Sufficient' মানে একটি নির্দিষ্ট উত্তর (yes/no প্রশ্নে নির্দিষ্ট yes অথবা নির্দিষ্ট no)। পুরো সমাধান করার দরকার নেই; একটিমাত্র মান নির্ধারিত হয় কি না বুঝলেই থামুন।"
+ },
+ "puzzle-method": {
+  "title_en": "Logic puzzle method",
+  "title_bn": "Logic puzzle-এর পদ্ধতি",
+  "body_en": "1) List entities and slots. 2) Mark fixed facts first. 3) Turn each rule into 'if–then' and its contrapositive. 4) Try the most restricted entity first; test options by elimination against every rule.",
+  "body_bn": "১) entity ও slot তালিকা করুন। ২) নির্দিষ্ট তথ্যগুলো আগে বসান। ৩) প্রতিটি নিয়মকে 'if–then' ও তার contrapositive-এ লিখুন। ৪) সবচেয়ে সীমাবদ্ধ entity দিয়ে শুরু করুন; প্রতিটি option প্রতিটি নিয়মের বিপরীতে elimination করে যাচাই করুন।"
+ },
+ "cr-method": {
+  "title_en": "Critical reasoning method",
+  "title_bn": "Critical reasoning-এর পদ্ধতি",
+  "body_en": "Find the conclusion, then the evidence. Assumption = the missing link that must be true (negate it: the argument should collapse). Weaken = attack the link; Strengthen = support the link; Explain = reconcile the apparent paradox. Beware of out-of-scope options.",
+  "body_bn": "আগে conclusion, তারপর evidence খুঁজুন। Assumption = অনুপস্থিত যোগসূত্র যা সত্য হতেই হবে (এটি নাকচ করলে যুক্তি ভেঙে পড়বে)। Weaken = যোগসূত্রে আঘাত; Strengthen = যোগসূত্রকে সমর্থন; Explain = আপাত-বিরোধের সমাধান। প্রসঙ্গের বাইরের option থেকে সাবধান।"
+ }
+}

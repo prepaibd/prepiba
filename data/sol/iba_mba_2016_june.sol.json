@@ -1,0 +1,628 @@
+{
+ "exam": "iba_mba_2016_june",
+ "items": {
+  "2-31": {
+   "en": "I: x − x² < 0 needs x > 1. II: 2x − 1 > 0 needs x > 0.5. III: x² − x³ > 0 needs x < 1. For x > 0 none holds always (try x = 0.2 and x = 2).",
+   "bn": "I: x − x² < 0 হতে x > 1 লাগে। II: 2x − 1 > 0 হতে x > 0.5। III: x² − x³ > 0 হতে x < 1। x > 0 হলে কোনোটিই সবসময় সত্য নয় (x = 0.2 ও x = 2 দিয়ে দেখুন)।",
+   "answer": "E",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-32": {
+   "en": "Let b balls have both colours. Red balls R = 7b/2 (since 2/7 of red are both), green balls G = 7b/3. R + G − b = 87 ⇒ 29b/6 = 87 ⇒ b = 18. Fraction = 18/87 = 6/29.",
+   "bn": "উভয় রঙের বল b টি ধরি। red R = 7b/2 (red-এর 2/7 অংশ উভয় রঙের), green G = 7b/3। R + G − b = 87 ⇒ 29b/6 = 87 ⇒ b = 18। অংশ = 18/87 = 6/29।",
+   "answer": "D",
+   "formula_ids": [
+    "sets",
+    "algebra"
+   ]
+  },
+  "2-33": {
+   "en": "Opposite directions: relative speed = 150 km/h = 125/3 m/s. Distance = 1.1 + 0.9 = 2 km = 2000 m. Time = 2000 ÷ 125/3 = 48 s.",
+   "bn": "বিপরীত দিকে: আপেক্ষিক গতি = 150 km/h = 125/3 m/s। দূরত্ব = 1.1 + 0.9 = 2 km = 2000 m। সময় = 2000 ÷ 125/3 = 48 s।",
+   "answer": "C",
+   "formula_ids": [
+    "relspeed"
+   ]
+  },
+  "2-34": {
+   "en": "At 75 km/h, 1 km takes 48 s, so the car takes 50 s per km. Speed = 3600/50 = 72 km/h.",
+   "bn": "75 km/h গতিতে 1 km যেতে 48 s লাগে, তাই গাড়িটির লাগে 50 s। গতি = 3600/50 = 72 km/h।",
+   "answer": "D",
+   "formula_ids": [
+    "speed"
+   ]
+  },
+  "2-35": {
+   "en": "Let the average before be a: 16a + 87 = 17(a + 3) ⇒ a = 36. New average = 39.",
+   "bn": "আগের গড় a ধরি: 16a + 87 = 17(a + 3) ⇒ a = 36। নতুন গড় = 39।",
+   "answer": "C",
+   "formula_ids": [
+    "average"
+   ]
+  },
+  "2-36": {
+   "en": "N = qd + 33 and 2N ≡ 13 (mod d), so 66 − 13 = 53 is divisible by d. Since d > 33, d = 53.",
+   "bn": "N = qd + 33 এবং 2N ≡ 13 (mod d), তাই 66 − 13 = 53, d দিয়ে বিভাজ্য। d > 33 হওয়ায় d = 53।",
+   "answer": "D",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-37": {
+   "en": "Profit on 100 pencils = SP of 20 pencils ⇒ 100(s − c) = 20s ⇒ s = 1.25c. Profit margin on cost = 25%.",
+   "bn": "100টি পেনসিলের লাভ = 20টি পেনসিলের SP ⇒ 100(s − c) = 20s ⇒ s = 1.25c। Cost-এর উপর profit margin = 25%।",
+   "answer": "B",
+   "formula_ids": [
+    "profit-loss"
+   ],
+   "note": "Taken on cost (25%); on selling price it would be 20%."
+  },
+  "2-38": {
+   "en": "(x + y)² = x² + y² + 2xy < x² + y² because xy < 0. So B is true; A is false, and C and D do not always hold.",
+   "bn": "(x + y)² = x² + y² + 2xy < x² + y² কারণ xy < 0। তাই B সত্য; A মিথ্যা, C ও D সবসময় সত্য নয়।",
+   "answer": "B",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-39": {
+   "en": "1/(x + 4) + 1/(x + 16) = 1/x ⇒ x(2x + 20) = (x + 4)(x + 16) ⇒ x² = 64 ⇒ x = 8.",
+   "bn": "1/(x + 4) + 1/(x + 16) = 1/x ⇒ x(2x + 20) = (x + 4)(x + 16) ⇒ x² = 64 ⇒ x = 8।",
+   "answer": "C",
+   "formula_ids": [
+    "work",
+    "algebra"
+   ]
+  },
+  "2-40": {
+   "en": "Draw a line through C parallel to BA and DE. ∠BCD = (180° − 110°) + (180° − 140°) = 70° + 40° = 110°.",
+   "bn": "C বিন্দু দিয়ে BA ও DE-এর সমান্তরাল রেখা টানুন। ∠BCD = (180° − 110°) + (180° − 140°) = 70° + 40° = 110°।",
+   "answer": "C",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "2-41": {
+   "en": "xy² is a positive odd integer ⇒ x is positive and odd, y is odd (either sign). I fails if y < 0. II is true (odd × odd). III is true (odd + odd). So II and III.",
+   "bn": "xy² ধনাত্মক বিজোড় ⇒ x ধনাত্মক ও বিজোড়, y বিজোড় (যেকোনো চিহ্নের)। I ভুল (y < 0 হলে)। II সত্য (বিজোড় × বিজোড়)। III সত্য (বিজোড় + বিজোড়)। তাই II ও III।",
+   "answer": "E",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-42": {
+   "en": "Males 50, engineers 40, architects 60, male engineers 15. Male architects = 50 − 15 = 35. Female architects = 60 − 35 = 25%.",
+   "bn": "পুরুষ 50, engineer 40, architect 60, পুরুষ engineer 15। পুরুষ architect = 50 − 15 = 35। নারী architect = 60 − 35 = 25%।",
+   "answer": "B",
+   "formula_ids": [
+    "sets",
+    "pct-change"
+   ]
+  },
+  "2-43": {
+   "en": "Sum of 3 quizzes = 36. Need (36 + s)/4 = 12 + n ⇒ s = 12 + 4n.",
+   "bn": "3টি quiz-এর যোগফল = 36। (36 + s)/4 = 12 + n ⇒ s = 12 + 4n।",
+   "answer": "D",
+   "formula_ids": [
+    "average"
+   ]
+  },
+  "2-44": {
+   "en": "Same fraction f: 8f + 12f = 8 ⇒ f = 0.4. Jar B gets 12 × 0.4 = 4.8 = 24/5 litres.",
+   "bn": "দুই jar-এ একই অংশ f: 8f + 12f = 8 ⇒ f = 0.4। Jar B-তে 12 × 0.4 = 4.8 = 24/5 লিটার।",
+   "answer": "C",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "2-45": {
+   "en": "x + 1 > 0 means x ≥ 0 as an integer; xy > 0 means x ≠ 0, so x ≥ 1 and y > 0.",
+   "bn": "x + 1 > 0 এবং x integer হলে x ≥ 0; xy > 0 হলে x ≠ 0, তাই x ≥ 1 এবং y > 0।",
+   "answer": "A",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-46": {
+   "en": "4x and 2x are adjacent on a straight line: 6x = 180 ⇒ x = 30. (y + 35) is vertically opposite 2x = 60, so y = 25.",
+   "bn": "4x ও 2x সরলরেখায় পাশাপাশি: 6x = 180 ⇒ x = 30। (y + 35) হলো 2x = 60-এর বিপ্রতীপ কোণ, তাই y = 25।",
+   "answer": "B",
+   "formula_ids": [
+    "geometry"
+   ],
+   "note": "Uses the figure: angles 4x and 2x are adjacent; (y + 35) is vertical to 2x."
+  },
+  "2-47": {
+   "en": "(1 − d) × 0.8 = 1 − 0.32 = 0.68 ⇒ 1 − d = 0.85 ⇒ d = 15%.",
+   "bn": "(1 − d) × 0.8 = 1 − 0.32 = 0.68 ⇒ 1 − d = 0.85 ⇒ d = 15%।",
+   "answer": "C",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "2-48": {
+   "en": "Each expression can be an integer: x/y (6/3), y/z (3/3), z/y (3/3), xz/y (2·3/3). None CANNOT be an integer.",
+   "bn": "প্রতিটি রাশিই integer হতে পারে: x/y (6/3), y/z (3/3), z/y (3/3), xz/y (2·3/3)। কোনোটিই integer 'হতে পারে না' এমন নয়।",
+   "answer": "E",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-49": {
+   "en": "Sugar fractions: 3/5 and 2/7; target 1/2. Alligation: (1/2 − 2/7) : (3/5 − 1/2) = 3/14 : 1/10 = 15 : 7. This is not among the options.",
+   "bn": "চিনির অংশ: 3/5 ও 2/7; লক্ষ্য 1/2। Alligation: (1/2 − 2/7) : (3/5 − 1/2) = 3/14 : 1/10 = 15 : 7, যা option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "mixture"
+   ]
+  },
+  "2-50": {
+   "en": "Left after Apu: 2/5. After the younger one: (2/5)². After the sister: (2/5)³ = 8/125.",
+   "bn": "Apu-র পর বাকি 2/5। ছোট ভাইয়ের পর (2/5)²। বোনের পর (2/5)³ = 8/125।",
+   "answer": "A"
+  },
+  "2-51": {
+   "en": "Together they do 12/18 = 2/3 in 12 days; Alam does the last 1/3 in 8 days, so Alam alone takes 24 days. Minhaz's rate = 1/18 − 1/24 = 1/72, so 72 days.",
+   "bn": "একসাথে 12 দিনে করে 12/18 = 2/3; বাকি 1/3 Alam 8 দিনে করে, তাই Alam একা 24 দিন। Minhaz-এর হার = 1/18 − 1/24 = 1/72, তাই 72 দিন।",
+   "answer": "D",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "2-52": {
+   "en": "3x = 4y = 7z = 84k ⇒ x = 28k, y = 21k, z = 12k. Least sum (k = 1) = 61.",
+   "bn": "3x = 4y = 7z = 84k ⇒ x = 28k, y = 21k, z = 12k। ক্ষুদ্রতম যোগফল (k = 1) = 61।",
+   "answer": "D",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-53": {
+   "en": "P = (10/13)(4/9) + (3/13)(3/9) = 40/117 + 9/117 = 49/117.",
+   "bn": "P = (10/13)(4/9) + (3/13)(3/9) = 40/117 + 9/117 = 49/117।",
+   "answer": "B",
+   "formula_ids": [
+    "probability"
+   ]
+  },
+  "2-54": {
+   "en": "Prices form an AP with first term 46 and common difference −n. Sum = 7·46 − n(0 + 1 + … + 6) = 322 − 21n = 196 ⇒ n = 6.",
+   "bn": "দামগুলো AP, প্রথম পদ 46, সাধারণ অন্তর −n। যোগফল = 7·46 − n(0 + 1 + … + 6) = 322 − 21n = 196 ⇒ n = 6।",
+   "answer": "A",
+   "formula_ids": [
+    "series"
+   ]
+  },
+  "2-55": {
+   "en": "x = 2y and z = 3x = 6y. x/2 = y divides 6y, so A is true. B (4y | 6y), C (6y | 3y) are false; D mentions an undefined m.",
+   "bn": "x = 2y এবং z = 3x = 6y। x/2 = y, 6y-কে ভাগ করে, তাই A সত্য। B (4y | 6y), C (6y | 3y) মিথ্যা; D-তে অসংজ্ঞায়িত m আছে।",
+   "answer": "A",
+   "formula_ids": [
+    "numprop"
+   ],
+   "note": "Printed 'x and are positive integers' has a variable missing; option D refers to an undefined m."
+  },
+  "2-56": {
+   "en": "P(white or blue) = 1 − P(red). Statement 2 gives P(red) = 1/3, so the answer is 2/3. Statement 1 alone gives only P(blue).",
+   "bn": "P(white বা blue) = 1 − P(red)। Statement 2 থেকে P(red) = 1/3, তাই উত্তর 2/3। Statement 1 একা শুধু P(blue) দেয়।",
+   "answer": "B",
+   "formula_ids": [
+    "ds-method",
+    "probability"
+   ]
+  },
+  "2-57": {
+   "en": "(2) x + y + 1 < 0 ⇒ x + y < −1, and x + y + z > 0 ⇒ z > −(x + y) > 1. Sufficient. (1) gives only 2z > 1, so z > 0.5: not enough.",
+   "bn": "(2) x + y + 1 < 0 ⇒ x + y < −1, আর x + y + z > 0 ⇒ z > −(x + y) > 1। যথেষ্ট। (1) থেকে শুধু 2z > 1, অর্থাৎ z > 0.5: যথেষ্ট নয়।",
+   "answer": "B",
+   "formula_ids": [
+    "ds-method"
+   ]
+  },
+  "2-58": {
+   "en": "(1) x = 24a + 5 and (2) x = 18b + 13 each give several remainders mod 16. Together they are inconsistent (x ≡ 5 and x ≡ 1 mod 6), so no value is determined.",
+   "bn": "(1) x = 24a + 5 এবং (2) x = 18b + 13 আলাদাভাবে 16 দিয়ে ভাগে একাধিক ভাগশেষ দেয়। একসাথে তারা পরস্পরবিরোধী (mod 6-এ x ≡ 5 ও x ≡ 1), তাই কোনো মান নির্ধারিত হয় না।",
+   "answer": "E",
+   "formula_ids": [
+    "ds-method",
+    "numprop"
+   ]
+  },
+  "2-59": {
+   "en": "60% from Chittagong and 40 male members do not tell how many of the 60 are male. Even together, more information is needed.",
+   "bn": "60% চট্টগ্রামের এবং 40 জন পুরুষ, এ থেকে চট্টগ্রামের 60 জনের মধ্যে কতজন পুরুষ তা জানা যায় না। একসাথেও আরও তথ্য লাগে।",
+   "answer": "E",
+   "formula_ids": [
+    "ds-method"
+   ]
+  },
+  "2-60": {
+   "en": "(1) y > 3 is positive, so xy < 3 ⇒ x < 3/y < 1. Sufficient. (2) x < 3 does not settle x < 1.",
+   "bn": "(1) y > 3 ধনাত্মক, তাই xy < 3 ⇒ x < 3/y < 1। যথেষ্ট। (2) x < 3 থেকে x < 1 নির্ধারিত হয় না।",
+   "answer": "A",
+   "formula_ids": [
+    "ds-method",
+    "abs-ineq"
+   ]
+  },
+  "3-61": {
+   "en": "A and B put U with X; C and E have X without Y. Only V, X, Y obeys every rule.",
+   "bn": "A ও B-তে U ও X একসাথে; C ও E-তে Y ছাড়া X। শুধু V, X, Y সব নিয়ম মানে।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-62": {
+   "en": "A has no common member; B has no common member and X without Y; C has U with X; D has X without Y. E: (W, X, Y) and (X, Y, Z) share X and Y and obey every rule.",
+   "bn": "A-তে কোনো common সদস্য নেই; B-তে common নেই এবং Y ছাড়া X; C-তে U ও X একসাথে; D-তে Y ছাড়া X। E: (W, X, Y) ও (X, Y, Z)-তে X, Y common এবং সব নিয়ম মানা হয়েছে।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-63": {
+   "en": "The rules only require at least one common member and set no upper limit. The most overlap is all three: Cultural Club = V, W, Z.",
+   "bn": "নিয়মে শুধু অন্তত একজন common থাকার কথা, সর্বোচ্চ সীমা নেই। সবচেয়ে বেশি overlap হলো তিনজনই: Cultural Club = V, W, Z।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-64": {
+   "en": "U and X are in different committees, and X needs Y, so X's committee is {X, Y, Z}. Hence X is in the same committee as Y.",
+   "bn": "U ও X আলাদা committee-তে, আর X-এর জন্য Y লাগে, তাই X-এর committee {X, Y, Z}। অতএব X ও Y একই committee-তে।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-65": {
+   "en": "Communication = X, Y, Z (X needs Y). Cultural has U (no X) and must share a member with Communication, so it needs Y or Z. V and W together would share none, so they cannot be the other two.",
+   "bn": "Communication = X, Y, Z (X-এর জন্য Y)। Cultural-এ U আছে (X নেই) এবং Communication-এর সাথে একজন common লাগে, অর্থাৎ Y বা Z। V ও W একসাথে হলে কেউই common হয় না, তাই তারা বাকি দুজন হতে পারে না।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-66": {
+   "en": "Day sizes are two days with two singers and two with one, with no two double days in a row, X on day 3. Enumerating all valid schedules shows the lone day-1 singer can be C (or Y). C is the option.",
+   "bn": "দিনের আকার: দুই দিন দুজন করে ও দুই দিন একজন করে, পরপর দুই দিন দুজন নয়, X day 3-এ। সব বৈধ schedule বের করলে day 1-এ একা থাকতে পারে C (বা Y)। Option-এ C আছে।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-67": {
+   "en": "Valid day-2 pairs are (B, C), (C, Z), (A, Y) and (Y, Z). Among the options, B and C.",
+   "bn": "Day 2-এর বৈধ জোড়া (B, C), (C, Z), (A, Y) ও (Y, Z)। Option-গুলোর মধ্যে B ও C।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-68": {
+   "en": "C and X together means day 3 is a double day. The only valid schedule is Y, Z on day 1; B on day 2; C, X on day 3; A on day 4. So B performs on day 2.",
+   "bn": "C ও X একসাথে মানে day 3 দুজনের দিন। একমাত্র বৈধ schedule: day 1-এ Y, Z; day 2-এ B; day 3-এ C, X; day 4-এ A। তাই B day 2-এ পারফর্ম করে।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-69": {
+   "en": "A and B on the same day: in every valid schedule A performs on day 4.",
+   "bn": "A ও B একই দিনে হলে প্রতিটি বৈধ schedule-এ A day 4-এ পারফর্ম করে।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-70": {
+   "en": "Y on day 3 forces the schedule where A and B each perform alone, so A is scheduled alone.",
+   "bn": "Y day 3-এ হলে schedule এমন নির্ধারিত হয় যেখানে A ও B প্রত্যেকে একা পারফর্ম করে, তাই A একা।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-71": {
+   "en": "A and Y on the same day forces a single schedule in which Z performs on day 4.",
+   "bn": "A ও Y একই দিনে হলে একটিমাত্র schedule সম্ভব, যেখানে Z day 4-এ পারফর্ম করে।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-72": {
+   "en": "Ergot is common on rye, rye was the staple of poorer peasants, so poorer people ate more of the poisonous grain. D follows; the others go beyond the passage.",
+   "bn": "Ergot rye-তে সাধারণ, rye ছিল দরিদ্র কৃষকদের প্রধান খাদ্য, তাই দরিদ্ররা বেশি বিষাক্ত শস্য খেত। D যুক্তিসঙ্গত; বাকিগুলো passage-এর বাইরে।",
+   "answer": "D",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "3-73": {
+   "en": "If the chilled feeling is the first symptom of an already incubating virus, chills result from the cold, not the reverse. That weakens the evidence.",
+   "bn": "ঠান্ডা লাগার অনুভূতি যদি আগে থেকে incubate হতে থাকা ভাইরাসের প্রথম উপসর্গ হয়, তাহলে chill cold-এর ফল, কারণ নয়। এতে প্রমাণ দুর্বল হয়।",
+   "answer": "B",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "3-74": {
+   "en": "Orange > Blue = Red > Yellow and Brown > White > Yellow. Nothing orders Brown relative to Red, Orange or Blue. None of the options must be true.",
+   "bn": "Orange > Blue = Red > Yellow এবং Brown > White > Yellow। Brown-এর সাথে Red, Orange বা Blue-এর তুলনা নির্ধারিত নয়। কোনো option-ই অবশ্যই সত্য নয়।",
+   "answer": "E",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "3-75": {
+   "en": "The ad suggests serving domestic water in a crystal bottle to avoid embarrassment, which assumes some people buy imported water as a status symbol.",
+   "bn": "বিজ্ঞাপনটি লজ্জা এড়াতে দেশি পানি crystal বোতলে পরিবেশনের কথা বলে, যা ধরে নেয় কিছু মানুষ status symbol হিসেবে আমদানি করা পানি কেনে।",
+   "answer": "E",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "1-1": {
+   "en": "'A famous fishing port where fishermen set their traps': 'where' is a relative adverb for a place. 'Which is where' and 'the location where' are wordy or ungrammatical here.",
+   "bn": "'A famous fishing port where fishermen set their traps': স্থান বোঝাতে relative adverb 'where'। 'Which is where' ও 'the location where' এখানে বাড়তি বা ভুল।",
+   "answer": "D",
+   "rule_ids": [
+    "pronoun",
+    "conj"
+   ]
+  },
+  "1-2": {
+   "en": "'Travel on indefinitely' with 'intensity diminishes' is logical: waves with nothing to absorb them continue, while their strength fades with distance. 'Forever – increase' and 'mitigates/alleviates' do not fit.",
+   "bn": "'Travel on indefinitely' ও 'intensity diminishes' যুক্তিসঙ্গত: শোষণ না হলে তরঙ্গ চলতেই থাকে, কিন্তু দূরত্বের সাথে শক্তি কমে। 'Forever – increase' ও 'mitigates/alleviates' মেলে না।",
+   "answer": "E",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-3": {
+   "en": "Theories 'unchallenged' today were once treated with 'disdain': the contrast works. 'Dismissed – contempt' makes the first blank a negative, which does not fit 'are today'.",
+   "bn": "আজ 'unchallenged' অথচ একসময় 'disdain'-এর সাথে দেখা হতো: বৈপরীত্য মেলে। 'Dismissed – contempt' হলে প্রথম ফাঁকা নেতিবাচক হয়, যা 'are today'-এর সাথে খাপ খায় না।",
+   "answer": "D",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-4": {
+   "en": "'Adverse' means unfavourable (adverse weather conditions). 'Averse' means unwilling and takes 'to'.",
+   "bn": "'Adverse' মানে প্রতিকূল (adverse weather conditions)। 'Averse' মানে অনিচ্ছুক এবং 'to' নেয়।",
+   "answer": "B",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-5": {
+   "en": "'Having such a rich family inheritance must have had its effect': 'must have' + V3 (had) for a logical deduction about the past.",
+   "bn": "'Having such a rich family inheritance must have had its effect': অতীত সম্পর্কে যৌক্তিক অনুমানে 'must have' + V3 (had)।",
+   "answer": "C",
+   "rule_ids": [
+    "tense"
+   ]
+  },
+  "1-6": {
+   "en": "Reported question after 'asked' (past): 'if he had seen my mother'. Past perfect shows the earlier event.",
+   "bn": "'asked' (past)-এর পরে reported question: 'if he had seen my mother'। Past perfect আগের ঘটনা বোঝায়।",
+   "answer": "D",
+   "rule_ids": [
+    "tense",
+    "sequence-tense"
+   ]
+  },
+  "1-7": {
+   "en": "'A sham' is something fake that pretends to be real: offers that are 'a sham'. 'Imitation' and 'charade' do not take this sense with 'offers'.",
+   "bn": "'A sham' মানে ভান করা নকল জিনিস: 'offers that are a sham'। 'Imitation' ও 'charade' এখানে একই অর্থ দেয় না।",
+   "answer": "A",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-8": {
+   "en": "'Intimating' = hinting or suggesting, which fits 'subtle way'. 'Announcing' is not subtle.",
+   "bn": "'Intimating' = ইঙ্গিত দেওয়া, যা 'subtle way'-এর সাথে মেলে। 'Announcing' subtle নয়।",
+   "answer": "D",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-9": {
+   "en": "'Keep up a façade of normalcy': a false outward appearance. 'Impression' or 'feeling' do not fit 'keep up … of'.",
+   "bn": "'Keep up a façade of normalcy': ভান করে বাইরের স্বাভাবিকতা বজায় রাখা। 'Impression' বা 'feeling' 'keep up … of'-এর সাথে মেলে না।",
+   "answer": "E",
+   "rule_ids": [
+    "collocation"
+   ]
+  },
+  "1-10": {
+   "en": "To 'annotate' a text is to add notes to it, matching 'in which he … the text at several places'.",
+   "bn": "Text 'annotate' করা মানে টীকা যোগ করা, যা 'in which he … the text at several places'-এর সাথে মেলে।",
+   "answer": "A",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-11": {
+   "en": "'Shrouded in secrecy' is the fixed collocation.",
+   "bn": "'Shrouded in secrecy' নির্দিষ্ট collocation।",
+   "answer": "A",
+   "rule_ids": [
+    "collocation"
+   ]
+  },
+  "1-12": {
+   "en": "'Inundated' = flooded (overwhelmed).",
+   "bn": "'Inundated' = প্লাবিত (ভরে যাওয়া)।",
+   "answer": "D",
+   "rule_ids": [
+    "antonym"
+   ]
+  },
+  "1-13": {
+   "en": "'Apathetic' = showing no interest, so 'unconcerned'.",
+   "bn": "'Apathetic' = আগ্রহহীন, তাই 'unconcerned'।",
+   "answer": "B",
+   "rule_ids": [
+    "antonym"
+   ]
+  },
+  "1-14": {
+   "en": "To 'articulate' sentiments is to express them clearly.",
+   "bn": "অনুভূতি 'articulate' করা মানে স্পষ্টভাবে প্রকাশ করা।",
+   "answer": "C",
+   "rule_ids": [
+    "antonym"
+   ]
+  },
+  "1-15": {
+   "en": "'For the past two years' needs the present perfect: 'there has been no major quarrel'.",
+   "bn": "'For the past two years'-এর সাথে present perfect: 'there has been no major quarrel'।",
+   "answer": "D",
+   "rule_ids": [
+    "tense",
+    "sequence-tense"
+   ]
+  },
+  "1-16": {
+   "en": "No error in grammar or usage ('complete this training … by next month').",
+   "bn": "Grammar বা usage-তে কোনো ভুল নেই ('complete this training … by next month')।",
+   "answer": "E"
+  },
+  "1-17": {
+   "en": "'I would have been better pleased if you had given…': the unreal past needs 'had given', not 'gave'.",
+   "bn": "'I would have been better pleased if you had given…': অতীতের কাল্পনিক শর্তে 'had given' লাগে, 'gave' নয়।",
+   "answer": "C",
+   "rule_ids": [
+    "modal",
+    "tense"
+   ]
+  },
+  "1-18": {
+   "en": "'Incompatible with', not 'incompatible to'.",
+   "bn": "'Incompatible with', 'incompatible to' নয়।",
+   "answer": "C",
+   "rule_ids": [
+    "prep-noun"
+   ]
+  },
+  "1-19": {
+   "en": "'Stepped aside … and in the process asserted' needs a verb parallel to 'stepped': 'asserted', not 'asserting'.",
+   "bn": "'Stepped aside … and in the process asserted'-এ 'stepped'-এর সাথে parallel verb লাগে: 'asserted', 'asserting' নয়।",
+   "answer": "D",
+   "rule_ids": [
+    "parallel"
+   ]
+  },
+  "1-20": {
+   "en": "The subject is 'many … suggestions' (plural), so 'have been rejected'.",
+   "bn": "Subject 'many … suggestions' (plural), তাই 'have been rejected'।",
+   "answer": "D",
+   "rule_ids": [
+    "sv-agree"
+   ]
+  },
+  "1-21": {
+   "en": "'As though she were' (unreal comparison) with 'could carry on for so long' is correct. The other options mix tenses or use 'was'.",
+   "bn": "'As though she were' (কাল্পনিক তুলনা) এবং 'could carry on for so long' শুদ্ধ। অন্য option-এ tense মিশে গেছে বা 'was' আছে।",
+   "answer": "A",
+   "rule_ids": [
+    "subjunctive",
+    "tense"
+   ]
+  },
+  "1-22": {
+   "en": "After 'demand', use the base verb: 'She demanded that he immediately leave the house.'",
+   "bn": "'demand'-এর পরে base verb: 'She demanded that he immediately leave the house.'",
+   "answer": "A",
+   "rule_ids": [
+    "subjunctive"
+   ]
+  },
+  "1-23": {
+   "en": "'With whom' (object of the preposition) and 'not me' (object form) are correct.",
+   "bn": "'With whom' (preposition-এর object) এবং 'not me' (object form) শুদ্ধ।",
+   "answer": "E",
+   "rule_ids": [
+    "pronoun"
+   ]
+  },
+  "1-24": {
+   "en": "'Once you have signed the contract, you cannot shrug off liability…' keeps a clear subject and consistent tenses. A has a dangling 'Signing…'.",
+   "bn": "'Once you have signed the contract, you cannot shrug off liability…': subject পরিষ্কার এবং tense সামঞ্জস্যপূর্ণ। A-তে dangling 'Signing…'।",
+   "answer": "B",
+   "rule_ids": [
+    "dangling",
+    "parallel"
+   ]
+  },
+  "1-25": {
+   "en": "The last sentence states the key idea: manage ecosystems while protecting both human well-being and local ecosystems.",
+   "bn": "শেষ বাক্যে মূল ধারণা: মানুষের কল্যাণ ও স্থানীয় ecosystem দুটিই রক্ষা করে ecosystem পরিচালনা।",
+   "answer": "C",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-26": {
+   "en": "The passage defines an ecosystem as interactions among all organisms and their environment.",
+   "bn": "Passage ecosystem-কে সব জীব ও তাদের পরিবেশের মধ্যকার interaction হিসেবে সংজ্ঞায়িত করেছে।",
+   "answer": "B",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-27": {
+   "en": "Defined as 'a group of animals and plants living in a region and interacting': a community.",
+   "bn": "সংজ্ঞা: 'a group of animals and plants living in a region and interacting': community।",
+   "answer": "B",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-28": {
+   "en": "The passage balances protecting ecosystems and human well-being; it never says ecosystems matter more than people's economic well-being.",
+   "bn": "Passage ecosystem রক্ষা ও মানুষের কল্যাণের মধ্যে ভারসাম্যের কথা বলে; ecosystem মানুষের অর্থনৈতিক কল্যাণের চেয়ে বেশি গুরুত্বপূর্ণ এমন কথা বলে না।",
+   "answer": "E",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-29": {
+   "en": "(i) 'amassed' and (ii) 'amass' are correct. (iii) 'amasses of debris' is wrong: the noun is 'masses'.",
+   "bn": "(i) 'amassed' ও (ii) 'amass' শুদ্ধ। (iii) 'amasses of debris' ভুল: noun হবে 'masses'।",
+   "answer": "D",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-30": {
+   "en": "(i) 'aborigines' (noun) and (iii) 'aboriginal' (adjective) are correct. (ii) 'aboriginous' is not a word.",
+   "bn": "(i) 'aborigines' (noun) ও (iii) 'aboriginal' (adjective) শুদ্ধ। (ii) 'aboriginous' শব্দ নয়।",
+   "answer": "B",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "4-1": {
+   "en": "Approach: Thesis: innovation is how a business creates value and survives change. Paragraph 1: define innovation (new products, processes, models) with a local example (mobile financial services such as bKash). Paragraph 2: why it matters (competition, customer needs, efficiency). Paragraph 3: how firms innovate (R&D, culture of experimentation, customer feedback, technology). Paragraph 4: risks and limits (cost, failure, resistance) and how to manage them. Conclusion: innovation is a discipline, not luck.\nUseful phrases: 'competitive advantage', 'disruptive innovation', 'incremental improvement'.\nAvoid: listing buzzwords without an example.",
+   "bn": "পদ্ধতি: Thesis: innovation হলো ব্যবসা যেভাবে মূল্য সৃষ্টি করে এবং পরিবর্তনের মধ্যে টিকে থাকে। Paragraph 1: innovation-এর সংজ্ঞা (নতুন পণ্য, প্রক্রিয়া, মডেল) ও স্থানীয় উদাহরণ (বিকাশের মতো mobile financial service)। Paragraph 2: কেন গুরুত্বপূর্ণ (প্রতিযোগিতা, গ্রাহকের চাহিদা, দক্ষতা)। Paragraph 3: কীভাবে innovate করে (R&D, পরীক্ষা-নিরীক্ষার সংস্কৃতি, গ্রাহকের মতামত, প্রযুক্তি)। Paragraph 4: ঝুঁকি ও সীমাবদ্ধতা (খরচ, ব্যর্থতা, প্রতিরোধ) এবং সামলানোর উপায়। উপসংহার: innovation একটি চর্চা, ভাগ্য নয়।\nকাজের phrase: 'competitive advantage', 'disruptive innovation', 'incremental improvement'।\nএড়ান: উদাহরণ ছাড়া শুধু buzzword-এর তালিকা।",
+   "rule_ids": [
+    "essay"
+   ]
+  },
+  "4-2": {
+   "en": "Approach: be personal and specific. Structure: (1) Acknowledge the oversupply honestly in one line, then say why you still choose an MBA. (2) Your goal (a clear role or industry) and the skill gap an MBA fills. (3) Why IBA (curriculum, network, case-based learning). (4) Your evidence: past experience, results, strengths. (5) A closing statement that links the degree to your long-term plan.\nUseful phrases: 'a clear career goal', 'bridge a skill gap', 'add value to an organisation'.\nAvoid: generic lines ('to get a better job'), flattery, or arguing the market is not oversupplied.",
+   "bn": "পদ্ধতি: ব্যক্তিগত ও নির্দিষ্ট হোন। কাঠামো: (1) এক লাইনে সততার সাথে অতিরিক্ত সরবরাহ স্বীকার করুন, তারপর বলুন কেন তবুও MBA বাছছেন। (2) আপনার লক্ষ্য (নির্দিষ্ট ভূমিকা বা শিল্প) এবং MBA কোন দক্ষতার ঘাটতি পূরণ করে। (3) কেন IBA (পাঠ্যক্রম, নেটওয়ার্ক, case-ভিত্তিক শেখা)। (4) আপনার প্রমাণ: অতীত অভিজ্ঞতা, ফলাফল, শক্তি। (5) ডিগ্রিকে দীর্ঘমেয়াদি পরিকল্পনার সাথে যুক্ত করে শেষ।\nকাজের phrase: 'a clear career goal', 'bridge a skill gap', 'add value to an organisation'।\nএড়ান: সাধারণ কথা ('ভালো চাকরির জন্য'), তোষামোদ, বা বাজারে অতিরিক্ত সরবরাহ নেই বলে তর্ক।",
+   "rule_ids": [
+    "essay"
+   ]
+  }
+ }
+}

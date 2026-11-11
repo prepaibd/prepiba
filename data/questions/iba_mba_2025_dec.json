@@ -1,0 +1,1384 @@
+{
+  "exam": {
+    "institute": "IBA (DU)",
+    "program": "MBA",
+    "session": "Dec 2025",
+    "source_pdf": "iba_mba_dec_2025.pdf",
+    "parts_marks": {
+      "mcq": null,
+      "writing": 30
+    }
+  },
+  "parts": [
+    {
+      "part_label": "Multiple Choice Questions",
+      "sections": [
+        {
+          "section_no": 1,
+          "source_section_label": "Section-1: Mathematics",
+          "subject": "mathematics",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "problem-solving",
+                  "stem": "1. Two survey posts, A and B, are located at coordinates (4, -5) and (-8, 7) on a mapping grid. A separate equilateral triangle LMN is constructed so that it height is exactly to the distance between posts A and B. What is the area of triangle LMN?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{288}{\\sqrt{3}}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$288\\sqrt{3}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{432\\sqrt{3}}{4}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$96\\sqrt{3}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "$\\frac{536\\sqrt{3}}{4}$"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$AB=\\sqrt{(4+8)^2+(-5-7)^2}=\\sqrt{288}=12\\sqrt2$. For an equilateral triangle, height $h=\\frac{\\sqrt3}{2}s=12\\sqrt2\\Rightarrow s=\\frac{24\\sqrt2}{\\sqrt3}=8\\sqrt6$. Area $=\\frac{\\sqrt3}{4}s^2=\\frac{\\sqrt3}{4}\\times384=96\\sqrt3$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "problem-solving",
+                  "stem": "2. In a small town, there were 3300 registered voters, 75 percent of whom voted in an election. If Haroon received 594 votes, what percent of the vote did he received?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "21%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "24%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "26%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "28%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "32%"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Votes cast $=0.75\\times3300=2475$. Haroon's share $=\\frac{594}{2475}\\times100\\%=24\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "problem-solving",
+                  "stem": "3. A researcher records temperature ratios for three different climate zones (A, B, C) across five measurements each. The ratios for each zone are:\n• Zone A: $\\frac{14}{15}, \\frac{15}{16}, \\frac{16}{17}, \\frac{17}{18}, \\frac{18}{19}$\n• Zone B: $\\frac{15}{14}, \\frac{16}{15}, \\frac{17}{16}, \\frac{18}{17}, \\frac{19}{18}$\n• Zone C: $\\frac{5}{13}, \\frac{6}{13}, \\frac{7}{13}, \\frac{8}{13}, \\frac{9}{13}$\nWhich of the following statements is/are true about the relationship between the average and median of the ratios in these zones?\nA. In Zone A, the average of the ratios is smaller than the median.\nB. In Zone B, the average of the ratios is smaller than the median.\nC. In Zone C, the average of the ratios is smaller than the median.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "A only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "B only"
+                    },
+                    {
+                      "label": "C",
+                      "text": "C only"
+                    },
+                    {
+                      "label": "D",
+                      "text": "B and C"
+                    },
+                    {
+                      "label": "E",
+                      "text": "A, B and C"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Zone A is increasing with shrinking gaps (concave), so its mean falls below the middle term (median): average < median — statement A true. Zone B's mean ($\\approx1.0630$) slightly exceeds its median ($1.0625$), so B is false. Zone C is an arithmetic sequence, so mean = median exactly, so C is false. Only A.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "problem-solving",
+                  "stem": "4. During Fall 2025 semester, 30% of the students who enrolled in classes at University of Dhaka enrolled in a science course. If no student enrolled in more than one science course, and if 20% of the students who enrolled in science enrolled in chemistry, what percentage of the students who enrolled in classes that semester enrolled in a science course other than chemistry?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "6%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "7%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "10%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "14%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "24%"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Science other than chemistry $=80\\%$ of the science enrollees $=0.8\\times30\\%=24\\%$ of all students.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 5,
+                  "question_type": "problem-solving",
+                  "stem": "5. A certain car dealership sells only full-sized and mid-sized cars. One of its sales representatives received an annual salary of Tk. 15,000. He also receives a commission of Tk. 800 for each full-sized car he sells and Tk. 500 for each mid-sized car he sells. What is the least number of cars he must sell in a year to receive total annual earnings of exactly Tk. 25,000?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "7"
+                    },
+                    {
+                      "label": "B",
+                      "text": "12"
+                    },
+                    {
+                      "label": "C",
+                      "text": "13"
+                    },
+                    {
+                      "label": "D",
+                      "text": "14"
+                    },
+                    {
+                      "label": "E",
+                      "text": "17"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Commission needed $=10000$, so $800f+500m=10000\\Rightarrow8f+5m=100$. Minimising $f+m$ needs $f$ a multiple of 5; $f=10,m=4$ gives $8(10)+5(4)=100$ and total $14$ cars, the fewest.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 6,
+                  "question_type": "problem-solving",
+                  "stem": "6. An employee of Sicily is entitled to a disability benefit equal to the sum of 60 percent of the first Tk. 2000 of monthly salary and 40 percent of the amount of monthly salary in excess of Tk. 2000. What is the monthly salary of an employee in Tk who receives Tk. 1400 in disability benefits under this plan?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "500"
+                    },
+                    {
+                      "label": "B",
+                      "text": "2,200"
+                    },
+                    {
+                      "label": "C",
+                      "text": "2,240"
+                    },
+                    {
+                      "label": "D",
+                      "text": "2,500"
+                    },
+                    {
+                      "label": "E",
+                      "text": "3,000"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "60% of 2000 $=1200$. The rest of the benefit $1400-1200=200$ is 40% of the excess, so excess $=500$ and salary $=2000+500=2500$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "problem-solving",
+                  "stem": "7. Transcontinental Express travels with an average speed of 100 km/h, taking a 10-minute break every 80 km. Novo Local Express takes a break every 20 km for 2 minutes and travels at an average speed of 50 km/h. Assuming both start at the same time, what distance would Novo Local have travelled by the time the Transcontinental travelled 800 km?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "350 km"
+                    },
+                    {
+                      "label": "B",
+                      "text": "392 km"
+                    },
+                    {
+                      "label": "C",
+                      "text": "440 km"
+                    },
+                    {
+                      "label": "D",
+                      "text": "515 km"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Transcontinental: 800 km at 100 km/h $=8$ h driving, plus breaks after 80,160,…,720 km (9 breaks $\\times10$ min $=1.5$ h), total $9.5$ h. Novo Local in 9.5 h: for 440 km driving time $=440/50=8.8$ h and breaks after 20,…,420 km (21 breaks $\\times2$ min $=0.7$ h), total $9.5$ h. So 440 km.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 8,
+                  "question_type": "problem-solving",
+                  "stem": "8. What is the least integer that can be expressed as a product of four different integers between -5 and 4, inclusive?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "-360"
+                    },
+                    {
+                      "label": "B",
+                      "text": "-240"
+                    },
+                    {
+                      "label": "C",
+                      "text": "-180"
+                    },
+                    {
+                      "label": "D",
+                      "text": "-120"
+                    },
+                    {
+                      "label": "E",
+                      "text": "-60"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "For the most negative product, use three negatives and one positive of largest magnitude: $(-5)(-4)(-3)(4)=-240$. No selection of four distinct integers in $[-5,4]$ gives a smaller (more negative) product.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 9,
+                  "question_type": "problem-solving",
+                  "stem": "9. In a video game, a player earns 1 rank point for every 6 monsters defeated, and 1 badge point for every 9 monsters defeated. However, there is no fractional rank point or badge point, implying that defeating 8 monsters will earn 1 rank point and zero badge point. 'n' is a positive integer that represents the number of monsters defeated. How many different values 'n' can have given that the player ends up with the same number of rank points and badge points?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "8"
+                    },
+                    {
+                      "label": "B",
+                      "text": "10"
+                    },
+                    {
+                      "label": "C",
+                      "text": "12"
+                    },
+                    {
+                      "label": "D",
+                      "text": "∞"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "We need $\\lfloor n/6\\rfloor=\\lfloor n/9\\rfloor$. Both equal 0 for $n=1\\text{–}5$ (5 values) and both equal 1 for $n=9,10,11$ (3 values). For higher values the ranges $[6k,6k+5]$ and $[9k,9k+8]$ no longer overlap. Total $=5+3=8$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 10,
+                  "question_type": "problem-solving",
+                  "stem": "10. To unlock a secure laboratory door, researchers must enter a four-digit security code. Each digit can be any number from 0 to 9. The code must satisfy the following conditions:\n• The first digit is 4.\n• Exactly one of the remaining three digits (positions 2-4) is 1.\n• All digits must be different (no repetition).\nHow many different security codes are possible?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "56"
+                    },
+                    {
+                      "label": "B",
+                      "text": "112"
+                    },
+                    {
+                      "label": "C",
+                      "text": "168"
+                    },
+                    {
+                      "label": "D",
+                      "text": "192"
+                    },
+                    {
+                      "label": "E",
+                      "text": "216"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The first digit is 4. The digit 1 can be in any of positions 2, 3 or 4 (3 ways). The other two positions must be filled with distinct digits from {0,2,3,5,6,7,8,9} (not 4, not 1): 8 x 7 = 56 ways. Total = 3 x 56 = 168.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 11,
+                  "question_type": "problem-solving",
+                  "stem": "11. Asif can complete 40% of a project in 10 days, whereas Baset takes 12 days to complete 60% of that project. They work together for 8 days and then Chopol finishes the remaining part in 7 days. How long would it take for three of them to complete 52% of the project if they worked together from the beginning?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "2.5 days"
+                    },
+                    {
+                      "label": "B",
+                      "text": "3 days"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3.5 days"
+                    },
+                    {
+                      "label": "D",
+                      "text": "4 days"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Asif: full in 25 days (rate $1/25$); Baset: full in 20 days (rate $1/20$). In 8 days together they do $8(1/25+1/20)=8\\times9/100=72\\%$; Chopol does the remaining $28\\%$ in 7 days (rate $1/25$). Three together: $1/25+1/20+1/25=13/100$ per day, so $52\\%$ takes $0.52/0.13=4$ days.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 12,
+                  "question_type": "problem-solving",
+                  "stem": "12. Hamim and Milon were taking turns to shoot air guns. For every 3 shots by Milon, Hamim took 5 shots. The odds of hitting the target by Hamim and Milon are 1/3 and 1/2 respectively. If Milon ends up with 27 missed shots, how many targets did the duo hit together?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "40"
+                    },
+                    {
+                      "label": "B",
+                      "text": "57"
+                    },
+                    {
+                      "label": "C",
+                      "text": "59"
+                    },
+                    {
+                      "label": "D",
+                      "text": "90"
+                    },
+                    {
+                      "label": "E",
+                      "text": "144"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Milon's miss rate is $1/2$, so 27 misses means 54 shots, hence 27 hits. Shots ratio Hamim:Milon $=5:3$, so Hamim fired $54\\times5/3=90$ shots and hit $90\\times1/3=30$. Total hits $=27+30=57$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 13,
+                  "question_type": "problem-solving",
+                  "stem": "13. A surveyor is mapping three landmarks—P, Q, and R—along a straight rural road, starting from a reference post marked 0, where 0<P<Q<R. The gaps between the post and P, between P and Q, and between P and R follow the proportion 1:2:3, respectively. Later, she measures how far each landmark is from a nearby town located at coordinate 15 on the same line. She finds that landmark Q is exactly twice as far from the town as landmark P is. Based on this information, what is the absolute coordinate value of landmark R?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "9"
+                    },
+                    {
+                      "label": "B",
+                      "text": "27"
+                    },
+                    {
+                      "label": "C",
+                      "text": "36"
+                    },
+                    {
+                      "label": "D",
+                      "text": "45"
+                    },
+                    {
+                      "label": "E",
+                      "text": "54"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "With $OP:PQ:PR=1:2:3$, let $P=d$, then $Q=3d$, $R=4d$. From the town at 15, $|Q-15|=2|P-15|$: $|3d-15|=2|d-15|$. For $5\\le d<15$, $3d-15=30-2d\\Rightarrow d=9$, giving $R=36$ (check: $P=9,Q=27$, $|27-15|=12=2\\times6$).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 14,
+                  "question_type": "problem-solving",
+                  "stem": "14. A rectangular parking area with sides 40 m and 25 m is surrounded by a walkway of uniform width. The walkway is paved except for a square flowerbed with sides 4 m placed at one corner of the walkway. The area of the paved pathway is 568 m². What is the width of the walkway in meters?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "3"
+                    },
+                    {
+                      "label": "B",
+                      "text": "4"
+                    },
+                    {
+                      "label": "C",
+                      "text": "5"
+                    },
+                    {
+                      "label": "D",
+                      "text": "6"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Walkway area $=(40+2w)(25+2w)-40\\times25$, minus the $4\\times4=16$ flowerbed $=568$. So $(40+2w)(25+2w)=1584\\Rightarrow4w^2+130w-584=0\\Rightarrow2w^2+65w-292=0\\Rightarrow w=4$ (since $\\sqrt{6561}=81$).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 15,
+                  "question_type": "problem-solving",
+                  "stem": "15. Two high-performance servers, Server Alpha and Server Beta, are processing a massive dataset. Working simultaneously at their respective constant speeds, the two servers processed two thirds of the total data in 1 hour and 20 minutes. Suddenly, Server Alpha crashed and stopped working. Server Beta continued working alone at its constant speed and processed the remaining data in 50 minutes. How many hours would it have taken Server Alpha, working alone at its constant speed, to process the entire dataset?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "6"
+                    },
+                    {
+                      "label": "B",
+                      "text": "8"
+                    },
+                    {
+                      "label": "C",
+                      "text": "10"
+                    },
+                    {
+                      "label": "D",
+                      "text": "12"
+                    },
+                    {
+                      "label": "E",
+                      "text": "14"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Combined: $2/3$ in 80 min, so full in 120 min (rate $1/120$). Beta: $1/3$ in 50 min, so full in 150 min (rate $1/150$). Alpha's rate $=1/120-1/150=1/600$ per min, i.e. 600 min $=10$ hours.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 16,
+                  "question_type": "problem-solving",
+                  "stem": "16. If $y = 2x + 3$, then which of the following intervals consists of the value of x such that xy < 0?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$0 < x \\leq \\frac{3}{2}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$-\\frac{3}{2} \\leq x < 0$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$-\\frac{3}{2} < x < 0$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$-3/2 \\leq x < \\frac{3}{2}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "$-\\frac{3}{2} < x < \\frac{3}{2}$"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$xy=x(2x+3)<0$ between its roots $x=-\\frac32$ and $x=0$, exclusive, i.e. $-\\frac32<x<0$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 17,
+                  "question_type": "problem-solving",
+                  "stem": "17. A marketing agency is analyzing the performance of 60 different ad campaigns.\n◆ 32 campaigns used Social Media Ads.\n♦ Fewer than 35 campaigns used Email Marketing.\n♦ 12 campaigns used neither Social Media nor Email Marketing.\nWhich of the following could be the number of campaigns that used BOTH Social Media Ads and Email Marketing?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "17"
+                    },
+                    {
+                      "label": "B",
+                      "text": "18"
+                    },
+                    {
+                      "label": "C",
+                      "text": "19"
+                    },
+                    {
+                      "label": "D",
+                      "text": "A & B"
+                    },
+                    {
+                      "label": "E",
+                      "text": "A, B & C"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Campaigns using at least one $=60-12=48$. Both $=32+E-48=E-16$. With $E<35$ (so $E\\le34$), both $\\le18$; and both $\\ge0$ needs $E\\ge16$. So both can be 17 or 18 (E = 33 or 34) but not 19. Answer: A & B.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 18,
+                  "question_type": "problem-solving",
+                  "stem": "18. Solution X is five percent salt by volume. To get a solution which is 4% salt, how many cubic centimeters of a solution that is 3.5% salt will have to be added to 500 cubic centimeters of solution X?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "100"
+                    },
+                    {
+                      "label": "B",
+                      "text": "500"
+                    },
+                    {
+                      "label": "C",
+                      "text": "950"
+                    },
+                    {
+                      "label": "D",
+                      "text": "1000"
+                    },
+                    {
+                      "label": "E",
+                      "text": "1250"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$\\frac{0.05\\times500+0.035y}{500+y}=0.04\\Rightarrow25+0.035y=20+0.04y\\Rightarrow0.005y=5\\Rightarrow y=1000$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 19,
+                  "question_type": "problem-solving",
+                  "stem": "19. A set consists of x consecutive integers, including 2. The sum of the integers in the set is -11.\nWhat is (are) the possible value(s) of x?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "10"
+                    },
+                    {
+                      "label": "B",
+                      "text": "11"
+                    },
+                    {
+                      "label": "C",
+                      "text": "22"
+                    },
+                    {
+                      "label": "D",
+                      "text": "A & C"
+                    },
+                    {
+                      "label": "E",
+                      "text": "B & C"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "For consecutive integers from $m$ to $n$, sum $=\\frac{(m+n)(n-m+1)}{2}=-11$, so $(m+n)x=-22$ with $x=n-m+1$. For $x=11$: $m=-6,n=4$ (includes 2); for $x=22$: $m=-11,n=10$ (includes 2). $x=10$ fails. So 11 and 22 — answer B & C.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 20,
+                  "question_type": "problem-solving",
+                  "stem": "20. The price of each kindle egg candy is Tk. 10. However, a kindle egg candy seller offered customers 1 candy for two returned candy shells. If a boy has Tk. 80, how many candies can he get?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "8"
+                    },
+                    {
+                      "label": "B",
+                      "text": "12"
+                    },
+                    {
+                      "label": "C",
+                      "text": "14"
+                    },
+                    {
+                      "label": "D",
+                      "text": "15"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "He buys $80/10=8$ candies. Exchanging shells: $8\\to4\\to2\\to1$ more candies ($8+4+2+1=15$).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 21,
+                  "question_type": "problem-solving",
+                  "stem": "21. If $x = \\frac{2 - \\sqrt{2}}{2 + \\sqrt{2}}$, find value of $(x - 3)^{2}$.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "6"
+                    },
+                    {
+                      "label": "C",
+                      "text": "8"
+                    },
+                    {
+                      "label": "D",
+                      "text": "12"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Rationalising, $x=\\frac{(2-\\sqrt2)^2}{(2+\\sqrt2)(2-\\sqrt2)}=\\frac{6-4\\sqrt2}{2}=3-2\\sqrt2$. Then $(x-3)^2=(-2\\sqrt2)^2=8$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 22,
+                  "question_type": "problem-solving",
+                  "stem": "22. Five digits—0, 5, 6, 7, and 9—are entered into a security panel in some random order, but the system blocks any arrangement that begins with the digit 0. From all the allowed sequences, one is selected at random. What is the probability that the code appearing in the second position is 9?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{1}{2}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{3}{16}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{9}{10}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{3}{11}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Allowed arrangements $=5!-4!=96$. Favourable (2nd digit 9, 1st not 0): 1st from {5,6,7} (3 ways), remaining 3 digits in $3!=6$ ways $\\Rightarrow18$. Probability $=18/96=3/16$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 23,
+                  "question_type": "problem-solving",
+                  "stem": "23. If $25^{7.5} \\times \\frac{5^{2.5}}{125^{1.5}} = 5^x$, then the value of 'x' is-",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "8"
+                    },
+                    {
+                      "label": "B",
+                      "text": "11"
+                    },
+                    {
+                      "label": "C",
+                      "text": "13"
+                    },
+                    {
+                      "label": "D",
+                      "text": "14"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$25^{7.5}=5^{15}$, $125^{1.5}=5^{4.5}$. So $5^{15}\\times5^{2.5}/5^{4.5}=5^{15+2.5-4.5}=5^{13}$, hence $x=13$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 24,
+                  "question_type": "problem-solving",
+                  "stem": "24. A factory produced a small batch of 5 hard drives. Unfortunately, due to a machine error, 2 of the drives are defective, while the other 3 are working perfectly. A quality control manager randomly selects 2 hard drives from the batch to test, one at a time (without putting them back). What is the probability that at least one of the tested drives is defective?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{1}{5}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{2}{5}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{3}{5}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{7}{10}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "$\\frac{9}{10}$"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$P(\\text{at least one defective})=1-P(\\text{both good})=1-\\frac{3}{5}\\cdot\\frac{2}{4}=1-\\frac{3}{10}=\\frac{7}{10}$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 25,
+                  "question_type": "problem-solving",
+                  "stem": "25. When the lines $y = 3x$, $y = -3x + 12$, and $y = 0$ intersect in the coordinate plane, they enclose a triangular region. What is the area of this triangle?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "8"
+                    },
+                    {
+                      "label": "B",
+                      "text": "10"
+                    },
+                    {
+                      "label": "C",
+                      "text": "12"
+                    },
+                    {
+                      "label": "D",
+                      "text": "16"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Cannot be determined"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The vertices are $(0,0)$, $(4,0)$ and $(2,6)$. Base $=4$ on the x-axis, height $=6$, so area $=\\frac12\\times4\\times6=12$.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 2,
+          "source_section_label": "Section-2: Analytical Ability",
+          "subject": "analytical",
+          "groups": [
+            {
+              "source_group_label": "Use the information below to answer Questions 26–30.",
+              "instruction": null,
+              "stimulus": {
+                "passage": "A Human Resources Manager is scheduling a single interview with each of seven candidates: Fahid, Ghalib, Junaid, Mohsin, Naveed, Pervaiz, and Tanveer. Each interview is to be 30 minutes in length, and the interviews are to be scheduled back-to-back, starting at 9 a.m., according to the following conditions:\n- Ghalib's interview must be scheduled to begin at either 9 a.m. or 10:30 a.m.\n- Pervaiz's interview must be scheduled either as the next interview after Ghalib's interview or as the next interview after Naveed's interview.\n- Naveed's interview must be scheduled to occur sometime after Mohsin's interview and before Fahid's interview.\n- Junaid's interview must be scheduled to begin exactly one hour after Tanveer's interview is scheduled to begin.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 26,
+                  "question_type": "puzzle",
+                  "stem": "26. Which of the following is an acceptable schedule for the seven people?\n9a.m. 9:30a.m. 10a.m. 10:30a.m. 11a.m. 11:30a.m. 12p.m.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Ghalib, Naveed, Pervaiz, Mohsin, Tanveer, Fahid, Junaid"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Ghalib, Pervaiz, Tanveer, Mohsin, Junaid, Naveed, Fahid"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Mohsin, Ghalib, Pervaiz, Tanveer, Naveed, Junaid, Fahid"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Mohsin, Tanveer, Junaid, Ghalib, Naveed, Pervaiz, Fahid"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Tanveer, Pervaiz, Junaid, Ghalib, Mohsin, Naveed, Fahid"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "In B: Ghalib at 9, Pervaiz next after Ghalib, Mohsin (10:30) before Naveed (11:30) before Fahid (12), and Junaid (11) is one hour after Tanveer (10) — all conditions hold. A violates Mohsin-before-Naveed; C puts Ghalib at 9:30; D has Junaid only 30 min after Tanveer; E's Pervaiz is not next after Ghalib or Naveed.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 27,
+                  "question_type": "puzzle",
+                  "stem": "27. Which of the following people can be scheduled for the interview that begins at 9 a.m.?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Fahid"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Junaid"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Mohsin"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Naveed"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Pervaiz"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Fahid, Naveed and Pervaiz each need a predecessor, and Junaid needs Tanveer an hour earlier, so none can be first. Mohsin can: e.g. Mohsin(9), Naveed(9:30), Pervaiz(10), Ghalib(10:30), Tanveer(11), Fahid(11:30), Junaid(12) is valid.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 28,
+                  "question_type": "puzzle",
+                  "stem": "28. If Naveed's interview is scheduled to begin at 9:30 a.m., who must be scheduled for the interview that begins at 11a.m.?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Fahid"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Junaid"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Mohsin"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Pervaiz"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Tanveer"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Naveed at 9:30 forces Mohsin at 9 and Ghalib at 10:30. The only consistent completion is Mohsin(9), Naveed(9:30), Pervaiz(10), Ghalib(10:30), Tanveer(11), Fahid(11:30), Junaid(12). So Tanveer must be at 11 a.m.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 29,
+                  "question_type": "puzzle",
+                  "stem": "29. If Mohsin's interview is scheduled as the next after Pervaiz's and Pervaiz's interview as the next after Naveed's, how long after Ghalib's interview must Junaid's interview be schedule to begin?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "30 minutes"
+                    },
+                    {
+                      "label": "B",
+                      "text": "1 hour"
+                    },
+                    {
+                      "label": "C",
+                      "text": "90 minutes"
+                    },
+                    {
+                      "label": "D",
+                      "text": "2 hours"
+                    },
+                    {
+                      "label": "E",
+                      "text": "3 hours"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "As printed (Naveed, Pervaiz, Mohsin back to back) the scenario contradicts the rule that Naveed comes after Mohsin, so it is read as the Ghalib, Pervaiz, Mohsin chain (Pervaiz is next after Ghalib or Naveed). Ghalib must be at 9:00 (at 10:30 there would be no room left for Naveed and Fahid after Mohsin), so G, P, M take 9:00-10:00. Naveed, Fahid, Tanveer, Junaid fill 10:30-12:00 with Junaid starting an hour after Tanveer and Naveed before Fahid; the latest-start arrangement N/T/F/J puts Junaid at 12:00, three hours after Ghalib (E). The other arrangement (T/N/J/F) gives 2.5 hours, which is not an option, so E is the answer.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 30,
+                  "question_type": "puzzle",
+                  "stem": "30. If Tanveer is scheduled for the interview that begins at 9 a.m., Fahid's interview must be scheduled to begin at",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "9:30 a.m."
+                    },
+                    {
+                      "label": "B",
+                      "text": "10:30 a.m."
+                    },
+                    {
+                      "label": "C",
+                      "text": "11 a.m."
+                    },
+                    {
+                      "label": "D",
+                      "text": "11:30 a.m."
+                    },
+                    {
+                      "label": "E",
+                      "text": "12:00 noon"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Tanveer at 9 forces Junaid at 10 and Ghalib at 10:30. Then Mohsin<Naveed<Fahid must occupy 9:30, 11, 11:30, 12 with Fahid last, so Fahid begins at 12:00 noon.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Use the information below to answer Questions 31-35.",
+              "instruction": null,
+              "stimulus": {
+                "passage": "Five man and their wives are travelling by taxi from the same place to five different areas of Dhaka. Each couples shares the same surname. Each man has a different occupation. The taxis leave one after another, from 1st to 5th.\nThe following conditions apply:\nAshish Chowdhury is Binty's husband. The teacher takes the 1st taxi. Keka's husband is a Civil Engineer. Rupa Haque goes to Mirpur. Mr Islam is the Architect. Joynal is a Banker. The Data Analyst takes the 4th taxi. Keka takes the 3rd taxi. The 5th taxi goes to Elephant Road. The Mirpur taxi leaves immediately before Rakib Rahman's. The Banker leaves immediately after the teacher but doesn't go to Green Road. The Architect goes to Elephant Road. Liza Ahmed doesn't go to Dhanmondi. Nadira goes to Elephant Road. Hasan goes before Joynal. The 4th taxi goes to Bailey Road. Tanvir goes after the Data Analyst.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 31,
+                  "question_type": "puzzle",
+                  "stem": "31. Who is Mr Rahman's wife?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Binty"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Keka"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Liza"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Rupa"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Nadira"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Solving the constraints gives taxi3 = Rakib Rahman, the Civil Engineer, whose wife (Keka, taxi 3) is married to him. So Mr Rahman's wife is Keka.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 32,
+                  "question_type": "puzzle",
+                  "stem": "32. Who takes the 2nd taxi?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Hasan"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Rakib"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Ashis"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Tanvir"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Joynal"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The Banker leaves immediately after the teacher (taxi 1), so the Banker is in taxi 2; Joynal is the Banker, so Joynal takes the 2nd taxi.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 33,
+                  "question_type": "puzzle",
+                  "stem": "33. If Liza goes to Green Road, what is her husband's occupation?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Banker"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Teacher"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Architect"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Data Analyst"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Civil Engineer"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Liza Ahmed is in taxi 1 (the only area left for her is Green Road), and taxi 1 is the Teacher. So her husband (Hasan) is the Teacher.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 34,
+                  "question_type": "puzzle",
+                  "stem": "34. Who is Nadira's Husband?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Hasan"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Rakib"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Ashis"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Tanvir"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Joynal"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Nadira goes to Elephant Road (taxi 5), which is the Architect = Mr Islam. Since Tanvir travels after the Data Analyst (taxi 4), Tanvir is in taxi 5 and is Mr Islam. So Nadira's husband is Tanvir.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 35,
+                  "question_type": "puzzle",
+                  "stem": "35. Who goes to Bailey Road?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Liza"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Keka"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Nadira"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Rupa"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Taxi 4 (Bailey Road) is Ashish Chowdhury, the Data Analyst, whose wife is Binty. Binty is not among the listed options, so the answer is None of these.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Critical Reasoning:",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 36,
+                  "question_type": "critical-reasoning",
+                  "stem": "36. Psychologist: \"Human minds are poorly equipped to function optimally in fast-paced, high-pressure corporate environments. Therefore, people can experience emotional fulfillment, if they experience it at all, only in low-stress workplaces such as small family businesses.\"\nThe psychologist's argument is flawed because it presumes, without support, that:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "The main purpose of low-stress workplaces is to generate emotional fulfillment."
+                    },
+                    {
+                      "label": "B",
+                      "text": "No one can ever feel emotionally fulfilled in an environment where his/her mind cannot function optimally."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Every large corporation has a high-pressure environment."
+                    },
+                    {
+                      "label": "D",
+                      "text": "Anyone who works in a calm, low-pressure setting can achieve emotional fulfillment."
+                    },
+                    {
+                      "label": "E",
+                      "text": "Everyone is willing to work in small, low-stress business environments."
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The argument leaps from \"minds don't function optimally under high pressure\" to \"no fulfillment there\". That requires assuming fulfillment is impossible wherever the mind cannot function optimally — assumption B.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 37,
+                  "question_type": "critical-reasoning",
+                  "stem": "37. It must be the case that Coach Xabi Alonso violated the athlete-welfare policy. The league committee issues a formal reprimand to a coach only when the coach has either violated the athlete-welfare policy or committed financial misconduct. Since an audit has already confirmed that Alonso's financial dealings are entirely in order, the reprimand can only be explained by a violation of the welfare policy. Which argument below follows the same pattern of reasoning?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "A student is allowed to graduate early only if they have completed all honors courses or obtained administrative approval. Since Sharika did not take the honors courses, she must have secured the approval instead."
+                    },
+                    {
+                      "label": "B",
+                      "text": "A written apology is required of any supplier who either delivers goods late or ships merchandise in damaged condition. Because Tikatuli Supplies' shipments are never damaged, they will not issue a written apology."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Any driver at Hatirjheel Circular Road who shows up intoxicated will either be fired on the spot or put on indefinite leave. But since none of the drivers ever turn up in such a condition, those disciplinary actions basically remain unused threats."
+                    },
+                    {
+                      "label": "D",
+                      "text": "A shop loses its safety certification whenever it either fails a safety inspection or refuses an audit. Because no shop refused an audit this year, none of them failed the safety inspection."
+                    },
+                    {
+                      "label": "E",
+                      "text": "To qualify for the executive bonus, an employee must be endorsed by the board chair or exceed quarterly targets. Kritu was endorsed by the chair and was qualified for the bonus, so she must not have surpassed the targets."
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The original is a disjunctive syllogism: the outcome requires (A or B); not B; therefore A. Option A matches exactly: graduating requires (honors or approval); not honors; therefore approval. The others use invalid or different forms.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 38,
+                  "question_type": "critical-reasoning",
+                  "stem": "38. Breakthroughs in technology and declining machinery costs have made producing bio-plastic from algae far more cost-efficient over the past decade. Despite this, the economic threshold level-the price per ton of petroleum at which new algae-based bio-plastic plants would be cheaper to operate than new petroleum-based plastic plants-has remained fixed at $\\$$120 per ton. Which of the following, if true, best helps explain why improved cost-efficiency in algae-based production has not reduced the petroleum-price threshold?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "The market price of petroleum has dropped sharply in recent years."
+                    },
+                    {
+                      "label": "B",
+                      "text": "The reduction in the cost of algae-processing equipment occurred even though the nutrients required to grow algae have become more expensive."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Technological advances have also increased the production efficiency of petroleum-based plastic factories."
+                    },
+                    {
+                      "label": "D",
+                      "text": "Most plastic products worldwide are still manufactured using recycled materials rather than either of these two methods."
+                    },
+                    {
+                      "label": "E",
+                      "text": "When petroleum prices rise, petroleum reserves previously too costly to refine become profitable to extract."
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "If petroleum-based production also became more efficient (cheaper), its costs fell too, keeping the break-even petroleum price unchanged despite algae's gains. C explains the fixed threshold.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 3,
+          "source_section_label": "Section-3: Language & Communication",
+          "subject": "language",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": "Identify the sentence(s) showing the incorrect use of the underlined word.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 39,
+                  "question_type": "word-substitution",
+                  "stem": "39. i. The school intends to use the generous endorsement to rebuild its library.\nii. Following its relaunch, the book received another round of ringing endorsement.\niii. The bank requires that someone act as witness to the endorsement of the cheque.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only ii"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Only iii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Both i and iii"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Both i and ii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Only i"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "In (i) \"endorsement\" (approval/backing) is misused where a financial gift — an \"endowment\" — is meant (to rebuild the library). In (ii) praise and in (iii) signing a cheque are correct uses. So only (i) is incorrect.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 40,
+                  "question_type": "word-substitution",
+                  "stem": "40. i. He showed a blatant disregard for the safety of other drivers.\nii. Although I was expecting an interesting interview, he only asked a few blatant questions about the weather.\niii. His comments are not lacking in sublley but are rather blatant and devoid of originality.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only i"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Only ii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Both ii and iii"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Both i and ii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "All are correct"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"Blatant\" means flagrantly obvious. (i) is correct. (ii) misuses it for dull/trivial weather questions. (iii) is self-contradictory — \"not lacking in subtlety\" (i.e. subtle) cannot also be \"blatant\". So (ii) and (iii) are incorrect.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_label": "Writing Ability: 30 marks, 30 min",
+      "sections": [
+        {
+          "section_no": 4,
+          "source_section_label": "Writing Ability: 30 marks, 30 min",
+          "subject": "writing",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "argument",
+                  "stem": "1. Argument Writing: The rights of privacy is more important than public safety & surveillance, agree or disagree.",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended argument. Take a clear stance on privacy vs. public safety/surveillance, support it with reasoning and examples, address the counter-position, and conclude. No single correct answer.",
+                  "marks": null,
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "essay",
+                  "stem": "2. Essay writing: Contentment is natural wealth, Luxury is artificial poverty.",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended essay. Interpret the quote (inner contentment is true wealth while luxury breeds endless want), develop with reasoning and examples, and conclude. No single correct answer.",
+                  "marks": null,
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    "Page 6 prints, after Q40, two stand-alone lines: 'Vocabulary: Posterity, Opaque, Mutable, Entrenched, Provisional, Lucid, Calumnies' and 'Idioms and Phrases: Sabotage, Make ends meet, Eye on the ball.' They are NOT stored in the JSON (no field for stand-alone notes) - needs your decision.",
+    "Q31-35 conditions are printed as one paragraph (stored with line breaks - layout only). Q26 schedule header row is printed as a table (stored as text line).",
+    "Q1-40 compared on pages 1-6; no other differences found. Writing prompts: 15 + 15 marks (30 marks, 30 min).",
+    "Answers and explanations are out of scope (to be regenerated by the user); stored values are unreliable."
+  ]
+}

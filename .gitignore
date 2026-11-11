@@ -1,0 +1,26 @@
+# secrets
+.env
+.env.*
+!.env.example
+*.pem
+*service-account*.json
+*firebase*adminsdk*.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+staticfiles/
+media/
+
+# node
+node_modules/
+.next/
+out/
+
+# misc
+.DS_Store
+*.log

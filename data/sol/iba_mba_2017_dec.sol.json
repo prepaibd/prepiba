@@ -1,0 +1,595 @@
+{
+ "exam": "iba_mba_2017_dec",
+ "items": {
+  "2-26": {
+   "en": "Let SP = s, CP = c. Doubling SP triples the profit: 2s − c = 3(s − c) ⇒ s = 2c. Profit = c, i.e. 100%.",
+   "bn": "SP = s, CP = c ধরি। SP দ্বিগুণ করলে profit তিনগুণ: 2s − c = 3(s − c) ⇒ s = 2c। Profit = c, অর্থাৎ 100%।",
+   "answer": "B",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "2-27": {
+   "en": "B = 2C and A = B + 3. A + B + C = (B + 3) + B + B/2 = 2.5B + 3 = 38 ⇒ B = 14.",
+   "bn": "B = 2C এবং A = B + 3। A + B + C = (B + 3) + B + B/2 = 2.5B + 3 = 38 ⇒ B = 14।",
+   "answer": "C",
+   "formula_ids": [
+    "age"
+   ]
+  },
+  "2-28": {
+   "en": "Let CPs be 5k, 7k and SPs 2m, 5m. Equal losses: 5k − 2m = 7k − 5m ⇒ 3m = 2k. Take k = 3, m = 2: Q's CP = 21, SP = 10, so CP : SP = 21 : 10, which is not an option.",
+   "bn": "CP 5k, 7k এবং SP 2m, 5m ধরি। ক্ষতি সমান: 5k − 2m = 7k − 5m ⇒ 3m = 2k। k = 3, m = 2 নিলে Q-এর CP = 21, SP = 10, তাই CP : SP = 21 : 10, যা option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "profit-loss",
+    "ratio"
+   ]
+  },
+  "2-29": {
+   "en": "Speeds 3 : 4 ⇒ times 4 : 3. The one-part difference is 30 min, so A takes 4 × 30 = 120 min = 2 hours.",
+   "bn": "গতি 3 : 4 ⇒ সময় 4 : 3। এক ভাগ পার্থক্য = 30 মিনিট, তাই A-র লাগে 4 × 30 = 120 মিনিট = 2 ঘণ্টা।",
+   "answer": "C",
+   "formula_ids": [
+    "speed",
+    "ratio"
+   ]
+  },
+  "2-30": {
+   "en": "Meeting at 110 km from one station means one train covered 110 km and the other 90 km in the same time, so speeds are 110 : 90 = 11 : 9.",
+   "bn": "এক station থেকে 110 km দূরে মিলিত হলে একই সময়ে একটি ট্রেন 110 km এবং অন্যটি 90 km গেছে, তাই গতির অনুপাত 110 : 90 = 11 : 9।",
+   "answer": "A",
+   "formula_ids": [
+    "speed",
+    "ratio"
+   ]
+  },
+  "2-31": {
+   "en": "10x = 5y + 5z ⇒ 2x = y + z.",
+   "bn": "10x = 5y + 5z ⇒ 2x = y + z।",
+   "answer": "D",
+   "formula_ids": [
+    "average"
+   ]
+  },
+  "2-32": {
+   "en": "A is twice as fast, so A takes half B's time: A = t, B = 2t, and 2t − t = 18 ⇒ t = 18, B = 36. Together = 18 × 36/(18 + 36) = 12 days.",
+   "bn": "A দ্বিগুণ দক্ষ, তাই A-র সময় B-র অর্ধেক: A = t, B = 2t, 2t − t = 18 ⇒ t = 18, B = 36। একসাথে = 18 × 36/(18 + 36) = 12 দিন।",
+   "answer": "B",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "2-33": {
+   "en": "Let the club have T members: below 25 = 0.2T, above 25 = 16, exactly 25 = 16 ÷ (2/3) = 24. T = 0.2T + 16 + 24 ⇒ T = 50.",
+   "bn": "club-এ মোট T জন: 25-এর কম = 0.2T, 25-এর বেশি = 16, ঠিক 25 = 16 ÷ (2/3) = 24। T = 0.2T + 16 + 24 ⇒ T = 50।",
+   "answer": "A",
+   "formula_ids": [
+    "ratio",
+    "algebra"
+   ]
+  },
+  "2-34": {
+   "en": "Area of a parallelogram = base × height = AB × EF = 12 × 5 = 60 sq cm.",
+   "bn": "সামান্তরিকের ক্ষেত্রফল = ভূমি × উচ্চতা = AB × EF = 12 × 5 = 60 sq cm।",
+   "answer": "C",
+   "formula_ids": [
+    "geometry"
+   ],
+   "note": "Uses the figure: EF is the height to base AB."
+  },
+  "2-35": {
+   "en": "The numbers are 40% and 26% of the third. The second is less than the first by (40 − 26)/40 = 35%.",
+   "bn": "সংখ্যা দুটি তৃতীয়টির 40% ও 26%। দ্বিতীয়টি প্রথমের চেয়ে কম (40 − 26)/40 = 35%।",
+   "answer": "D",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "2-36": {
+   "en": "Let there be s students; each gets 12.5% of s = s/8. Total s × s/8 = 200 ⇒ s² = 1600 ⇒ s = 40. Each receives 5.",
+   "bn": "student s জন; প্রত্যেকে পায় s-এর 12.5% = s/8। মোট s × s/8 = 200 ⇒ s² = 1600 ⇒ s = 40। প্রত্যেকে পায় 5টি।",
+   "answer": "B",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-37": {
+   "en": "0.3(x − y) = 0.2(x + y) ⇒ 0.1x = 0.5y ⇒ x : y = 5 : 1.",
+   "bn": "0.3(x − y) = 0.2(x + y) ⇒ 0.1x = 0.5y ⇒ x : y = 5 : 1।",
+   "answer": "A",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "2-38": {
+   "en": "A product of 4 consecutive integers is divisible by 24 (so by 12). Divisible by 11 and also even, so by 22. It has 3 and 11, so by 33. All four are always divisors, so none is 'not necessarily' a divisor.",
+   "bn": "পরপর 4টি integer-এর গুণফল 24 (তাই 12) দিয়ে বিভাজ্য। 11 দিয়ে বিভাজ্য এবং জোড়, তাই 22 দিয়েও। 3 ও 11 আছে, তাই 33 দিয়েও। চারটিই সবসময় divisor, তাই 'অবশ্যম্ভাবী নয়' এমন কোনোটিই নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-39": {
+   "en": "Of 100 men, 20 play football. Men above 50 are 20, and 20% of them (4) play football. So football players ≤ 50 = 20 − 4 = 16, i.e. 16/20 = 80%.",
+   "bn": "100 জন পুরুষের মধ্যে 20 জন football খেলে। 50-এর বেশি বয়সী 20 জন, তাদের 20% (4 জন) খেলে। তাই ≤ 50 বছরের খেলোয়াড় = 20 − 4 = 16, অর্থাৎ 16/20 = 80%।",
+   "answer": "D",
+   "formula_ids": [
+    "sets",
+    "pct-change"
+   ]
+  },
+  "2-40": {
+   "en": "Pass mark = 0.4T + 10 = 0.5T − 10 ⇒ 0.1T = 20 ⇒ T = 200.",
+   "bn": "Pass mark = 0.4T + 10 = 0.5T − 10 ⇒ 0.1T = 20 ⇒ T = 200।",
+   "answer": "D",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-41": {
+   "en": "Combining the estimates: 50 to 56 kg. The probable weights are 50, 51, …, 56, whose average is 53.",
+   "bn": "তিনটি অনুমান একসাথে: 50 থেকে 56 kg। সম্ভাব্য ওজন 50, 51, …, 56, যাদের গড় 53।",
+   "answer": "B",
+   "formula_ids": [
+    "average"
+   ],
+   "note": "Takes 'between' as inclusive, giving 50 to 56."
+  },
+  "2-42": {
+   "en": "Sum of 8 = 160; first two = 38; next three = 63. Last three sum = 59. If the sixth is s, the seventh is s + 2 and the eighth s + 3: 3s + 5 = 59 ⇒ s = 18. Eighth = 21.",
+   "bn": "8 জনের যোগফল = 160; প্রথম দুজন = 38; পরের তিনজন = 63। শেষ তিনজনের যোগফল = 59। ষষ্ঠ s হলে সপ্তম s + 2, অষ্টম s + 3: 3s + 5 = 59 ⇒ s = 18। অষ্টম = 21।",
+   "answer": "B",
+   "formula_ids": [
+    "average"
+   ]
+  },
+  "2-43": {
+   "en": "Each friend pays a: (100 + 5a)/6 = a + 10 ⇒ 100 + 5a = 6a + 60 ⇒ a = 40.",
+   "bn": "প্রত্যেক বন্ধু a দেয়: (100 + 5a)/6 = a + 10 ⇒ 100 + 5a = 6a + 60 ⇒ a = 40।",
+   "answer": "D",
+   "formula_ids": [
+    "average"
+   ]
+  },
+  "2-44": {
+   "en": "75t = 50(t + 1) ⇒ t = 2 h, so distance = 150 km.",
+   "bn": "75t = 50(t + 1) ⇒ t = 2 ঘণ্টা, তাই দূরত্ব = 150 km।",
+   "answer": "A",
+   "formula_ids": [
+    "speed"
+   ]
+  },
+  "2-45": {
+   "en": "Take 100 pens: 40 red. Remove 20 red → 20 red out of 80 = 25%.",
+   "bn": "100টি কলম ধরি: 40টি লাল। 20টি লাল সরালে 80টির মধ্যে 20টি লাল = 25%।",
+   "answer": "C",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "2-46": {
+   "en": "From the figure, ∠ACB = 90° − 24° = 66°. ∠ECF is vertically opposite ∠ACD, and ∠ECF = ∠BCD (given), so ∠ACD = ∠DCB. These two make up 66°, so ∠ECF = 33°.",
+   "bn": "চিত্র থেকে ∠ACB = 90° − 24° = 66°। ∠ECF হলো ∠ACD-এর বিপ্রতীপ কোণ, আর ∠ECF = ∠BCD (দেওয়া আছে), তাই ∠ACD = ∠DCB। এ দুটি মিলে 66°, তাই ∠ECF = 33°।",
+   "answer": "A",
+   "formula_ids": [
+    "geometry"
+   ],
+   "note": "Uses the figure: F, C, D are collinear and B is the far end (right angle at A)."
+  },
+  "2-47": {
+   "en": "Let C, M, E be the numbers. M + E = 20, C + E = 15, C + M = 25. Adding: C + M + E = 30, so E = 30 − 25 = 5.",
+   "bn": "C, M, E সংখ্যা ধরি। M + E = 20, C + E = 15, C + M = 25। যোগ করলে C + M + E = 30, তাই E = 30 − 25 = 5।",
+   "answer": "A",
+   "formula_ids": [
+    "sets",
+    "algebra"
+   ]
+  },
+  "2-48": {
+   "en": "With −1 < x < 1 and x ≠ 0: I (x³ < x² ⇔ x < 1) is true; III (x⁴ < x² ⇔ x² < 1) is true; II fails at x = 0.9 (0.59 < 0.1 is false). So I and III.",
+   "bn": "−1 < x < 1, x ≠ 0 হলে: I (x³ < x² ⇔ x < 1) সত্য; III (x⁴ < x² ⇔ x² < 1) সত্য; II ভুল x = 0.9-এ (0.59 < 0.1 মিথ্যা)। তাই I ও III।",
+   "answer": "D",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-49": {
+   "en": "First: SP = 1.2c. Second: cost 0.9c, SP = 1.4 × 0.9c = 1.26c. Difference 0.06c = 24 ⇒ c = 400, original SP = 480.",
+   "bn": "প্রথম: SP = 1.2c। দ্বিতীয়: cost 0.9c, SP = 1.4 × 0.9c = 1.26c। পার্থক্য 0.06c = 24 ⇒ c = 400, মূল SP = 480।",
+   "answer": "B",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "2-50": {
+   "en": "If xyz were odd, x, y, z would all be odd. Then xy + z = odd + odd = even, contradicting (1), and x + y + z = odd, contradicting (2). Each statement alone rules it out, so xyz is even. Each alone is sufficient.",
+   "bn": "xyz বিজোড় হলে x, y, z তিনটিই বিজোড় হতো। তখন xy + z = বিজোড় + বিজোড় = জোড় (এটি (1)-এর বিপরীত) এবং x + y + z = বিজোড় (এটি (2)-এর বিপরীত)। প্রতিটি statement একাই এটি বাতিল করে, তাই xyz জোড়। প্রতিটি এককভাবে যথেষ্ট।",
+   "answer": "D",
+   "formula_ids": [
+    "ds-method",
+    "numprop"
+   ]
+  },
+  "2-51": {
+   "en": "(2) states directly that 54 kg of water must be added: sufficient. (1) only restates the goal (50% sugar) and gives no amount.",
+   "bn": "(2) সরাসরি বলছে 54 kg পানি যোগ করতে হবে: যথেষ্ট। (1) শুধু লক্ষ্যটি (50% চিনি) আবার বলছে, কোনো পরিমাণ দেয় না।",
+   "answer": "B",
+   "formula_ids": [
+    "ds-method",
+    "mixture"
+   ]
+  },
+  "2-52": {
+   "en": "Alone, (1) gives z = 2 − x/3 (not unique) and (2) brings in y. Together, from (1) y = 4 − x, so z = x/6 + (4 − x)/2 = 2 − x/3; with (2), x = 7 − 2z gives 3z = 6 − 7 + 2z ⇒ z = −1.",
+   "bn": "আলাদাভাবে (1) থেকে z = 2 − x/3 (অনন্য নয়) এবং (2)-তে y আসে। একসাথে (1) থেকে y = 4 − x, তাই z = x/6 + (4 − x)/2 = 2 − x/3; (2) থেকে x = 7 − 2z, তাই 3z = 6 − 7 + 2z ⇒ z = −1।",
+   "answer": "C",
+   "formula_ids": [
+    "ds-method",
+    "algebra"
+   ]
+  },
+  "2-53": {
+   "en": "Students with at least one item = 48 − 18 = 30 (needs statement 2). Exactly one = 30 − (both = 6) = 24 (needs statement 1). Both are required.",
+   "bn": "অন্তত একটি জিনিস আছে এমন student = 48 − 18 = 30 (statement 2 লাগে)। ঠিক একটি আছে = 30 − (উভয় = 6) = 24 (statement 1 লাগে)। দুটিই দরকার।",
+   "answer": "C",
+   "formula_ids": [
+    "ds-method",
+    "sets"
+   ]
+  },
+  "2-54": {
+   "en": "(1) 10 − y < y − (x + 10)/2 ⇒ y > (x + 30)/4. For x < 10, (x + 30)/4 > (2x + 20)/4 = the average of x and 10 over... so y exceeds the average: a definite 'no'. Sufficient. (2) is incomplete in print.",
+   "bn": "(1) 10 − y < y − (x + 10)/2 ⇒ y > (x + 30)/4। x < 10 হলে (x + 30)/4 > (2x + 20)/4 = x ও 10-এর গড়, তাই y গড়ের চেয়ে বড়: নির্দিষ্ট 'না'। যথেষ্ট। (2) ছাপায় অসম্পূর্ণ।",
+   "answer": "A",
+   "formula_ids": [
+    "ds-method",
+    "average"
+   ],
+   "note": "Statement 2 is incomplete in print ('y is times as large as x')."
+  },
+  "2-55": {
+   "en": "(1) alone: x divisible by 20 says nothing about y. (2) alone: y = 0.05x, so x − 2y = 0.9x, not necessarily an integer. Together: x = 20k, so 0.9x = 18k is an integer.",
+   "bn": "(1) একা: x, 20 দিয়ে বিভাজ্য, y সম্পর্কে কিছু বলে না। (2) একা: y = 0.05x, তাই x − 2y = 0.9x, যা integer নাও হতে পারে। একসাথে: x = 20k, তাই 0.9x = 18k integer।",
+   "answer": "C",
+   "formula_ids": [
+    "ds-method",
+    "numprop"
+   ],
+   "note": "The stem is printed 'If sx is an integer'; the answer assumes x, y are integers."
+  },
+  "3-56": {
+   "en": "A, B have U with X; C, E have X without Y. Only V, X, Y obeys every rule.",
+   "bn": "A, B-তে U ও X একসাথে; C, E-তে Y ছাড়া X। শুধু V, X, Y সব নিয়ম মানে।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-57": {
+   "en": "The rules give no upper limit on common members, so the most overlap is all three: V, W, Z.",
+   "bn": "Common সদস্যের কোনো সর্বোচ্চ সীমা নেই, তাই সবচেয়ে বেশি overlap তিনজনই: V, W, Z।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-58": {
+   "en": "X needs Y in the same commission, so the one who steps down must be from the commission that has Y: Judicial (W, Y, Z). Y's departure removes Y; W's departure leaves no common member. Z can give up her place: Judicial becomes W, X, Y, still sharing W and keeping X with Y.",
+   "bn": "X-এর জন্য একই commission-এ Y লাগে, তাই যে জায়গা ছাড়বে সে Y আছে এমন commission-এর (Judicial: W, Y, Z)। Y ছাড়লে Y থাকে না; W ছাড়লে common সদস্য থাকে না। Z জায়গা ছাড়তে পারে: Judicial হয় W, X, Y, যেখানে W common থাকে এবং X-এর সাথে Y আছে।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-59": {
+   "en": "U and X are in different commissions, and X needs Y, so X's commission is X, Y, Z. X is with Y.",
+   "bn": "U ও X আলাদা commission-এ, X-এর জন্য Y লাগে, তাই X-এর commission X, Y, Z। X ও Y একসাথে।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-60": {
+   "en": "Public = X, Y, Z (X needs Y). Judicial has U (no X) and must share Y or Z. V and W together share none, so they cannot be the pair.",
+   "bn": "Public = X, Y, Z (X-এর জন্য Y)। Judicial-এ U আছে (X নেই) এবং Y বা Z common লাগে। V ও W একসাথে হলে কেউ common নয়, তাই তারা সেই জোড়া হতে পারে না।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-61": {
+   "en": "Kamrun's wedding must be on Wednesday (Bijoy and Fatima follow the next day, and Monday, Wednesday, Friday are taken). Kamrun marries Shams. Pathan takes Monday (Aisha, not Obaid), Obaid Tuesday. Riyad (Friday) cannot marry Lima, so Riyad marries Chobi.",
+   "bn": "Kamrun-এর বিয়ে বুধবার হতেই হবে (Bijoy ও Fatima পরের দিন, আর সোম, বুধ, শুক্র নেওয়া)। Kamrun, Shams-কে বিয়ে করে। সোমবার Pathan (Aisha, Obaid নয়), মঙ্গলবার Obaid। Riyad (শুক্রবার) Lima-কে বিয়ে করেনি, তাই Riyad বিয়ে করেছে Chobi-কে।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-62": {
+   "en": "Kamrun's wedding is on Wednesday, the same day as Shams. Kamrun married Shams.",
+   "bn": "Kamrun-এর বিয়ে বুধবার, Shams-এর সাথে একই দিনে। Kamrun বিয়ে করেছে Shams-কে।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-63": {
+   "en": "Monday: Aisha–Pathan; Wednesday: Kamrun–Shams; Thursday: Bijoy–Fatima; Friday: Riyad–Chobi. The remaining groom, Obaid, married on Tuesday (with Lima).",
+   "bn": "সোমবার: Aisha–Pathan; বুধবার: Kamrun–Shams; বৃহস্পতিবার: Bijoy–Fatima; শুক্রবার: Riyad–Chobi। বাকি বর Obaid-এর বিয়ে মঙ্গলবার (Lima-র সাথে)।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-64": {
+   "en": "Aisha is married on Monday and not to Obaid; Shams, Riyad, Bijoy and Obaid are placed elsewhere, so Aisha's husband is Pathan.",
+   "bn": "Aisha-র বিয়ে সোমবার এবং Obaid-এর সাথে নয়; Shams, Riyad, Bijoy ও Obaid অন্য জায়গায়, তাই Aisha-র স্বামী Pathan।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-65": {
+   "en": "F must start before G, H before I. In H, G, F, I, G is before F, breaking F → G. All the other orders are valid.",
+   "bn": "F, G-এর আগে এবং H, I-এর আগে শুরু হবে। H, G, F, I-তে G, F-এর আগে, যা F → G ভাঙে। অন্য সব ক্রম বৈধ।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-66": {
+   "en": "If every project takes equal time, the completion order equals the start order. H starts before I, so H is completed before I.",
+   "bn": "প্রতিটি project সমান সময় নিলে সম্পন্ন হওয়ার ক্রম শুরুর ক্রমের সমান। H, I-এর আগে শুরু হয়, তাই H, I-এর আগে সম্পন্ন হয়।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-67": {
+   "en": "'I has priority over F' gives H < I < F < G, a single order: H, I, F, G.",
+   "bn": "'I, F-এর চেয়ে অগ্রাধিকার পায়' থেকে H < I < F < G, অর্থাৎ একটিমাত্র ক্রম: H, I, F, G।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-68": {
+   "en": "The conclusion is that any crisis will come from distribution, not production. That only follows if production will keep being sufficient.",
+   "bn": "Conclusion: যে-কোনো সংকট বণ্টন থেকে আসবে, উৎপাদন থেকে নয়। এটি তখনই সত্য যদি উৎপাদন ভবিষ্যতেও পর্যাপ্ত থাকে।",
+   "answer": "C",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "3-69": {
+   "en": "Order: Jui > Kona > Enam > Sonia, with Wasif between Sonia and Jui. If Bulu < Wasif < Enam, then Bulu < Enam < Kona, so Bulu is shorter than Kona.",
+   "bn": "ক্রম: Jui > Kona > Enam > Sonia, Wasif Sonia ও Jui-এর মাঝে। Bulu < Wasif < Enam হলে Bulu < Enam < Kona, তাই Bulu, Kona-র চেয়ে খাটো।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-70": {
+   "en": "To weaken 'this year's flood may cause famine', show that food supply is protected. Rice and grain import deals already signed do exactly that.",
+   "bn": "'এ বছরের বন্যা দুর্ভিক্ষ ঘটাতে পারে' দুর্বল করতে দেখাতে হবে খাদ্য সরবরাহ সুরক্ষিত। ইতোমধ্যে সই হওয়া চাল ও শস্য আমদানি চুক্তি ঠিক সেটাই করে।",
+   "answer": "B",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "1-1": {
+   "en": "After 'that' we need a clause or noun phrase subject: 'reading is a good habit'. The gerund 'reading' works; infinitive forms do not.",
+   "bn": "'that'-এর পরে clause বা noun phrase subject লাগে: 'reading is a good habit'। Gerund 'reading' চলে; infinitive form চলে না।",
+   "answer": "E",
+   "rule_ids": [
+    "gerund"
+   ]
+  },
+  "1-2": {
+   "en": "'Averse to' means opposed to: 'I was averse to paying…'. 'Adverse' means harmful; 'willing' would not take 'to paying' here with this sense of unwillingness.",
+   "bn": "'Averse to' মানে বিরোধী: 'I was averse to paying…'। 'Adverse' মানে ক্ষতিকর।",
+   "answer": "B",
+   "rule_ids": [
+    "confusable",
+    "prep-noun"
+   ]
+  },
+  "1-3": {
+   "en": "The speaker 'implies' (suggests); the listener 'infers' (concludes). So: 'didn't mean to imply … You might infer'.",
+   "bn": "বক্তা 'imply' করে (ইঙ্গিত দেয়); শ্রোতা 'infer' করে (সিদ্ধান্ত টানে)। তাই: 'didn't mean to imply … You might infer'।",
+   "answer": "D",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-4": {
+   "en": "A theory disproved by the facts is 'untenable' (cannot be defended). 'Tortuous' means winding; 'torturous' means painful.",
+   "bn": "তথ্য দ্বারা খণ্ডিত theory হলো 'untenable' (রক্ষা করা যায় না)। 'Tortuous' মানে আঁকাবাঁকা; 'torturous' মানে যন্ত্রণাদায়ক।",
+   "answer": "A",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-5": {
+   "en": "'Precedents in history' and revolutions cannot be 'suppressed' forever by dictators. The other pairs do not fit.",
+   "bn": "'Precedents in history' এবং বিপ্লবকে স্বৈরশাসকরা চিরকাল 'suppress' করতে পারে না। অন্য জোড়া মেলে না।",
+   "answer": "B",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-6": {
+   "en": "'So consumed by his own thoughts that he hardly seemed to notice the uproar': absorption and noise contrast.",
+   "bn": "'So consumed by his own thoughts that he hardly seemed to notice the uproar': নিজের ভাবনায় ডুবে থাকা ও হট্টগোলের বৈপরীত্য।",
+   "answer": "A",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-7": {
+   "en": "'Apprised' = informed. 'Appraised' = evaluated; 'approved' does not fit 'of the situation'.",
+   "bn": "'Apprised' = জানানো। 'Appraised' = মূল্যায়ন করা; 'approved' 'of the situation'-এর সাথে মেলে না।",
+   "answer": "A",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-8": {
+   "en": "'Credulous' people believe too easily, so they can be taken advantage of. 'Credible' = believable; 'credential' is a qualification.",
+   "bn": "'Credulous' মানুষ সহজে বিশ্বাস করে, তাই তাদের সুযোগ নেওয়া যায়। 'Credible' = বিশ্বাসযোগ্য; 'credential' = যোগ্যতার সনদ।",
+   "answer": "B",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-9": {
+   "en": "To 'flout' or 'contravene' rules is to break them. 'Flaunt' means to show off.",
+   "bn": "নিয়ম 'flout' বা 'contravene' করা মানে ভাঙা। 'Flaunt' মানে জাহির করা।",
+   "answer": "D",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-10": {
+   "en": "The noun is 'extent': 'to an extent'. 'Extend' is a verb.",
+   "bn": "Noun হলো 'extent': 'to an extent'। 'Extend' verb।",
+   "answer": "D",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-11": {
+   "en": "With 'Either … or' the verb agrees with the nearer subject and 'will volunteer' takes the base form: 'will always volunteer his/her time'.",
+   "bn": "'Either … or'-এ verb কাছের subject-এর সাথে মেলে এবং 'will volunteer' base form নেয়: 'will always volunteer his/her time'।",
+   "answer": "C",
+   "rule_ids": [
+    "sv-agree"
+   ]
+  },
+  "1-12": {
+   "en": "Use the adverb 'quickly' to modify the verb 'work': 'as quickly as you can'.",
+   "bn": "Verb 'work'-কে modify করতে adverb 'quickly': 'as quickly as you can'।",
+   "answer": "A",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-13": {
+   "en": "'My neighbor as well as his wife' has the singular subject 'my neighbor', so 'discusses'.",
+   "bn": "'My neighbor as well as his wife'-এ subject singular 'my neighbor', তাই 'discusses'।",
+   "answer": "B",
+   "rule_ids": [
+    "sv-agree"
+   ]
+  },
+  "1-14": {
+   "en": "'At present' (not 'presents'). (Also 'one of the most strictly regulated industry' should be 'industries'; the printed key marks A.)",
+   "bn": "'At present' ('presents' নয়)। (আবার 'one of the most strictly regulated industry'-তে 'industries' হওয়া উচিত; ছাপা key A।)",
+   "answer": "A",
+   "rule_ids": [
+    "sv-agree"
+   ],
+   "note": "D ('regulated industry') is also wrong (should be 'industries'); the key is A."
+  },
+  "1-15": {
+   "en": "'People who want to explore local market dynamics' is the only grammatical and sensible completion ('what to' is a misprint for 'want to'). A and D break agreement; B and E make no sense.",
+   "bn": "'People who want to explore local market dynamics'-ই একমাত্র শুদ্ধ ও যুক্তিসঙ্গত সমাপ্তি ('what to' হলো 'want to'-এর misprint)। A ও D-তে agreement ভাঙে; B ও E অর্থহীন।",
+   "answer": "C",
+   "rule_ids": [
+    "sv-agree"
+   ]
+  },
+  "1-16": {
+   "en": "Only 'No, he said he'd call later' directly answers a yes/no question about a message and is a logical reply.",
+   "bn": "শুধু 'No, he said he'd call later' বার্তা সম্পর্কিত yes/no প্রশ্নের সরাসরি ও যুক্তিসঙ্গত উত্তর।",
+   "answer": "D"
+  },
+  "1-17": {
+   "en": "'The best way to overcome failure': 'way to' is followed by the base verb.",
+   "bn": "'The best way to overcome failure': 'way to'-এর পরে base verb।",
+   "answer": "D",
+   "rule_ids": [
+    "gerund"
+   ]
+  },
+  "1-18": {
+   "en": "'For those who have been introverts all their lives': present perfect and plural 'who have'. 'Whom' and 'has' are wrong.",
+   "bn": "'For those who have been introverts all their lives': present perfect ও plural 'who have'। 'Whom' ও 'has' ভুল।",
+   "answer": "B",
+   "rule_ids": [
+    "tense"
+   ]
+  },
+  "1-19": {
+   "en": "The original is correct: 'Having witnessed … I was thankful' – the perfect participle matches the subject 'I'.",
+   "bn": "মূলটিই শুদ্ধ: 'Having witnessed … I was thankful' – perfect participle subject 'I'-এর সাথে মেলে।",
+   "answer": "A",
+   "rule_ids": [
+    "dangling"
+   ]
+  },
+  "1-20": {
+   "en": "(i) is wrong: 'complacent mechanic' should be 'competent mechanic'. (ii) and (iii) use 'complacent' (self-satisfied) correctly.",
+   "bn": "(i) ভুল: 'complacent mechanic'-এর বদলে 'competent mechanic' হবে। (ii) ও (iii)-এ 'complacent' (আত্মতুষ্ট) শুদ্ধ।",
+   "answer": "A",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-21": {
+   "en": "(i) 'discern' (verb) is right. In (ii) and (iii) the noun should be 'concern', not 'discern'.",
+   "bn": "(i)-এ 'discern' (verb) শুদ্ধ। (ii) ও (iii)-এ noun হবে 'concern', 'discern' নয়।",
+   "answer": "B",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-22": {
+   "en": "The passage says stereotypes reduce a person to a few simplified characteristics: using a handful of attributes for the whole impression.",
+   "bn": "Passage বলছে stereotype একজনকে কয়েকটি সরলীকৃত বৈশিষ্ট্যে সীমিত করে: গুটিকয় বৈশিষ্ট্য দিয়ে পুরো ধারণা তৈরি।",
+   "answer": "C",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-23": {
+   "en": "Ruling out promotion after seeing poor performance records is based on evidence about the individual, not a group assumption. The others judge people by group traits.",
+   "bn": "খারাপ performance record দেখে promotion বাতিল করা ব্যক্তির প্রমাণের উপর নির্ভরশীল, গোষ্ঠী সম্পর্কে ধারণার উপর নয়। অন্যগুলো গোষ্ঠীর বৈশিষ্ট্য দিয়ে বিচার করে।",
+   "answer": "B",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-24": {
+   "en": "Splitting excludes those who do not fit the norms. Stereotypes simplify; they do not form complex views, so A is the exception.",
+   "bn": "Splitting নিয়ম না মানা মানুষদের বাদ দেয়। Stereotype সরলীকরণ করে; জটিল ধারণা তৈরি করে না, তাই A ব্যতিক্রম।",
+   "answer": "A",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-25": {
+   "en": "The passage supports all four: judging on unrelated criteria, unfair workload, reduced collaboration, and difficulty in working with different groups.",
+   "bn": "Passage চারটিকেই সমর্থন করে: অপ্রাসঙ্গিক মানদণ্ডে বিচার, অন্যায্য কাজের বণ্টন, সহযোগিতা কমা এবং ভিন্ন গোষ্ঠীর সাথে কাজ কঠিন হওয়া।",
+   "answer": "E",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "4-1": {
+   "en": "Approach: Thesis: self-respect and respect for others grow together. Paragraph 1: define both (self-respect = honouring your values; respect for others = treating people with dignity). Paragraph 2: why one needs the other (people who respect others earn trust and, in turn, a sense of worth). Paragraph 3: an example (a workplace or classroom where respect improved teamwork). Paragraph 4: how to practise it (listening, honesty, accepting differences). Conclusion: respect is a habit that returns to you.\nUseful phrases: 'treat others with dignity', 'mutual respect', 'self-worth'.\nAvoid: moralising without an example.",
+   "bn": "পদ্ধতি: Thesis: আত্মসম্মান ও অন্যের প্রতি সম্মান একসাথে বাড়ে। Paragraph 1: দুটির সংজ্ঞা (আত্মসম্মান = নিজের মূল্যবোধকে মর্যাদা দেওয়া; অন্যকে সম্মান = মানুষের সাথে মর্যাদাপূর্ণ আচরণ)। Paragraph 2: একটির জন্য অন্যটি কেন দরকার (যারা অন্যকে সম্মান করে তারা আস্থা অর্জন করে এবং নিজের মূল্যবোধও পায়)। Paragraph 3: উদাহরণ (কর্মক্ষেত্র বা ক্লাসরুম যেখানে সম্মান teamwork উন্নত করেছে)। Paragraph 4: চর্চার উপায় (মন দিয়ে শোনা, সততা, ভিন্নমত মেনে নেওয়া)। উপসংহার: সম্মান এমন অভ্যাস যা ফিরে আসে।\nকাজের phrase: 'treat others with dignity', 'mutual respect', 'self-worth'।\nএড়ান: উদাহরণ ছাড়া নীতিকথা।",
+   "rule_ids": [
+    "essay"
+   ]
+  },
+  "4-2": {
+   "en": "Approach (thematic writing): theme 'Improving primary education'. Title: 'Building the Nation Through Primary Education'. Use as many words as possible and underline them (children, examination, future, government, nation, primary education, quality, stress, teacher, textbook). Flow: primary education shapes the future of the nation → quality depends on teacher and textbook → examination stress harms children → government should invest and reform. Keep 2–3 short paragraphs and one or two linking sentences without list words.",
+   "bn": "পদ্ধতি (thematic writing): theme 'প্রাথমিক শিক্ষার উন্নয়ন'। Title: 'Building the Nation Through Primary Education'। যত বেশি সম্ভব শব্দ ব্যবহার করে দাগ দিন (children, examination, future, government, nation, primary education, quality, stress, teacher, textbook)। প্রবাহ: primary education জাতির future গড়ে → quality নির্ভর করে teacher ও textbook-এর উপর → examination stress children-দের ক্ষতি করে → government-কে বিনিয়োগ ও সংস্কার করতে হবে। 2–3টি ছোট paragraph এবং তালিকার শব্দ ছাড়া এক-দুটি সংযোগ-বাক্য রাখুন।",
+   "rule_ids": [
+    "essay"
+   ]
+  }
+ }
+}

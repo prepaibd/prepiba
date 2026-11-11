@@ -1,0 +1,636 @@
+{
+ "exam": "iba_mba_2016_dec",
+ "items": {
+  "2-31": {
+   "en": "y > 100 means 4y > 400, so 3x + 5 > 400 and x > 131.67. The smallest integer x is 132 (then y = 100.25).",
+   "bn": "y > 100 মানে 4y > 400, তাই 3x + 5 > 400 এবং x > 131.67। ক্ষুদ্রতম integer x = 132 (তখন y = 100.25)।",
+   "answer": "C",
+   "formula_ids": [
+    "abs-ineq"
+   ],
+   "trap": {
+    "en": "y need not be an integer; only x is required to be.",
+    "bn": "y-কে integer হতে হবে না; শুধু x integer হতে হবে।"
+   }
+  },
+  "2-32": {
+   "en": "List price = 100. Regular = 80. Sale = 80 × 0.85 = 68. So the sale price is 32% less than the list price.",
+   "bn": "List price = 100 ধরি। Regular = 80। Sale = 80 × 0.85 = 68। তাই list price-এর চেয়ে 32% কম।",
+   "answer": "B",
+   "formula_ids": [
+    "profit-loss",
+    "pct-change"
+   ]
+  },
+  "2-33": {
+   "en": "Pay is a, a + 10, …, a + 60. First 4 days = 4a + 60; last 3 days = 3a + 150. Equal ⇒ a = 90.",
+   "bn": "মজুরি a, a + 10, …, a + 60। প্রথম 4 দিন = 4a + 60; শেষ 3 দিন = 3a + 150। সমান ⇒ a = 90।",
+   "answer": "A",
+   "formula_ids": [
+    "series"
+   ]
+  },
+  "2-34": {
+   "en": "P = C(4,2)/C(8,2) = 6/28 = 3/14.",
+   "bn": "P = C(4,2)/C(8,2) = 6/28 = 3/14।",
+   "answer": "D",
+   "formula_ids": [
+    "probability",
+    "combinatorics"
+   ]
+  },
+  "2-35": {
+   "en": "3a = 4b and a + b = 7 ⇒ a = 4, b = 3. a² − b² = 16 − 9 = 7.",
+   "bn": "3a = 4b এবং a + b = 7 ⇒ a = 4, b = 3। a² − b² = 16 − 9 = 7।",
+   "answer": "D",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-36": {
+   "en": "13(x − 1) = 17(y − 1) ⇒ x − 1 = 17k, y − 1 = 13k. Least k = 1: x = 18, y = 14, x + y = 32.",
+   "bn": "13(x − 1) = 17(y − 1) ⇒ x − 1 = 17k, y − 1 = 13k। ক্ষুদ্রতম k = 1: x = 18, y = 14, x + y = 32।",
+   "answer": "A",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-37": {
+   "en": "Volume of the filter = 8 × 1.3 = 10.4 L. Jugs of 0.8 L needed = 10.4/0.8 = 13.",
+   "bn": "Filter-এর আয়তন = 8 × 1.3 = 10.4 L। 0.8 L-এর jug লাগবে = 10.4/0.8 = 13টি।",
+   "answer": "B"
+  },
+  "2-38": {
+   "en": "1/2 + 1/3 + 1/5 = 31/30, so m = 46.5 × 30/31 = 45. Only m/9 = 5 is an integer.",
+   "bn": "1/2 + 1/3 + 1/5 = 31/30, তাই m = 46.5 × 30/31 = 45। শুধু m/9 = 5 integer।",
+   "answer": "C",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-39": {
+   "en": "Let iPad 2014 = a, iPhone 2014 = b: 0.89a + 1.07b = 1.01(a + b) ⇒ 0.06b = 0.12a ⇒ b = 2a. Ratio a : b = 1 : 2.",
+   "bn": "2014-এ iPad = a, iPhone = b ধরি: 0.89a + 1.07b = 1.01(a + b) ⇒ 0.06b = 0.12a ⇒ b = 2a। অনুপাত a : b = 1 : 2।",
+   "answer": "A",
+   "formula_ids": [
+    "pct-change",
+    "ratio"
+   ]
+  },
+  "2-40": {
+   "en": "By 1 p.m. Arif is 3 × 4 = 12 km ahead. The brother gains 20 − 4 = 16 km/h, so he catches up in 12/16 = 0.75 h = 45 min: 1:45 p.m.",
+   "bn": "1 p.m.-এ Arif 3 × 4 = 12 km এগিয়ে। ভাই প্রতি ঘণ্টায় 20 − 4 = 16 km করে ব্যবধান কমায়, তাই লাগে 12/16 = 0.75 ঘণ্টা = 45 মিনিট: 1:45 p.m.।",
+   "answer": "A",
+   "formula_ids": [
+    "speed",
+    "relspeed"
+   ]
+  },
+  "2-41": {
+   "en": "x = 6y = 3z ⇒ y = x/6, z = x/3. Total = x + x/6 + x/3 = 1.5x, equal share = 0.5x. Arif keeps 0.5x, so gives away 0.5x = 1/2 of his marbles.",
+   "bn": "x = 6y = 3z ⇒ y = x/6, z = x/3। মোট = x + x/6 + x/3 = 1.5x, প্রত্যেকের সমান ভাগ = 0.5x। Arif 0.5x রাখে, তাই দেয় 0.5x = তার marble-এর 1/2।",
+   "answer": "D",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "2-42": {
+   "en": "−5x > 26 ⇒ x < −5.2, so x ≤ −6. y < x means y ≤ −7. The largest y is −7.",
+   "bn": "−5x > 26 ⇒ x < −5.2, তাই x ≤ −6। y < x মানে y ≤ −7। y-এর বৃহত্তম মান −7।",
+   "answer": "C",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-43": {
+   "en": "Ages 4k, 3k. t years ago: (4k − t)/(3k − t) = 5/3 ⇒ t = 1.5k. In 4 years: (4k + 4)/(3k + 4) = 9/7 ⇒ k = 8. So t = 12.",
+   "bn": "বয়স 4k, 3k। t বছর আগে: (4k − t)/(3k − t) = 5/3 ⇒ t = 1.5k। 4 বছর পর: (4k + 4)/(3k + 4) = 9/7 ⇒ k = 8। তাই t = 12।",
+   "answer": "A",
+   "formula_ids": [
+    "age",
+    "ratio"
+   ]
+  },
+  "2-44": {
+   "en": "3x = 2y gives y/x = 3/2 > 1 (true, whatever the sign), and xy = 1.5x² > 0 (true). x − y = −x/2 is positive only for negative x. So i and ii.",
+   "bn": "3x = 2y থেকে y/x = 3/2 > 1 (চিহ্ন যা-ই হোক সত্য) এবং xy = 1.5x² > 0 (সত্য)। x − y = −x/2 শুধু ঋণাত্মক x-এর জন্য ধনাত্মক। তাই i ও ii।",
+   "answer": "C",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-45": {
+   "en": "Mixture 1 weighs 2m kg, mixture 2 weighs 3m kg. Equal revenue: 600 × 2m = p × 3m ⇒ p = 400.",
+   "bn": "Mixture 1-এর ওজন 2m kg, mixture 2-এর 3m kg। আয় সমান: 600 × 2m = p × 3m ⇒ p = 400।",
+   "answer": "B",
+   "formula_ids": [
+    "mixture"
+   ]
+  },
+  "2-46": {
+   "en": "Total 180 min. First 5 papers took 30 min (6 min each). Remaining 30 papers must take 150 min (5 min each). Speed up = 6/5 − 1 = 20%.",
+   "bn": "মোট 180 মিনিট। প্রথম 5টি খাতায় 30 মিনিট (খাতা প্রতি 6 মিনিট)। বাকি 30টি 150 মিনিটে (খাতা প্রতি 5 মিনিট)। গতি বাড়াতে হবে 6/5 − 1 = 20%।",
+   "answer": "C",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "2-47": {
+   "en": "AB is perpendicular to BD, so AB is the height of triangle ACD on base CD: ½ × 4 × AB = 12 ⇒ AB = 6 cm.",
+   "bn": "AB, BD-এর উপর লম্ব, তাই AB হলো ত্রিভুজ ACD-র CD ভূমির উপর উচ্চতা: ½ × 4 × AB = 12 ⇒ AB = 6 cm।",
+   "answer": "B",
+   "formula_ids": [
+    "geometry"
+   ],
+   "note": "Relies on the figure: AB is perpendicular to BD."
+  },
+  "2-48": {
+   "en": "Apple = 60% of 750 = 450 ml. Water = 250 ml. Ratio water : apple = 250 : 450 = 5 : 9.",
+   "bn": "Apple = 750-এর 60% = 450 ml। Water = 250 ml। অনুপাত water : apple = 250 : 450 = 5 : 9।",
+   "answer": "D",
+   "formula_ids": [
+    "mixture"
+   ]
+  },
+  "2-49": {
+   "en": "7y = 2x so x is a multiple of 7. Between 10 and 20: x = 14, y = 4. x − y = 10.",
+   "bn": "7y = 2x তাই x, 7-এর গুণিতক। 10 ও 20-এর মধ্যে: x = 14, y = 4। x − y = 10।",
+   "answer": "D",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-50": {
+   "en": "Let y = x + 1, z = x + 2. x + y − z = x − 1 (can be 0 or odd); x − y + z = x + 1 (odd if x is even); yz − x = x² + 2x + 2 (odd for x = 1); (x − z)y = −2y is negative. None must be positive even.",
+   "bn": "y = x + 1, z = x + 2 ধরি। x + y − z = x − 1 (0 বা বিজোড় হতে পারে); x − y + z = x + 1 (x জোড় হলে বিজোড়); yz − x = x² + 2x + 2 (x = 1-এ বিজোড়); (x − z)y = −2y ঋণাত্মক। কোনোটিই অবশ্যই ধনাত্মক জোড় নয়।",
+   "answer": "E",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-51": {
+   "en": "Black = 30, red = 170. Add b black and 100 − b red: (30 + b)/(170 + 100 − b) = 1/5 ⇒ 150 + 5b = 270 − b ⇒ b = 20.",
+   "bn": "Black = 30, red = 170। b টি black ও 100 − b টি red যোগ করলে: (30 + b)/(170 + 100 − b) = 1/5 ⇒ 150 + 5b = 270 − b ⇒ b = 20।",
+   "answer": "A",
+   "formula_ids": [
+    "ratio",
+    "mixture"
+   ]
+  },
+  "2-52": {
+   "en": "Babu = 3, Arif = 6, Kabir = 2, Malek = 2. Kabir + Malek = 4 = 4/3 of Babu's salary.",
+   "bn": "Babu = 3, Arif = 6, Kabir = 2, Malek = 2 ধরি। Kabir + Malek = 4 = Babu-র বেতনের 4/3।",
+   "answer": "A",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "2-53": {
+   "en": "As printed, 'three times as many engineers as doctors' is inconsistent with the other data. Reading it as doctors = 3 × engineers: of 100 members, 75 are doctors and 25 engineers; 50 are male, of whom 40 are doctors and 10 engineers; so female doctors = 35 and female engineers = 25 − 10 = 15%.",
+   "bn": "ছাপানো 'engineer সংখ্যা doctor-এর তিনগুণ' অন্য তথ্যের সাথে সামঞ্জস্যপূর্ণ নয়। এটিকে doctor = 3 × engineer পড়লে: 100 জনের মধ্যে doctor 75, engineer 25; পুরুষ 50, যার 40 জন doctor ও 10 জন engineer; তাই নারী doctor = 35 এবং নারী engineer = 25 − 10 = 15%।",
+   "answer": "B",
+   "formula_ids": [
+    "sets",
+    "pct-change"
+   ],
+   "note": "As printed (engineers = 3 × doctors) the data is inconsistent; the key uses doctors = 3 × engineers, as in the earlier work."
+  },
+  "2-54": {
+   "en": "Pen p, pencil c: p + 5c = 0.5(5p + c) ⇒ 4.5c = 1.5p ⇒ p = 3c. p + c = 200 ⇒ c = 50.",
+   "bn": "কলম p, পেনসিল c: p + 5c = 0.5(5p + c) ⇒ 4.5c = 1.5p ⇒ p = 3c। p + c = 200 ⇒ c = 50।",
+   "answer": "B",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-55": {
+   "en": "Let the class be N and participants P. Music + recitation = 53% + 35% = 88% of P, so drama is the other 12% of P, and drama = 8% of N. Hence 0.12P = 0.08N ⇒ P = 2N/3, and 33.33% did not participate.",
+   "bn": "ক্লাস N, অংশগ্রহণকারী P ধরি। সংগীত + আবৃত্তি = P-এর 53% + 35% = 88%, তাই নাটক P-এর বাকি 12%, আবার নাটক = N-এর 8%। অতএব 0.12P = 0.08N ⇒ P = 2N/3, এবং 33.33% অংশ নেয়নি।",
+   "answer": "D",
+   "formula_ids": [
+    "sets",
+    "pct-change"
+   ]
+  },
+  "2-56": {
+   "en": "Let x% actually pass. Declared pass = 0.8x + 0.2(100 − x) = 0.6x + 20 = 62 ⇒ x = 70.",
+   "bn": "প্রকৃতপক্ষে x% পাস ধরি। ঘোষিত পাস = 0.8x + 0.2(100 − x) = 0.6x + 20 = 62 ⇒ x = 70।",
+   "answer": "B",
+   "formula_ids": [
+    "pct-change",
+    "algebra"
+   ]
+  },
+  "2-57": {
+   "en": "x ≡ 3 (mod 5) and y is even. (1) is impossible as printed (remainder 3 on dividing by 3) and gives nothing. (2) y ≡ 2 (mod 5) and even ⇒ y ends in 2; x ends in 3 or 8; xy ends in 6 either way, so the remainder is 6. Statement 2 alone is sufficient.",
+   "bn": "x ≡ 3 (mod 5) এবং y জোড়। (1) ছাপা অনুযায়ী অসম্ভব (3 দিয়ে ভাগে ভাগশেষ 3) এবং কিছু দেয় না। (2) y ≡ 2 (mod 5) ও জোড় ⇒ y-এর শেষ অঙ্ক 2; x-এর শেষ অঙ্ক 3 বা 8; xy-এর শেষ অঙ্ক দুই ক্ষেত্রেই 6, তাই ভাগশেষ 6। শুধু statement 2-ই যথেষ্ট।",
+   "answer": "B",
+   "formula_ids": [
+    "ds-method",
+    "numprop"
+   ],
+   "note": "Statement 1 is impossible as printed (a remainder of 3 on division by 3)."
+  },
+  "2-58": {
+   "en": "(2) x − y = 2z with (1) y = xz gives x(1 − z) = 2z. z = −1 gives x = −1 (z odd), but z = 2 gives x = −4, y = −8 (z even). Parity of z cannot be decided.",
+   "bn": "(2) x − y = 2z এবং (1) y = xz থেকে x(1 − z) = 2z। z = −1 হলে x = −1 (z বিজোড়), কিন্তু z = 2 হলে x = −4, y = −8 (z জোড়)। z-এর parity নির্ধারণ করা যায় না।",
+   "answer": "E",
+   "formula_ids": [
+    "ds-method"
+   ]
+  },
+  "2-59": {
+   "en": "Statement 2 (x > y) directly answers x − y > 0. Statement 1 (xy > 1000) does not settle the order (x, y could both be negative).",
+   "bn": "Statement 2 (x > y) সরাসরি x − y > 0-এর উত্তর দেয়। Statement 1 (xy > 1000) ক্রম নির্ধারণ করে না (x, y দুটিই ঋণাত্মক হতে পারে)।",
+   "answer": "B",
+   "formula_ids": [
+    "ds-method"
+   ]
+  },
+  "2-60": {
+   "en": "(1) 32 | x and x | y give 32 | y, so x³ − y is divisible by 16 (x³ is divisible by 16 as well). Remainder 0. Sufficient. (2) y even tells nothing.",
+   "bn": "(1) 32 | x এবং x | y থেকে 32 | y, তাই x³ − y 16 দিয়ে বিভাজ্য (x³-ও 16 দিয়ে বিভাজ্য)। ভাগশেষ 0। যথেষ্ট। (2) y জোড়, এ থেকে কিছু জানা যায় না।",
+   "answer": "A",
+   "formula_ids": [
+    "ds-method",
+    "numprop"
+   ]
+  },
+  "3-61": {
+   "en": "Nibir is at 8:30 and Kabir is at 6:30 or 7:30. With Kabir at 7:30, Shahed–Masud must be 6:30–7:00 and Farhad at 8:00. 'Kabir before Masud' is then false.",
+   "bn": "Nibir 8:30-এ, Kabir 6:30 বা 7:30-এ। Kabir 7:30-এ হলে Shahed–Masud অবশ্যই 6:30–7:00 এবং Farhad 8:00-এ। তখন 'Kabir, Masud-এর আগে' মিথ্যা।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-62": {
+   "en": "Nibir must be last (8:30), Kabir cannot be at 7:00 or 8:00, and Shahed must be right before Masud. A has Nibir 4th, B has Kabir at 7:00, C separates Shahed and Masud, E has Kabir at 8:00. Only D works.",
+   "bn": "Nibir শেষে (8:30), Kabir 7:00 বা 8:00-এ নয়, এবং Shahed ঠিক Masud-এর আগে। A-তে Nibir চতুর্থ, B-তে Kabir 7:00-এ, C-তে Shahed ও Masud আলাদা, E-তে Kabir 8:00-এ। শুধু D চলে।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-63": {
+   "en": "With Nibir at 8:00, the free slots are 6:30, 7:00, 7:30, 8:30. Shahed–Masud must take 6:30–7:00 or 7:00–7:30 (8:30 is not adjacent to anything free). Either way, 8:30 goes to Kabir or Farhad.",
+   "bn": "Nibir 8:00-এ গেলে ফাঁকা slot 6:30, 7:00, 7:30, 8:30। Shahed–Masud নেবে 6:30–7:00 অথবা 7:00–7:30 (8:30 কোনো ফাঁকা slot-এর পাশে নয়)। দুই ক্ষেত্রেই 8:30 পাবে Kabir বা Farhad।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-64": {
+   "en": "Farhad's possible slots: Kabir 6:30 → Shahed–Masud 7:00–7:30 (Farhad 8:00) or 7:30–8:00 (Farhad 7:00); Kabir 7:30 → Farhad 8:00. So Farhad is at 7:00 or 8:00.",
+   "bn": "Farhad-এর সম্ভাব্য slot: Kabir 6:30 হলে Shahed–Masud 7:00–7:30 (Farhad 8:00) বা 7:30–8:00 (Farhad 7:00); Kabir 7:30 হলে Farhad 8:00। তাই Farhad 7:00 বা 8:00-এ।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-65": {
+   "en": "Shahed 7:00 ⇒ Masud 7:30; Nibir 8:30; Kabir cannot take 7:30, so 6:30. Farhad gets 8:00.",
+   "bn": "Shahed 7:00 ⇒ Masud 7:30; Nibir 8:30; Kabir 7:30 পায় না, তাই 6:30। Farhad পায় 8:00।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-66": {
+   "en": "L out ⇒ retired members are G and N. G in ⇒ J out ⇒ K out. N in ⇒ P out. Serving members must be F and O. Committee: G, N, F, O. So F, G and N must be on it.",
+   "bn": "L না থাকলে retired সদস্য G ও N। G থাকলে J নেই ⇒ K-ও নেই। N থাকলে P নেই। serving সদস্য F ও O। committee: G, N, F, O। তাই F, G ও N অবশ্যই থাকবে।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-67": {
+   "en": "F, G, L works: G and L are the two retired members, F is serving, and the fourth member can be O or P without breaking any rule. The other lists break a rule (e.g. K without J).",
+   "bn": "F, G, L চলে: G ও L দুই retired সদস্য, F serving, চতুর্থজন O বা P হলে কোনো নিয়ম ভাঙে না। অন্য তালিকাগুলো কোনো না কোনো নিয়ম ভাঙে (যেমন J ছাড়া K)।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-68": {
+   "en": "P in ⇒ N and O out. Retired members must be G and L. G in ⇒ J out ⇒ K out. The second serving member is F. Others: F, G, L.",
+   "bn": "P থাকলে N ও O নেই। retired সদস্য অবশ্যই G ও L। G থাকলে J নেই ⇒ K-ও নেই। দ্বিতীয় serving সদস্য F। বাকি তিনজন: F, G, L।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-69": {
+   "en": "No F, no P: serving members come from J, K, O and retired from G, L, N. A has G with J; B has K without J; C has only one serving; D has three serving. E (J, L, N, O) has two serving and two retired and breaks no rule.",
+   "bn": "F ও P না থাকলে serving J, K, O থেকে এবং retired G, L, N থেকে। A-তে G ও J একসাথে; B-তে J ছাড়া K; C-তে মাত্র একজন serving; D-তে তিনজন serving। E (J, L, N, O)-তে দুজন serving, দুজন retired এবং কোনো নিয়ম ভাঙে না।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-70": {
+   "en": "J in ⇒ G out, so the retired members are L and N. L in with J ⇒ F out. So L must be on the committee.",
+   "bn": "J থাকলে G নেই, তাই retired সদস্য L ও N। J-এর সাথে L থাকায় F নেই। তাই L অবশ্যই committee-তে আছে।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-71": {
+   "en": "G in ⇒ J out ⇒ K out (K needs J). So K cannot be on the committee; L, N, O, P all can (e.g. G, L with F, P).",
+   "bn": "G থাকলে J নেই ⇒ K-ও নেই (K-এর জন্য J লাগে)। তাই K committee-তে থাকতে পারে না; L, N, O, P সবাই থাকতে পারে (যেমন G, L, F, P)।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-72": {
+   "en": "Working on G on a day forces J that day. If J is worked on Tuesday, G on Monday would need J on Monday, i.e. J on two consecutive days. That is not allowed.",
+   "bn": "যেদিন G-তে কাজ, সেদিন J-তেও কাজ করতে হয়। মঙ্গলবার J-তে কাজ হলে সোমবার G-তে কাজ মানে সোমবারও J লাগে, অর্থাৎ পরপর দুদিন J। এটি অনুমোদিত নয়।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-73": {
+   "en": "H, J, L are patterns 1, 2, 3 (all different), so they can be worked together. G with L is not allowed; G, J, K / G, I, K / H, I, L repeat a pattern.",
+   "bn": "H, J, L যথাক্রমে pattern 1, 2, 3 (সব আলাদা), তাই একসাথে করা যায়। G-র সাথে L চলবে না; G, J, K / G, I, K / H, I, L-এ pattern পুনরাবৃত্তি হয়।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-74": {
+   "en": "G on Monday and Friday forces J on those days. J cannot be added on Tuesday/Thursday (consecutive) or Wednesday (K is there and same pattern). So pattern 2 is worked on Monday, Wednesday and Friday: 3 days.",
+   "bn": "G সোম ও শুক্রবার হলে ওই দুদিন J-ও লাগবে। J মঙ্গল/বৃহস্পতিবার (পরপর) বা বুধবার (K আছে, একই pattern) যোগ করা যায় না। তাই pattern 2 কাজ হয় সোম, বুধ ও শুক্র: 3 দিন।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-75": {
+   "en": "Taking it that each person loves exactly two of the three fruits: Runa = {mango, banana}. Keya loves mango and not apple, so banana: {mango, banana}, the same as Runa. Luna = {apple, mango}, Jesmin = {apple, banana}.",
+   "bn": "ধরুন প্রত্যেকে তিনটি ফলের ঠিক দুটি পছন্দ করে: Runa = {mango, banana}। Keya mango পছন্দ করে, apple নয়, তাই banana-ও: {mango, banana}, Runa-র মতোই। Luna = {apple, mango}, Jesmin = {apple, banana}।",
+   "answer": "A",
+   "formula_ids": [
+    "cr-method"
+   ],
+   "note": "Reading assumes each person loves exactly two of the three fruits."
+  },
+  "1-1": {
+   "en": "'Ingenuously' means innocently; funds diverted cleverly are 'ingeniously' (or 'disingenuously') diverted.",
+   "bn": "'Ingenuously' মানে সরলভাবে; চতুরভাবে টাকা সরানো হলে হবে 'ingeniously' (বা 'disingenuously')।",
+   "answer": "D",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-2": {
+   "en": "We say 'collision with', not 'collision to'.",
+   "bn": "আমরা বলি 'collision with', 'collision to' নয়।",
+   "answer": "D",
+   "rule_ids": [
+    "prep-noun"
+   ]
+  },
+  "1-3": {
+   "en": "No error: 'all you have to do is to make sure that everyone is seated' is correct.",
+   "bn": "কোনো ভুল নেই: 'all you have to do is to make sure that everyone is seated' শুদ্ধ।",
+   "answer": "E"
+  },
+  "1-4": {
+   "en": "'In the past decade' needs the definite article.",
+   "bn": "'In the past decade'-এ 'the' লাগে।",
+   "answer": "B",
+   "rule_ids": [
+    "article"
+   ]
+  },
+  "1-5": {
+   "en": "No error: 'growing faster than' is correct, and 'worry about the country's economy' is idiomatic.",
+   "bn": "কোনো ভুল নেই: 'growing faster than' শুদ্ধ এবং 'worry about the country's economy' স্বাভাবিক প্রয়োগ।",
+   "answer": "E"
+  },
+  "1-6": {
+   "en": "'Came across' = met or found by chance.",
+   "bn": "'Came across' = হঠাৎ দেখা পাওয়া বা পেয়ে যাওয়া।",
+   "answer": "C",
+   "rule_ids": [
+    "phrasal"
+   ]
+  },
+  "1-7": {
+   "en": "'Give someone a wide berth' = keep a safe distance from them.",
+   "bn": "'Give someone a wide berth' = কারো থেকে নিরাপদ দূরত্ব রাখা।",
+   "answer": "B",
+   "rule_ids": [
+    "idiom"
+   ]
+  },
+  "1-8": {
+   "en": "'Brazenly out in the open' means 'blatantly'. 'Obtrusively' is about sticking out in an annoying way.",
+   "bn": "'Brazenly out in the open' মানে 'blatantly'। 'Obtrusively' মানে বিরক্তিকরভাবে চোখে পড়া।",
+   "answer": "D",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-9": {
+   "en": "To 'emulate' is to copy in order to equal or surpass; it fits copying a sister's achievements.",
+   "bn": "'Emulate' মানে সমকক্ষ বা ছাড়িয়ে যেতে অনুকরণ করা; বোনের সাফল্যের অনুকরণের সাথে মেলে।",
+   "answer": "A",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-10": {
+   "en": "'Lay one's cards on the table' = be honest and open: 'to be candid'.",
+   "bn": "'Lay one's cards on the table' = সৎ ও খোলামেলা হওয়া: 'to be candid'।",
+   "answer": "A",
+   "rule_ids": [
+    "idiom"
+   ]
+  },
+  "1-11": {
+   "en": "To 'glean' figures is to gather them bit by bit, i.e. collect.",
+   "bn": "Figures 'glean' করা মানে একটু একটু করে সংগ্রহ করা, অর্থাৎ collect।",
+   "answer": "C",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-12": {
+   "en": "'Alacrity' (eagerness) with 'often noted' gives a positive, logical sentence about what unites South Asians. 'Aversion', 'indifference' and 'rarely' contradict 'unite'.",
+   "bn": "'Alacrity' (আগ্রহ) ও 'often noted' দক্ষিণ এশীয়দের ঐক্যের কথা বলে যুক্তিসঙ্গতভাবে। 'Aversion', 'indifference' ও 'rarely' 'unite'-এর সাথে বিরোধী।",
+   "answer": "B",
+   "rule_ids": [
+    "vocab",
+    "collocation"
+   ]
+  },
+  "1-13": {
+   "en": "'The naming of offspring' is the correct noun phrase after 'the'.",
+   "bn": "'The' এর পরে সঠিক noun phrase 'the naming of offspring'।",
+   "answer": "B",
+   "rule_ids": [
+    "gerund"
+   ]
+  },
+  "1-14": {
+   "en": "'Not only clarity and impact but also provable authenticity': the correlative pair 'not only … but also' with parallel items.",
+   "bn": "'Not only clarity and impact but also provable authenticity': correlative জোড়া 'not only … but also' এবং parallel অংশ।",
+   "answer": "E",
+   "rule_ids": [
+    "parallel",
+    "conj"
+   ]
+  },
+  "1-15": {
+   "en": "'Over the past decade' is the correct expression and 'trifling' (insignificant) contrasts with 'worsened tremendously'. E lacks 'the'.",
+   "bn": "'Over the past decade' শুদ্ধ এবং 'trifling' (তুচ্ছ) 'worsened tremendously'-এর সাথে বিপরীত। E-তে 'the' নেই।",
+   "answer": "B",
+   "rule_ids": [
+    "prep-noun",
+    "article"
+   ]
+  },
+  "1-16": {
+   "en": "The appositive needs 'the raising of teacher quality' (or 'improving teacher quality'). None of the given phrases works as printed, so None of these.",
+   "bn": "Appositive-এ লাগে 'the raising of teacher quality' (বা 'improving teacher quality')। দেওয়া কোনো phrase-ই ছাপা অনুযায়ী খাটে না, তাই None of these।",
+   "answer": "E",
+   "rule_ids": [
+    "article"
+   ],
+   "note": "Option C ('raising of') lacks the article 'the' needed before it."
+  },
+  "1-17": {
+   "en": "'Much of the flatter area' (uncountable area) is correct.",
+   "bn": "'Much of the flatter area' (uncountable area) শুদ্ধ।",
+   "answer": "D",
+   "rule_ids": [
+    "countable"
+   ]
+  },
+  "1-18": {
+   "en": "'As societies develop, they can afford…' uses 'as' for a developing process with the plural verb 'develop'.",
+   "bn": "'As societies develop, they can afford…': চলমান প্রক্রিয়ায় 'as' এবং plural verb 'develop'।",
+   "answer": "C",
+   "rule_ids": [
+    "conj",
+    "tense"
+   ]
+  },
+  "1-19": {
+   "en": "'Pretake' is not a word; partake, undertake and intake are.",
+   "bn": "'Pretake' শব্দ নয়; partake, undertake ও intake শব্দ।",
+   "answer": "B",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-20": {
+   "en": "Simplify, stupefy, liquefy and rectify are all correctly formed (-fy verbs).",
+   "bn": "Simplify, stupefy, liquefy ও rectify সবই শুদ্ধভাবে গঠিত (-fy verb)।",
+   "answer": "E",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-21": {
+   "en": "'Meridial' is wrong; the word is 'meridian'.",
+   "bn": "'Meridial' ভুল; শব্দটি 'meridian'।",
+   "answer": "D",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-22": {
+   "en": "Ambivalent, ambiguous and ambidextrous are real; 'ambiculture' is not.",
+   "bn": "Ambivalent, ambiguous ও ambidextrous আসল শব্দ; 'ambiculture' নয়।",
+   "answer": "D",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-23": {
+   "en": "The word is 'intractable', not 'untractable'.",
+   "bn": "শব্দটি 'intractable', 'untractable' নয়।",
+   "answer": "A",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-24": {
+   "en": "'Ubiquity' = being everywhere (omnipresence).",
+   "bn": "'Ubiquity' = সর্বত্র বিদ্যমান থাকা (omnipresence)।",
+   "answer": "A",
+   "rule_ids": [
+    "rc-method",
+    "vocab"
+   ]
+  },
+  "1-25": {
+   "en": "The passage mentions interactive ads, best placement, privacy concerns and attention measurement. It never says advertising costs will decrease, so E is the exception.",
+   "bn": "Passage-এ interactive ad, ভালো placement, privacy উদ্বেগ ও মনোযোগ পরিমাপ আছে। বিজ্ঞাপন খরচ কমবে এমন কথা নেই, তাই E ব্যতিক্রম।",
+   "answer": "E",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-26": {
+   "en": "Admen like it because it helps answer clients' complaint that they do not know which half of their ad money is wasted.",
+   "bn": "Admen এটি পছন্দ করে কারণ ক্লায়েন্টদের অভিযোগ 'বিজ্ঞাপনের অর্ধেক টাকা কোথায় নষ্ট হয় জানি না'-র উত্তর পেতে সাহায্য করে।",
+   "answer": "C",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-27": {
+   "en": "'Clunky headgear' = heavy and awkward: 'unwieldy'.",
+   "bn": "'Clunky headgear' = ভারী ও অস্বস্তিকর: 'unwieldy'।",
+   "answer": "B",
+   "rule_ids": [
+    "rc-method",
+    "vocab"
+   ]
+  },
+  "1-28": {
+   "en": "'Complacent' is used correctly in all three sentences (self-satisfied, unaware of danger).",
+   "bn": "তিনটি বাক্যেই 'complacent' শুদ্ধ (আত্মতুষ্ট, বিপদ সম্পর্কে অসচেতন)।",
+   "answer": "E",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-29": {
+   "en": "(ii) needs the noun 'dependence': 'Helen's dependence on me'. (i) 'dependents' (noun) and (iii) 'dependent on' (adjective) are correct.",
+   "bn": "(ii)-এ noun 'dependence' লাগে: 'Helen's dependence on me'। (i) 'dependents' (noun) ও (iii) 'dependent on' (adjective) শুদ্ধ।",
+   "answer": "B",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-30": {
+   "en": "'Cease' means stop. In (ii) and (iii) the intended word is 'seize' (take hold of). (i) is correct.",
+   "bn": "'Cease' মানে থামা। (ii) ও (iii)-এ উদ্দিষ্ট শব্দ 'seize' (ধরে ফেলা)। (i) শুদ্ধ।",
+   "answer": "D",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "4-1": {
+   "en": "Approach: Thesis: Bangladesh can lead the world if it turns its young population and resilience into capability. Paragraph 1: the dream (a prosperous, clean, fair country that others learn from). Paragraph 2: strengths to build on (youth, garments, remittances, climate resilience, digital growth). Paragraph 3: what must change (education quality, governance, jobs, environment). Paragraph 4: your role (individual action). Conclusion: end with a vivid image of the future.\nUseful phrases: 'demographic dividend', 'inclusive growth', 'a role model for the developing world'.\nAvoid: vague patriotism without steps.",
+   "bn": "পদ্ধতি: Thesis: তরুণ জনসংখ্যা ও সহনশীলতাকে সামর্থ্যে রূপ দিতে পারলে বাংলাদেশ বিশ্বকে নেতৃত্ব দিতে পারে। Paragraph 1: স্বপ্ন (সমৃদ্ধ, পরিচ্ছন্ন, ন্যায্য দেশ যা অন্যরা অনুসরণ করে)। Paragraph 2: ভিত্তি (তরুণ জনগোষ্ঠী, গার্মেন্টস, remittance, জলবায়ু-সহনশীলতা, ডিজিটাল প্রবৃদ্ধি)। Paragraph 3: কী বদলাতে হবে (শিক্ষার মান, সুশাসন, কর্মসংস্থান, পরিবেশ)। Paragraph 4: আপনার ভূমিকা (ব্যক্তিগত উদ্যোগ)। উপসংহার: ভবিষ্যতের একটি স্পষ্ট ছবি দিয়ে শেষ করুন।\nকাজের phrase: 'demographic dividend', 'inclusive growth', 'a role model for the developing world'।\nএড়ান: পদক্ষেপ ছাড়া অস্পষ্ট দেশপ্রেম।",
+   "rule_ids": [
+    "essay"
+   ]
+  },
+  "4-2": {
+   "en": "Approach (thematic writing): choose one theme that connects the words, for example 'Sustaining our planet'. Give a title ('Protecting the Planet Before It Is Too Late'). Write 2–3 short paragraphs, using as many listed words as possible and underlining each (deplete, green, conservation, resource, species, forest, growth, industrialization, sustain, melting of ice, sea level, migration, rich countries, vulnerable). Link them: industrialization → resources depleted → forests and species lost → melting of ice and rising sea level → vulnerable countries and migration → rich countries must help; conservation and green growth sustain the future.\nTips: keep one theme; underline correctly; use some sentences without list words to stay coherent.",
+   "bn": "পদ্ধতি (thematic writing): শব্দগুলোকে যুক্ত করে এমন একটি theme বাছুন, যেমন 'Sustaining our planet'। একটি title দিন ('Protecting the Planet Before It Is Too Late')। 2–3টি ছোট paragraph লিখুন, তালিকার যত বেশি শব্দ সম্ভব ব্যবহার করে প্রতিটির নিচে দাগ দিন (deplete, green, conservation, resource, species, forest, growth, industrialization, sustain, melting of ice, sea level, migration, rich countries, vulnerable)। সংযোগ: industrialization → resource ফুরিয়ে যাওয়া → forest ও species হারানো → বরফ গলা ও sea level বাড়া → vulnerable দেশ ও migration → rich countries-কে সাহায্য করতে হবে; conservation ও green growth ভবিষ্যৎ টিকিয়ে রাখে।\nপরামর্শ: একটি theme-এ থাকুন; ঠিকভাবে দাগ দিন; সুসংগতির জন্য কিছু বাক্য তালিকার শব্দ ছাড়াই লিখুন।",
+   "rule_ids": [
+    "essay"
+   ]
+  }
+ }
+}

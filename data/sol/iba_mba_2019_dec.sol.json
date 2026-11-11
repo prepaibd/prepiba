@@ -1,0 +1,182 @@
+{
+ "exam": "iba_mba_2019_dec",
+ "items": {
+  "1-1": {
+   "en": "XYZ = 300 + 10Y + Z and ZY = 10Z + Y, so 300 + 11Y + 11Z = 333 ⇒ Y + Z = 3. With Y > Z, distinct positive digits (and ≠ 3), Y = 2, Z = 1: 321 + 12 = 333. XY as printed (32 or 6) is not an option; the printed key is D (the value of X, 3).",
+   "bn": "XYZ = 300 + 10Y + Z এবং ZY = 10Z + Y, তাই 300 + 11Y + 11Z = 333 ⇒ Y + Z = 3। Y > Z, আলাদা ধনাত্মক অঙ্ক (এবং 3 নয়) হলে Y = 2, Z = 1: 321 + 12 = 333। ছাপা অনুযায়ী XY (32 বা 6) option-এ নেই; ছাপা key D (X-এর মান, 3)।",
+   "answer": "D",
+   "formula_ids": [
+    "numprop"
+   ],
+   "note": "'XY' in the stem looks like a misprint; the printed key D (= 3 = X) is kept."
+  },
+  "1-2": {
+   "en": "(43200 + X)/(28800 + X) = 7/5 ⇒ 216000 + 5X = 201600 + 7X ⇒ X = 7200.",
+   "bn": "(43200 + X)/(28800 + X) = 7/5 ⇒ 216000 + 5X = 201600 + 7X ⇒ X = 7200।",
+   "answer": "B",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "1-3": {
+   "en": "Rectangle x: l + w = 120. With y a square of side s, l_x = s + 10 and w_x = s − 10, so 2s = 120 ⇒ s = 60. Area of x = 70 × 50 = 3500.",
+   "bn": "আয়তক্ষেত্র x: l + w = 120। y বর্গ, বাহু s হলে l_x = s + 10 ও w_x = s − 10, তাই 2s = 120 ⇒ s = 60। x-এর ক্ষেত্রফল = 70 × 50 = 3500।",
+   "answer": "C",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "1-4": {
+   "en": "Cost = 7x + 10 × 2x = 27x for 3x pens. Selling at 96 per dozen = 8 per pen gives 24x. Loss 3x = 720 ⇒ x = 240, pens = 3x = 720.",
+   "bn": "Cost = 7x + 10 × 2x = 27x, কলম 3x টি। ডজন প্রতি 96 মানে কলম প্রতি 8, বিক্রি 24x। ক্ষতি 3x = 720 ⇒ x = 240, কলম = 3x = 720।",
+   "answer": "B",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "1-5": {
+   "en": "Of 80: 48 male, 32 female. Commerce = 75% of 48 + 25% of 32 = 36 + 8 = 44. That is 44/80 = 55%.",
+   "bn": "80 জনের মধ্যে 48 পুরুষ, 32 নারী। Commerce = 48-এর 75% + 32-এর 25% = 36 + 8 = 44। শতকরা 44/80 = 55%।",
+   "answer": "D",
+   "formula_ids": [
+    "pct-change",
+    "sets"
+   ]
+  },
+  "1-6": {
+   "en": "Rates per hour: A = 12, b = 10 (2 per 12 min), c = 6. Together 28 items/hour. 294 ÷ 28 = 10.5 hours.",
+   "bn": "প্রতি ঘণ্টায় হার: A = 12, b = 10 (12 মিনিটে 2টি), c = 6। একসাথে ঘণ্টায় 28টি। 294 ÷ 28 = 10.5 ঘণ্টা।",
+   "answer": "B",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "1-7": {
+   "en": "Women = 960. After x leave: (960 − x)/(1200 − x) = 0.7 ⇒ 960 − x = 840 − 0.7x ⇒ x = 400.",
+   "bn": "নারী = 960। x জন চলে গেলে: (960 − x)/(1200 − x) = 0.7 ⇒ 960 − x = 840 − 0.7x ⇒ x = 400।",
+   "answer": "D",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "1-8": {
+   "en": "x² + 3 ≡ 7 (mod 32) ⇒ x² ≡ 4 (mod 32), so x ≡ ±2 (mod 16): x is even (2, 14, 18, 30, …). So x/2 is always an integer, but x/4 and x/6 are not (x = 2).",
+   "bn": "x² + 3 ≡ 7 (mod 32) ⇒ x² ≡ 4 (mod 32), তাই x ≡ ±2 (mod 16): x জোড় (2, 14, 18, 30, …)। তাই x/2 সবসময় integer, কিন্তু x/4 ও x/6 নয় (x = 2)।",
+   "answer": "A",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "1-9": {
+   "en": "3x − 2 ≥ 1 ⇒ 3x ≥ 3. So 3x + 2 ≥ 5, the least value is 5.",
+   "bn": "3x − 2 ≥ 1 ⇒ 3x ≥ 3। তাই 3x + 2 ≥ 5, ক্ষুদ্রতম মান 5।",
+   "answer": "A",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "1-10": {
+   "en": "5n = 2n³ − 6 ⇒ 2n³ − 5n − 6 = 0, and n = 2 works (16 − 10 − 6 = 0). The square is 4.",
+   "bn": "5n = 2n³ − 6 ⇒ 2n³ − 5n − 6 = 0, এবং n = 2 কাজ করে (16 − 10 − 6 = 0)। বর্গ = 4।",
+   "answer": "D",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "1-11": {
+   "en": "Sum = 20. To make d as large as possible, make a, b, c as small as possible: 1, 2, 3. Then d = 20 − 6 = 14.",
+   "bn": "যোগফল = 20। d সর্বোচ্চ করতে a, b, c সর্বনিম্ন নিন: 1, 2, 3। তখন d = 20 − 6 = 14।",
+   "answer": "C",
+   "formula_ids": [
+    "average"
+   ]
+  },
+  "1-12": {
+   "en": "x = 11y + 4 and x = 16 × 4 + y = 64 + y ⇒ 10y = 60 ⇒ y = 6, x = 70.",
+   "bn": "x = 11y + 4 এবং x = 16 × 4 + y = 64 + y ⇒ 10y = 60 ⇒ y = 6, x = 70।",
+   "answer": "B",
+   "formula_ids": [
+    "numprop",
+    "algebra"
+   ]
+  },
+  "1-13": {
+   "en": "Loss = CP of 8 oranges: 60c − 624 = 8c ⇒ 52c = 624 ⇒ c = 12, which is not listed.",
+   "bn": "ক্ষতি = 8টি কমলার CP: 60c − 624 = 8c ⇒ 52c = 624 ⇒ c = 12, যা option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "1-14": {
+   "en": "m + w = 70 and 100m + 200w = 11500 ⇒ 7000 + 100w = 11500 ⇒ w = 45.",
+   "bn": "m + w = 70 এবং 100m + 200w = 11500 ⇒ 7000 + 100w = 11500 ⇒ w = 45।",
+   "answer": "D",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "1-15": {
+   "en": "Average speed = total distance / total time. Taking 100 km: time = p/20 + (100 − p)/30 = (3p + 200 − 2p)/60 = (p + 200)/60. Speed = 100 × 60/(p + 200) = 6000/(p + 200).",
+   "bn": "গড় গতি = মোট দূরত্ব / মোট সময়। 100 km ধরলে সময় = p/20 + (100 − p)/30 = (3p + 200 − 2p)/60 = (p + 200)/60। গতি = 100 × 60/(p + 200) = 6000/(p + 200)।",
+   "answer": "A",
+   "formula_ids": [
+    "speed"
+   ]
+  },
+  "1-16": {
+   "en": "a + b + c = 333 and b = c + 2 ⇒ a = 331 − 2c, which is odd. So a is odd.",
+   "bn": "a + b + c = 333 এবং b = c + 2 ⇒ a = 331 − 2c, যা বিজোড়। তাই a বিজোড়।",
+   "answer": "A",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "1-17": {
+   "en": "730,000 − 8,900 = 721,100 ≈ 7.2 × 10⁵.",
+   "bn": "730,000 − 8,900 = 721,100 ≈ 7.2 × 10⁵।",
+   "answer": "D",
+   "formula_ids": [
+    "exponents"
+   ]
+  },
+  "1-18": {
+   "en": "Sesame now = 1.6 oz. Add x: (1.6 + x)/(16 + x) = 0.2 ⇒ 0.8x = 1.6 ⇒ x = 2 ounces.",
+   "bn": "এখন sesame = 1.6 oz। x যোগ করলে: (1.6 + x)/(16 + x) = 0.2 ⇒ 0.8x = 1.6 ⇒ x = 2 ounce।",
+   "answer": "C",
+   "formula_ids": [
+    "mixture"
+   ]
+  },
+  "1-19": {
+   "en": "Buying one day later means one fewer day in advance and a smaller discount. At 30 days (30%): 0.7P = 252 ⇒ P = 360. At 29 days (15%): 0.85 × 360 = 306. So she bought 30 days in advance.",
+   "bn": "এক দিন পরে কেনা মানে এক দিন কম আগে এবং কম discount। 30 দিন আগে (30%): 0.7P = 252 ⇒ P = 360। 29 দিন আগে (15%): 0.85 × 360 = 306। তাই সে 30 দিন আগে কিনেছিল।",
+   "answer": "B",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "1-20": {
+   "en": "Take 100 members: 60 male, 40 female. Males liking games = 40. Total liking games = 70, so female game-lovers = 30, leaving 10 females who like music (everyone likes music or games): 10/40 = 25%.",
+   "bn": "100 জন সদস্য ধরি: 60 পুরুষ, 40 নারী। games পছন্দ করে এমন পুরুষ = 40। মোট games পছন্দ = 70, তাই নারী = 30, বাকি 10 জন নারী music পছন্দ করে (সবাই music বা games পছন্দ করে): 10/40 = 25%।",
+   "answer": "C",
+   "formula_ids": [
+    "sets"
+   ]
+  },
+  "2-1": {
+   "en": "Approach (explain the quotation): Thesis: real achievement is measured by resilience, not by a spotless record. Paragraph 1: restate the quote in your own words. Paragraph 2: why failure is part of growth (learning, feedback, humility). Paragraph 3: an example (a scientist, entrepreneur, athlete or your own experience). Paragraph 4: how to rise again (reflect, adjust, persist, seek support). Conclusion: the glory lies in the comeback.\nUseful phrases: 'resilience', 'learn from setbacks', 'bounce back'.\nAvoid: only quoting famous names; add one concrete story.",
+   "bn": "পদ্ধতি (উক্তি ব্যাখ্যা): Thesis: প্রকৃত সাফল্য মাপা হয় সহনশীলতা দিয়ে, নিখুঁত রেকর্ড দিয়ে নয়। Paragraph 1: উক্তিটি নিজের ভাষায় বলুন। Paragraph 2: ব্যর্থতা কেন বেড়ে ওঠার অংশ (শেখা, প্রতিক্রিয়া, বিনয়)। Paragraph 3: উদাহরণ (বিজ্ঞানী, উদ্যোক্তা, খেলোয়াড় বা নিজের অভিজ্ঞতা)। Paragraph 4: কীভাবে আবার উঠে দাঁড়াবেন (ভাবুন, শুধরান, লেগে থাকুন, সহায়তা নিন)। উপসংহার: গৌরব ফিরে আসাতেই।\nকাজের phrase: 'resilience', 'learn from setbacks', 'bounce back'।\nএড়ান: শুধু বিখ্যাত নাম আওড়ানো; একটি নির্দিষ্ট গল্প দিন।",
+   "rule_ids": [
+    "essay"
+   ]
+  },
+  "2-2": {
+   "en": "Approach (essay on 'Self-employment'): Thesis: self-employment can be a route to dignity and growth when supported by skills and finance. Paragraph 1: define it and why it matters in Bangladesh (job shortage, young population). Paragraph 2: advantages (independence, income potential, creating jobs). Paragraph 3: challenges (capital, risk, market access, irregular income). Paragraph 4: support needed (training, microfinance, digital platforms, policy). Conclusion: self-employment complements formal jobs.\nUseful phrases: 'entrepreneurial mindset', 'access to finance', 'micro-enterprise'.\nAvoid: listing only benefits.",
+   "bn": "পদ্ধতি ('Self-employment' প্রবন্ধ): Thesis: দক্ষতা ও অর্থায়ন পেলে আত্মকর্মসংস্থান মর্যাদা ও প্রবৃদ্ধির পথ হতে পারে। Paragraph 1: সংজ্ঞা ও বাংলাদেশে কেন গুরুত্বপূর্ণ (চাকরির ঘাটতি, তরুণ জনসংখ্যা)। Paragraph 2: সুবিধা (স্বাধীনতা, আয়ের সম্ভাবনা, কর্মসংস্থান সৃষ্টি)। Paragraph 3: চ্যালেঞ্জ (মূলধন, ঝুঁকি, বাজারে প্রবেশ, অনিয়মিত আয়)। Paragraph 4: প্রয়োজনীয় সহায়তা (প্রশিক্ষণ, microfinance, ডিজিটাল platform, নীতি)। উপসংহার: self-employment প্রাতিষ্ঠানিক চাকরির পরিপূরক।\nকাজের phrase: 'entrepreneurial mindset', 'access to finance', 'micro-enterprise'।\nএড়ান: শুধু সুবিধার তালিকা।",
+   "rule_ids": [
+    "essay"
+   ]
+  }
+ }
+}

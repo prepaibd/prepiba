@@ -1,0 +1,1322 @@
+{
+  "exam": {
+    "institute": "IBA (DU)",
+    "program": "MBA",
+    "session": "Dec 2024",
+    "source_pdf": "iba_mba_dec_2024.pdf",
+    "parts_marks": {
+      "mcq": null,
+      "writing": 30
+    }
+  },
+  "parts": [
+    {
+      "part_label": "Multiple Choice Questions",
+      "sections": [
+        {
+          "section_no": 1,
+          "source_section_label": "Section-1: Language & Communication",
+          "subject": "language",
+          "groups": [
+            {
+              "source_group_label": "Questions 1 to 5: Fill in the blanks",
+              "instruction": null,
+              "stimulus": {
+                "passage": "Utilitarianism, by John Stuart Mill, is an essay written to provide support for the value of utilitarianism as a moral theory, and to respond to (1) ____ about it. Mill defines utilitarianism as a theory based on the principle that \"actions are right in proportion as they tend to (2) ____ happiness, wrong as they tend to produce the reverse of happiness.\" Mill argues that utilitarianism (3) ____ with \"natural\" sentiments that originate from humans' social nature. Therefore, if society were to embrace utilitarianism as an ethic, people would naturally (4) ____ these standards as morally binding. The theory of utilitarianism has been criticized for many reasons. Critics hold that it does not provide (5) ____ protection for individual rights, that not everything can be measured by the same standard, and that happiness is more complex than reflected by the theory.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "fill-blank",
+                  "stem": "1. Acclamations, misconceptions, ...... appraisals",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Acclamations"
+                    },
+                    {
+                      "label": "B",
+                      "text": "misconceptions"
+                    },
+                    {
+                      "label": "C",
+                      "text": "......"
+                    },
+                    {
+                      "label": "D",
+                      "text": "appraisals"
+                    }
+                  ],
+                  "answer": "misconceptions",
+                  "explanation": "Blank (1) follows \"respond to ___ about it\", i.e. criticisms/false beliefs about utilitarianism. \"Misconceptions\" (mistaken ideas) fits: Mill's essay responds to misconceptions about the theory. Acclamations (praise) and appraisals (evaluations) do not fit the sense of something to be rebutted.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "fill-blank",
+                  "stem": "2. Preclude, ...., promote, ponder",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Preclude"
+                    },
+                    {
+                      "label": "B",
+                      "text": "...."
+                    },
+                    {
+                      "label": "C",
+                      "text": "promote"
+                    },
+                    {
+                      "label": "D",
+                      "text": "ponder"
+                    }
+                  ],
+                  "answer": "promote",
+                  "explanation": "Actions are right in proportion as they tend to ___ happiness. The sense is \"produce/advance\" happiness, so \"promote\" fits. Preclude (prevent) is the opposite; ponder (think about) does not fit.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "fill-blank",
+                  "stem": "3. Coincides. ......, conflicts",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Coincides"
+                    },
+                    {
+                      "label": "B",
+                      "text": "......"
+                    },
+                    {
+                      "label": "C",
+                      "text": "conflicts"
+                    }
+                  ],
+                  "answer": "coincides",
+                  "explanation": "Mill argues utilitarianism ___ with \"natural\" sentiments, i.e. agrees/aligns with them, so \"coincides\" fits. \"Conflicts\" would contradict Mill's argument that utilitarianism harmonizes with natural social sentiments.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "fill-blank",
+                  "stem": "4. Initiate,......, internalize, instrumentalize",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Initiate"
+                    },
+                    {
+                      "label": "B",
+                      "text": "......"
+                    },
+                    {
+                      "label": "C",
+                      "text": "internalize"
+                    },
+                    {
+                      "label": "D",
+                      "text": "instrumentalize"
+                    }
+                  ],
+                  "answer": "internalize",
+                  "explanation": "People would naturally ___ these standards as morally binding, i.e. adopt them as their own, so \"internalize\" fits. Initiate (begin) and instrumentalize (use as a means) do not match \"accept as morally binding\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 5,
+                  "question_type": "fill-blank",
+                  "stem": "5. Abundant,......, adequate, inadequate",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Abundant"
+                    },
+                    {
+                      "label": "B",
+                      "text": "......"
+                    },
+                    {
+                      "label": "C",
+                      "text": "adequate"
+                    },
+                    {
+                      "label": "D",
+                      "text": "inadequate"
+                    }
+                  ],
+                  "answer": "adequate",
+                  "explanation": "Critics say utilitarianism does not provide ___ protection for individual rights. With \"does not provide\", the blank is the standard being denied, so \"adequate\" fits (it fails to give adequate protection). \"Inadequate\" would double the negative; \"abundant\" is too strong for the neutral phrasing.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Question 6 to 8: Reading Comprehension",
+              "instruction": null,
+              "stimulus": {
+                "passage": "To get a better sense of long-term jet stream and climate patterns, Trouet decided to team up with historians and climate scientists. In a recent publication for Nature, she and her team unveiled a model for jet stream variability that extends the record by 700 years. By studying tree rings, Trouet and a team of paleoclimate experts produced a reconstruction of summer weather extremes for the period from 1300 to 2004 A.D. They then examined historical records to see how these weather patterns were reflected in records of storms, plagues, and harvests dating back to the Middle Ages. The researchers believe that what they found suggests a causal link between jet stream anomalies and such seemingly disconnected events such as wildfires in Greece and Turkey, the spread of plagues in Ireland, and increases on wine taxes in Medieval Hungary.\n\nWith the help of historians, Broadman and colleagues were also able to uncover data about the frequency of plagues, storms, and fluctuations in crop prices within their regions of interest in the southeastern and northwestern corners of Europe. Each time, they were chasing after simultaneous observations. \"And it was either a null response or the expected response for everything we looked at,\" says Broadman.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 6,
+                  "question_type": "reading-comp",
+                  "stem": "6. Best replacement for the word \"anomalies\"",
+                  "options": [],
+                  "answer": "aberrations (irregularities / deviations)",
+                  "explanation": "In \"jet stream anomalies\" the word means departures from the normal pattern. The closest single-word replacement is \"aberrations\" (equivalently irregularities or deviations).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "reading-comp",
+                  "stem": "7. Role of a \"paleoclimatologist\"",
+                  "options": [],
+                  "answer": "A scientist who studies past/ancient climates",
+                  "explanation": "A paleoclimatologist reconstructs and studies past climate conditions and patterns (here using proxies such as tree rings) to understand long-term climate variability and its effects.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 8,
+                  "question_type": "reading-comp",
+                  "stem": "8. Best replacement for the word \"frequency\"",
+                  "options": [],
+                  "answer": "prevalence (rate of occurrence)",
+                  "explanation": "\"Frequency of plagues, storms...\" refers to how often / how commonly they occurred, so \"prevalence\" (or rate of occurrence) is the best replacement.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 2,
+          "source_section_label": "Section-2: Mathematics",
+          "subject": "mathematics",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 9,
+                  "question_type": "problem-solving",
+                  "stem": "9. A jar contains 60 jelly beans- 40 white beans, 'Y' yellow beans, 'R' red beans, and 'P' purple beans. If a jelly beans is to be chosen at random, the probability that the jelly bean is neither red or purple is 0.85, what is the value of 'Y'?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "7"
+                    },
+                    {
+                      "label": "B",
+                      "text": "8"
+                    },
+                    {
+                      "label": "C",
+                      "text": "9"
+                    },
+                    {
+                      "label": "D",
+                      "text": "11"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Neither red nor purple\" means white or yellow. So $(40+Y)/60 = 0.85$, giving $40+Y = 51$, i.e. $Y = 11$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 10,
+                  "question_type": "problem-solving",
+                  "stem": "10. The graph of which of the following equation is straight line that is parallel to the line M in the figure below and intersect the positive direction of Y-axis?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$4y + 3x = 2$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$4y - 3x = -2$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$4y - 3x = 4$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$4y - 3x = -4$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Line M in the figure passes through $(0,-3)$ and $(4,0)$, so its slope is $\\frac{0-(-3)}{4-0}=\\frac{3}{4}$. A parallel line has slope $\\frac{3}{4}$ and must cross the Y-axis at a positive value. Writing each option as $y=\\frac{3}{4}x+c$: option C, $4y-3x=4\\Rightarrow y=\\frac{3}{4}x+1$, has slope $\\frac{3}{4}$ and intercept $+1>0$.",
+                  "images": [
+                    {
+                      "fig_id": "q_p1_1",
+                      "role": "question",
+                      "path": "images/q_p1_1.png",
+                      "caption": "Line M through (0,-3) and (4,0)"
+                    }
+                  ],
+                  "needs_review": false
+                },
+                {
+                  "number": 11,
+                  "question_type": "problem-solving",
+                  "stem": "11. For positive integers x, y, z, the functions (xΩyΩz) means that (z/x$^{y}$) is an integer but (z/x$^{y+1}$) is not. If the function (xΩzΩ144) is an integer, than which of the following is NOT a possible value of x?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "3"
+                    },
+                    {
+                      "label": "C",
+                      "text": "4"
+                    },
+                    {
+                      "label": "D",
+                      "text": "6"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Reading the operator as $x^{z}\\mid 144$ but $x^{z+1}\\nmid 144$ (the OCR of the exponent is garbled). With $144=2^4\\cdot3^2$: $x=2$ works ($z=4$), $x=3$ works ($z=2$), $x=4=2^2$ works ($z=2$: $16\\mid144$, $64\\nmid144$), $x=6$ works ($z=2$: $36\\mid144$, $216\\nmid144$). All of 2, 3, 4, 6 are possible, so none of A-D is impossible — answer E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 12,
+                  "question_type": "problem-solving",
+                  "stem": "12. Hamid sold a certain number of B-grade papers for tk. 1.00 each and a certain number of A-grade papers for tk. 1.25 each. He didn't sell any other type. If r percent of his revenues came from B-grade paper and if p percent of papers sold were B-grade, express r in terms of p.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "100p(125 - p)"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{p}{500 - 100p}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{400p}{(500 - p)}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "500p(125 - 100p)"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Take 100 papers: $p$ are B-grade (revenue $p\\times1=p$) and $100-p$ are A-grade (revenue $1.25(100-p)$). Total revenue $=p+125-1.25p=125-0.25p$. Then $r=\\frac{p}{125-0.25p}\\times100=\\frac{100p}{(500-p)/4}=\\frac{400p}{500-p}$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 13,
+                  "question_type": "problem-solving",
+                  "stem": "13. Nabil ran the first 5 kilometer of a 10-kilometer race at a constant rate of 12 kilometer per hour. He finished the race in 55 minutes. At what constant rate did he run the rest of the race?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "12 km/hr"
+                    },
+                    {
+                      "label": "B",
+                      "text": "11 km/hr"
+                    },
+                    {
+                      "label": "C",
+                      "text": "10 km/hr"
+                    },
+                    {
+                      "label": "D",
+                      "text": "9 km/hr"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "First 5 km at 12 km/hr take $\\frac{5}{12}$ hr $=25$ min. The total was 55 min, so the last 5 km took 30 min $=0.5$ hr, giving a rate of $\\frac{5}{0.5}=10$ km/hr.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 14,
+                  "question_type": "problem-solving",
+                  "stem": "14. Practice perfect tuition center provides 45 minute a tk. 12 per class. If the number of minute Durlov spent in tuition this month was 132 greater that the number of taka spent. How many class did he do?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "4"
+                    },
+                    {
+                      "label": "B",
+                      "text": "5"
+                    },
+                    {
+                      "label": "C",
+                      "text": "6"
+                    },
+                    {
+                      "label": "D",
+                      "text": "7"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "For $n$ classes, minutes $=45n$ and taka $=12n$. Minutes are 132 more than taka: $45n=12n+132\\Rightarrow 33n=132\\Rightarrow n=4$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 15,
+                  "question_type": "problem-solving",
+                  "stem": "15. Wall-to-wall carpeting is installed in hallway at a cost of tk. 425 per square foot. If the hallway's perimeter is $44\\%$ of its area and its length is 50 feet, determine total carpeting cost in taka?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "182,950"
+                    },
+                    {
+                      "label": "B",
+                      "text": "125,500"
+                    },
+                    {
+                      "label": "C",
+                      "text": "106,250"
+                    },
+                    {
+                      "label": "D",
+                      "text": "72,165"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Let width $=w$. Area $=50w$, perimeter $=2(50+w)$. Given perimeter $=44\\%$ of area: $2(50+w)=0.44\\times50w=22w\\Rightarrow100+2w=22w\\Rightarrow w=5$. Area $=250$ sq ft, so cost $=250\\times425=106{,}250$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 16,
+                  "question_type": "problem-solving",
+                  "stem": "16. Akil has 5 fewer pens than Kibria. If Akil gives Kibria 5 pens, Kibria will then have 4 times as many pens as Akil. How many pens does Akil have?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "5"
+                    },
+                    {
+                      "label": "B",
+                      "text": "7"
+                    },
+                    {
+                      "label": "C",
+                      "text": "10"
+                    },
+                    {
+                      "label": "D",
+                      "text": "15"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Let Akil $=A$, Kibria $=A+5$. After Akil gives 5: Akil $=A-5$, Kibria $=A+10$, and Kibria $=4\\times$Akil: $A+10=4(A-5)\\Rightarrow A+10=4A-20\\Rightarrow3A=30\\Rightarrow A=10$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 17,
+                  "question_type": "problem-solving",
+                  "stem": "17. Twelve workers fold 60 sheets of cloth in 9 minutes. If each worker has the same constant rate of folding, how long will it take for 27 workers to fold 180 clothes?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "8"
+                    },
+                    {
+                      "label": "B",
+                      "text": "9"
+                    },
+                    {
+                      "label": "C",
+                      "text": "11"
+                    },
+                    {
+                      "label": "D",
+                      "text": "14"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "60 sheets need $12\\times9=108$ worker-minutes, so $1.8$ worker-minutes per sheet. 180 sheets need $180\\times1.8=324$ worker-minutes. With 27 workers that is $324/27=12$ minutes, which is not among A-D, so the answer is E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 18,
+                  "question_type": "problem-solving",
+                  "stem": "18. $(\\mathrm{x} - 2)^{2} + (\\mathrm{x} - 1)^{2} + \\mathrm{x}^{2} + (\\mathrm{x} + 1)^{2} + (\\mathrm{x} + 2)^{2}$ evaluates to which of the following?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$5\\mathrm{x} + \\mathrm{x}^{2}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$5\\mathrm{x}^{2} + 10$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$5\\mathrm{x}^{2} + 10\\mathrm{x} + 20$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\mathrm{x}^2 +10$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The cross terms cancel: the sum is $5x^2+(4+1+0+1+4)=5x^2+10$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 19,
+                  "question_type": "problem-solving",
+                  "stem": "19. The average weight of 50 balls is 2 lbs. If the weight of the container is included, the average weight increases by 0.05 lbs. Container weight is-",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "2.55 lbs"
+                    },
+                    {
+                      "label": "B",
+                      "text": "3.25 lbs"
+                    },
+                    {
+                      "label": "C",
+                      "text": "4.55 lbs"
+                    },
+                    {
+                      "label": "D",
+                      "text": "5 lbs"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Total ball weight $=50\\times2=100$ lbs. Including the container there are 51 items with average $2.05$: $(100+c)/51=2.05\\Rightarrow100+c=104.55\\Rightarrow c=4.55$ lbs.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 20,
+                  "question_type": "problem-solving",
+                  "stem": "20. A vending machine dispenses candies in a regularly repeating cycle of 10 different colors. If three candies cost you tk. 25, what is the minimum amount of money you need before three candies of the same color are dispensed?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "tk. 100"
+                    },
+                    {
+                      "label": "B",
+                      "text": "tk. 145"
+                    },
+                    {
+                      "label": "C",
+                      "text": "tk. 175"
+                    },
+                    {
+                      "label": "D",
+                      "text": "tk. 200"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "To guarantee three of one color with 10 colors, the worst case is 2 of each color (20) then one more: $2\\times10+1=21$ candies. At 3 candies for tk. 25, 21 candies $=7$ sets $=7\\times25=$ tk. 175.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 21,
+                  "question_type": "problem-solving",
+                  "stem": "21. In a wildlife haven, the ratio of giraffes to zebra is 37:43. If there are 300 more zebras than giraffes, how many giraffes are there?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "1560"
+                    },
+                    {
+                      "label": "B",
+                      "text": "1850"
+                    },
+                    {
+                      "label": "C",
+                      "text": "2060"
+                    },
+                    {
+                      "label": "D",
+                      "text": "2150"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Let the common multiple be $k$: giraffes $=37k$, zebras $=43k$. Then $43k-37k=6k=300\\Rightarrow k=50$, so giraffes $=37\\times50=1850$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 22,
+                  "question_type": "problem-solving",
+                  "stem": "22. Anwar bought a pen and sold it at 10% profit, if the purchase price was 10% less and the selling price was tk. 5 less, then he would have made a profit of 20%. What was the cost of the pen?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "tk. 200"
+                    },
+                    {
+                      "label": "B",
+                      "text": "tk. 250"
+                    },
+                    {
+                      "label": "C",
+                      "text": "tk. 300"
+                    },
+                    {
+                      "label": "D",
+                      "text": "tk. 300"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Let cost $=C$, so selling price $=1.1C$. With cost $0.9C$ and selling price $1.1C-5$, profit is 20%: $1.1C-5=1.2(0.9C)=1.08C\\Rightarrow0.02C=5\\Rightarrow C=250$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 23,
+                  "question_type": "problem-solving",
+                  "stem": "23. In a club, 20% of the members are more than 20 years old and 60% of the men are less than or equal to 60 years old. Forty percent of the members are engineers by profession. If 25% of the members above the age of 60 are engineers, what percentage of non-engineers are less than or equal to 60 years old?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "50%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "54%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "60%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "64%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A (50%)",
+                  "explanation": "As printed the data are inconsistent: \"20% of the members are more than 20 years old\" conflicts with the later \"above the age of 60\". Reading the age data as \"60% of the members are 60 or younger\" (so 40% are above 60): engineers = 40% of members; engineers above 60 = 25% x 40% = 10% of members; so engineers <= 60 = 30%. Non-engineers = 60% of members, of whom above 60 = 40% - 10% = 30%, so <= 60 = 30%. Required = 30/60 = 50% (A). Under the other literal reading (20% above 60) the result would be 75%, which is not an option, so the item remains ambiguous.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 24,
+                  "question_type": "problem-solving",
+                  "stem": "24. Apu got a contract to complete a project in 40 days. He engaged 15 workers who could complete the work in 40 days. However, after working for a few days, 5 workers wanted to leave the job. After how many days can Apu grant leave to these 5 worker. So that is the project completed on time?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "20"
+                    },
+                    {
+                      "label": "B",
+                      "text": "25"
+                    },
+                    {
+                      "label": "C",
+                      "text": "27"
+                    },
+                    {
+                      "label": "D",
+                      "text": "30"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B (25 days)",
+                  "explanation": "As printed, 15 workers finishing in exactly 40 days leave no slack. The only reading that gives a whole-number choice is that 15 workers would finish the whole job in 35 days (525 worker-days) while the deadline is 40 days: after d days with 15 workers and (40 - d) days with 10 workers, 15d + 10(40 - d) = 525, so d = 25. Answer B (25 days); the printed \"40 days\" is taken as a misprint for the total of 35 days.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 25,
+                  "question_type": "problem-solving",
+                  "stem": "25. If x is a positive integer, which of the following must be odd?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$x + 1$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$x^{4}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$x^{3} - x + 1$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$x^{2} + 2x - 1$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$x^{3}-x+1=x(x-1)(x+1)+1$. The product of three consecutive integers is always even, so adding 1 gives an odd number for every positive integer $x$. (A, B, D each can be even for some $x$.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 26,
+                  "question_type": "problem-solving",
+                  "stem": "26. If $6x + 5y = 70\\%$ of 10y, then what is the value of y/x",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{6}{5}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{5}{2}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3"
+                    },
+                    {
+                      "label": "D",
+                      "text": "4"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$70\\%$ of $10y$ is $7y$, so $6x+5y=7y\\Rightarrow6x=2y\\Rightarrow\\frac{y}{x}=3$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 27,
+                  "question_type": "problem-solving",
+                  "stem": "27. Zahir can cover a distance of 58 kilometers in 6.5 hours if he travels 48 km by a cycle and the rest by walking. However, he needs 80 more minutes to cover the same distance if he travels 40 km by cycle and the rest by walking. Find the ratio of his cycling speed to that of his walking speed.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "5:2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "3:1"
+                    },
+                    {
+                      "label": "C",
+                      "text": "7:3"
+                    },
+                    {
+                      "label": "D",
+                      "text": "8:5"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Let cycling speed $c$, walking speed $w$. $\\frac{48}{c}+\\frac{10}{w}=6.5$ and $\\frac{40}{c}+\\frac{18}{w}=6.5+\\frac{80}{60}=\\frac{47}{6}$. Solving gives $c=12$, $w=4$, so $c:w=3:1$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 28,
+                  "question_type": "problem-solving",
+                  "stem": "28. A bag contains some bank notes of tk. 2, tk. 5 and tk. 10, denominations. The ratio of the value of these bank notes are 7: 2: 3. If the total amount of money is 360, how many bank notes of tk. 5 are there in the bag?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "9"
+                    },
+                    {
+                      "label": "B",
+                      "text": "12"
+                    },
+                    {
+                      "label": "C",
+                      "text": "15"
+                    },
+                    {
+                      "label": "D",
+                      "text": "18"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Values are $7k:2k:3k$ with sum $12k=360\\Rightarrow k=30$. The tk. 5 notes have total value $2k=60$, so their count is $60/5=12$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 29,
+                  "question_type": "problem-solving",
+                  "stem": "29. Babu imports pens and sells them at a profit of 80%. However, due to a recent change in dollar exchange rate, his import cost has increased by 20%. If he does not change his selling price, what should his profit be now?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "40%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "48%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "50%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "52%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Let cost $=100$, so selling price $=180$. New cost $=120$. New profit $=\\frac{180-120}{120}=\\frac{60}{120}=50\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 30,
+                  "question_type": "problem-solving",
+                  "stem": "30. The ratio of the present ages of Raju, Kamal & Jibon is 5:7:8. Eight years ago the sum of their ages was 56. What will their age be eight years later?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "20, 28, 32"
+                    },
+                    {
+                      "label": "B",
+                      "text": "28, 36, 40"
+                    },
+                    {
+                      "label": "C",
+                      "text": "16, 28, 36"
+                    },
+                    {
+                      "label": "D",
+                      "text": "24, 36, 44"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Present ages $5x,7x,8x$ sum to $20x$. Eight years ago: $20x-24=56\\Rightarrow20x=80\\Rightarrow x=4$, so present ages are $20,28,32$. Eight years later: $28,36,40$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 31,
+                  "question_type": "problem-solving",
+                  "stem": "31. In the figure, ABDC is a rectangle and XY is parallel to AB, X is the middle point of AC, the area of triangle EBF and FBD are equal. If CE = EF and QY is 2 cm., what is the ratio of the area of quadrilateral ABEC and triangle BEF?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "4:1"
+                    },
+                    {
+                      "label": "B",
+                      "text": "5:1"
+                    },
+                    {
+                      "label": "C",
+                      "text": "6:1"
+                    },
+                    {
+                      "label": "D",
+                      "text": "5:2"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Place $C=(0,0),D=(w,0),A=(0,h),B=(w,h)$; then $X=(0,h/2),Y=(w,h/2)$. With $E=(e,0),F=(f,0)$: equal areas of $\\triangle EBF$ and $\\triangle FBD$ give $w-f=f-e$, and $CE=EF$ gives $f=2e$; together $e=w/3,f=2w/3$. Line $BF$ meets $XY$ at $Q=(5w/6,h/2)$, so $QY=w/6=2\\Rightarrow w=12$, giving $e=4,f=8$. Area of quadrilateral $ABEC=\\tfrac12 h(w+e)=8h$ and area of $\\triangle BEF=\\tfrac12(f-e)h=2h$, so the ratio is $4:1$.",
+                  "images": [
+                    {
+                      "fig_id": "q_p3_2",
+                      "role": "question",
+                      "path": "images/q_p3_2.png",
+                      "caption": "Rectangle ABDC with midline XY and points E, F on CD"
+                    }
+                  ],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Data Sufficiency",
+              "instruction": "Each of the following questions consist of two statements given below it. You have to decide which (if any) statement(s) is (are) sufficient to answer the given question.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 32,
+                  "question_type": "data-sufficiency",
+                  "stem": "32. A school is purchasing red paint and blue paint to prepare purple paint. Red paint costs tk. 4 per liter, and blue paint costs tk. 6 per liter. If 10 liters of purple paint consists of x liters of red paint and y liters of blue paint, is x > y?\ni. y > 4\nii. The 10 liters of purple paint costs less than tk. 50",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only I"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Only II"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Both I and II"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Either I or II"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Cannot be determined"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Here $x+y=10$. Statement i ($y>4$) is not sufficient: $y=4.1$ gives $x>y$, but $y=6$ gives $x<y$. Statement ii: cost $=4x+6y=4x+6(10-x)=60-2x<50\\Rightarrow x>5$, and since $x+y=10$, $x>5$ means $x>y$ — sufficient. So only II.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 33,
+                  "question_type": "data-sufficiency",
+                  "stem": "33. At a particular restaurant, customers who buy two pizzas pay the regular price for the first pizza and a discounted price for the second pizza. The restaurant makes the same profit from selling two pizza that it make from selling one pizza at the regular price. For a customer who buys two pizzas, what is the discounted price of the second pizza?\ni. The regular price of a pizza at the restaurant is tk. 880.\nii. The cost to prepare a pizza at the restaurant is tk. 400.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only I"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Only II"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Both I and II"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Either I or II"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Cannot be determined"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Let regular price $R$, cost $C$, discounted price $D$. Profit on two pizzas $=(R-C)+(D-C)$ equals profit on one $=R-C$, which forces $D=C$. So the discounted price equals the preparation cost. Statement ii gives $C=400\\Rightarrow D=400$ — sufficient. Statement i ($R=880$) alone does not give $C$. So only II.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 3,
+          "source_section_label": "Section-3: Analytical Ability",
+          "subject": "analytical",
+          "groups": [
+            {
+              "source_group_label": "Questions 35-39 are based on the following information:",
+              "instruction": null,
+              "stimulus": {
+                "passage": "The editors of a journal that publishes three issues a year will devote the upcoming winter, spring, and fall issues in that order- exclusively to articles written by seven authors: J, K, L, M, N, O, and P. Each of the seven authors will have at least one article published, but some may have more than one article published.\n\nThe following restrictions apply to the publication of their articles:\n- If an article by J appears in an issue, then an article by K must also appear in that issue.\n- If an article by M appears in an issue, then an article by O must appear in the immediately preceding issue.\n- An article by O cannot be published in an issue that contains an article by P.\n- No author may publish in each of two consecutively published issues or twice in the same issue.\n- Each of the issues being prepared must contain at least two articles.\n- The seven authors' articles will only appear in the upcoming winter, spring, and fall issues.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 34,
+                  "question_type": "puzzle",
+                  "stem": "34. The winter issue of the journal can consist exclusively of articles by which of the following groups of authors?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "J and L"
+                    },
+                    {
+                      "label": "B",
+                      "text": "M and O"
+                    },
+                    {
+                      "label": "C",
+                      "text": "J, O, and P"
+                    },
+                    {
+                      "label": "D",
+                      "text": "L, N, and O"
+                    },
+                    {
+                      "label": "E",
+                      "text": "J, K, N, O, P"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "A: J requires K in the same issue — fails. B: M requires O in the immediately preceding issue, but winter is first — fails. C: J requires K (absent) and O cannot share an issue with P — fails. E: O and P cannot be in the same issue — fails. D (L, N, O) breaks no rule, so it is valid.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 35,
+                  "question_type": "puzzle",
+                  "stem": "35. If the winter issue consists exclusively of articles by J and K, then the spring issue can consist exclusively of articles by which of the following groups of authors?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "L and N"
+                    },
+                    {
+                      "label": "B",
+                      "text": "L and O"
+                    },
+                    {
+                      "label": "C",
+                      "text": "M and P"
+                    },
+                    {
+                      "label": "D",
+                      "text": "J, K and P"
+                    },
+                    {
+                      "label": "E",
+                      "text": "L, O and P"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "J and K cannot repeat in the consecutive spring issue, ruling out D. C fails because M needs O in the preceding (winter) issue. E fails because O and P cannot share an issue. A (L, N) is impossible overall: then M must go in fall, requiring O in spring, but spring would be L, N — so M cannot be placed. B (L, O) works: fall can be M, N, P with O in the preceding spring issue, and all seven authors appear (winter J,K; spring L,O; fall M,N,P).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 36,
+                  "question_type": "puzzle",
+                  "stem": "36. Which of the following authors CANNOT contribute to the winter issue of the journal?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "L"
+                    },
+                    {
+                      "label": "B",
+                      "text": "M"
+                    },
+                    {
+                      "label": "C",
+                      "text": "N"
+                    },
+                    {
+                      "label": "D",
+                      "text": "O"
+                    },
+                    {
+                      "label": "E",
+                      "text": "P"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "M requires an article by O in the immediately preceding issue. Winter is the first issue, so there is no preceding issue and M cannot appear in winter. L, N, O, and P can each appear in a valid winter issue.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 37,
+                  "question_type": "puzzle",
+                  "stem": "37. If the winter issue consists exclusively of articles by K, L, and P, then the fall issue must contain an article by which of the following authors?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "K"
+                    },
+                    {
+                      "label": "B",
+                      "text": "L"
+                    },
+                    {
+                      "label": "C",
+                      "text": "N"
+                    },
+                    {
+                      "label": "D",
+                      "text": "O"
+                    },
+                    {
+                      "label": "E",
+                      "text": "P"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "J must appear somewhere, and J requires K in the same issue. J cannot be in winter (exclusively K, L, P) nor in spring (K cannot repeat in the issue consecutive to winter). So J and K must both appear in fall (fall is not consecutive to winter). Therefore the fall issue must contain an article by K.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 38,
+                  "question_type": "puzzle",
+                  "stem": "38. If the fall issue consists exclusively of articles by K, L, and M, then the spring issue must have consisted of articles by which of the following groups of authors?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "J and N"
+                    },
+                    {
+                      "label": "B",
+                      "text": "J and P"
+                    },
+                    {
+                      "label": "C",
+                      "text": "N and O"
+                    },
+                    {
+                      "label": "D",
+                      "text": "K and O"
+                    },
+                    {
+                      "label": "E",
+                      "text": "N and P"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "M in fall requires O in the immediately preceding spring issue, so spring must contain O (ruling out A, B, E). K cannot be in spring (consecutive to fall), ruling out D. Thus spring is N and O; a consistent full schedule is winter J, K, P; spring N, O; fall K, L, M.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 39, 40 are based on the following information:",
+              "instruction": null,
+              "stimulus": {
+                "passage": "An advertisement agency needs to make 5 TV advertisements for 5 different clients. The agency has 7 designers: A, B, C, D, E, F, and G.\nAssignment Rules:\n- No designer can be assigned to more than one project.\n- Either D or G must be selected, but not both.\n- If F is assigned, then C must also be assigned.\n- If G is assigned, then D cannot be assigned.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 39,
+                  "question_type": "puzzle",
+                  "stem": "39. If G is selected, which of the following designers must also be selected?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "A"
+                    },
+                    {
+                      "label": "B",
+                      "text": "O"
+                    },
+                    {
+                      "label": "C",
+                      "text": "E"
+                    },
+                    {
+                      "label": "D",
+                      "text": "F"
+                    },
+                    {
+                      "label": "E",
+                      "text": "G"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "G selected means D is excluded, so the five designers come from {A,B,C,E,F,G} with G in: exactly one of A,B,C,E,F is left out besides D. C cannot be the one left out, because then F (and A,B,E) would all be chosen and \"if F then C\" would be violated. Every other designer can be left out, so only C is forced. The printed option B reads \"O\" (not a designer); it is a misprint for C.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 40,
+                  "question_type": "puzzle",
+                  "stem": "40. If A, B, and E are three of the selected designers, which of the following must be the other two?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "C and D"
+                    },
+                    {
+                      "label": "B",
+                      "text": "C and F"
+                    },
+                    {
+                      "label": "C",
+                      "text": "C and G"
+                    },
+                    {
+                      "label": "D",
+                      "text": "W and F"
+                    },
+                    {
+                      "label": "E",
+                      "text": "F and G"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "With A, B, E fixed, the other two come from {C, D, F, G} with exactly one of D or G; F would need C and would leave no room for D or G, so the pair is {C, D} or {C, G}. Option D (\"W and F\") is not valid (W is not a designer), and B and E include F without D/G. Of the printed options only A (C and D) and C (C and G) satisfy the rules; A is taken as the intended key.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_label": "Writing Ability: 30 marks, 30 min",
+      "sections": [
+        {
+          "section_no": 4,
+          "source_section_label": "Writing Ability: 30 marks, 30 min",
+          "subject": "writing",
+          "groups": [
+            {
+              "source_group_label": "Writing Ability: 30 marks, 30 min",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "argument",
+                  "stem": "1. Aargumentative writing: \"Globalization is not a global friendship, rather global competition and conflict\"",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended argumentative essay. Take a clear position on whether globalization fosters friendship or competition/conflict, support it with reasoning and concrete examples (trade wars, labour competition, cultural exchange, cooperation on global problems), acknowledge the opposing view, and conclude. No single correct answer.",
+                  "marks": 15,
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "essay",
+                  "stem": "2. Explain: \"Need brings Greed, if Greed Spoils it spoils breed\"",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended explanatory essay. Interpret the proverb (unmet needs can grow into greed, and unchecked greed corrupts character and the next generation), develop the idea with reasoning and examples, and conclude. No single correct answer.",
+                  "marks": 15,
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    "Q1-5 are printed as numbered answer-choice lines (e.g. 'Acclamations, misconceptions, ........ appraisals') under the paragraph; stored as stem + split options. Dot-leader lengths differ from print (not exact).",
+    "Q6-8 print no options. Q10 and Q31 figures are images (not re-cropped).",
+    "Writing Q1 prints 'Aurgumentative writing' (stored 'Aargumentative'; scan unclear, left as is - check against paper). Marks printed: 15 + 15 (30 marks, 30 min).",
+    "Answers and explanations are out of scope (to be regenerated by the user); stored values are unreliable."
+  ]
+}

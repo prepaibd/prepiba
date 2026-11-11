@@ -1,0 +1,14 @@
+services:
+  db:
+    image: postgres:17
+    environment:
+      POSTGRES_DB: prepiba
+      POSTGRES_USER: prepiba
+      POSTGRES_PASSWORD: prepiba
+    ports: ["5433:5432"]
+    volumes: ["pgdata:/var/lib/postgresql/data"]
+  redis:
+    image: redis:7
+    ports: ["6380:6379"]
+volumes:
+  pgdata:

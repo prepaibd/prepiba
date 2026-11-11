@@ -1,0 +1,2446 @@
+{
+  "exam": {
+    "institute": "IBA (DU)",
+    "program": "MBA",
+    "session": "June 2016",
+    "source_pdf": "iba_mba_June_2016.pdf",
+    "parts_marks": {
+      "mcq": 75,
+      "writing": 25
+    }
+  },
+  "parts": [
+    {
+      "part_label": "Part I: Multiple Choice Questions [75 marks]",
+      "sections": [
+        {
+          "section_no": 1,
+          "source_section_label": "Section 1: Language and Communication",
+          "subject": "language",
+          "groups": [
+            {
+              "source_group_label": "Questions 1-11:",
+              "instruction": "Choose the most appropriate word(s)/phrase to fill in the blanks in the given sentence.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "fill-blank",
+                  "stem": "1. Located near the coast, my home town is a famous fishing port ____ fisherman set their traps in the early morning.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "which is where"
+                    },
+                    {
+                      "label": "B",
+                      "text": "the location where"
+                    },
+                    {
+                      "label": "C",
+                      "text": "a place at which"
+                    },
+                    {
+                      "label": "D",
+                      "text": "where"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "The relative adverb \"where\" neatly links the place to what happens there.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "fill-blank",
+                  "stem": "2. If there is nothing to absorb the energy of sound waves, they travel on ____, but their intensity ____ as they travel further from their source.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "erratically - mitigates"
+                    },
+                    {
+                      "label": "B",
+                      "text": "eternally - alleviates"
+                    },
+                    {
+                      "label": "C",
+                      "text": "forever - increase"
+                    },
+                    {
+                      "label": "D",
+                      "text": "steadily - stabilizes"
+                    },
+                    {
+                      "label": "E",
+                      "text": "indefinitely - diminishes"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Unabsorbed waves travel \"indefinitely\", and intensity \"diminishes\" with distance.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "fill-blank",
+                  "stem": "3. A number of scientific theories that are today were once treated with ____ by the scientific establishment.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "corroborated - approval"
+                    },
+                    {
+                      "label": "B",
+                      "text": "dismissed - contempt"
+                    },
+                    {
+                      "label": "C",
+                      "text": "accepted - approbation"
+                    },
+                    {
+                      "label": "D",
+                      "text": "unchallenged - disdain"
+                    },
+                    {
+                      "label": "E",
+                      "text": "unrivalled - reverence"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Theories now \"unchallenged\" were once met with \"disdain\" — the contrast the sentence needs.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "fill-blank",
+                  "stem": "4. Be careful when driving ____ weather conditions.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "under averse"
+                    },
+                    {
+                      "label": "B",
+                      "text": "under adverse"
+                    },
+                    {
+                      "label": "C",
+                      "text": "into adverse"
+                    },
+                    {
+                      "label": "D",
+                      "text": "while adverse"
+                    },
+                    {
+                      "label": "E",
+                      "text": "during averse"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"Adverse\" (unfavourable) weather, with the preposition \"under\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 5,
+                  "question_type": "fill-blank",
+                  "stem": "5. Having such a rich family inheritance ____ had its effect on Rajon.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "must"
+                    },
+                    {
+                      "label": "B",
+                      "text": "must be having"
+                    },
+                    {
+                      "label": "C",
+                      "text": "must have"
+                    },
+                    {
+                      "label": "D",
+                      "text": "having"
+                    },
+                    {
+                      "label": "E",
+                      "text": "must had"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"Must have had its effect\" — the modal perfect; \"must have\" fits.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 6,
+                  "question_type": "fill-blank",
+                  "stem": "6. When I asked Asif ____ my mother, he said he had no idea where she was.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "if he did see"
+                    },
+                    {
+                      "label": "B",
+                      "text": "he could see"
+                    },
+                    {
+                      "label": "C",
+                      "text": "if he has seen"
+                    },
+                    {
+                      "label": "D",
+                      "text": "if he had seen"
+                    },
+                    {
+                      "label": "E",
+                      "text": "that he had seen"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Reported past question uses \"if he had seen\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "fill-blank",
+                  "stem": "7. Don't get hyped up about all the offers in the internet; I'm afraid most of these are all a ____.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "sham"
+                    },
+                    {
+                      "label": "B",
+                      "text": "charade"
+                    },
+                    {
+                      "label": "C",
+                      "text": "fraud"
+                    },
+                    {
+                      "label": "D",
+                      "text": "imitation"
+                    },
+                    {
+                      "label": "E",
+                      "text": "myth"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"A sham\" (a deceptive pretence) fits \"are all a ___\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 8,
+                  "question_type": "fill-blank",
+                  "stem": "8. It was the Director's subtle way of ____ that the project would henceforth be lead by his rival.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "relegating"
+                    },
+                    {
+                      "label": "B",
+                      "text": "announcing"
+                    },
+                    {
+                      "label": "C",
+                      "text": "disempowering"
+                    },
+                    {
+                      "label": "D",
+                      "text": "intimating"
+                    },
+                    {
+                      "label": "E",
+                      "text": "conversing"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Intimating\" means hinting subtly, matching \"subtle way of\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 9,
+                  "question_type": "fill-blank",
+                  "stem": "9. It takes great courage to keep up ____ of normalcy when everything around is pulling you down.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "an impression"
+                    },
+                    {
+                      "label": "B",
+                      "text": "a feeling"
+                    },
+                    {
+                      "label": "C",
+                      "text": "a show"
+                    },
+                    {
+                      "label": "D",
+                      "text": "a veneer"
+                    },
+                    {
+                      "label": "E",
+                      "text": "a façade"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "\"Keep up a façade of normalcy\" is the idiomatic phrase for maintaining an outward appearance.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 10,
+                  "question_type": "fill-blank",
+                  "stem": "10. I'm impressed at the length he has gone through to create this detailed report in which he ____ the text at several places.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "annotated"
+                    },
+                    {
+                      "label": "B",
+                      "text": "referred"
+                    },
+                    {
+                      "label": "C",
+                      "text": "unraveled"
+                    },
+                    {
+                      "label": "D",
+                      "text": "interpreted"
+                    },
+                    {
+                      "label": "E",
+                      "text": "inferred"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Adding notes to the text at several places is \"annotated\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 11,
+                  "question_type": "fill-blank",
+                  "stem": "11. Despite the accounts of many witnesses, what happened there still remains ____ in secrecy.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "shrouded"
+                    },
+                    {
+                      "label": "B",
+                      "text": "wrapped"
+                    },
+                    {
+                      "label": "C",
+                      "text": "meshed"
+                    },
+                    {
+                      "label": "D",
+                      "text": "woven"
+                    },
+                    {
+                      "label": "E",
+                      "text": "twisted"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Shrouded in secrecy\" is the set collocation.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 12-14:",
+              "instruction": "Choose the most appropriate synonym of the highlighted word in the sentence.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 12,
+                  "question_type": "synonym",
+                  "stem": "12. As soon as the news was published, the newspaper was inundated with calls",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "perturbed"
+                    },
+                    {
+                      "label": "B",
+                      "text": "bothered"
+                    },
+                    {
+                      "label": "C",
+                      "text": "denounced"
+                    },
+                    {
+                      "label": "D",
+                      "text": "flooded"
+                    },
+                    {
+                      "label": "E",
+                      "text": "dilapidated"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Inundated\" means overwhelmed/\"flooded\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 13,
+                  "question_type": "synonym",
+                  "stem": "13. The public did not care about the trial and was apathetic about the verdict.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "enraged"
+                    },
+                    {
+                      "label": "B",
+                      "text": "unconcerned"
+                    },
+                    {
+                      "label": "C",
+                      "text": "boisterous"
+                    },
+                    {
+                      "label": "D",
+                      "text": "blasphemous"
+                    },
+                    {
+                      "label": "E",
+                      "text": "saddened"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"Apathetic\" means indifferent/\"unconcerned\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 14,
+                  "question_type": "synonym",
+                  "stem": "14. You must articulate your sentiments and philosophies properly for us to understand it.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "refine"
+                    },
+                    {
+                      "label": "B",
+                      "text": "polish"
+                    },
+                    {
+                      "label": "C",
+                      "text": "express"
+                    },
+                    {
+                      "label": "D",
+                      "text": "summarize"
+                    },
+                    {
+                      "label": "E",
+                      "text": "tweak"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"Articulate\" here means to \"express\" clearly.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 15-20:",
+              "instruction": "Underlined parts of the following sentences may contain error(s) in grammar, diction, usage or idiom. Choose the underlined portion that contains such error(s). If there is no error, select (E).",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 15,
+                  "question_type": "error-identification",
+                  "stem": "15. Although the two families have always been (A) involved in some form of (B) bickering since the time (C) they moved into the same neighborhood, there was no major quarrel (D) for the past two years. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "have always been"
+                    },
+                    {
+                      "label": "B",
+                      "text": "some form of"
+                    },
+                    {
+                      "label": "C",
+                      "text": "since the time"
+                    },
+                    {
+                      "label": "D",
+                      "text": "there was no major quarrel"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"For the past two years\" needs the present perfect: \"there has been no major quarrel\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 16,
+                  "question_type": "error-identification",
+                  "stem": "16. Despite all obstacles (A). I will complete (B) this training (C) on self control by next month (D). No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Despite all obstacles"
+                    },
+                    {
+                      "label": "B",
+                      "text": "I will complete"
+                    },
+                    {
+                      "label": "C",
+                      "text": "this training"
+                    },
+                    {
+                      "label": "D",
+                      "text": "by next month"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The sentence is grammatically correct; no error.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 17,
+                  "question_type": "error-identification",
+                  "stem": "17. I do not wish to sound too intrusive (A), but I would have been (B) better pleased if you gave (C) the award to the person who best deserved (D) it. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "too intrusive"
+                    },
+                    {
+                      "label": "B",
+                      "text": "I would have been"
+                    },
+                    {
+                      "label": "C",
+                      "text": "if you gave"
+                    },
+                    {
+                      "label": "D",
+                      "text": "who best deserved"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The third-conditional needs the past perfect: \"if you had given\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 18,
+                  "question_type": "error-identification",
+                  "stem": "18. Though many scientists had initially regarded (A) his theory as absurd (B), and incompatible to (C) common sense, they later appreciated his work (D). No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "had initially regarded"
+                    },
+                    {
+                      "label": "B",
+                      "text": "as absurd"
+                    },
+                    {
+                      "label": "C",
+                      "text": "incompatible to"
+                    },
+                    {
+                      "label": "D",
+                      "text": "appreciated his work"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The idiom is \"incompatible with\", not \"incompatible to\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 19,
+                  "question_type": "error-identification",
+                  "stem": "19. The principal stepped aside (A) just as the scam (B) issue came up (C), and in the process asserting (D) his moral superiority. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "stepped aside"
+                    },
+                    {
+                      "label": "B",
+                      "text": "the scam"
+                    },
+                    {
+                      "label": "C",
+                      "text": "came up"
+                    },
+                    {
+                      "label": "D",
+                      "text": "asserting"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "For parallelism with \"stepped aside\", it should be \"asserted his moral superiority\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 20,
+                  "question_type": "error-identification",
+                  "stem": "20. Lately (A), many of (B) the committee's (C) suggestions has been (D) rejected. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Lately"
+                    },
+                    {
+                      "label": "B",
+                      "text": "many of"
+                    },
+                    {
+                      "label": "C",
+                      "text": "the committee's"
+                    },
+                    {
+                      "label": "D",
+                      "text": "has been"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "The subject \"suggestions\" is plural, so it should be \"have been rejected\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 21-24:",
+              "instruction": "Identify the correct sentence.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 21,
+                  "question_type": "sentence-correction",
+                  "stem": "21. Identify the correct sentence.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "The imposter could carry on for so long because she conducted herself as though she were a licensed practitioner."
+                    },
+                    {
+                      "label": "B",
+                      "text": "The imposter could carry on so long because she conducted herself as if she was a licensed practitioner."
+                    },
+                    {
+                      "label": "C",
+                      "text": "The imposter could carry on so long because she conducted herself as though she was a licensed practitioner."
+                    },
+                    {
+                      "label": "D",
+                      "text": "The imposter carried on for so long because she would conduct herself as though she was a licensed practitioner."
+                    },
+                    {
+                      "label": "E",
+                      "text": "The imposter has been carrying on for so long because she had conducted herself as though she were a licensed practitioner."
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The counterfactual \"as though she were\" uses the correct subjunctive, and the tenses are consistent in A.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 22,
+                  "question_type": "sentence-correction",
+                  "stem": "22. Identify the correct sentence.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "She demanded that he immediately leave the house."
+                    },
+                    {
+                      "label": "B",
+                      "text": "She demanded that he immediately leaves the house."
+                    },
+                    {
+                      "label": "C",
+                      "text": "She demands that he immediately leaves the house."
+                    },
+                    {
+                      "label": "D",
+                      "text": "She is demanding that he will immediately leave the house."
+                    },
+                    {
+                      "label": "E",
+                      "text": "She is demanding that he should immediately leave the house"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "After \"demanded that\", the subjunctive base form \"leave\" is required.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 23,
+                  "question_type": "sentence-correction",
+                  "stem": "23. Identify the correct sentence.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "This task ought to be given to her with who you are so impressed, not me!"
+                    },
+                    {
+                      "label": "B",
+                      "text": "This task ought to be given to her with whom you are so impressed, not I!"
+                    },
+                    {
+                      "label": "C",
+                      "text": "This task ought to be given to she with whom you are so impressed, not I!"
+                    },
+                    {
+                      "label": "D",
+                      "text": "This task ought to be given to her with who you are so impressed, not I!"
+                    },
+                    {
+                      "label": "E",
+                      "text": "This task ought to be given to her with whom you are so impressed, not me!"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "\"Her\" and \"me\" are correct object forms and \"whom\" is the correct relative object: option E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 24,
+                  "question_type": "sentence-correction",
+                  "stem": "24. Identify the correct sentence.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Signing the contract, you cannot shrug off liability by giving the excuse that you have not seen the fine prints."
+                    },
+                    {
+                      "label": "B",
+                      "text": "Once you have signed the contract, you cannot shrug off liability by giving the excuse that you have not seen the fine prints."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Once you have signed the contract, you could not shrug off liability by giving the excuse that you did not see the fine prints."
+                    },
+                    {
+                      "label": "D",
+                      "text": "Once signed, you cannot shrug off liability in contracts by giving the excuse that you have not seen the fine prints."
+                    },
+                    {
+                      "label": "E",
+                      "text": "Once the contract has been signed off, you cannot shrug off liability by giving the excuse that you have not seen the fine prints."
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "B has a clear subject, correct tense sequence and no dangling modifier.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 25-28:",
+              "instruction": "Answer the Questions based on the following passage.",
+              "stimulus": {
+                "passage": "An ecosystem is a group of animals and plants living in a specific region and interacting with one another and with their physical environment. Ecosystems include physical and chemical components, such as soils, water, and nutrients that support the organism living there. These organisms may range from large animals to microscopic bacteria. Ecosystem also can be thought of as the interactions among all organisms in a given habitat; for instance, one species may serve as food for another. People are part of the ecosystems where they live and work. Human activities can harm or destroy local ecosystem unless actions such as land development for housing or businesses are carefully planned to conserve and sustain the ecology of the area. An important part of ecosystem management involves finding ways to protect and enhance economic and social well-being while protecting local ecosystems.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 25,
+                  "question_type": "reading-comp",
+                  "stem": "25. What is the main idea of the passage?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "An ecosystem is community that includes animals, plants, and microscopic bacteria."
+                    },
+                    {
+                      "label": "B",
+                      "text": "Human activities can do great damage to local ecosystems, so human communities should be cautiously planned."
+                    },
+                    {
+                      "label": "C",
+                      "text": "In managing the ecology of an area, it is important to protect both human interests and the interests of other members of local ecosystems."
+                    },
+                    {
+                      "label": "D",
+                      "text": "People should remember that they are a part of the ecosystems where they live and work."
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of the above"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The passage culminates in protecting human well-being while also protecting local ecosystems — balancing both (C).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 26,
+                  "question_type": "reading-comp",
+                  "stem": "26. Which of the following best sums up activities within an ecosystem?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Predator-prey relationships"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Interactions among all members."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Human-animal interactions"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Human relationship with the environment"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of the above"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The passage frames an ecosystem as \"the interactions among all organisms\" — interactions among all members (B).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 27,
+                  "question_type": "reading-comp",
+                  "stem": "27. An ecosystem can most accurately be defined as a:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Geographical area"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Community"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Locality"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Protected environment"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of the above"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "A group of organisms interacting in a region is a \"community\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 28,
+                  "question_type": "reading-comp",
+                  "stem": "28. Which of the following statements is not directly proposed or supported in the passage?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Chemical components are also a part of the ecosystem."
+                    },
+                    {
+                      "label": "B",
+                      "text": "Ecosystem represents the interactions among all organisms, big or small, in an area."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Species within an ecosystem are dependent on each other for food."
+                    },
+                    {
+                      "label": "D",
+                      "text": "Actions need to be taken to sustain and conserve the ecology of an area."
+                    },
+                    {
+                      "label": "E",
+                      "text": "Protecting local ecosystems is more important than economic well-being of humans."
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The passage calls for balancing ecosystem protection with economic/social well-being, not ranking one above the other, so E is not supported.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 29-30:",
+              "instruction": "Identify the sentence(s) that is/are showing the correct from of the given word.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 29,
+                  "question_type": "word-substitution",
+                  "stem": "29. The word: AMASS\ni. At the end of the outreach program, they amassed a truckload of donations for distribution to the flood victims.\nii. It was his intention from the very beginning to start a business in this line of trade to amass wealth in the shortest possible time.\niii. The shipwreck lead to amasses of debris on the shore.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "i only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "both ii and iii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "ii only"
+                    },
+                    {
+                      "label": "D",
+                      "text": "both i and ii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "i, ii and iii"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Amassed\" (i) and \"amass\" (ii) use the verb correctly; (iii) needs \"masses of debris\", so \"amasses\" is wrong. Hence i and ii.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 30,
+                  "question_type": "word-substitution",
+                  "stem": "30. The word: ABORIGINE\ni. The first crime done against the aborigines was to evict them of their homeland.\nii. The Haka dance is an aboriginous tradition of the Kiwis.\niii. The aboriginal inhabitants of this land had an important influence on the culture and tradition of our society today.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "both i and ii"
+                    },
+                    {
+                      "label": "B",
+                      "text": "both i and iii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "both ii and iii"
+                    },
+                    {
+                      "label": "D",
+                      "text": "iii only"
+                    },
+                    {
+                      "label": "E",
+                      "text": "i, ii and iii"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"aborigines\" (i) and \"aboriginal\" (iii) are correct forms; \"aboriginous\" (ii) is not a word. So i and iii.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 2,
+          "source_section_label": "Section 2: Mathematics",
+          "subject": "mathematics",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": "Solve each of the following problems and mark the correct answer on your Answer Sheet. DO NOT USE A CALCULATOR. Figures are not drawn to scale.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 31,
+                  "question_type": "problem-solving",
+                  "stem": "31. If x > 0, which of the following must be true?\nI. $x - x^2 < 0$   II. $2x - 1 > 0$   III. $x^2 - x^3 > 0$",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only I"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Only II"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Only III"
+                    },
+                    {
+                      "label": "D",
+                      "text": "All of these"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "I fails for 0 < x < 1 (x - x^2 > 0). II fails for x <= 1/2. III fails for x >= 1 (x^2 - x^3 <= 0). Since x only has to be positive, none of them must be true: E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 32,
+                  "question_type": "problem-solving",
+                  "stem": "32. There are 87 balls in a jar. Each ball is painted with at least one of two colors, red and green. It is observed that $\\frac{2}{7}$ of the balls that have red color also have green color, while $\\frac{3}{7}$ of the balls that have green color also have red color. What fraction of the balls in the jar has both red and green colors?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "6/14"
+                    },
+                    {
+                      "label": "B",
+                      "text": "2/7"
+                    },
+                    {
+                      "label": "C",
+                      "text": "6/35"
+                    },
+                    {
+                      "label": "D",
+                      "text": "6/29"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Let both $=B$; red $=\\frac72 B$, green $=\\frac73 B$. Since each ball has at least one color, $R+G-B=87$: $\\frac72 B+\\frac73 B-B=\\frac{29B}{6}=87\\Rightarrow B=18$. Fraction $=\\frac{18}{87}=\\frac{6}{29}$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 33,
+                  "question_type": "problem-solving",
+                  "stem": "33. Two trains are moving in opposite directions at 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "36"
+                    },
+                    {
+                      "label": "B",
+                      "text": "45"
+                    },
+                    {
+                      "label": "C",
+                      "text": "48"
+                    },
+                    {
+                      "label": "D",
+                      "text": "49"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Relative speed $=150$ km/h; combined length $=2.0$ km. Time $=\\frac{2}{150}$ h $=\\frac{2}{150}\\times3600=48$ s.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 34,
+                  "question_type": "problem-solving",
+                  "stem": "34. A car travelling at a certain constant speed takes 2 seconds longer to travel 1 kilometer than it would take to travel 1 kilometer at 75 kilometers per hour. At what speed, in kilometers per hour, is the car travelling?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "60"
+                    },
+                    {
+                      "label": "B",
+                      "text": "62"
+                    },
+                    {
+                      "label": "C",
+                      "text": "70"
+                    },
+                    {
+                      "label": "D",
+                      "text": "72"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "At 75 km/h, 1 km takes $3600/75=48$ s; the car takes $50$ s per km, so its speed $=3600/50=72$ km/h.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 35,
+                  "question_type": "problem-solving",
+                  "stem": "35. A batsman makes a score of 87 runs on the $17^{\\text{th}}$ inning and thus increases his average by 3. What is his average after $17^{\\text{th}}$ inning?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "23"
+                    },
+                    {
+                      "label": "B",
+                      "text": "34"
+                    },
+                    {
+                      "label": "C",
+                      "text": "39"
+                    },
+                    {
+                      "label": "D",
+                      "text": "44"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "If the new average is $A$, then $16(A-3)+87=17A\\Rightarrow A=39$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 36,
+                  "question_type": "problem-solving",
+                  "stem": "36. A number when divided by a divisor leaves a remainder of 33. When twice the original number is divided by the same divisor, the reminder is 13. What is the value of the divisor?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "13"
+                    },
+                    {
+                      "label": "B",
+                      "text": "20"
+                    },
+                    {
+                      "label": "C",
+                      "text": "38"
+                    },
+                    {
+                      "label": "D",
+                      "text": "53"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Doubling gives remainder $66\\bmod d=13$, so $d\\mid53$; since the remainder 33 requires $d>33$, $d=53$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 37,
+                  "question_type": "problem-solving",
+                  "stem": "37. The profit on sale of 100 pencils is equal to the selling price of 20 pencils. What is the profit margin?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "20%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "25%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "33.33%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "40%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$100(s-c)=20s\\Rightarrow80s=100c\\Rightarrow c=0.8s$. Profit margin on cost $=\\frac{s-c}{c}=\\frac{0.2s}{0.8s}=25\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 38,
+                  "question_type": "problem-solving",
+                  "stem": "38. If $xy < 0$, then which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$(x + y)^{2} > x^{2} + y^{2}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$(x + y)^{2} < x^{2} + y^{2}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$(x - y)^{2} > x^{2} - y^{2}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "both A & C"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$(x+y)^2=x^2+y^2+2xy$ and $2xy<0$, so $(x+y)^2<x^2+y^2$. (C) is not always true.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 39,
+                  "question_type": "problem-solving",
+                  "stem": "39. A and B working together can finish a job in x days. If A works alone and completes the job, he will take x + 4 days. If B works alone and completes the same job, he will take x + 16 days. What is x?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "4"
+                    },
+                    {
+                      "label": "B",
+                      "text": "6"
+                    },
+                    {
+                      "label": "C",
+                      "text": "8"
+                    },
+                    {
+                      "label": "D",
+                      "text": "10"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$\\frac1{x+4}+\\frac1{x+16}=\\frac1x\\Rightarrow x^2=64\\Rightarrow x=8$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 40,
+                  "question_type": "problem-solving",
+                  "stem": "40. In the diagram, BA is parallel to DE, $\\angle ABC = 110^{\\circ}$ and $\\angle CDE = 140^{\\circ}$. Calculate the value of $\\angle BCD$.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$90^{\\circ}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$100^{\\circ}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$110^{\\circ}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$135^{\\circ}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Drawing a line through C parallel to BA and DE, $\\angle BCD=(180^{\\circ}-110^{\\circ})+(180^{\\circ}-140^{\\circ})=70^{\\circ}+40^{\\circ}=110^{\\circ}$.",
+                  "images": [
+                    {
+                      "fig_id": "q_p4_1",
+                      "role": "question",
+                      "path": "images/q_p4_1.png",
+                      "caption": "Bent line BCD between parallels BA and DE"
+                    }
+                  ],
+                  "needs_review": false
+                },
+                {
+                  "number": 41,
+                  "question_type": "problem-solving",
+                  "stem": "41. If x and y are integers and $xy^{2}$ is a positive odd integer, which of the following must be true? I. xy is positive. II. xy is odd. III. $\\mathrm{x + y}$ is even.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "I only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "II only"
+                    },
+                    {
+                      "label": "C",
+                      "text": "III only"
+                    },
+                    {
+                      "label": "D",
+                      "text": "I and II"
+                    },
+                    {
+                      "label": "E",
+                      "text": "II and III"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "$xy^2$ odd positive forces $x>0$, $x$ odd and $y$ odd. Then $xy$ is odd (II) and $x+y$ is even (III), but $xy$ need not be positive since $y$ can be negative. So II and III.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 42,
+                  "question_type": "problem-solving",
+                  "stem": "42. In a club one half of the members are male and the other half of the members are female. Forty percent of the members are engineers and the rest are architects. If 15% of the members are male engineers, what percent of the members are female architects?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "15"
+                    },
+                    {
+                      "label": "B",
+                      "text": "25"
+                    },
+                    {
+                      "label": "C",
+                      "text": "30"
+                    },
+                    {
+                      "label": "D",
+                      "text": "35"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Of 100: male engineers 15, so female engineers $=40-15=25$; female architects $=50-25=25$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 43,
+                  "question_type": "problem-solving",
+                  "stem": "43. After 3 quizzes Apu had average of 12 marks per quiz. In order to increase the average by n marks, what should be the score in his $4^{\\text{th}}$ quiz?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "4n"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$36 + 3\\mathrm{n}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "12n"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$12 + 4\\mathrm{n}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "New total $=4(12+n)=48+4n$; the 4th quiz $=48+4n-36=12+4n$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 44,
+                  "question_type": "problem-solving",
+                  "stem": "44. The capacity of jar A is 8 litres and that of jar B is 12 litres. If 8 litres of water are to be poured in the two jars in such a way that each is filled to the same fraction of its capacity, how many litres of water must be poured in jar B?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{52}{10}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{32}{7}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{24}{5}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{42}{9}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Same fraction $f$: $8f+12f=8\\Rightarrow f=0.4$; jar B gets $12\\times0.4=4.8=\\frac{24}{5}$ litres.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 45,
+                  "question_type": "problem-solving",
+                  "stem": "45. Let x and y are integers. If  $(x+1)>0$  and xy>0, which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "y > 0"
+                    },
+                    {
+                      "label": "B",
+                      "text": "y < 0"
+                    },
+                    {
+                      "label": "C",
+                      "text": "y > x"
+                    },
+                    {
+                      "label": "D",
+                      "text": "y < x"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "$x+1>0$ means $x\\ge0$; combined with $xy>0$ forces $x>0$, so $y>0$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 46,
+                  "question_type": "problem-solving",
+                  "stem": "46. In the figure, what is the value of y?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "20"
+                    },
+                    {
+                      "label": "B",
+                      "text": "25"
+                    },
+                    {
+                      "label": "C",
+                      "text": "30"
+                    },
+                    {
+                      "label": "D",
+                      "text": "35"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$4x$ and $2x$ form a straight line: $6x=180\\Rightarrow x=30$, so $2x=60$. The $(y+35)^{\\circ}$ angle is vertical to $2x$: $y+35=60\\Rightarrow y=25$.",
+                  "images": [
+                    {
+                      "fig_id": "q_p4_2",
+                      "role": "question",
+                      "path": "images/q_p4_2.png",
+                      "caption": "Two intersecting lines with angles (y+35)°, 4x°, 2x°"
+                    }
+                  ],
+                  "needs_review": false
+                },
+                {
+                  "number": 47,
+                  "question_type": "problem-solving",
+                  "stem": "47. The price of a TV was first discounted by a certain percent and then by another 20 percent of the discounted price. If these two discounts are equivalent to single discount of 32 percent of the original of the price, what was the first discount?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "10%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "12.5%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "15%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "26%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$(1-d)(0.8)=0.68\\Rightarrow1-d=0.85\\Rightarrow d=15\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 48,
+                  "question_type": "problem-solving",
+                  "stem": "48. If x is an even integer and y and z are odd integers, which of the following CANNOT be an integer?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "x/y"
+                    },
+                    {
+                      "label": "B",
+                      "text": "y/z"
+                    },
+                    {
+                      "label": "C",
+                      "text": "z/y"
+                    },
+                    {
+                      "label": "D",
+                      "text": "xz/y"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Each of $x/y$, $y/z$, $z/y$, $xz/y$ can be an integer for suitable values (e.g. $y=z=1$), so none is impossible — answer E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 49,
+                  "question_type": "problem-solving",
+                  "stem": "49. A mixture of sugar and water contains sugar and water in the ratio of 3:2. Another mixture of sugar and water contains sugar and water in the ratio of 2:5. In what ratio should the two mixtures be mixed so that the resultant mixture contains equal proportion of sugar and water?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "2:1"
+                    },
+                    {
+                      "label": "B",
+                      "text": "3:1"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3:2"
+                    },
+                    {
+                      "label": "D",
+                      "text": "4:1"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Sugar fractions are $\\frac35$ and $\\frac27$; for a $\\frac12$ mixture, alligation gives ratio $(\\frac12-\\frac27):(\\frac35-\\frac12)=\\frac{3}{14}:\\frac{1}{10}=15:7$, which is not among A-D, so E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 50,
+                  "question_type": "problem-solving",
+                  "stem": "50. Apu took $\\frac{3}{5}$ of the marbles kept in a box. His younger took another $\\frac{3}{5}$ of the remaining marbles. Then his sister took another $\\frac{3}{5}$ of remaining marbles. What fractions of the marbles are left in the box?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{8}{125}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{11}{125}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{13}{125}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{17}{125}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": null,
+                  "explanation": "",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 51,
+                  "question_type": "problem-solving",
+                  "stem": "51. Minhaz and Alam can complete a work in 18 days. After working together for 12 days Minhaz stops and Alam completes the remaining work in 8 days. In how many days can Minhaz complete the work if he works alone?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "32"
+                    },
+                    {
+                      "label": "B",
+                      "text": "48"
+                    },
+                    {
+                      "label": "C",
+                      "text": "56"
+                    },
+                    {
+                      "label": "D",
+                      "text": "72"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Together rate $1/18$; 12 days $=2/3$ done. Alam does the remaining $1/3$ in 8 days (rate $1/24$), so Minhaz's rate $=\\frac1{18}-\\frac1{24}=\\frac1{72}$, i.e. 72 days.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 52,
+                  "question_type": "problem-solving",
+                  "stem": "52. If x, y and z are positive integers and  $3x = 4y = 7z$ , then the least possible value of  $x + y + z$  is:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "33"
+                    },
+                    {
+                      "label": "B",
+                      "text": "40"
+                    },
+                    {
+                      "label": "C",
+                      "text": "49"
+                    },
+                    {
+                      "label": "D",
+                      "text": "61"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$3x=4y=7z=\\text{lcm}(3,4,7)=84$ gives $x=28,y=21,z=12$, sum $=61$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 53,
+                  "question_type": "problem-solving",
+                  "stem": "53. There are 10 woman and 3 men in Room A. One person is picked at random from Room A and moved to Room B, where there are already 3 women and 5 men. If a single person is then to be picked from Room B, what is the probability that a woman will be picked?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{13}{21}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{49}{117}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{40}{117}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{15}{52}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$P=\\frac{10}{13}\\cdot\\frac{4}{9}+\\frac{3}{13}\\cdot\\frac{3}{9}=\\frac{40+9}{117}=\\frac{49}{117}$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 54,
+                  "question_type": "problem-solving",
+                  "stem": "54. A man sells seven different-sized balls. Each ball costs n taka more than the next one below it in size, and the price of the biggest ball is taka 46. If the sum of the prices of the seven different balls is taka 196, what is the value of n?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "6"
+                    },
+                    {
+                      "label": "B",
+                      "text": "7"
+                    },
+                    {
+                      "label": "C",
+                      "text": "8"
+                    },
+                    {
+                      "label": "D",
+                      "text": "9"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Sum $=7(46)-n(0+1+\\dots+6)=322-21n=196\\Rightarrow21n=126\\Rightarrow n=6$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 55,
+                  "question_type": "problem-solving",
+                  "stem": "55. If x and are positive integers, and x = 2y and z = 3x, then which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{x}{2}$ is a factor of z"
+                    },
+                    {
+                      "label": "B",
+                      "text": "2x is a factor of z"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3x is a factor of $\\frac{z}{2}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "z is a factor of m"
+                    },
+                    {
+                      "label": "E",
+                      "text": "all of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "x = 2y, z = 3x = 6y. A: x/2 = y, and 6y/y = 6 is an integer, so x/2 is a factor of z - true. B: 2x = 4y does not divide 6y in general. C: 3x = 6y is not a factor of z/2 = 3y. D mentions m, which is not defined in the source (it is printed that way), and E fails. Answer A.",
+                  "images": [],
+                  "needs_review": false,
+                  "source_defect": "Printed \"If x and are positive integers\" (variable missing); option D mentions an undefined m."
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 56 to 60:",
+              "instruction": "Each question is following by two statements. Decide whether the data in the statements are sufficient to answer the question. Select your answer according to whether:\nA. Statement 1 alone is sufficient, but statement 2 alone is not sufficient to answer the question.\nB. Statement 2 alone is sufficient, but statement 1 alone is not sufficient to answer the questions.\nC. Both statements taken together are sufficient to answer the question, but neither statement alone is sufficient.\nD. Each statement alone is sufficient.\nE. Statement 1+2 together are not sufficient, and additional data is needed to answer the question.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 56,
+                  "question_type": "data-sufficiency",
+                  "stem": "56. A box contains red chips, white chips and blue chips. If a chip is randomly selected from the box, what is the probability that the chip will be either white or blue?\n1. The probability that the chip will be blue is  $\\frac{1}{5}$ .\n2. The probability that the chip will be red is  $\\frac{1}{3}$ .",
+                  "options": [],
+                  "answer": "B",
+                  "explanation": "P(white or blue) $=1-$ P(red). Statement 2 gives P(red) $=\\frac13$, so the answer is $\\frac23$ — sufficient. Statement 1 (P blue) alone is not. So B.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 57,
+                  "question_type": "data-sufficiency",
+                  "stem": "57. If  $x + y + z > 0$ , is z > 1?\n1.  $z > x + y + 1$ \n2.  $x + y + 1 < 0$",
+                  "options": [],
+                  "answer": "B",
+                  "explanation": "Statement 2: $x+y<-1$, and with $x+y+z>0$, $z>-(x+y)>1$ — sufficient. Statement 1 allows $z\\le1$ (e.g. $z=0.6$), so insufficient. So B.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 58,
+                  "question_type": "data-sufficiency",
+                  "stem": "58. What is the remainder when the positive integer x is divided by 16?\n1. When $x$ is divided by 24, the remainder is 5.\n2. When x is divided by 18, the remainder is 13.",
+                  "options": [],
+                  "answer": "Neither statement alone, nor both together, is sufficient (GMAT-style: E)",
+                  "explanation": "x = 24k + 5 gives x mod 16 = 5 or 13 (depending on k); x = 18m + 13 gives x mod 16 = (2m + 13) mod 16, which varies with m - neither statement alone is sufficient. Together they are contradictory (x = 24k + 5 leaves remainder 2 mod 3, x = 18m + 13 leaves remainder 1 mod 3), so no x exists and the two statements cannot fix a remainder: E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 59,
+                  "question_type": "data-sufficiency",
+                  "stem": "59. How many male members in the group of 100 members are from Chittagong?\n1. Of the members, 60 percent are from Chittagong.\n2. Of the members, 40 are male.",
+                  "options": [],
+                  "answer": "E",
+                  "explanation": "Even together, knowing 60 are from Chittagong and 40 are male gives no information about the overlap (males from Chittagong). So E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 60,
+                  "question_type": "data-sufficiency",
+                  "stem": "60. If xy < 3, is x < 1?\n1. y > 3\n2. x < 3",
+                  "options": [],
+                  "answer": "A",
+                  "explanation": "Statement 2 as printed is x < 3. (1) y > 3 makes y positive, so xy < 3 gives x < 3/y < 1: sufficient. (2) x < 3 alone: x = 2, y = 1 gives xy = 2 < 3 with x not < 1, while x = 0 gives x < 1: not sufficient. Answer A.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 3,
+          "source_section_label": "Section 3: Analytical Ability",
+          "subject": "analytical",
+          "groups": [
+            {
+              "source_group_label": "Questions 61-65",
+              "instruction": null,
+              "stimulus": {
+                "passage": "Two committees - one for Communication Club and the other for Cultural Club will be formed at IBA. The eligible candidates are U, V, W, X, Y & Z. The following rules:\n- Each committee must have exactly three members.\n- The two committees must have at least one member in common.\n- U and X cannot be in the same committee.\n- If X is selected for one committee, Y must also be selected for that committee.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 61,
+                  "question_type": "puzzle",
+                  "stem": "61. Which of the following can be members of Communication Club?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "U, V & X"
+                    },
+                    {
+                      "label": "B",
+                      "text": "U, X & Z"
+                    },
+                    {
+                      "label": "C",
+                      "text": "V, W & X"
+                    },
+                    {
+                      "label": "D",
+                      "text": "V, X & Y"
+                    },
+                    {
+                      "label": "E",
+                      "text": "W, X & Z"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "U and X can't be together (rules out A, B), and X requires Y (rules out C, E). D (V, X, Y) is valid.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 62,
+                  "question_type": "puzzle",
+                  "stem": "62. Which of the following combination of committees is valid?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "U, V & W; X, Y & Z"
+                    },
+                    {
+                      "label": "B",
+                      "text": "U, W & Y; V, X & Z"
+                    },
+                    {
+                      "label": "C",
+                      "text": "U, X & Y; U, X & Z"
+                    },
+                    {
+                      "label": "D",
+                      "text": "V, W & Y; V, W & X"
+                    },
+                    {
+                      "label": "E",
+                      "text": "W, X & Y; X, Y & Z"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "E has X with Y in both committees and shares X, Y (the common-member rule), with no U–X clash. A shares no member, B and D have X without Y, C puts U and X together.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 63,
+                  "question_type": "puzzle",
+                  "stem": "63. If the members of Communication Club are V, W and Z and if the Cultural Club is to have as many members in common with Communication Club as the rule allow, the Cultural Club must consist of",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "U, V & W"
+                    },
+                    {
+                      "label": "B",
+                      "text": "V, W & Z"
+                    },
+                    {
+                      "label": "C",
+                      "text": "V, X & Z"
+                    },
+                    {
+                      "label": "D",
+                      "text": "W, Y & Z"
+                    },
+                    {
+                      "label": "E",
+                      "text": "X, Y & Z"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "No rule forbids identical committees, so maximum overlap makes the Cultural Club also V, W, Z (three in common).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 64,
+                  "question_type": "puzzle",
+                  "stem": "64. If U and X are each selected for a committee and only Z is selected for both committee, which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "V is selected for the same committee as W"
+                    },
+                    {
+                      "label": "B",
+                      "text": "W is selected for the same committee as Y"
+                    },
+                    {
+                      "label": "C",
+                      "text": "W is selected for the same committee as X"
+                    },
+                    {
+                      "label": "D",
+                      "text": "U is selected for the same committee as Y"
+                    },
+                    {
+                      "label": "E",
+                      "text": "X is selected for the same committee as Y"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "U and X must be in different committees; since X is selected, Y must be in X's committee. So X is always with Y.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 65,
+                  "question_type": "puzzle",
+                  "stem": "65. If X and Z are both selected for the Communication Club and if U is selected for the Cultural Club, each of the following pair of students could be the other two members of the Cultural Club EXCEPT",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "V and W"
+                    },
+                    {
+                      "label": "B",
+                      "text": "V and Z"
+                    },
+                    {
+                      "label": "C",
+                      "text": "W and Y"
+                    },
+                    {
+                      "label": "D",
+                      "text": "W and Z"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Y and Z"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "X in Communication forces Y there too, so that club is {X, Y, Z}. The Cultural Club has U (not with X) and must share a member with {X, Y, Z}, i.e. include Y or Z. \"V and W\" gives {U, V, W}, sharing nobody — not allowed.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 66 - 71:",
+              "instruction": null,
+              "stimulus": {
+                "passage": "Six singers - A, B, C, X, Y and Z will perform on channel I within the next 4 day period. Each day one or two singer will perform. Each singer will perform only once during the four day period according to the following conditions:\n- X must perform on day 3\n- In a day where two singers will perform cannot be followed by another day where two singers will perform\n- Z must perform with some other singer.\n- C must perform any day before A is scheduled to perform\n- Y must perform any day before B is scheduled to perform",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 66,
+                  "question_type": "puzzle",
+                  "stem": "66. If only one singer performs in day 1, that singer could be",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "A"
+                    },
+                    {
+                      "label": "B",
+                      "text": "B"
+                    },
+                    {
+                      "label": "C",
+                      "text": "C"
+                    },
+                    {
+                      "label": "D",
+                      "text": "X"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Z"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "X is on day 3, Z needs a partner (so not alone), A needs C before it and B needs Y before it — so only C can be the lone day-1 singer.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 67,
+                  "question_type": "puzzle",
+                  "stem": "67. Which of the following singers could perform together in day 2?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "A & B"
+                    },
+                    {
+                      "label": "B",
+                      "text": "B & C"
+                    },
+                    {
+                      "label": "C",
+                      "text": "B & Y"
+                    },
+                    {
+                      "label": "D",
+                      "text": "C & X"
+                    },
+                    {
+                      "label": "E",
+                      "text": "X & Z"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "X is on day 3 (so C&X, X&Z can't be day 2); Y must precede B (so not together). B&C on day 2 works, e.g. day1=Y, day2=B,C, day3=X, day4=A,Z.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 68,
+                  "question_type": "puzzle",
+                  "stem": "68. If C & X perform together on the same day, which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "A performs on day 2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "B performs in day 1"
+                    },
+                    {
+                      "label": "C",
+                      "text": "B performs on day 2"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Y performs on day 4"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Z performs on day 4"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "C&X together means day 3, so A is day 4. With the two-in-a-row rule, Z's partnered day must be day 1 (Z,Y) and day 2 is B alone. So B performs on day 2.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 69,
+                  "question_type": "puzzle",
+                  "stem": "69. If A is perform with B on the same day, which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "A performs on day 1"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Y performs on day 3"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Z performs on day 2"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Z performs on day 3"
+                    },
+                    {
+                      "label": "E",
+                      "text": "A performs on day 4"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "A&B can't be day 1/2/3 (C and Y must precede, X is day 3), so A&B are on day 4; thus A performs on day 4.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 70,
+                  "question_type": "puzzle",
+                  "stem": "70. If Y performs on day 3, which of the following singer must be scheduled to perform on a day alone?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "A"
+                    },
+                    {
+                      "label": "B",
+                      "text": "C"
+                    },
+                    {
+                      "label": "C",
+                      "text": "X"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Y"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Z"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Y on day 3 means day 3 = X, Y (two singers), forcing B to day 4 and Z's partnered day to day 1; the forced schedule (day1=Z,C; day2=A; day3=X,Y; day4=B) has A alone on day 2.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 71,
+                  "question_type": "puzzle",
+                  "stem": "71. If A performs with Y on the same day, which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "A must perform on day 3"
+                    },
+                    {
+                      "label": "B",
+                      "text": "C must perform on day 2"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Y must perform on day 1"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Z must perform on day 3"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Z must perform on day 4"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "A&Y together must be day 2 (C before, X on day 3, B after), forcing day1=C, day3=X alone and day4=B,Z. So Z performs on day 4.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Critical reasoning (72-75)",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 72,
+                  "question_type": "critical-reasoning",
+                  "stem": "72. Ergot is a fungus that can infest the seed heads of any grain crop but is common only on rye. Ergot contains chemicals poisonous to humans. Rye was introduced in Europe in the middle ages as a crop for land too poor and damp for wheat to grow well. Thus, rye tended to be the staple of the poorer peasants.\nWhich of the following hypotheses is best supported by the information above?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Ergot did not occur in Europe prior to the Middle Ages."
+                    },
+                    {
+                      "label": "B",
+                      "text": "People in the Middle Ages were well aware of the toxicity of ergot."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Before the introduction of rye, no attempts had been made to cultivate the poor and damp land in Europe."
+                    },
+                    {
+                      "label": "D",
+                      "text": "In Europe during the Middle Ages, prosperous people were less at risk from ergot poisoning than poor people were."
+                    },
+                    {
+                      "label": "E",
+                      "text": "Prior to the Middle Ages. Europe was as densely populated as dependence on a single grain crop permitted."
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Since ergot is common on rye and rye was the poor peasants' staple, poorer people ate more rye and so were more at risk — prosperous people were less at risk (D).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 73,
+                  "question_type": "critical-reasoning",
+                  "stem": "73. People often recall having felt chilled before the onset of a cold. This supports the hypothesis that colds are, at least sometimes, caused by becoming chilled; it is the chill that allows a rhinovirus, if present, to infect a person.\nWhich of the following, if true, most seriously weakens the force of the evidence cited above?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Being chilled is a form of stress and stress lowers the defense of a person's immune system, which guards against infection."
+                    },
+                    {
+                      "label": "B",
+                      "text": "After a rhinovirus has incubated in a person for several days, the first symptom it causes is a feeling of chilliness."
+                    },
+                    {
+                      "label": "C",
+                      "text": "People who are tired and then become chilled are more likely to catch severe colds than are people who are chilled without being tired."
+                    },
+                    {
+                      "label": "D",
+                      "text": "Some people who catch colds are not sure what it was that allowed them to catch cold."
+                    },
+                    {
+                      "label": "E",
+                      "text": "Rhinovirus are not always present in the environment and so a person could become chilled without catching a cold."
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "If chilliness is actually the first symptom of an already-present infection, then the chill is an effect of the cold rather than its cause — undermining the evidence (B).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 74,
+                  "question_type": "critical-reasoning",
+                  "stem": "74. Reds are faster than Yellows, Oranges are faster than Blues. Blues are just as fast as Reds. Browns are faster than Whites, which are faster than Yellows. Which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Browns are faster than Reds."
+                    },
+                    {
+                      "label": "B",
+                      "text": "Browns are faster than Oranges."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Oranges are faster than Brown."
+                    },
+                    {
+                      "label": "D",
+                      "text": "Browns are faster than Blues."
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "We only get Oranges>Blues=Reds>Yellows and Browns>Whites>Yellows; there is no established relation between Browns and Reds/Oranges/Blues, so none of A-D must be true.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 75,
+                  "question_type": "critical-reasoning",
+                  "stem": "75. A newspaper advertisement reads as follows: \"Never again will you have to pay high process for imported spring water. It is now bottled locally and economically. You'll never taste the difference. However, if you're likely to be embarrassed to serve domestic spring water, simply serve it in a leaded crystal bottle.\" What is the assumption used in this advertisement?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "It's not hard to tell the difference between domestic water and imported water based on its flavor."
+                    },
+                    {
+                      "label": "B",
+                      "text": "The majority of spring water is bottled at its source."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Restrictions on import and customs duties make the price of imported water higher."
+                    },
+                    {
+                      "label": "D",
+                      "text": "Spring water tastes best when its served from a decanter."
+                    },
+                    {
+                      "label": "E",
+                      "text": "Some people purchase imported spring water instead of domestic, as a status symbol."
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Suggesting a fancy crystal bottle to avoid embarrassment assumes buyers choose imported water partly for status/image, not just taste (E).",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_label": "Part II: Writing Ability [25 marks]",
+      "sections": [
+        {
+          "section_no": 4,
+          "source_section_label": "Part II: Writing Ability [25 marks]",
+          "subject": "writing",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "essay",
+                  "stem": "A. Write an Essay on \"Innovation in Business\".",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended essay. Discuss what business innovation is, why it matters (competitiveness, growth), types (product, process, model), examples, and barriers, then conclude. No single correct answer.",
+                  "marks": null,
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "essay",
+                  "stem": "B. Considering the oversupply of MBA's in Bangladesh, why do you want to pursue an MBA degree? Explain.",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended essay. Discuss what business innovation is, why it matters (competitiveness, growth), types (product, process, model), examples, and barriers, then conclude. No single correct answer.",
+                  "marks": null,
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    "Q50 (Apu, printed) and Part II B were missing from the JSON and were added from the page images; Q51-55 were stored as 50-54 and renumbered.",
+    "Q55 prints 'If x and are positive integers' (variable missing) and option D mentions an undefined m (source_defect).",
+    "Several printed typos kept (Q29-30 instruction 'correct from', Q56-60 instruction).",
+    "Marks printed: Part II A 15, B 10. Figures for Q40 and Q46 are images (not re-cropped in this pass).",
+    "Answers and explanations are out of scope (to be regenerated by the user); stored values are unreliable."
+  ]
+}

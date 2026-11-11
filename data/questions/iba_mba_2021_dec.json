@@ -1,0 +1,564 @@
+{
+  "exam": {
+    "institute": "IBA (DU)",
+    "program": "MBA",
+    "session": "Dec 2021",
+    "source_pdf": "iba_mba_dec_2021.pdf",
+    "parts_marks": {
+      "mcq": null,
+      "writing": 30
+    }
+  },
+  "parts": [
+    {
+      "part_label": "Multiple Choice Questions",
+      "sections": [
+        {
+          "section_no": 1,
+          "source_section_label": "Section 1: Math & Analytical Ability",
+          "subject": "mathematics",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "problem-solving",
+                  "stem": "1. A three digit number consists of three consecutive digits. The unit digit is greater than the hundreds digit. If the number is reversed it exceeds the original number by 22 times the sum of the digits. What is the original number?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "234"
+                    },
+                    {
+                      "label": "B",
+                      "text": "456"
+                    },
+                    {
+                      "label": "C",
+                      "text": "567"
+                    },
+                    {
+                      "label": "D",
+                      "text": "789"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Let the digits be $a-2, a-1, a$. Reversed minus original $=198$, and $22\\times$(digit sum)$=22\\times3(a-1)=66(a-1)$. So $66(a-1)=198\\Rightarrow a-1=3\\Rightarrow a=4$, giving digits 2, 3, 4 and the number 234 (check: $432-234=198=22\\times9$).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "problem-solving",
+                  "stem": "2. In IBA ratio of students are taking marketing major to students are taking finance major is 4:5. If 2 students, who have taken marketing major, take finance major, the ratio becomes 2:3. How many students take marketing major?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "25"
+                    },
+                    {
+                      "label": "B",
+                      "text": "12"
+                    },
+                    {
+                      "label": "C",
+                      "text": "20"
+                    },
+                    {
+                      "label": "D",
+                      "text": "45 E."
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Let marketing $=4k$, finance $=5k$. $\\frac{4k-2}{5k+2}=\\frac23\\Rightarrow3(4k-2)=2(5k+2)\\Rightarrow2k=10\\Rightarrow k=5$, so marketing $=4k=20$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "problem-solving",
+                  "stem": "3.  $\\frac{12}{4}$  of a equal to  $\\frac{25}{8}$  of c, what can be the ratio of them?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "24: 25"
+                    },
+                    {
+                      "label": "B",
+                      "text": "25: 24"
+                    },
+                    {
+                      "label": "C",
+                      "text": "24: 26"
+                    },
+                    {
+                      "label": "D",
+                      "text": "24: 24"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$3a=\\frac{25}{8}c\\Rightarrow\\frac{a}{c}=\\frac{25}{24}$, so $a:c=25:24$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "problem-solving",
+                  "stem": "4. In the figure, radius $2\\sqrt{2}$ then perimeter of AOB = ?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$4\\sqrt{2} + 4$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$4\\sqrt{2} + 2$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\sqrt{2}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "A + B"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "In the figure OA and OB are perpendicular radii, so triangle AOB is right-angled at O with legs $2\\sqrt2$ and hypotenuse $AB=\\sqrt{8+8}=4$. Perimeter $=2\\sqrt2+2\\sqrt2+4=4\\sqrt2+4$.",
+                  "images": [
+                    {
+                      "fig_id": "q_p0_1",
+                      "role": "question",
+                      "path": "images/q_p0_1.png",
+                      "caption": "Circle with perpendicular radii OA, OB and chord AB"
+                    }
+                  ],
+                  "needs_review": false
+                },
+                {
+                  "number": 5,
+                  "question_type": "problem-solving",
+                  "stem": "5. 24 of solution of water and acid, acid is 80% how many water added so that is it will be 50% in solution?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "-14"
+                    },
+                    {
+                      "label": "B",
+                      "text": ".09"
+                    },
+                    {
+                      "label": "C",
+                      "text": "14.4"
+                    },
+                    {
+                      "label": "D",
+                      "text": "-0.8"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Acid $=0.8\\times24=19.2$. For 50% acid: $\\frac{19.2}{24+w}=0.5\\Rightarrow24+w=38.4\\Rightarrow w=14.4$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 6,
+                  "question_type": "problem-solving",
+                  "stem": "6. If $x = (106 \\times 190 \\times 111)$, then what is the remainder when $x$ is divided by 15?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "1"
+                    },
+                    {
+                      "label": "B",
+                      "text": "4"
+                    },
+                    {
+                      "label": "C",
+                      "text": "7"
+                    },
+                    {
+                      "label": "D",
+                      "text": "9"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Modulo 15: $106\\equiv1$, $190\\equiv10$, $111\\equiv6$. Product $\\equiv1\\cdot10\\cdot6=60\\equiv0\\pmod{15}$. Remainder 0 is not among A-D, so E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "problem-solving",
+                  "stem": "7. $7^{\\sqrt{x}} + 24^{\\sqrt{x}} = 25^{\\sqrt{x}}; x = ?$",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "3"
+                    },
+                    {
+                      "label": "C",
+                      "text": "4"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\mathrm{A} + \\mathrm{C}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Since $7^2+24^2=25^2$ (Pythagorean), the equation holds when $\\sqrt{x}=2$, i.e. $x=4$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 8,
+                  "question_type": "problem-solving",
+                  "stem": "8. If  $K = \\frac{19!}{16!}$ ; which of the following is the smallest choice that does not have a prime factor in common with K?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "19"
+                    },
+                    {
+                      "label": "B",
+                      "text": "34"
+                    },
+                    {
+                      "label": "C",
+                      "text": "77"
+                    },
+                    {
+                      "label": "D",
+                      "text": "115"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$K=19\\times18\\times17$, whose prime factors are 2, 3, 17, 19. Among the options, 77 ($=7\\times11$) shares none of these primes and is smaller than 115.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 9,
+                  "question_type": "problem-solving",
+                  "stem": "9. In this figure inscribed square area is 16. Find out the area of shaded part?",
+                  "options": [],
+                  "answer": "$2\\pi - 4$",
+                  "explanation": "The square (area 16, side 4) is inscribed in the circle, so the circle's radius is $\\frac{\\text{diagonal}}{2}=2\\sqrt2$. The shaded region below side CD is the circular segment for a 90° chord: sector $-$ triangle $=\\frac14\\pi(2\\sqrt2)^2-\\frac12(2\\sqrt2)^2=2\\pi-4$.",
+                  "images": [
+                    {
+                      "fig_id": "q_p0_2",
+                      "role": "question",
+                      "path": "images/q_p0_2.png",
+                      "caption": "Square ABCD inscribed in a circle; shaded segment below CD"
+                    }
+                  ],
+                  "needs_review": false
+                },
+                {
+                  "number": 10,
+                  "question_type": "problem-solving",
+                  "stem": "10. $p * q > 1, 4(p)7(q) = 756$. Value of $\\mathrm{p} + \\mathrm{q} = ?$",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "12"
+                    },
+                    {
+                      "label": "B",
+                      "text": "14"
+                    },
+                    {
+                      "label": "C",
+                      "text": "25"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\mathrm{a} + \\mathrm{b}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Read as 4p × 7q = 756 (the printed \"4(p)7(q)\"): 28pq = 756, so pq = 27. With p, q > 1 (integers), {p,q} = {3,9}, so p + q = 12 (A).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 11,
+                  "question_type": "problem-solving",
+                  "stem": "11. If $a = -3, 2, 0$ and $b = -4, 2, -3$, which can be maximum result as $2a + b^2$?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "20"
+                    },
+                    {
+                      "label": "B",
+                      "text": "16"
+                    },
+                    {
+                      "label": "C",
+                      "text": "-5"
+                    },
+                    {
+                      "label": "D",
+                      "text": "0"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Maximise $2a$ with $a=2$ ($=4$) and $b^2$ with $b=-4$ ($=16$): $2a+b^2=4+16=20$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 12,
+                  "question_type": "problem-solving",
+                  "stem": "12. The length of rectangular field X is 2 km greater than the side of a square field Y and the width of filled X is 2 km less than the site of field Y. If  $Y^{2}$  is the area of Y in sq. km, which of the following gives the area in square km of field X?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$y^{2}-4$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$y^{2}-2$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$y^{2}-6$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$y^{2}-8$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "With the square's side $Y$ (area $Y^2$), field X has sides $Y+2$ and $Y-2$, so its area is $(Y+2)(Y-2)=Y^2-4$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 13,
+                  "question_type": "problem-solving",
+                  "stem": "13. $\\frac{1}{4}$ of M equal 30% of N, 24% of N = 1/5 of O ratio of O:M",
+                  "options": [],
+                  "answer": "1:1",
+                  "explanation": "The page image shows 1/4 of M (the OCR had 1/2). (1/4)M = 0.3N gives M = 1.2N; 0.24N = (1/5)O gives O = 1.2N. So O:M = 1.2N : 1.2N = 1:1. (No answer options are printed in the source.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 14,
+                  "question_type": "problem-solving",
+                  "stem": "14. Such as  $5x+y = 25$  where x, y integer and y = or smaller than 25. How many couple of  $(x, y)$  is possible?",
+                  "options": [],
+                  "answer": "6 pairs (taking x, y as non-negative integers)",
+                  "explanation": "y = 25 − 5x with y ≤ 25 forces x ≥ 0. Taking x, y as non-negative integers: x = 0,1,2,3,4,5 gives y = 25,20,15,10,5,0 — 6 pairs. The source does not say \"non-negative\"; if x, y must be positive there are 4 pairs, and if negatives are allowed there are infinitely many, so the item is ambiguous as printed.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 15,
+                  "question_type": "problem-solving",
+                  "stem": "15. If two trains start from opposite direction Dhaka to Chittagong and the total distance is 675 km and cross each other after 3 hours. $1^{\\text{st}}$ train reaches its destination after 16 hours and $2^{\\text{nd}}$ do 25 hours overall how much time they (1+2 train) need?",
+                  "options": [],
+                  "answer": "400/41 hours (about 9.76 h, i.e. 9 h 45 min)",
+                  "explanation": "Taking \"1st train reaches its destination after 16 hours and 2nd after 25 hours (overall)\" as the full journey times for the 675 km: speeds are 675/16 and 675/25 km/h, so together they close the 675 km in 1/(1/16 + 1/25) = 400/41 hours, about 9.76 h (9 h 45 min). The stated \"cross each other after 3 hours\" cannot be reconciled with these speeds, so it is treated as not part of the calculation. (No options printed.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 16,
+                  "question_type": "problem-solving",
+                  "stem": "16. One pipe A can fill the tank in 24 minutes but another pipe B can empty the tank in 40 minutes. If the tank was filled $\\frac{3}{4}$ of the tank after 9 minutes b closed how much time to need fill the tank if a is running from beginning?",
+                  "options": [],
+                  "answer": "6 more minutes (15 minutes in total)",
+                  "explanation": "Taking the given fact as the state when B is closed: after 9 minutes the tank is 3/4 full and only pipe A (fills the tank in 24 minutes, i.e. 1/24 per minute) keeps running. The remaining 1/4 needs (1/4) x 24 = 6 more minutes, so the tank is full 9 + 6 = 15 minutes from the start. (The 40-minute emptying rate of B is not needed once B is closed; the stated 3/4 is not consistent with A and B running together for 9 minutes, so it is taken as given.) No options printed.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Data Sufficiency:",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 17,
+                  "question_type": "data-sufficiency",
+                  "stem": "17. $c\\left(18 + \\frac{a}{30}\\right) = 70$ , is c integer?\ni. $a < 30$\nii. $a > 1$",
+                  "options": [],
+                  "answer": "Both statements together are sufficient, neither alone (GMAT-style: C)",
+                  "explanation": "c = 70 / (18 + a/30) = 2100 / (540 + a). (1) a < 30 alone: a = −15 gives 540 + a = 525 and c = 4 (an integer), while a = 0 gives c = 2100/540 (not an integer) — not sufficient. (2) a > 1 alone: a = 160 gives c = 3 (integer), a = 2 does not — not sufficient. Together 1 < a < 30, so 541 < 540 + a < 570; 2100/k lies in this range only for k between about 3.68 and 3.88, which contains no integer, so c is never an integer — sufficient (answer: No). Hence C. (DS options not printed in the source.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 18,
+                  "question_type": "data-sufficiency",
+                  "stem": "18. abc are consecutive number, $a + b + c =$ even, is c odd? i. a is integer ii. their average is 2",
+                  "options": [],
+                  "answer": "Each statement alone is sufficient (GMAT-style: D)",
+                  "explanation": "For consecutive integers $a,a+1,a+2$, the sum $3(a+1)$ is even only when $a$ is odd, which makes $c=a+2$ odd. Statement i (they are integers) is enough to reach this; statement ii (average 2) gives $a=1,c=3$ (odd). So each alone suffices. (DS options not printed in the source.)",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Critical Reasoning:",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 19,
+                  "question_type": "critical-reasoning",
+                  "stem": "The professor notice that students of second batch are more failed then $1^{\\text {st}}$ batch class had hold in last period but second batch had second period. As a result professor decides to convert to math class as previous.\nFrom this above what is the assumption for better results of first match?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$1^{\\text {st}}$ batch of students are more meritorious."
+                    },
+                    {
+                      "label": "B",
+                      "text": "$2^{\\text {nd}}$ batch meritorious."
+                    },
+                    {
+                      "label": "C",
+                      "text": "$1^{\\text {st}}$ batch professor are more qualified."
+                    },
+                    {
+                      "label": "D",
+                      "text": "$2^{\\text {nd}}$ professor not qualified."
+                    },
+                    {
+                      "label": "E",
+                      "text": "Last period of class more attention by students."
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The professor saw that the second-period batch did worse than the last-period batch and decides to revert to the last-period slot. That decision rests on the assumption that students pay more attention in the last period (E). A–D concern merit or teacher quality, which the professor's response does not address.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_label": "Part II: Writing Ability [30 marks]",
+      "sections": [
+        {
+          "section_no": 2,
+          "source_section_label": "Part II: Writing Ability [30 marks]",
+          "subject": "writing",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "essay",
+                  "stem": "1. Thematic writing: retirement, pension, income, happiness, spending, investment, savings, business, planning, active lives.",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended thematic write-up. Give it a title and weave the listed words coherently, e.g. on planning finances (savings, investment, pension) for a happy, active retirement. No single correct answer.",
+                  "marks": 15,
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "essay",
+                  "stem": "2. Explain: \"It matters not what someone is born, but what they grow to be\".",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended explanatory essay. Interpret the quote (one's character and achievements matter more than one's origins), support with reasoning and examples, and conclude. No single correct answer.",
+                  "marks": 15,
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    "Q9 prints no options (figure item); Q13-16 print no options. Q2 prints 'D. 45 E.' followed by 'E. None of these' (kept).",
+    "Q4 and Q9 figures are images (not re-cropped in this pass).",
+    "Marks printed: Part II [30 marks] (15 + 15).",
+    "Answers and explanations are out of scope (to be regenerated by the user); stored values are unreliable."
+  ]
+}

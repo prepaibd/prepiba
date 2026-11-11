@@ -1,0 +1,2470 @@
+{
+  "exam": {
+    "institute": "IBA (DU)",
+    "program": "MBA",
+    "session": "Dec 2016",
+    "source_pdf": "iba_mba_dec_2016.pdf",
+    "parts_marks": {
+      "mcq": 75,
+      "writing": 25
+    }
+  },
+  "parts": [
+    {
+      "part_label": "Part I: Multiple Choice Questions [75 marks]",
+      "sections": [
+        {
+          "section_no": 1,
+          "source_section_label": "Section 1: Language and Communication",
+          "subject": "language",
+          "groups": [
+            {
+              "source_group_label": "Questions 1 to 5:",
+              "instruction": "Underlined parts of the following sentences may contain error. Choose the underlined portion that contains error. If there is no error select (E).",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "error-identification",
+                  "stem": "Our Head of Audit is so obtuse (A) that he had (B) no inkling that funds were being (C) ingenuously (D) diverted. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "obtuse"
+                    },
+                    {
+                      "label": "B",
+                      "text": "he had"
+                    },
+                    {
+                      "label": "C",
+                      "text": "were being"
+                    },
+                    {
+                      "label": "D",
+                      "text": "ingenuously"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "(D) should be \"ingeniously\" (cleverly); \"ingenuously\" means naively/innocently, which does not fit cleverly diverting funds.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "error-identification",
+                  "stem": "As a wave rolls (A) toward shore, its shape (B) is changed by (C) its collision to the (D) shallow sea bottom. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "rolls"
+                    },
+                    {
+                      "label": "B",
+                      "text": "its shape"
+                    },
+                    {
+                      "label": "C",
+                      "text": "is changed by"
+                    },
+                    {
+                      "label": "D",
+                      "text": "its collision to the"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "The idiom is \"collision with\", not \"collision to\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "error-identification",
+                  "stem": "One would (A) think that the task is simple, since (B) all you have to do is to make (C) sure that everyone is seated (D) before the inaugural session begins. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "One would"
+                    },
+                    {
+                      "label": "B",
+                      "text": "since"
+                    },
+                    {
+                      "label": "C",
+                      "text": "to make"
+                    },
+                    {
+                      "label": "D",
+                      "text": "is seated"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "\"One would think ... since all you have to do is to make sure that everyone is seated before the session begins\": every underlined part is grammatical and idiomatic, so the answer is E (No error).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "error-identification",
+                  "stem": "Magic in fiction has had (A) a renaissance in past decade (B), with the success (C) of writers such as (D) J K Rowling and Philip Pullman. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "has had"
+                    },
+                    {
+                      "label": "B",
+                      "text": "in past decade"
+                    },
+                    {
+                      "label": "C",
+                      "text": "with the success"
+                    },
+                    {
+                      "label": "D",
+                      "text": "such as"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "(B) needs the article: \"in the past decade\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 5,
+                  "question_type": "error-identification",
+                  "stem": "Perhaps (A) the only thing growing faster than (B) China's economy is worry (C) about the country's (D) economy. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Perhaps"
+                    },
+                    {
+                      "label": "B",
+                      "text": "growing faster than"
+                    },
+                    {
+                      "label": "C",
+                      "text": "is worry"
+                    },
+                    {
+                      "label": "D",
+                      "text": "about the country's"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The sentence is correct as written; no error.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 6 to 11:",
+              "instruction": "Choose the option which best expresses the meaning of the underlined section/word.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 6,
+                  "question_type": "word-substitution",
+                  "stem": "I came across an old friend of mine at the cultural festival last evening.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "argued with"
+                    },
+                    {
+                      "label": "B",
+                      "text": "crossed"
+                    },
+                    {
+                      "label": "C",
+                      "text": "met by chance"
+                    },
+                    {
+                      "label": "D",
+                      "text": "discussed"
+                    },
+                    {
+                      "label": "E",
+                      "text": "passed by"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"Came across\" means \"met by chance\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "word-substitution",
+                  "stem": "After a couple of misunderstandings with his colleague, Romel decided to give him a wide berth.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "to give possession"
+                    },
+                    {
+                      "label": "B",
+                      "text": "to keep a reasonable distance"
+                    },
+                    {
+                      "label": "C",
+                      "text": "to make a pact"
+                    },
+                    {
+                      "label": "D",
+                      "text": "get involved"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"Give a wide berth\" means to keep a safe/reasonable distance.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 8,
+                  "question_type": "word-substitution",
+                  "stem": "Values in public life are eroding. People in public life are giving speeches in support of corruption and black money. They are brazenly out in the open doing so.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "inconspicuously"
+                    },
+                    {
+                      "label": "B",
+                      "text": "meritoriously"
+                    },
+                    {
+                      "label": "C",
+                      "text": "obtrusively"
+                    },
+                    {
+                      "label": "D",
+                      "text": "blatantly"
+                    },
+                    {
+                      "label": "E",
+                      "text": "meticulously"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Brazenly out in the open\" is best expressed by \"blatantly\" (openly and shamelessly).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 9,
+                  "question_type": "word-substitution",
+                  "stem": "The younger sibling was under constant pressure to excel as she tried to copy her sister's scholarly achievements.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "emulate"
+                    },
+                    {
+                      "label": "B",
+                      "text": "charade"
+                    },
+                    {
+                      "label": "C",
+                      "text": "restore"
+                    },
+                    {
+                      "label": "D",
+                      "text": "recreate"
+                    },
+                    {
+                      "label": "E",
+                      "text": "duplicate"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Trying to match/imitate achievements to excel is to \"emulate\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 10,
+                  "question_type": "word-substitution",
+                  "stem": "10. Arif finally decided that it was time he laid his cards on the table and inform Shehan that she had no intention of lending him money.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "to be candid"
+                    },
+                    {
+                      "label": "B",
+                      "text": "to be discreet"
+                    },
+                    {
+                      "label": "C",
+                      "text": "being playful"
+                    },
+                    {
+                      "label": "D",
+                      "text": "being immoral"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Lay one's cards on the table\" means to be open/candid.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 11,
+                  "question_type": "word-substitution",
+                  "stem": "11. Considering that figures of employment generation become available with a considerable lag in our system, one has to depend on other sources to glean these figures.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "challenge"
+                    },
+                    {
+                      "label": "B",
+                      "text": "understand"
+                    },
+                    {
+                      "label": "C",
+                      "text": "collect"
+                    },
+                    {
+                      "label": "D",
+                      "text": "explain"
+                    },
+                    {
+                      "label": "E",
+                      "text": "refute"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"Glean\" means to gather/collect (bit by bit).",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 12 to 18:",
+              "instruction": "Select the word or group of words that appropriately fill in the gap(s).",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 12,
+                  "question_type": "fill-blank",
+                  "stem": "12. Of the things that unite South Asians, a love of words and an ____ with language are ____ noted.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "enthusiasm; rarely"
+                    },
+                    {
+                      "label": "B",
+                      "text": "alacrity; often"
+                    },
+                    {
+                      "label": "C",
+                      "text": "indifference; sometimes"
+                    },
+                    {
+                      "label": "D",
+                      "text": "adaptation; seldom"
+                    },
+                    {
+                      "label": "E",
+                      "text": "aversion; prevalently"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "A love of words pairs with an eagerness (\"alacrity\") for language, a uniting trait that is \"often\" noted.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 13,
+                  "question_type": "fill-blank",
+                  "stem": "13. Few decisions are more personal than the ____ offspring.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "keeping names in"
+                    },
+                    {
+                      "label": "B",
+                      "text": "naming of"
+                    },
+                    {
+                      "label": "C",
+                      "text": "naming to"
+                    },
+                    {
+                      "label": "D",
+                      "text": "choice of names"
+                    },
+                    {
+                      "label": "E",
+                      "text": "selecting names to"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"The naming of offspring\" is the grammatical fit.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 14,
+                  "question_type": "fill-blank",
+                  "stem": "14. To have real clout, video evidence needs ____ clarity and impact but also provable ____.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "either; reliability"
+                    },
+                    {
+                      "label": "B",
+                      "text": "more than; technique"
+                    },
+                    {
+                      "label": "C",
+                      "text": "neither; validity"
+                    },
+                    {
+                      "label": "D",
+                      "text": "as much as; rationality"
+                    },
+                    {
+                      "label": "E",
+                      "text": "not only; authenticity"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The \"not only ... but also\" correlative fits: \"not only clarity and impact but also provable authenticity\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 15,
+                  "question_type": "fill-blank",
+                  "stem": "15. Environmental pollution in this region, formerly ____ has worsened tremendously ____ past decade.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "sparse; during"
+                    },
+                    {
+                      "label": "B",
+                      "text": "trifling; over the"
+                    },
+                    {
+                      "label": "C",
+                      "text": "implausible; on the"
+                    },
+                    {
+                      "label": "D",
+                      "text": "unnoticeable; at the"
+                    },
+                    {
+                      "label": "E",
+                      "text": "inconsequential; over"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"Formerly trifling ... worsened over the past decade\" fits both blanks.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 16,
+                  "question_type": "fill-blank",
+                  "stem": "16. The arrival of a powerful new tool, the internet does not replace the other necessary element in education reform, ____ teacher quality.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "increment of"
+                    },
+                    {
+                      "label": "B",
+                      "text": "gauging of"
+                    },
+                    {
+                      "label": "C",
+                      "text": "raising of"
+                    },
+                    {
+                      "label": "D",
+                      "text": "rising of"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The sense needed is \"namely teacher quality\"; none of the options (increment/gauging/raising/rising of) fits, so E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 17,
+                  "question_type": "fill-blank",
+                  "stem": "17. Most of Colombia's population is concentrated in three mountain chains and ____ flatter area is clothed in jungle.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "more of the"
+                    },
+                    {
+                      "label": "B",
+                      "text": "sparsely of the"
+                    },
+                    {
+                      "label": "C",
+                      "text": "majority of the"
+                    },
+                    {
+                      "label": "D",
+                      "text": "much of the"
+                    },
+                    {
+                      "label": "E",
+                      "text": "surprisingly the"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Much of the flatter area is clothed in jungle\" is the correct quantifier.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 18,
+                  "question_type": "fill-blank",
+                  "stem": "18. ____, they can afford the human and physical infrastructure needed to protect against and respond to natural disaster.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "When society progress"
+                    },
+                    {
+                      "label": "B",
+                      "text": "After societies grow"
+                    },
+                    {
+                      "label": "C",
+                      "text": "As societies develop"
+                    },
+                    {
+                      "label": "D",
+                      "text": "If societies develop"
+                    },
+                    {
+                      "label": "E",
+                      "text": "As societies developing"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"As societies develop\" is grammatical and best expresses the gradual cause-effect.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 19 to 23:",
+              "instruction": "Choose the option where the suffix of prefix has been INCORRECTLY used.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 19,
+                  "question_type": "word-substitution",
+                  "stem": "19. A. Partake B. Pretake C. Undertake D. Intake E. No error",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Partake"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Pretake"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Undertake"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Intake"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"Pretake\" is not a real word; the others are valid.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 20,
+                  "question_type": "word-substitution",
+                  "stem": "20. A. Simplify B. Stupefy C. Liquefy D. Rectify E. No error",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Simplify"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Stupefy"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Liquefy"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Rectify"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Simplify, Stupefy, Liquefy and Rectify are all correctly formed, so \"No error\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 21,
+                  "question_type": "word-substitution",
+                  "stem": "21. A. Comical B. Evangelical C. Feudal D. Meridial E. No error",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Comical"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Evangelical"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Feudal"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Meridial"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "The correct form is \"meridional\"; \"Meridial\" is incorrect.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 22,
+                  "question_type": "word-substitution",
+                  "stem": "22. A. Ambivalent B. Ambiguous C. Ambidextrous D. Ambiculture E. No error",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Ambivalent"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Ambiguous"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Ambidextrous"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Ambiculture"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Ambiculture\" is not a standard word; the others are valid \"ambi-\" formations.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 23,
+                  "question_type": "word-substitution",
+                  "stem": "23. A. Untractable B. Unreadable C. Unimaginable D. Unfathomable E. No error",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Untractable"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Unreadable"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Unimaginable"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Unfathomable"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The correct form is \"Intractable\", so \"Untractable\" is the incorrectly used prefix.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 24 to 27:",
+              "instruction": "Answer the questions based on the following passage.",
+              "stimulus": {
+                "passage": "Making online ads that not only know you are looking at them but also respond to your emotions will soon be possible, thanks to the power of image processing software and the ubiquity of tiny cameras in computers and mobile devices.\n\nUses for this technology would not, of course, be confined to advertising. There is ample scope to deploy it in areas like security, computer gaming, education and health care. But admen are among the first to embrace the idea in earnest. That is because it helps answer, at least online, clients' perennial carp: that they know half the money they spend on advertising is wasted, but they don't know which half.\n\nAdvertising firms already film how people react to ads, usually in an artificial setting. Participants' faces are studied for positive or negative feelings. A lot of research, some of its controversial, has been done into ways of categorizing the emotions behind facial expressions.\n\nSome consumer-research companies also employ goggle-mounted cameras to track eye movement so that they can be sure what their subjects are looking at. This can help determine which ads attract the most attention and where they might be placed for the best effect on a web page.\n\nThis work is now moving online. Higher-quality cameras and smarter computer-vision software mean that volunteers can work from home and no longer need to wear clunky headgear. Instead, their eyes can be tracked using a single webcam.\n\nA London based has been developing a system that combines eye-spying webcams with emotional analysis. At present the system is being used on purpose built websites with, for instance, online research groups testing the effect of various display ads. The next step is to make interactive ads. Because they can spot visual attention given to them, as well as the emotional state of the viewer, these ads could tailor their responses. As similar gimmicks become widespread, privacy concerns will invariably mount. People would need to give consent to their webcams being used in this way. One way to persuade internet users to grant access to their images would be offer them discounts on goods or subscriptions to websites.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 24,
+                  "question_type": "reading-comp",
+                  "stem": "24. The word 'ubiquity' in the first paragraph is closest in meaning to",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "omnipresence"
+                    },
+                    {
+                      "label": "B",
+                      "text": "scarcity"
+                    },
+                    {
+                      "label": "C",
+                      "text": "paucity"
+                    },
+                    {
+                      "label": "D",
+                      "text": "abundance"
+                    },
+                    {
+                      "label": "E",
+                      "text": "engagement"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Ubiquity\" means being present everywhere — \"omnipresence\". (Abundance is about quantity, not presence everywhere.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 25,
+                  "question_type": "reading-comp",
+                  "stem": "According to the passage, the increasing use of the technology which can gauge the emotional state and response of internet users online by companies will result in all of the following Except",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Interactive ads can be designed by companies for internet users."
+                    },
+                    {
+                      "label": "B",
+                      "text": "Advertising companies can determine the best placement for ads on web pages according to user preferences."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Privacy issues will need to be tackled by the companies."
+                    },
+                    {
+                      "label": "D",
+                      "text": "The companies can identify which ads capture the most attention of internet users."
+                    },
+                    {
+                      "label": "E",
+                      "text": "The companies' online advertising costs will decrease."
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The passage mentions interactive ads, placement, attention tracking and privacy concerns, but does not state that advertising costs will decrease — E is the exception.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 26,
+                  "question_type": "reading-comp",
+                  "stem": "26. According to the passage, which of the following is the primary reason for which advertisement makers are keen to embrace the technology?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Their monetary investments in online content development are higher than educational institutions."
+                    },
+                    {
+                      "label": "B",
+                      "text": "It will help them to decide whether the placement of ads is more effective on online pages than in print newspapers."
+                    },
+                    {
+                      "label": "C",
+                      "text": "It will help them to identify where the money spent on online advertising is fruitful and where it is not."
+                    },
+                    {
+                      "label": "D",
+                      "text": "All of the above"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of the above"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Admen embrace it because it answers their \"perennial carp\" — knowing which half of their ad spending is wasted, i.e. where the money is fruitful (C).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 27,
+                  "question_type": "reading-comp",
+                  "stem": "27. The word 'clunky' in the fifth paragraph can be best substituted with the word",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "complicated"
+                    },
+                    {
+                      "label": "B",
+                      "text": "unwieldy"
+                    },
+                    {
+                      "label": "C",
+                      "text": "innovative"
+                    },
+                    {
+                      "label": "D",
+                      "text": "irrational"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"Clunky\" devices are bulky and awkward — \"unwieldy\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 28 to 30:",
+              "instruction": "Choose the option where the underlined word has been used Incorrectly:",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 28,
+                  "question_type": "word-substitution",
+                  "stem": "28. i. The manner in which this condition of complacent ignorance came to be disturbed is instructive.\nii. While I enjoy pleasing others, I could never be so complacent that I would allow others to mistake my kindness for weakness.\niii. Never complacent, Tanvir sets the standard by which the industry is measured.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "i only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "i and ii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "ii only"
+                    },
+                    {
+                      "label": "D",
+                      "text": "i and iii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "\"Complacent\" (smugly self-satisfied) is used correctly in all three sentences, so \"No error\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 29,
+                  "question_type": "word-substitution",
+                  "stem": "29. i. The form requires candidates to fill in information regarding all the dependents in their families.\nii. Helen's dependent on me for almost everything makes me strong and glad.\niii. The sport of ice climbing is critically dependent on equipment.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "i only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "ii only"
+                    },
+                    {
+                      "label": "C",
+                      "text": "iii only"
+                    },
+                    {
+                      "label": "D",
+                      "text": "ii and iii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "In (ii) the noun \"dependence\" is needed (\"Helen's dependence on me\"), so \"dependent\" is used incorrectly. (i) uses the noun \"dependents\" and (iii) the adjective \"dependent\" correctly.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 30,
+                  "question_type": "word-substitution",
+                  "stem": "30. i. Daylight brought the sounds of gunfire and rockets on top of the mountain that did not cease even when night fell again.\nii. Cease the moments of happiness, love and be loved!\niii. Once a nation shows its willingness to cease foreign-owned property at will.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "i only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "ii only"
+                    },
+                    {
+                      "label": "C",
+                      "text": "i and ii"
+                    },
+                    {
+                      "label": "D",
+                      "text": "ii and iii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Cease\" (to stop) is correct in (i). In (ii) and (iii) the intended word is \"seize\" (to grab/take) — \"seize the moments\" and \"seize foreign-owned property\" — so (ii) and (iii) misuse \"cease\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 2,
+          "source_section_label": "Section 2: Mathematics",
+          "subject": "mathematics",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": "Solve each of the following problems and mark the correct answer on your Answer Sheet. DO NOT USE A CALCULATOR. Figures are not drawn to scale.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 31,
+                  "question_type": "problem-solving",
+                  "stem": "31. If 4y - 3x = 5, what is the smallest integer value of x for which y > 100?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "130"
+                    },
+                    {
+                      "label": "B",
+                      "text": "131"
+                    },
+                    {
+                      "label": "C",
+                      "text": "132"
+                    },
+                    {
+                      "label": "D",
+                      "text": "135"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$y=\\frac{5+3x}{4}>100\\Rightarrow3x>395\\Rightarrow x>131.67$, so the smallest integer is $x=132$ (giving $y=100.25>100$).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 32,
+                  "question_type": "problem-solving",
+                  "stem": "32. At a certain bookstore, the regular price of each book is 20% less than its list price. If during a sale the price of each book at the store was 15% less than its regular price, then the price of a book during the sale was what percent less than its list price?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "30%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "32%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "40%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "42%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Sale price $=0.85\\times0.8\\,L=0.68\\,L$, i.e. 32% less than the list price.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 33,
+                  "question_type": "problem-solving",
+                  "stem": "33. A worker was hired for 7 days. From the second day, he was paid Tk. 10 more each day than what he was paid for the previous day of work. The total amount he was paid in the first 4 days of work equaled the total amount he was paid in the last 3 days. What was his starting pay?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Tk. 90"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Tk. 138"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Tk. 153"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Tk. 160"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "With pay $p, p+10, \\dots, p+60$: first four $=4p+60$, last three $=3p+150$. Setting equal: $4p+60=3p+150\\Rightarrow p=90$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 34,
+                  "question_type": "problem-solving",
+                  "stem": "34. There are 4 women and 4 men sitting in a waiting room for a job interview. If two of the interviewees are selected at random, what is the probability that both will be woman?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{1}{2}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{3}{7}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{3}{4}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{3}{14}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$P=\\frac{\\binom{4}{2}}{\\binom{8}{2}}=\\frac{6}{28}=\\frac{3}{14}$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 35,
+                  "question_type": "problem-solving",
+                  "stem": "35. If $(a + a + a) = (b + b + b + b)$ & $(a + b) = 7$, then what is the value of $(a^2 - b^2)$?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "0"
+                    },
+                    {
+                      "label": "B",
+                      "text": "3"
+                    },
+                    {
+                      "label": "C",
+                      "text": "4"
+                    },
+                    {
+                      "label": "D",
+                      "text": "7"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$3a=4b$ and $a+b=7$ give $a=4,b=3$. Then $a^2-b^2=(a+b)(a-b)=7\\times1=7$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 36,
+                  "question_type": "problem-solving",
+                  "stem": "36. If x and y are positive integers, each greater than 1 and if  $13(x - 1) = 17(y - 1)$ , what is the least possible value of  $(x + y)$ ?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "32"
+                    },
+                    {
+                      "label": "B",
+                      "text": "30"
+                    },
+                    {
+                      "label": "C",
+                      "text": "26"
+                    },
+                    {
+                      "label": "D",
+                      "text": "25"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Since 13 and 17 are coprime, $x-1=17k$ and $y-1=13k$; the least ($k=1$) gives $x=18,y=14$, so $x+y=32$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 37,
+                  "question_type": "problem-solving",
+                  "stem": "37. A water filter can be filled with 8 jugs of capacity 1.3 liters each. How many jugs are required to fill the same filter, if capacity of the jug is 0.8 liters?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "15"
+                    },
+                    {
+                      "label": "B",
+                      "text": "13"
+                    },
+                    {
+                      "label": "C",
+                      "text": "12"
+                    },
+                    {
+                      "label": "D",
+                      "text": "8"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Volume $=8\\times1.3=10.4$ L; $10.4/0.8=13$ jugs.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 38,
+                  "question_type": "problem-solving",
+                  "stem": "38. If $\\frac{1}{2} + \\frac{1}{3} + \\frac{1}{5} = \\frac{46.5}{m}$, Which of the following must be an integer?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{m}{6}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{m}{7}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{m}{9}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{m}{11}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$\\frac12+\\frac13+\\frac15=\\frac{31}{30}=\\frac{46.5}{m}\\Rightarrow m=\\frac{46.5\\times30}{31}=45$. Then $\\frac{m}{9}=5$ is an integer.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 39,
+                  "question_type": "problem-solving",
+                  "stem": "39. A certain company that sells only i-pads and i-phones reported that revenues from i-pad sales in 2015 were down 11% from the sale of 2014 and revenue from i-phone sales were up 7% from the sale of 2014. If total revenues from i-pad and i-phone sales in 2015 were up 1% from the sale of 2014, what is the ratio of revenue from i-pad sales in 2014 to revenue from i-phone sales in 2014?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "1:2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "4:5"
+                    },
+                    {
+                      "label": "C",
+                      "text": "1:1"
+                    },
+                    {
+                      "label": "D",
+                      "text": "3:2"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "With 2014 revenues $P$ (ipad) and $H$ (iphone): $0.89P+1.07H=1.01(P+H)\\Rightarrow0.06H=0.12P\\Rightarrow P:H=1:2$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 40,
+                  "question_type": "problem-solving",
+                  "stem": "40. Arif starts walking from his home at 10 a.m. for station A at 4 km per hour. At 1 p.m. his brother leaves for the same destination at 20 km/ hour. At what time will his brother meet Arif?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "1:45 p.m."
+                    },
+                    {
+                      "label": "B",
+                      "text": "2:00 p.m."
+                    },
+                    {
+                      "label": "C",
+                      "text": "2:15 p.m."
+                    },
+                    {
+                      "label": "D",
+                      "text": "2:30 p.m."
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "By 1 p.m. Arif is $3\\times4=12$ km ahead. The brother closes at $20-4=16$ km/h, taking $12/16=0.75$ h $=45$ min, i.e. 1:45 p.m.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 41,
+                  "question_type": "problem-solving",
+                  "stem": "41. Arif, Babu and Salam have x, y and z number of marbles respectively. If $x = 6y = 3z$, what fraction of his marbles should Arif give to Babu and Salam so that all of them have equal number of marbles?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{1}{5}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{1}{4}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{1}{3}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{1}{2}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$y=x/6$, $z=x/3$, total $=x+\\frac{x}{6}+\\frac{x}{3}=\\frac{3x}{2}$, so each should have $\\frac{x}{2}$. Arif gives away $x-\\frac{x}{2}=\\frac{x}{2}$, i.e. $\\frac12$ of his marbles.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 42,
+                  "question_type": "problem-solving",
+                  "stem": "42. If x and y are both integers, x > y and -5x > 26, then what would be the largest value of y?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "-5"
+                    },
+                    {
+                      "label": "B",
+                      "text": "-6"
+                    },
+                    {
+                      "label": "C",
+                      "text": "-7"
+                    },
+                    {
+                      "label": "D",
+                      "text": "-8"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$-5x>26\\Rightarrow x<-5.2\\Rightarrow x\\le-6$. With $y<x\\le-6$, the largest $y$ is $-7$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 43,
+                  "question_type": "problem-solving",
+                  "stem": "43. The current ratio of the age of a man and his wife is 4:3. At the time of marriage the ratio was 5:3 and after 4 years this ratio will become 9:7. How many years ago were they married?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "12"
+                    },
+                    {
+                      "label": "B",
+                      "text": "6"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3"
+                    },
+                    {
+                      "label": "D",
+                      "text": "2"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Let current ages $4k,3k$. After 4 years $\\frac{4k+4}{3k+4}=\\frac97\\Rightarrow k=8$, so ages 32 and 24. Marriage ratio 5:3: $\\frac{32-t}{24-t}=\\frac53\\Rightarrow t=12$ years ago.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 44,
+                  "question_type": "problem-solving",
+                  "stem": "44. If x and y are non-zero integers such that 3x = 2y, then which of the following must be true?\ni. $\\frac{y}{x} >1$  ii. xy is positive iii. x - y is positive",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "i"
+                    },
+                    {
+                      "label": "B",
+                      "text": "ii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "both i & ii"
+                    },
+                    {
+                      "label": "D",
+                      "text": "both ii and iii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "i, ii and iii"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$3x=2y\\Rightarrow\\frac{y}{x}=\\frac32>1$ (i true). $x,y$ share the same sign, so $xy>0$ (ii true). $x-y=-\\frac{y}{3}$ is not always positive, so iii fails. Hence i and ii.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 45,
+                  "question_type": "problem-solving",
+                  "stem": "45. A trade made 2 different grades of mixture - one containing m kg of Melphin and m kg of water and the other mixture containing m kg of Melphin and 2m kg of water. Both the mixtures were completely sold out. Revenues from selling the mixtures were the same. If the selling price of the first mixture was Tk. 600 per kg, what was the per kg selling price of the second mixture in Taka?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "300"
+                    },
+                    {
+                      "label": "B",
+                      "text": "400"
+                    },
+                    {
+                      "label": "C",
+                      "text": "450"
+                    },
+                    {
+                      "label": "D",
+                      "text": "480"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Mixture 1 is $2m$ kg, revenue $=2m\\times600=1200m$. Mixture 2 is $3m$ kg; equal revenue $1200m\\Rightarrow$ price $=\\frac{1200m}{3m}=400$ per kg.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 46,
+                  "question_type": "problem-solving",
+                  "stem": "46. A teacher has 3 hours to grade all the papers submitted by the 35 students in her class. She gets through the first 5 papers in 30 minutes. How much faster does she have to work to grade the remaining papers in the allotted time?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "10%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "15%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "20%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "25%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Initial rate $=5/30=\\frac16$ paper/min. Remaining 30 papers in 150 min need $\\frac15$ paper/min. Increase $=\\frac{1/5-1/6}{1/6}=\\frac{1/30}{1/6}=20\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 47,
+                  "question_type": "problem-solving",
+                  "stem": "47. In the figure, C is the midpoint of BD and the area of ACD is 12 sq cm. If CD = 4 cm, what is the length of AB in cm?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "4"
+                    },
+                    {
+                      "label": "B",
+                      "text": "6"
+                    },
+                    {
+                      "label": "C",
+                      "text": "8"
+                    },
+                    {
+                      "label": "D",
+                      "text": "12"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "AB is perpendicular to BD, so AB is the height for triangle ACD on base CD. Area $=\\frac12\\times CD\\times AB=\\frac12\\times4\\times AB=12\\Rightarrow AB=6$.",
+                  "images": [
+                    {
+                      "fig_id": "q_p4_1",
+                      "role": "question",
+                      "path": "images/q_p4_1.png",
+                      "caption": "Right triangle ABD with C the midpoint of BD"
+                    }
+                  ],
+                  "needs_review": false
+                },
+                {
+                  "number": 48,
+                  "question_type": "problem-solving",
+                  "stem": "48. A drink contains 20% mango juice, 20% guava juice and the rest apple juice. You added 250 ml of water to 750 ml of the drink. Now, what will be the ratio of water to apple juice in the diluted drink?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "6:5"
+                    },
+                    {
+                      "label": "B",
+                      "text": "9:5"
+                    },
+                    {
+                      "label": "C",
+                      "text": "5:12"
+                    },
+                    {
+                      "label": "D",
+                      "text": "5:9"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Apple juice $=60\\%$ of 750 $=450$ ml; water $=250$ ml. Ratio $250:450=5:9$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 49,
+                  "question_type": "problem-solving",
+                  "stem": "49. If x and y are both positive integers and 10 < x < 20 & 7y - 2x = 0, what is the value of x - y?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "7"
+                    },
+                    {
+                      "label": "B",
+                      "text": "8"
+                    },
+                    {
+                      "label": "C",
+                      "text": "9"
+                    },
+                    {
+                      "label": "D",
+                      "text": "10"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$x=\\frac{7y}{2}$, so $y$ is even; $10<\\frac{7y}{2}<20\\Rightarrow y=4$, $x=14$. Then $x-y=10$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 50,
+                  "question_type": "problem-solving",
+                  "stem": "50. If x, y and z are consecutive positive integers and if $x < y < z$, which of the following must be a positive even integer?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$x + y - z$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$x - y + z$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$yz - x$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$(x - z)y$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "With $x,x+1,x+2$: A $=x-1$, B $=x+1$ (parity varies), C $=x^2+2x+2$ (even only when $x$ is even), D $=-2(x+1)$ (negative). None is always a positive even integer, so E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 51,
+                  "question_type": "problem-solving",
+                  "stem": "51. A box contains 200 marbles of which 15% are black and the rest are red. If 100 marbles, comprising of black and red marbles are added to the box, how many of them should be black so that the ratio of black to red marbles in that box becomes 1:5?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "20"
+                    },
+                    {
+                      "label": "B",
+                      "text": "25"
+                    },
+                    {
+                      "label": "C",
+                      "text": "30"
+                    },
+                    {
+                      "label": "D",
+                      "text": "40"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Start: 30 black, 170 red. Add $b$ black and $100-b$ red. $\\frac{30+b}{270-b}=\\frac15\\Rightarrow150+5b=270-b\\Rightarrow b=20$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 52,
+                  "question_type": "problem-solving",
+                  "stem": "52. Arif's salary is twice that of Babu's salary. Kabir's salary is one third of Arif's salary and Malek's salary is two third of that of Babu. The total salary of Kabir and Malek is what proportion of Babu's Salary?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{4}{3}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{6}{5}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{11}{12}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{13}{15}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Let Babu $=B$, Arif $=2B$. Kabir $=\\frac{2B}{3}$, Malek $=\\frac{2B}{3}$, total $=\\frac{4B}{3}$, i.e. $\\frac43$ of Babu's salary.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 53,
+                  "question_type": "problem-solving",
+                  "stem": "53. Among the members of a club there are three times as many engineers as doctors. Half of the club members are female and  $\\frac{4}{5}$  of the male members are doctors. What percent of the club members are female engineers?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "10"
+                    },
+                    {
+                      "label": "B",
+                      "text": "15"
+                    },
+                    {
+                      "label": "C",
+                      "text": "20"
+                    },
+                    {
+                      "label": "D",
+                      "text": "25"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "As printed (engineers = 3×doctors) the data is inconsistent (it forces more male doctors than total doctors). Reading it as doctors = 3×engineers gives a consistent solution: of 100 members, 75 doctors and 25 engineers; males 50 with 40 doctors, so female doctors 35 and female engineers $50-35=15\\%$. Flagged due to the wording.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 54,
+                  "question_type": "problem-solving",
+                  "stem": "54. The selling price of 1 pen and 5 pencils is $50\\%$ of the selling price of 5 pens and 1 pencil. If the price of 1 pen and 1 pencil is Tk. 200. What is the price of a pencil in Tk.?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "40"
+                    },
+                    {
+                      "label": "B",
+                      "text": "50"
+                    },
+                    {
+                      "label": "C",
+                      "text": "60"
+                    },
+                    {
+                      "label": "D",
+                      "text": "80"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$p+5c=0.5(5p+c)\\Rightarrow4.5c=1.5p\\Rightarrow p=3c$. With $p+c=200$: $4c=200\\Rightarrow c=50$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 55,
+                  "question_type": "problem-solving",
+                  "stem": "55. In a class, a certain numbers of students opted to participate in a cultural competition comprising of 3 items-music, recitation and drama. Of these students, 53% showed interest for music and 35% showed interest for recitation. If 8% of the students of the whole class showed interest for drama, what percent of the students did not participate in the cultural program?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "12%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "16.33%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "25%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "33.33%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Among participants, drama $=100-53-35=12\\%$. This equals 8% of the whole class, so participants $=\\frac{8}{12}=66.67\\%$ and non-participants $=33.33\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 56,
+                  "question_type": "problem-solving",
+                  "stem": "56. In an exam 62% of the students were declared as passed. However, due to compilation error, 20% of the students who have actually passed were shown as failed and 20% of the students who have actually failed were declared as passed. What percent of the students actually passed?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "68"
+                    },
+                    {
+                      "label": "B",
+                      "text": "70"
+                    },
+                    {
+                      "label": "C",
+                      "text": "72"
+                    },
+                    {
+                      "label": "D",
+                      "text": "75"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Let actual pass $=x$. Declared passed $=0.8x+0.2(100-x)=0.6x+20=62\\Rightarrow x=70$.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 57 to 60:",
+              "instruction": "Each question is following by two statements. Decide whether the data in the statements are sufficient to answer the question. Select your answer according to whether:\nA. Statement 1 alone is sufficient, but statement 2 alone is not sufficient to answer the questions.\nB. Statement 2 alone is sufficient, but statement 1 alone is not sufficient to answer the questions.\nC. Both statements taken together are sufficient to answer the question, but neither statement alone is sufficient.\nD. Each statement alone is sufficient.\nE. Statement 1+2 together are not sufficient, and additional data is needed to answer the question.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 57,
+                  "question_type": "data-sufficiency",
+                  "stem": "57. x and y are both positive integers. If x - 3 can be divided by 5 and y can be divided by 2, what is the remainder when xy is divided by 10?\n1. The remainder is 3 when x is divided by 3.\n2. The remainder is 2 when y is divided by 5.",
+                  "options": [],
+                  "answer": "B",
+                  "explanation": "x - 3 divisible by 5 gives x ending in 3 or 8; y even. (2) y even and y leaves remainder 2 on division by 5, so y ends in 2: then xy ends in 3x2=6 or 8x2=16, i.e. remainder 6 - sufficient. (1) is impossible as printed (a remainder of 3 on division by 3 cannot occur) and says nothing about y; with y = 2 or 4 the remainder is 6 or 2, so it is not sufficient. Answer B.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 58,
+                  "question_type": "data-sufficiency",
+                  "stem": "58. If x, y and z are integers, is z an odd integer?\n1.  $\\frac{y}{z} = x$ \n2. x - y = 2z",
+                  "options": [],
+                  "answer": "E",
+                  "explanation": "Combining $y=xz$ and $x-y=2z$ gives $x(1-z)=2z$. Both $z=2$ ($x=-4,y=-8$) and $z=3$ ($x=-3,y=-9$) satisfy everything, so z's parity is not determined even together — answer E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 59,
+                  "question_type": "data-sufficiency",
+                  "stem": "59. Is x - y > 0?\n1. xy > 1000\n2. x > y",
+                  "options": [],
+                  "answer": "B",
+                  "explanation": "Statement 2 states $x>y$ directly, which answers the question — sufficient. Statement 1 ($xy>1000$) can hold for both-positive or both-negative values and does not fix the order. So B.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 60,
+                  "question_type": "data-sufficiency",
+                  "stem": "60. If x & y are integers and x is a factor of y, what is the remainder when  $x^{3} - y$  is divided by 16?\n1. x is divisible by 32\n2. y is an even number",
+                  "options": [],
+                  "answer": "A",
+                  "explanation": "If $x$ is divisible by 32, then $x^3$ is divisible by 16 and $y=kx$ is divisible by 16, so $x^3-y$ leaves remainder 0 — statement 1 alone suffices. Statement 2 (y even) does not pin the remainder. So A.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 3,
+          "source_section_label": "Section 3: Analytical Ability",
+          "subject": "analytical",
+          "groups": [
+            {
+              "source_group_label": "Questions 61 to 65",
+              "instruction": null,
+              "stimulus": {
+                "passage": "There are five people - Kabir, Farhad, Nibir, Shahed, Masud - scheduled for appointments at a doctor's office on a specific morning, plus a walk-in, Reza. There are five appointment slots: 6:30, 7:00, 7:30, 8:00 and 8:30. The following conditions apply:\n- Reza will only get a slot if one of the five people with an appointment does not show up.\n- Kabir is not scheduled for 7:00 or 8:00.\n- Nibir is scheduled for 8:30.\n- Shahed's appointment is immediately before Masud's.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 61,
+                  "question_type": "puzzle",
+                  "stem": "61. If Kabir appointment is at 7:30, which one of the following must be false?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Farhad's appointment is at 8:00"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Kabir's appointment is before Masud's"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Masud's appointment is before Kabir's"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Farhad's appointment is after Kabir's"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Shahed's appointment is at 6:30"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Kabir 7:30 and Nibir 8:30 leave 6:30, 7:00, 8:00. Shahed–Masud consecutive must be 6:30–7:00, so Farhad is 8:00. Then Masud (7:00) is before Kabir (7:30), so \"Kabir before Masud\" is false.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 62,
+                  "question_type": "puzzle",
+                  "stem": "62. Which one of the following is possible sequence of the 5 people's appointments?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Kabir, Shahed, Masud, Nibir, Farhad"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Farhad, Kabir, Shahed, Masud, Nibir"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Kabir, Shahed, Farhad, Masud, Nibir"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Kabir, Shahed, Masud, Farhad, Nibir"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Shahed, Masud, Farhad, Kabir, Nibir"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "D places Kabir at 6:30, Shahed–Masud consecutively at 7:00–7:30, Farhad 8:00, Nibir 8:30 — all conditions hold. A has Nibir not at 8:30, B/E put Kabir at 7:00/8:00, C breaks Shahed-immediately-before-Masud.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 63,
+                  "question_type": "puzzle",
+                  "stem": "63. If Nibir switches appointment times so that his appointment is now at 8:00, if none of the other conditions change, who now has the 8:30 appointment slot?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Farhad or Shahed"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Reza or Kabir"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Shahed or Masud"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Masud or Farhad"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Kabir or Farhad"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Nibir at 8:00. Shahed–Masud can only occupy 6:30–7:00 or 7:00–7:30 (8:00 is taken), so 8:30 goes to whoever is left among Kabir (allowed at 8:30, since only 7:00/8:00 are barred) and Farhad. So Kabir or Farhad.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 64,
+                  "question_type": "puzzle",
+                  "stem": "64. If Farhad does not show up for his appointment, which possible appointment slot has opened up for Reza to take?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "6:30 or 8:00"
+                    },
+                    {
+                      "label": "B",
+                      "text": "7:00 or 7:30"
+                    },
+                    {
+                      "label": "C",
+                      "text": "7:00 or 8:00"
+                    },
+                    {
+                      "label": "D",
+                      "text": "7:30 or 8:00"
+                    },
+                    {
+                      "label": "E",
+                      "text": "7:00 or 8:30"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Across the valid schedules, Farhad's slot is either 8:00 (when Shahed–Masud take 6:30–7:00 or 7:00–7:30) or 7:00 (when they take 7:30–8:00). So Reza's freed slot is 7:00 or 8:00.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 65,
+                  "question_type": "puzzle",
+                  "stem": "65. If Shahed's appointment is at 7:00, then Farhad's appointment must be at:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "6:30"
+                    },
+                    {
+                      "label": "B",
+                      "text": "7:00"
+                    },
+                    {
+                      "label": "C",
+                      "text": "7:30"
+                    },
+                    {
+                      "label": "D",
+                      "text": "8:00"
+                    },
+                    {
+                      "label": "E",
+                      "text": "8:30"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Shahed 7:00 forces Masud 7:30; Nibir 8:30; Kabir then must be 6:30 (not 7:00/8:00, and 7:30 is taken). The only slot left for Farhad is 8:00.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 66 to 71:",
+              "instruction": null,
+              "stimulus": {
+                "passage": "The Government has decided to appoint a four-member committee to review educational policy in the country. Eight faculty members are eligible to serve on the committee. F, G, J, K, L, N, O & P. Three of these eight-G, L and N-are retired professors, whereas the remaining five are serving professor. Government policy and the personalities of the eight professors in question dictate that the choice of committee members meet the following conditions:\n- The committee must be composed of exactly two serving and two retired faculty members.\n- G and J cannot serve together.\n- If P is on the committee, then neither N nor O can be on the committee.\n- If K is on the committee, then J must be on the committee.\n- If both F and J are on the committee, then L cannot be on the committee.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 66,
+                  "question_type": "puzzle",
+                  "stem": "66. If L is not on the committee, which of the following is a list of people all either must be on the committee?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F, G & N"
+                    },
+                    {
+                      "label": "B",
+                      "text": "F, J & N"
+                    },
+                    {
+                      "label": "C",
+                      "text": "G, K & N"
+                    },
+                    {
+                      "label": "D",
+                      "text": "J, K & N"
+                    },
+                    {
+                      "label": "E",
+                      "text": "J, N & P"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "With L out, the two retired must be G and N. G bars J (so K is out), and P bars N (who is on), so the two serving must be F and O. Thus F, G, N all must serve.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 67,
+                  "question_type": "puzzle",
+                  "stem": "67. If either L or N serves on the committee, which of the following is a list of people all of whom could be on the committee together?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F, G & L"
+                    },
+                    {
+                      "label": "B",
+                      "text": "F, J & N"
+                    },
+                    {
+                      "label": "C",
+                      "text": "F, N & P"
+                    },
+                    {
+                      "label": "D",
+                      "text": "G, K & N"
+                    },
+                    {
+                      "label": "E",
+                      "text": "K, L & P"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "{F, G, L} can be completed to a valid committee {F, G, L, O}: retired G, L and serving F, O, breaking no rule (J, K, P absent). B lacks a second retired member, C has P with N, D needs J for K (barred by G), E needs J for K.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 68,
+                  "question_type": "puzzle",
+                  "stem": "68. If P is on the committee, the other three members of the committee must be-",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F, G & L"
+                    },
+                    {
+                      "label": "B",
+                      "text": "F, G & N"
+                    },
+                    {
+                      "label": "C",
+                      "text": "G, J & L"
+                    },
+                    {
+                      "label": "D",
+                      "text": "G, K & L"
+                    },
+                    {
+                      "label": "E",
+                      "text": "J, K & L"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "P bars N and O, so the two retired are G and L. G bars J (so K is out); the only serving member left besides P is F. So F, G and L.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 69,
+                  "question_type": "puzzle",
+                  "stem": "69. If neither F nor P is on the committee, which of the following could be a list of the committee members?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "G, J, L & O"
+                    },
+                    {
+                      "label": "B",
+                      "text": "G, K, N & O"
+                    },
+                    {
+                      "label": "C",
+                      "text": "G, L, O & N"
+                    },
+                    {
+                      "label": "D",
+                      "text": "J, K, L & O"
+                    },
+                    {
+                      "label": "E",
+                      "text": "J, L, N & O"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "E has serving J, O and retired L, N (2+2) with G absent (no G–J clash), K and P absent — valid. A clashes G and J, B needs J for K, C has three retired, D has three serving.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 70,
+                  "question_type": "puzzle",
+                  "stem": "70. If J is on the committee, which of the following is one the faculty members who must also be on the committee?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F"
+                    },
+                    {
+                      "label": "B",
+                      "text": "K"
+                    },
+                    {
+                      "label": "C",
+                      "text": "L"
+                    },
+                    {
+                      "label": "D",
+                      "text": "O"
+                    },
+                    {
+                      "label": "E",
+                      "text": "P"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "J bars G, so the two retired must be L and N; hence L must be on the committee.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 71,
+                  "question_type": "puzzle",
+                  "stem": "71. If G is on the committee, any of the following could be on the committee, EXCEPT",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "K"
+                    },
+                    {
+                      "label": "B",
+                      "text": "L"
+                    },
+                    {
+                      "label": "C",
+                      "text": "N"
+                    },
+                    {
+                      "label": "D",
+                      "text": "O"
+                    },
+                    {
+                      "label": "E",
+                      "text": "P"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "G bars J, and K requires J, so K cannot be on the committee when G is on it.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 72 to 74:",
+              "instruction": null,
+              "stimulus": {
+                "passage": "An artisan who is working on six carpets - G, H, I, J, K and L - is preparing a work schedule for a work week consisting of five consecutive workdays- Monday through Friday. Carpets G, H and I are of pattern 1, carpets J and K are of pattern 2 and carpet L is of pattern 3. The work must be scheduled in accordance with the following conditions:\n- The artisan must work on each of the six carpets during the work week.\n- The artisan cannot work on the same carpet on two consecutive days.\n- On any day that the artisan works on carpet G, the artisan must work on carpet J; the artisan cannot work on carpet L that day.\n- On any day that the artisan works on more than one carpet, those carpets must all be of different patterns.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 72,
+                  "question_type": "puzzle",
+                  "stem": "72. If the artisan's decision is to work on carpet J on Tuesday, the artisan cannot work on carpet",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "G on Monday"
+                    },
+                    {
+                      "label": "B",
+                      "text": "H on Tuesday"
+                    },
+                    {
+                      "label": "C",
+                      "text": "I on Wednesday"
+                    },
+                    {
+                      "label": "D",
+                      "text": "K on Thursday"
+                    },
+                    {
+                      "label": "E",
+                      "text": "L on Friday"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Working G on Monday forces working J on Monday too, but J is already scheduled on Tuesday — that would be the same carpet on two consecutive days (Mon and Tue), which is not allowed.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 73,
+                  "question_type": "puzzle",
+                  "stem": "73. The artisan could schedule work on which of the following carpets for the same day?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "G, J and L"
+                    },
+                    {
+                      "label": "B",
+                      "text": "G, I and K"
+                    },
+                    {
+                      "label": "C",
+                      "text": "G, J and K"
+                    },
+                    {
+                      "label": "D",
+                      "text": "H, I and L"
+                    },
+                    {
+                      "label": "E",
+                      "text": "H, J and L"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Carpets on the same day must be of different patterns. E (H=pattern1, J=pattern2, L=pattern3) are all different. A has L with G (forbidden), B has two pattern-1 carpets, C has two pattern-2 carpets, D has two pattern-1 carpets.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 74,
+                  "question_type": "puzzle",
+                  "stem": "74. If the artisan's decision is to work on carpet G on Monday and Friday only, and on carpet K on Wednesday only, the artisan must work on the carpets of pattern 2 on exactly how many workdays?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "1"
+                    },
+                    {
+                      "label": "B",
+                      "text": "2"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3"
+                    },
+                    {
+                      "label": "D",
+                      "text": "4"
+                    },
+                    {
+                      "label": "E",
+                      "text": "5"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "G on Monday and Friday forces J on both those days, and K is on Wednesday. So pattern-2 work (J or K) occurs on Monday, Wednesday and Friday — exactly 3 workdays.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Question 75",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 75,
+                  "question_type": "critical-reasoning",
+                  "stem": "75. Luna loves to eat apple but not banana while Runa loves to eat mango and banana. Keya loves to eat mango but not apple and Jesmin loves to eat banana but not mango. If each of them loves to eat the three fruits, who has/have the same preference(s) as Runa?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Keya"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Luna"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Jesmin"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Jesmin & Keya"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Read as \"each of them loves two of the three fruits\" (apple, banana, mango): Luna = apple + mango (apple, not banana), Runa = mango + banana, Keya = mango + banana (mango, not apple), Jesmin = apple + banana (banana, not mango). Only Keya has the same preferences as Runa: A.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_label": "Part II: Writing Ability [25 marks]",
+      "sections": [
+        {
+          "section_no": 4,
+          "source_section_label": "Part II: Writing Ability [25 marks]",
+          "subject": "writing",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "essay",
+                  "stem": "A. Write an Essay on \"Your Dream about Bangladesh Leading the World\"",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended essay. Paint a vision of Bangladesh leading globally (in economy, technology, culture, climate action), with concrete steps to get there, and conclude. No single correct answer.",
+                  "marks": 15,
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "essay",
+                  "stem": "B. Thematic Writing:\nInstruction: Prepare a thematic write-up consistent in a theme using the following words/ phrase. Use as many words as possible from the list below. In your write-up, underline the words/ phrase as and when used. Give an appropriate title consistent with the theme. To maintain coherence, you may write some sentences without using the words/ phrase given in the list.\ndeplete, green, human being, conservation, resource, species, forest, growth, industrialization, sustain, melting of ice, sea level, migration, rich countries, vulnerable",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended thematic write-up (likely on environment/climate change). Give a title and weave the listed words coherently, underlining them as used. No single correct answer.",
+                  "marks": 10,
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    "Q11 and Q12 number prefixes are clipped by the scan edge (stored as 11, 12 by sequence).",
+    "Q24-27 passage: 'some of its controversial' - the print is clipped at the right margin ('some of it' visible); left unchanged, check against the paper.",
+    "Q57-60: A-E are in the group instruction only; no per-question options are printed.",
+    "Marks printed: Part II A 15, B 10. Q47 figure is an image (not re-cropped in this pass).",
+    "Answers and explanations are out of scope (to be regenerated by the user); stored values are unreliable."
+  ]
+}

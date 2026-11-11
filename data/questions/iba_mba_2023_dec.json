@@ -1,0 +1,207 @@
+{
+  "exam": {
+    "institute": "IBA (DU)",
+    "program": "MBA",
+    "session": "Dec 2023",
+    "source_pdf": "iba_mba_dec_2023.pdf",
+    "parts_marks": {
+      "mcq": null,
+      "writing": 30
+    }
+  },
+  "parts": [
+    {
+      "part_label": "Multiple Choice Questions",
+      "sections": [
+        {
+          "section_no": 1,
+          "source_section_label": "Math",
+          "subject": "mathematics",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "problem-solving",
+                  "stem": "$11^{2} + 22^{2} + \\cdots + 66^{2} = ?$",
+                  "options": [],
+                  "answer": "11,011",
+                  "explanation": "Factor out $11^{2}$: the sum is $11^{2}(1^{2}+2^{2}+\\cdots+6^{2})$. Using $\\sum_{k=1}^{n}k^{2}=\\frac{n(n+1)(2n+1)}{6}$ with $n=6$ gives $1^{2}+\\cdots+6^{2}=\\frac{6\\cdot7\\cdot13}{6}=91$. So the total $=121\\times91=11{,}011$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "problem-solving",
+                  "stem": "Apples, guavas and oranges were there in 4:2:3 ratio to be given away among 3 friends equally.\nThe minimum number of guavas?",
+                  "options": [],
+                  "answer": "6",
+                  "explanation": "Shared equally among 3 friends means each fruit's count is divisible by 3. With counts $4k:2k:3k$, both $4k$ and $2k$ are divisible by 3 only when $k$ is a multiple of 3, so the smallest is $k=3$. Guavas $=2k=6$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "problem-solving",
+                  "stem": "How many numbers are divisible by 5 and 7 between 600 and 900 inclusive?",
+                  "options": [],
+                  "answer": "8",
+                  "explanation": "Divisible by both 5 and 7 means divisible by $35$. Multiples of 35 in $[600,900]$ run from $35\\times18=630$ to $35\\times25=875$, i.e. $k=18$ to $25$, which is $25-18+1=8$ numbers.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "problem-solving",
+                  "stem": "Price of x banana equals to the price of y eggs. If price of p eggs = q taka, what will be the price of m eggs and n bananas?",
+                  "options": [],
+                  "answer": "$\\frac{q(mx+ny)}{px}$ taka",
+                  "explanation": "Price per egg $=\\frac{q}{p}$. Since $x$ bananas cost the same as $y$ eggs, price per banana $=\\frac{y\\cdot q/p}{x}=\\frac{yq}{px}$. Then $m$ eggs and $n$ bananas cost $\\frac{mq}{p}+\\frac{nyq}{px}=\\frac{q(mx+ny)}{px}$ taka.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 5,
+                  "question_type": "problem-solving",
+                  "stem": "K runs twice as fast as L. M runs at 1/4 the speed of L. The three-start running at the same time. After a certain period, if the distance between K and M is 98 km what is the total distance they covered?",
+                  "options": [],
+                  "answer": "182 km",
+                  "explanation": "Let L's speed be $v$; then K $=2v$ and M $=\\frac{v}{4}$. In time $t$ the gap between K and M is $2vt-\\frac{v}{4}t=\\frac{7}{4}vt=98$, so $vt=56$. Total distance $=2vt+vt+\\frac{1}{4}vt=\\frac{13}{4}vt=\\frac{13}{4}\\times56=182$ km (K $=112$, L $=56$, M $=14$).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 6,
+                  "question_type": "problem-solving",
+                  "stem": "A rectangular garden of 32*28 sq. ft. was to be enclosed by a walkway uniform on all sides which is 700 sq. ft. What is the breadth of the walkway?",
+                  "options": [],
+                  "answer": "5 ft",
+                  "explanation": "Let the walkway width be $w$. Outer area minus garden area equals the walkway: $(32+2w)(28+2w)-32\\times28=700$, i.e. $4w^{2}+120w-700=0$, or $w^{2}+30w-175=0$. Then $w=\\frac{-30+\\sqrt{900+700}}{2}=\\frac{-30+40}{2}=5$ ft (check: $42\\times38-896=700$).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "problem-solving",
+                  "stem": "A square painting is surrounded by a frame. The outside edges of the frame are x inches in length and there is a 4-inch border between the painting and the frame. What is the total area of the border?",
+                  "options": [],
+                  "answer": "$16x-64$ square inches",
+                  "explanation": "The frame's outer side is $x$, and the painting sits $4$ inches inside the frame on every side, so the painting is a square of side $x-8$. The border area is $x^{2}-(x-8)^{2}=16x-64$ square inches.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 8,
+                  "question_type": "problem-solving",
+                  "stem": "If an equilateral triangle is inscribed in a circle, radius 2, what is the area of the triangle?",
+                  "options": [],
+                  "answer": "$3\\sqrt{3}$ square units",
+                  "explanation": "An equilateral triangle inscribed in a circle of radius $R$ has side $a=R\\sqrt{3}$ and area $\\frac{\\sqrt{3}}{4}a^{2}=\\frac{3\\sqrt{3}}{4}R^{2}$. With $R=2$: area $=\\frac{3\\sqrt{3}}{4}\\times4=3\\sqrt{3}$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 9,
+                  "question_type": "problem-solving",
+                  "stem": "In a club, the number of man engineers to woman who are both engineer and doctor is equal and the ratio of man engineers to woman who are both engineer and doctor is the same to the ratio of man doctors to the woman doctors. If 3/5 members in the club are man among the total number of 1000 members, what is the total number of engineers in the club?",
+                  "options": [],
+                  "answer": "400 engineers (under the assumption stated in the explanation)",
+                  "explanation": "The source wording is loose; the only reading that gives a determinate answer: members are men engineers, men doctors and women doctors, and some women are both engineer and doctor. Men = 3/5 × 1000 = 600, women = 400. Men engineers = women who are both engineer and doctor = x. The ratio (men engineers : women who are both) = 1, so (men doctors : women doctors) = 1, i.e. men doctors = women doctors. If every woman is a doctor, women doctors = 400, so men doctors = 400 and men engineers = 600 − 400 = 200 = x. Total engineers = men engineers + women who are both = 200 + 200 = 400.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Data Sufficiency",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 10,
+                  "question_type": "data-sufficiency",
+                  "stem": "Is $\\frac{x}{y} =$ integer? 1. Factors of numerator is integer. 2. Factor of denominator is integer.",
+                  "options": [],
+                  "answer": "Neither statement is sufficient (GMAT-style: E)",
+                  "explanation": "Every integer has integer factors, so statement (1) (\"the factors of the numerator are integers\") and statement (2) (\"the factors of the denominator are integers\") are true for any x and y and give no information about whether x/y is an integer (e.g. x=4,y=2 gives an integer; x=2,y=4 does not). Even together they are insufficient.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 11,
+                  "question_type": "data-sufficiency",
+                  "stem": "Is RT even? 1. R is even\n2. T is odd",
+                  "options": [],
+                  "answer": "Statement (1) alone is sufficient; (2) alone is not (GMAT-style: A)",
+                  "explanation": "$RT$ is even iff at least one of $R,T$ is even. (1) $R$ is even $\\Rightarrow RT$ is even — sufficient. (2) $T$ is odd says nothing about $R$, so $RT$ may be even or odd — not sufficient. Hence statement (1) alone suffices.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_label": "Writing Ability",
+      "sections": [
+        {
+          "section_no": 2,
+          "source_section_label": "Writing Ability",
+          "subject": "writing",
+          "groups": [
+            {
+              "source_group_label": "Writing Ability",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "argument",
+                  "stem": "Argument writing- on \"Fear of loss is the reason for loss\"",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended argument task: take a clear position on the claim \"Fear of loss is the reason for loss\", support it with reasoning and concrete examples, address a counter-view, and conclude. No single correct answer.",
+                  "images": [],
+                  "needs_review": false,
+                  "marks": 15
+                },
+                {
+                  "number": 2,
+                  "question_type": "essay",
+                  "stem": "Essay on \"Responsibilities of a Good Citizen\"",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended essay on \"Responsibilities of a Good Citizen\": introduce the theme, develop 3-4 responsibilities (obeying laws, civic participation, social/environmental duty, respecting others) with examples, and conclude. No single correct answer.",
+                  "images": [],
+                  "needs_review": false,
+                  "marks": 15
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    "Printed page has 11 Math questions and 2 Writing prompts (15 marks each); all compared, no other differences found. No options are printed.",
+    "Answers and explanations are out of scope (to be regenerated by the user); stored values are unreliable."
+  ]
+}

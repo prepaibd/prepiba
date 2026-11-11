@@ -1,0 +1,350 @@
+{
+ "exam": "iba_mba_2025_dec",
+ "items": {
+  "1-1": {
+   "en": "AB = √((4 + 8)² + (−5 − 7)²) = √288 = 12√2, which is the height h of the equilateral triangle. Area = h²/√3 = 288/√3 = 96√3.",
+   "bn": "AB = √((4 + 8)² + (−5 − 7)²) = √288 = 12√2, যা সমবাহু ত্রিভুজের উচ্চতা h। ক্ষেত্রফল = h²/√3 = 288/√3 = 96√3।",
+   "answer": "D",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "1-2": {
+   "en": "Voters = 75% of 3300 = 2475. Haroon's share = 594/2475 = 24%.",
+   "bn": "ভোটদাতা = 3300-এর 75% = 2475। Haroon-এর অংশ = 594/2475 = 24%।",
+   "answer": "B",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "1-3": {
+   "en": "Zone A (n/(n+1), rising by smaller steps) has average 0.9408 < median 0.9412: A is true. Zone B (falling, convex) has average 1.0630 > median 1.0625: false. Zone C is an arithmetic sequence, so average = median: false. Only A.",
+   "bn": "Zone A (n/(n+1), ক্রমশ কম ধাপে বাড়ে)-র গড় 0.9408 < মধ্যমা 0.9412: A সত্য। Zone B (কমছে, convex)-এর গড় 1.0630 > মধ্যমা 1.0625: মিথ্যা। Zone C সমান্তর ধারা, তাই গড় = মধ্যমা: মিথ্যা। শুধু A।",
+   "answer": "A",
+   "formula_ids": [
+    "average"
+   ]
+  },
+  "1-4": {
+   "en": "30% took science; 20% of those took chemistry = 6% of all students. Other science = 30% − 6% = 24%.",
+   "bn": "30% science নিয়েছে; তাদের 20% chemistry = সব student-এর 6%। অন্য science = 30% − 6% = 24%।",
+   "answer": "E",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "1-5": {
+   "en": "Commission needed = 25,000 − 15,000 = 10,000: 800a + 500b = 10,000 ⇒ 8a + 5b = 100. To minimise a + b, make a large; a must be a multiple of 5, so a = 10, b = 4: 14 cars.",
+   "bn": "প্রয়োজনীয় commission = 25,000 − 15,000 = 10,000: 800a + 500b = 10,000 ⇒ 8a + 5b = 100। a + b ন্যূনতম করতে a বড় করুন; a অবশ্যই 5-এর গুণিতক, তাই a = 10, b = 4: মোট 14টি গাড়ি।",
+   "answer": "D",
+   "formula_ids": [
+    "algebra",
+    "numprop"
+   ]
+  },
+  "1-6": {
+   "en": "Benefit = 0.6 × 2000 + 0.4(S − 2000) = 400 + 0.4S = 1400 ⇒ S = 2500.",
+   "bn": "Benefit = 0.6 × 2000 + 0.4(S − 2000) = 400 + 0.4S = 1400 ⇒ S = 2500।",
+   "answer": "D",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "1-7": {
+   "en": "Transcontinental: 8 h of travel plus 9 breaks of 10 min (none after the last stretch) = 9.5 h = 570 min. Novo Local needs 24 min to drive 20 km plus a 2-minute break: 26 min per 20 km. In 570 min: 21 full cycles = 546 min = 420 km, then 24 min more = 20 km. Total 440 km.",
+   "bn": "Transcontinental: 8 ঘণ্টা চলা এবং 10 মিনিটের 9টি বিরতি (শেষ অংশের পর নেই) = 9.5 ঘণ্টা = 570 মিনিট। Novo Local 20 km যেতে 24 মিনিট এবং 2 মিনিট বিরতি: 20 km-এ 26 মিনিট। 570 মিনিটে: 21টি পূর্ণ চক্র = 546 মিনিট = 420 km, তারপর আরও 24 মিনিটে 20 km। মোট 440 km।",
+   "answer": "C",
+   "formula_ids": [
+    "speed"
+   ]
+  },
+  "1-8": {
+   "en": "Integers from −5 to 4. The most negative product uses three negatives and one positive: (−5)(−4)(−3)(4) = −240. One negative with three positives only gives −120.",
+   "bn": "−5 থেকে 4 পর্যন্ত integer। সবচেয়ে ঋণাত্মক গুণফল আসে তিনটি ঋণাত্মক ও একটি ধনাত্মক নিলে: (−5)(−4)(−3)(4) = −240। একটি ঋণাত্মক ও তিনটি ধনাত্মক নিলে সর্বোচ্চ −120।",
+   "answer": "B",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "1-9": {
+   "en": "Rank = ⌊n/6⌋ and badge = ⌊n/9⌋. Equal at 0 for n = 1 to 5 (5 values) and at 1 for n = 9 to 11 (3 values); no more. Total 8.",
+   "bn": "Rank = ⌊n/6⌋ এবং badge = ⌊n/9⌋। 0-তে সমান n = 1 থেকে 5 (5টি মান) এবং 1-এ সমান n = 9 থেকে 11 (3টি মান); আর নয়। মোট 8।",
+   "answer": "A",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "1-10": {
+   "en": "First digit 4. The digit 1 can take any of 3 positions. The other two positions use different digits from {0, 2, 3, 5, 6, 7, 8, 9}: 8 × 7 = 56. Total = 3 × 56 = 168.",
+   "bn": "প্রথম অঙ্ক 4। অঙ্ক 1 তিনটি position-এর যেকোনোটিতে বসতে পারে। বাকি দুই position-এ {0, 2, 3, 5, 6, 7, 8, 9} থেকে আলাদা অঙ্ক: 8 × 7 = 56। মোট = 3 × 56 = 168।",
+   "answer": "C",
+   "formula_ids": [
+    "combinatorics"
+   ]
+  },
+  "1-11": {
+   "en": "Asif: 40% in 10 days ⇒ 4% per day. Baset: 60% in 12 days ⇒ 5% per day. Together 8 days = 72%, so Chopol does 28% in 7 days = 4% per day. All three: 13% per day, so 52% takes 4 days.",
+   "bn": "Asif: 10 দিনে 40% ⇒ দিনে 4%। Baset: 12 দিনে 60% ⇒ দিনে 5%। 8 দিন একসাথে = 72%, তাই Chopol 7 দিনে 28% = দিনে 4%। তিনজন একসাথে: দিনে 13%, তাই 52% লাগে 4 দিন।",
+   "answer": "D",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "1-12": {
+   "en": "Milon misses half his shots, so 27 misses means 54 shots and 27 hits. Hamim takes 5/3 as many shots = 90, and hits 1/3 of them = 30. Total hits = 27 + 30 = 57.",
+   "bn": "Milon তার অর্ধেক shot মিস করে, তাই 27টি মিস মানে 54টি shot এবং 27টি hit। Hamim shot করে 5/3 গুণ = 90টি এবং তার 1/3 = 30টি hit। মোট hit = 27 + 30 = 57।",
+   "answer": "B",
+   "formula_ids": [
+    "probability",
+    "ratio"
+   ],
+   "note": "Takes 'odds' of 1/3 and 1/2 as hit probabilities."
+  },
+  "1-13": {
+   "en": "Let P = x. Then Q = x + 2x = 3x and R = x + 3x = 4x. Town at 15: |3x − 15| = 2|x − 15| ⇒ 3x − 15 = −2(x − 15) ⇒ x = 9 (the other sign gives x < 0). R = 4x = 36.",
+   "bn": "P = x ধরি। তখন Q = x + 2x = 3x এবং R = x + 3x = 4x। শহর 15-এ: |3x − 15| = 2|x − 15| ⇒ 3x − 15 = −2(x − 15) ⇒ x = 9 (অন্য চিহ্নে x < 0)। R = 4x = 36।",
+   "answer": "C",
+   "formula_ids": [
+    "algebra",
+    "abs-ineq"
+   ]
+  },
+  "1-14": {
+   "en": "Total with walkway = (40 + 2w)(25 + 2w) = 1000 + 568 + 16 (the unpaved flowerbed) = 1584 ⇒ 4w² + 130w − 584 = 0 ⇒ 2w² + 65w − 292 = 0 ⇒ w = 4.",
+   "bn": "walkway সহ মোট = (40 + 2w)(25 + 2w) = 1000 + 568 + 16 (অপাকা flowerbed) = 1584 ⇒ 4w² + 130w − 584 = 0 ⇒ 2w² + 65w − 292 = 0 ⇒ w = 4।",
+   "answer": "B",
+   "formula_ids": [
+    "geometry",
+    "algebra"
+   ]
+  },
+  "1-15": {
+   "en": "Alpha + Beta do 2/3 in 80 min ⇒ 1/120 per min. Beta alone does 1/3 in 50 min ⇒ 1/150 per min. Alpha = 1/120 − 1/150 = 1/600 per min, so alone it takes 600 min = 10 hours.",
+   "bn": "Alpha + Beta 80 মিনিটে 2/3 করে ⇒ মিনিটে 1/120। Beta একা 50 মিনিটে 1/3 করে ⇒ মিনিটে 1/150। Alpha = 1/120 − 1/150 = মিনিটে 1/600, তাই একা লাগে 600 মিনিট = 10 ঘণ্টা।",
+   "answer": "C",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "1-16": {
+   "en": "xy = x(2x + 3) < 0 means x lies between the roots 0 and −3/2: −3/2 < x < 0.",
+   "bn": "xy = x(2x + 3) < 0 মানে x মূল দুটি 0 ও −3/2-এর মাঝে: −3/2 < x < 0।",
+   "answer": "C",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "1-17": {
+   "en": "Union = 60 − 12 = 48 = 32 + E − both ⇒ both = E − 16. With E < 35, E ≤ 34, so both ≤ 18 (and both ≥ 0). So 17 and 18 are possible, 19 is not.",
+   "bn": "Union = 60 − 12 = 48 = 32 + E − both ⇒ both = E − 16। E < 35 হওয়ায় E ≤ 34, তাই both ≤ 18 (এবং both ≥ 0)। তাই 17 ও 18 সম্ভব, 19 নয়।",
+   "answer": "D",
+   "formula_ids": [
+    "sets"
+   ]
+  },
+  "1-18": {
+   "en": "Salt: 0.05 × 500 + 0.035y = 0.04(500 + y) ⇒ 25 + 0.035y = 20 + 0.04y ⇒ 0.005y = 5 ⇒ y = 1000 cc.",
+   "bn": "লবণ: 0.05 × 500 + 0.035y = 0.04(500 + y) ⇒ 25 + 0.035y = 20 + 0.04y ⇒ 0.005y = 5 ⇒ y = 1000 cc।",
+   "answer": "D",
+   "formula_ids": [
+    "mixture"
+   ]
+  },
+  "1-19": {
+   "en": "x consecutive integers starting at a: x(2a + x − 1)/2 = −11 ⇒ x(2a + x − 1) = −22, so x divides 22. x = 11 gives a = −6 (−6 to 4, contains 2); x = 22 gives a = −11 (−11 to 10, contains 2). x = 1 and x = 2 do not contain 2. So x = 11 or 22.",
+   "bn": "a থেকে শুরু করা x টি পরপর integer: x(2a + x − 1)/2 = −11 ⇒ x(2a + x − 1) = −22, তাই x, 22-এর উৎপাদক। x = 11 হলে a = −6 (−6 থেকে 4, যেখানে 2 আছে); x = 22 হলে a = −11 (−11 থেকে 10, যেখানে 2 আছে)। x = 1 ও x = 2-তে 2 থাকে না। তাই x = 11 বা 22।",
+   "answer": "E",
+   "formula_ids": [
+    "series",
+    "numprop"
+   ]
+  },
+  "1-20": {
+   "en": "Tk. 80 buys 8 candies, giving 8 shells → 4 more candies (4 shells) → 2 more (2 shells) → 1 more. Total = 8 + 4 + 2 + 1 = 15.",
+   "bn": "Tk. 80-তে 8টি candy, ফলে 8টি shell → আরও 4টি candy (4টি shell) → আরও 2টি (2টি shell) → আরও 1টি। মোট = 8 + 4 + 2 + 1 = 15।",
+   "answer": "D",
+   "formula_ids": [
+    "series"
+   ]
+  },
+  "1-21": {
+   "en": "x = (2 − √2)/(2 + √2) = (2 − √2)²/2 = (6 − 4√2)/2 = 3 − 2√2. So x − 3 = −2√2 and (x − 3)² = 8.",
+   "bn": "x = (2 − √2)/(2 + √2) = (2 − √2)²/2 = (6 − 4√2)/2 = 3 − 2√2। তাই x − 3 = −2√2 এবং (x − 3)² = 8।",
+   "answer": "C",
+   "formula_ids": [
+    "exponents",
+    "algebra"
+   ]
+  },
+  "1-22": {
+   "en": "Allowed codes = 4 × 4! = 96. With 9 second: the first digit is 5, 6 or 7 (3 ways) and the remaining 3 digits arrange in 3! = 6 ways: 18. P = 18/96 = 3/16.",
+   "bn": "অনুমোদিত code = 4 × 4! = 96। দ্বিতীয় অঙ্ক 9 হলে প্রথম অঙ্ক 5, 6 বা 7 (3 উপায়) এবং বাকি 3 অঙ্ক 3! = 6 উপায়ে সাজানো যায়: 18। P = 18/96 = 3/16।",
+   "answer": "B",
+   "formula_ids": [
+    "probability",
+    "combinatorics"
+   ]
+  },
+  "1-23": {
+   "en": "25^7.5 = 5^15; 125^1.5 = 5^4.5. So 5^15 × 5^2.5 / 5^4.5 = 5^13, giving x = 13.",
+   "bn": "25^7.5 = 5^15; 125^1.5 = 5^4.5। তাই 5^15 × 5^2.5 / 5^4.5 = 5^13, অর্থাৎ x = 13।",
+   "answer": "C",
+   "formula_ids": [
+    "exponents"
+   ]
+  },
+  "1-24": {
+   "en": "P(at least one defective) = 1 − P(both good) = 1 − (3/5)(2/4) = 1 − 3/10 = 7/10.",
+   "bn": "P(অন্তত একটি ত্রুটিযুক্ত) = 1 − P(দুটিই ভালো) = 1 − (3/5)(2/4) = 1 − 3/10 = 7/10।",
+   "answer": "D",
+   "formula_ids": [
+    "probability"
+   ]
+  },
+  "1-25": {
+   "en": "The lines meet at (0, 0), (4, 0) and (2, 6). Base 4, height 6: area = ½ × 4 × 6 = 12.",
+   "bn": "রেখাগুলো (0, 0), (4, 0) ও (2, 6)-এ মিলিত হয়। ভূমি 4, উচ্চতা 6: ক্ষেত্রফল = ½ × 4 × 6 = 12।",
+   "answer": "C",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "2-26": {
+   "en": "Rules: Ghalib at 9 or 10:30; Pervaiz right after Ghalib or Naveed; Mohsin < Naveed < Fahid; Junaid exactly 1 hour (two slots) after Tanveer. Option A breaks 'Naveed before Mohsin'. C has Ghalib at 9:30. D has Pervaiz not after Ghalib or Naveed. E has Mohsin after Naveed. Only B (Ghalib, Pervaiz, Tanveer, Mohsin, Junaid, Naveed, Fahid) satisfies all.",
+   "bn": "নিয়ম: Ghalib 9 বা 10:30-এ; Pervaiz ঠিক Ghalib বা Naveed-এর পরে; Mohsin < Naveed < Fahid; Junaid, Tanveer-এর ঠিক 1 ঘণ্টা (দুটি slot) পরে। A-তে Naveed, Mohsin-এর আগে। C-তে Ghalib 9:30-এ। D-তে Pervaiz, Ghalib বা Naveed-এর ঠিক পরে নয়। E-তে Mohsin, Naveed-এর পরে। শুধু B (Ghalib, Pervaiz, Tanveer, Mohsin, Junaid, Naveed, Fahid) সব নিয়ম মানে।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-27": {
+   "en": "Enumerating all valid schedules, the 9 a.m. interview can be Mohsin, Ghalib or Tanveer. Of the options, only Mohsin.",
+   "bn": "সব বৈধ schedule যাচাই করলে 9 a.m. interview হতে পারে Mohsin, Ghalib বা Tanveer। Option-গুলোর মধ্যে শুধু Mohsin।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-28": {
+   "en": "Naveed at 9:30 means Mohsin is at 9. Pervaiz follows Naveed (10), so Ghalib must be at 10:30, and the only valid schedule is Mohsin, Naveed, Pervaiz, Ghalib, Tanveer, Fahid, Junaid. Tanveer is at 11 a.m.",
+   "bn": "Naveed 9:30-এ হলে Mohsin 9-এ। Pervaiz, Naveed-এর পরে (10), তাই Ghalib 10:30-এ, এবং একমাত্র বৈধ schedule: Mohsin, Naveed, Pervaiz, Ghalib, Tanveer, Fahid, Junaid। 11 a.m.-এ Tanveer।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-29": {
+   "en": "As printed, 'Mohsin right after Pervaiz and Pervaiz right after Naveed' contradicts 'Mohsin before Naveed'. Taking it as Mohsin right after Pervaiz (with Ghalib first), the valid schedules put Junaid 150 or 180 minutes after Ghalib; the key is 3 hours.",
+   "bn": "ছাপা অনুযায়ী 'Mohsin, Pervaiz-এর ঠিক পরে এবং Pervaiz, Naveed-এর ঠিক পরে' শর্তটি 'Mohsin, Naveed-এর আগে'-র সাথে বিরোধী। Mohsin, Pervaiz-এর ঠিক পরে (এবং Ghalib প্রথমে) ধরলে বৈধ schedule-এ Junaid, Ghalib-এর 150 বা 180 মিনিট পরে; key 3 ঘণ্টা।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ],
+   "note": "The premise is contradictory as printed (Mohsin must be before Naveed). Reading it as 'Mohsin right after Pervaiz', Junaid follows Ghalib by 150 or 180 minutes; the key is E."
+  },
+  "2-30": {
+   "en": "Tanveer at 9 means Junaid at 10; in both valid schedules Fahid is last, at 12:00 noon.",
+   "bn": "Tanveer 9-এ হলে Junaid 10-এ; দুটি বৈধ schedule-এই Fahid শেষে, 12:00 noon-এ।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-31": {
+   "en": "Working through the clues, the couples are: Chowdhury (Ashish and Binty, Data Analyst, taxi 4, Bailey Road), Haque (Joynal and Rupa, Banker, taxi 2, Mirpur), Islam (Tanvir and Nadira, Architect, taxi 5, Elephant Road), Rahman (Rakib and Keka, Civil Engineer, taxi 3, Dhanmondi) and Ahmed (Hasan and Liza, Teacher, taxi 1, Green Road). Mr Rahman's wife is Keka.",
+   "bn": "সূত্রগুলো মেলালে দম্পতিরা: Chowdhury (Ashish ও Binty, Data Analyst, taxi 4, Bailey Road), Haque (Joynal ও Rupa, Banker, taxi 2, Mirpur), Islam (Tanvir ও Nadira, Architect, taxi 5, Elephant Road), Rahman (Rakib ও Keka, Civil Engineer, taxi 3, Dhanmondi) এবং Ahmed (Hasan ও Liza, Teacher, taxi 1, Green Road)। Mr Rahman-এর স্ত্রী Keka।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-32": {
+   "en": "Taxi 2 is the Banker Joynal (Haque couple, Mirpur), who leaves right after the teacher.",
+   "bn": "Taxi 2 হলো Banker Joynal (Haque দম্পতি, Mirpur), যিনি teacher-এর ঠিক পরে ছাড়েন।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-33": {
+   "en": "Liza (Ahmed) takes taxi 1 to Green Road. Her husband Hasan is the teacher.",
+   "bn": "Liza (Ahmed) taxi 1-এ Green Road-এ যান। তার স্বামী Hasan teacher।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-34": {
+   "en": "Nadira (Islam) goes to Elephant Road in taxi 5, and her husband, Mr Islam the Architect, is Tanvir.",
+   "bn": "Nadira (Islam) taxi 5-এ Elephant Road-এ যান, এবং তার স্বামী Mr Islam, Architect, হলেন Tanvir।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-35": {
+   "en": "Bailey Road is taxi 4, which carries Binty (Chowdhury, Data Analyst). Binty is not among the options, so None of these.",
+   "bn": "Bailey Road হলো taxi 4, যেখানে Binty (Chowdhury, Data Analyst)। Binty option-এ নেই, তাই None of these।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-36": {
+   "en": "The psychologist concludes that fulfilment is possible only in low-stress workplaces, from the premise that minds do not function optimally in high-pressure ones. That needs the unstated step that no one can feel fulfilled where their mind cannot function optimally.",
+   "bn": "Psychologist উচ্চ-চাপের পরিবেশে মন সর্বোত্তমভাবে কাজ করে না এই premise থেকে সিদ্ধান্ত নেন যে পরিতৃপ্তি শুধু কম-চাপের কর্মক্ষেত্রেই সম্ভব। এর জন্য অনুক্ত ধাপ লাগে: যেখানে মন সর্বোত্তমভাবে কাজ করতে পারে না সেখানে কেউ পরিতৃপ্ত অনুভব করতে পারে না।",
+   "answer": "B",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "2-37": {
+   "en": "Pattern: 'X happens only if P or Q; not Q; so P'. In A: graduating early only if honors or approval; Sharika did not take honors; so she must have approval. D and E use different structures (affirming a disjunct or reversing the logic).",
+   "bn": "কাঠামো: 'X হয় কেবল P বা Q হলে; Q নয়; তাই P'। A-তে: আগে graduate করা যায় কেবল honors বা অনুমোদন থাকলে; Sharika honors নেয়নি; তাই তার অনুমোদন আছে। D ও E-তে ভিন্ন কাঠামো (এক disjunct নিশ্চিত করা বা যুক্তি উল্টে দেওয়া)।",
+   "answer": "A",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "2-38": {
+   "en": "The threshold stayed at $120 even though algae costs fell. That is explained if petroleum-based plastic factories also became more efficient, so the break-even oil price did not move.",
+   "bn": "algae-র খরচ কমলেও threshold $120-ই আছে। এটি ব্যাখ্যা হয় যদি petroleum-ভিত্তিক plastic কারখানাও আরও দক্ষ হয়ে থাকে, ফলে break-even তেলের দাম নড়েনি।",
+   "answer": "C",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "3-39": {
+   "en": "'Endorsement' means approval or support, or a signature on a cheque. (ii) 'ringing endorsement' and (iii) 'endorsement of the cheque' are correct. (i) is wrong: a 'generous endorsement' cannot be used to rebuild a library (it should be 'donation').",
+   "bn": "'Endorsement' মানে অনুমোদন বা সমর্থন, অথবা চেকের পিছনে স্বাক্ষর। (ii) 'ringing endorsement' ও (iii) 'endorsement of the cheque' শুদ্ধ। (i) ভুল: 'generous endorsement' দিয়ে library পুনর্নির্মাণ করা যায় না (হবে 'donation')।",
+   "answer": "E",
+   "rule_ids": [
+    "word-form",
+    "confusable"
+   ]
+  },
+  "3-40": {
+   "en": "'Blatant' means obvious and shameless. (i) is correct. In (ii) 'blatant questions about the weather' is wrong; in (iii) 'not lacking in subtlety but … blatant' contradicts itself. So ii and iii are incorrect.",
+   "bn": "'Blatant' মানে স্পষ্ট ও নির্লজ্জ। (i) শুদ্ধ। (ii)-এ 'blatant questions about the weather' ভুল; (iii)-এ 'not lacking in subtlety but … blatant' নিজেই বিরোধী। তাই ii ও iii ভুল।",
+   "answer": "C",
+   "rule_ids": [
+    "word-form",
+    "confusable"
+   ]
+  },
+  "4-1": {
+   "en": "Approach (argument): 'The right to privacy is more important than public safety and surveillance'. Choose a side (a balanced 'agree, with limits' is safest). Point 1: privacy protects freedom, dignity and trust. Point 2: unchecked surveillance can be abused and chills speech. Point 3 (counter): safety needs some monitoring (crime, terrorism). Point 4: the answer lies in limits (law, oversight, proportionality, transparency). Conclusion: safety measures must be necessary and proportionate.\nUseful phrases: 'civil liberties', 'proportionality', 'oversight'.",
+   "bn": "পদ্ধতি (argument): 'গোপনীয়তার অধিকার জননিরাপত্তা ও নজরদারির চেয়ে বেশি গুরুত্বপূর্ণ'। একটি পক্ষ নিন (সীমাসহ 'একমত' সবচেয়ে নিরাপদ)। Point 1: গোপনীয়তা স্বাধীনতা, মর্যাদা ও আস্থা রক্ষা করে। Point 2: অনিয়ন্ত্রিত নজরদারির অপব্যবহার হতে পারে এবং মতপ্রকাশ সংকুচিত করে। Point 3 (বিপক্ষ): নিরাপত্তার জন্য কিছু পর্যবেক্ষণ দরকার (অপরাধ, সন্ত্রাস)। Point 4: সমাধান সীমায় (আইন, তদারকি, আনুপাতিকতা, স্বচ্ছতা)। উপসংহার: নিরাপত্তা-ব্যবস্থা প্রয়োজনীয় ও আনুপাতিক হতে হবে।\nকাজের phrase: 'civil liberties', 'proportionality', 'oversight'।",
+   "rule_ids": [
+    "essay"
+   ]
+  },
+  "4-2": {
+   "en": "Approach (explain a quotation): 'Contentment is natural wealth; luxury is artificial poverty.' Paragraph 1: restate: being satisfied with what you have is real richness; chasing luxury creates constant want. Paragraph 2: contentment (peace of mind, gratitude, health). Paragraph 3: how luxury breeds poverty (debt, comparison, never enough). Paragraph 4: a balanced view (progress and comfort are fine, but not as the measure of happiness). Conclusion: wealth is a state of mind.\nUseful phrases: 'inner peace', 'material craving', 'live within one's means'.",
+   "bn": "পদ্ধতি (উক্তি ব্যাখ্যা): 'সন্তুষ্টি স্বাভাবিক সম্পদ; বিলাসিতা কৃত্রিম দারিদ্র্য।' Paragraph 1: নিজের ভাষায় বলুন: যা আছে তাতে তুষ্ট থাকাই প্রকৃত ধনী হওয়া; বিলাসিতার পিছনে ছুটলে অভাববোধ থেকেই যায়। Paragraph 2: সন্তুষ্টি (মনের শান্তি, কৃতজ্ঞতা, স্বাস্থ্য)। Paragraph 3: বিলাসিতা কীভাবে দারিদ্র্য আনে (ঋণ, তুলনা, কখনো যথেষ্ট না হওয়া)। Paragraph 4: ভারসাম্যপূর্ণ দৃষ্টিভঙ্গি (উন্নতি ও স্বাচ্ছন্দ্য ভালো, কিন্তু সুখের মাপকাঠি নয়)। উপসংহার: সম্পদ একটি মানসিক অবস্থা।\nকাজের phrase: 'inner peace', 'material craving', 'live within one's means'।",
+   "rule_ids": [
+    "essay"
+   ]
+  }
+ }
+}

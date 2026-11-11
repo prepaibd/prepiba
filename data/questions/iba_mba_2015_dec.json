@@ -1,0 +1,2443 @@
+{
+  "exam": {
+    "institute": "IBA (DU)",
+    "program": "MBA",
+    "session": "Dec 2015",
+    "source_pdf": "iba_mba_dec_2015.pdf",
+    "parts_marks": {
+      "mcq": 75,
+      "writing": 25
+    }
+  },
+  "parts": [
+    {
+      "part_label": "Part I: Multiple Choice Questions [75 marks]",
+      "sections": [
+        {
+          "section_no": 1,
+          "source_section_label": "Section 1: Language and Communication",
+          "subject": "language",
+          "groups": [
+            {
+              "source_group_label": "Questions 1 to 4:",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "sentence-correction",
+                  "stem": "1. We have been having this discussion over and over again, but all in vain. We are",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "through"
+                    },
+                    {
+                      "label": "B",
+                      "text": "done with"
+                    },
+                    {
+                      "label": "C",
+                      "text": "at an impasse"
+                    },
+                    {
+                      "label": "D",
+                      "text": "at last straw"
+                    },
+                    {
+                      "label": "E",
+                      "text": "repetitive"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Repeated fruitless discussion means they are stuck — \"at an impasse\" (a deadlock). The others do not convey being unable to progress.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "sentence-correction",
+                  "stem": "2. Though he is very inefficient at his work, he knows well how to take credit for work done by others. He always",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "steals others' work"
+                    },
+                    {
+                      "label": "B",
+                      "text": "deceives others"
+                    },
+                    {
+                      "label": "C",
+                      "text": "keeps others at bay"
+                    },
+                    {
+                      "label": "D",
+                      "text": "steals others' thunder"
+                    },
+                    {
+                      "label": "E",
+                      "text": "clouds others' work"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Taking credit for others' achievements is the idiom \"steal someone's thunder\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "sentence-correction",
+                  "stem": "3. The new administrator seemed quite preoccupied during the management meeting. I wonder what's on her mind! I would",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "rather keep something at bay"
+                    },
+                    {
+                      "label": "B",
+                      "text": "expect a weighted word"
+                    },
+                    {
+                      "label": "C",
+                      "text": "have an open mind"
+                    },
+                    {
+                      "label": "D",
+                      "text": "like to see actions speaking louder than words"
+                    },
+                    {
+                      "label": "E",
+                      "text": "give a penny for her thought"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The administrator seemed preoccupied and the speaker wonders what is on her mind: the idiom \"give a penny for her thoughts\" (I would give a penny to know what she is thinking) fits (E). The other options (keep at bay, weighted word, open mind, actions speaking louder than words) do not express curiosity about someone's thoughts. (The page image shows five options; the earlier extraction had lost option E and truncated D.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "sentence-correction",
+                  "stem": "4. He would always try to copy what others are commonly doing and follow popular trends. He would:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "jump on the bandwagon"
+                    },
+                    {
+                      "label": "B",
+                      "text": "jump on the show"
+                    },
+                    {
+                      "label": "C",
+                      "text": "hear it on the grapevine"
+                    },
+                    {
+                      "label": "D",
+                      "text": "give in to others"
+                    },
+                    {
+                      "label": "E",
+                      "text": "steal the show"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Following what is popular is \"jumping on the bandwagon\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 5-8:",
+              "instruction": "The underlined part of the given sentence may contain error. Select the choice that best replaces the underlined part keeping the original meaning intact. If you think that the original sentence is the best choice, select (A).",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 5,
+                  "question_type": "sentence-correction",
+                  "stem": "5. Because of his groundbreaking research and findings in the field of education, Roberto Teriyaki has been known as one of the greatest educationists of recent times.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "has been known as one"
+                    },
+                    {
+                      "label": "B",
+                      "text": "had been known as one"
+                    },
+                    {
+                      "label": "C",
+                      "text": "is seen as one"
+                    },
+                    {
+                      "label": "D",
+                      "text": "has been seen as one"
+                    },
+                    {
+                      "label": "E",
+                      "text": "has been one"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The present perfect \"has been known as one\" correctly expresses an ongoing reputation; the original is best.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 6,
+                  "question_type": "sentence-correction",
+                  "stem": "6. Having been rejected several times, she got totally demoralized.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Having been rejected"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Having being rejected"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Being faced rejection"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Having been facing rejection"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Had been rejected"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Having been rejected\" is the correct past-participial form; the original is best.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "sentence-correction",
+                  "stem": "7. To apply for a sick leave at his office, a doctor must provide proof.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "A doctor must provide proof"
+                    },
+                    {
+                      "label": "B",
+                      "text": "The doctor must provide proof"
+                    },
+                    {
+                      "label": "C",
+                      "text": "A doctor must provide evidence"
+                    },
+                    {
+                      "label": "D",
+                      "text": "The evidence should come from a doctor"
+                    },
+                    {
+                      "label": "E",
+                      "text": "He has to provide proof from a doctor"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The person applying for sick leave is the employee, not the doctor, so the dangling modifier must resolve to \"he\": \"He has to provide proof from a doctor\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 8,
+                  "question_type": "sentence-correction",
+                  "stem": "8. Though he had three other members in the group, none were capable of pulling off the work without him.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "none were capable of pulling off the work"
+                    },
+                    {
+                      "label": "B",
+                      "text": "none had been capable of pulling off the work"
+                    },
+                    {
+                      "label": "C",
+                      "text": "none have been capable to complete the work"
+                    },
+                    {
+                      "label": "D",
+                      "text": "none was capable of pulling off the work"
+                    },
+                    {
+                      "label": "E",
+                      "text": "none was capable of pulling of the work"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"None\" takes a singular verb here (\"none was\"), and \"pulling off\" (idiom = to accomplish) is correct. D fixes the verb agreement.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 9-16:",
+              "instruction": "Choose the most appropriate word(s)/ phrase to fill in the blank in the given sentence.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 9,
+                  "question_type": "fill-blank",
+                  "stem": "9. Despite his injuries he decided to play in the final ____ to the surprise of everyone.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "and much"
+                    },
+                    {
+                      "label": "B",
+                      "text": "and"
+                    },
+                    {
+                      "label": "C",
+                      "text": "much"
+                    },
+                    {
+                      "label": "D",
+                      "text": "resulting"
+                    },
+                    {
+                      "label": "E",
+                      "text": "more"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The idiom is \"much to the surprise of everyone\", so \"much\" fills the blank.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 10,
+                  "question_type": "fill-blank",
+                  "stem": "10. Cry ____, but nobody will come to your rescue.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "for your heart's content"
+                    },
+                    {
+                      "label": "B",
+                      "text": "as much as your heart can"
+                    },
+                    {
+                      "label": "C",
+                      "text": "so much as you can"
+                    },
+                    {
+                      "label": "D",
+                      "text": "as your heart wants"
+                    },
+                    {
+                      "label": "E",
+                      "text": "to your heart's content"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The set phrase is \"to your heart's content\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 11,
+                  "question_type": "fill-blank",
+                  "stem": "11. The researchers ____ asked to find out how the merger ____ influence shareholders and affect the overall industry.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "were; would"
+                    },
+                    {
+                      "label": "B",
+                      "text": "had been; can"
+                    },
+                    {
+                      "label": "C",
+                      "text": "were; can"
+                    },
+                    {
+                      "label": "D",
+                      "text": "had been; could"
+                    },
+                    {
+                      "label": "E",
+                      "text": "were; will"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Simple past passive \"were asked\" with the future-in-the-past \"would influence\" is consistent: A.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 12,
+                  "question_type": "fill-blank",
+                  "stem": "12. In their family they respect their ____ and pay ____ to their words.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "elders; heed"
+                    },
+                    {
+                      "label": "B",
+                      "text": "elderly; gesture"
+                    },
+                    {
+                      "label": "C",
+                      "text": "older; regard"
+                    },
+                    {
+                      "label": "D",
+                      "text": "elder; solemnity"
+                    },
+                    {
+                      "label": "E",
+                      "text": "elderly; extol"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Respect their elders\" and \"pay heed to their words\" are the idiomatic collocations.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 13,
+                  "question_type": "fill-blank",
+                  "stem": "13. When our charismatic leader passed away, the whole nation was ____ with grief.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "stricken"
+                    },
+                    {
+                      "label": "B",
+                      "text": "struck"
+                    },
+                    {
+                      "label": "C",
+                      "text": "felt"
+                    },
+                    {
+                      "label": "D",
+                      "text": "mourning"
+                    },
+                    {
+                      "label": "E",
+                      "text": "shrouded"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The collocation is \"stricken with grief\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 14,
+                  "question_type": "fill-blank",
+                  "stem": "14. Most villagers left their homelands ____ greater ____.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "in search of; economical opportunities"
+                    },
+                    {
+                      "label": "B",
+                      "text": "searching for; economical opportunities"
+                    },
+                    {
+                      "label": "C",
+                      "text": "searching for; economic opportunities"
+                    },
+                    {
+                      "label": "D",
+                      "text": "in search of; economics opportunities"
+                    },
+                    {
+                      "label": "E",
+                      "text": "in search for; economic opportunities"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The correct adjective is \"economic\" (not \"economical\"/\"economics\"). \"Searching for greater economic opportunities\" is correct: C.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 15,
+                  "question_type": "fill-blank",
+                  "stem": "15. ____ in the crowd, the poor child began to cry.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Bewildering"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Having been bewildered"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Having bewildered"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Standing bewildered"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Being bewildering"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "The child is the one bewildered, so a passive/participial describing the child fits: \"Standing bewildered in the crowd\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 16,
+                  "question_type": "fill-blank",
+                  "stem": "16. The government will offer cash incentives on exports ____ non traditional items to encourage export diversification.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "with"
+                    },
+                    {
+                      "label": "B",
+                      "text": "of"
+                    },
+                    {
+                      "label": "C",
+                      "text": "for"
+                    },
+                    {
+                      "label": "D",
+                      "text": "by"
+                    },
+                    {
+                      "label": "E",
+                      "text": "from"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"Exports of non-traditional items\" takes the preposition \"of\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 17-20:",
+              "instruction": "Underlined parts of the following sentences may contain error(s) in grammar, diction, usage or idiom. Choose the underlined portion that contains such error. If there is no error select(E).",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 17,
+                  "question_type": "error-identification",
+                  "stem": "17. Hearing (A) the tales of his bravery (B), I was (C) really awed and impressed (D). No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Hearing"
+                    },
+                    {
+                      "label": "B",
+                      "text": "the tales of his bravery"
+                    },
+                    {
+                      "label": "C",
+                      "text": "I was"
+                    },
+                    {
+                      "label": "D",
+                      "text": "awed and impressed"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "\"Hearing the tales of his bravery, I was really happy\" is grammatically correct, so there is no error.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 18,
+                  "question_type": "error-identification",
+                  "stem": "18. Her mother did not approve of (A) her habit of (B) making fun of (C) everything and chaos creation (D). No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "approve of"
+                    },
+                    {
+                      "label": "B",
+                      "text": "her habit of"
+                    },
+                    {
+                      "label": "C",
+                      "text": "making fun of"
+                    },
+                    {
+                      "label": "D",
+                      "text": "chaos creation"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "(D) breaks parallelism: it should be \"creating chaos\" to match \"making fun of\", not the noun phrase \"chaos creation\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 19,
+                  "question_type": "error-identification",
+                  "stem": "19. Everybody heartily congratulated (A) Wasfia because of her success (B), which was totally (C) a result of her (D) hard work and commitment. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "heartily congratulated"
+                    },
+                    {
+                      "label": "B",
+                      "text": "because of her success"
+                    },
+                    {
+                      "label": "C",
+                      "text": "which was totally"
+                    },
+                    {
+                      "label": "D",
+                      "text": "a result of her"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The verb \"congratulate\" takes \"on\" (congratulated Wasfia on her success); \"because of her success\" (B) is the unidiomatic part, so the error is in (B).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 20,
+                  "question_type": "error-identification",
+                  "stem": "20. Be who you are (A) and say what you feel (B), because those who (C) mind don't matter, and those which matter (D) don't mind. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Be who you are"
+                    },
+                    {
+                      "label": "B",
+                      "text": "say what you feel"
+                    },
+                    {
+                      "label": "C",
+                      "text": "those who"
+                    },
+                    {
+                      "label": "D",
+                      "text": "those which matter"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "People take \"who\", not \"which\"; (D) should be \"those who matter\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 21-25:",
+              "instruction": "Answer the questions based on the following article.",
+              "stimulus": {
+                "passage": "Bruno panicked. There was nothing he could do. He was trapped - trapped with hundreds of others. The monster had come and was slowly and surely dragging them from the deep. He swam through the excited crowd to try the bottom. Then he tried the top again. The great monster had encircled them completely. There were millions of holes in its great hands, but none large enough. If only they were a little larger. Bruno tried to push himself through one of the holes again. He squeezed and squeezed. Great tails lashed around him. If only his head could get through. He pushed again, hard, and the pain quivered through his body. There was nothing he could do. He heard the boats roaring above now. That meant they were nearing the shore. Bruno whipped his tail in fury. The monster was gradually closing its hands. There were cries now above the surface. Below, the monster grated on sand. The shore! They had reached the shore! Frantically, Bruno flung himself against one of the tiny holes. He gave a cry as the scales tore from his back - then a cry of joy. He was free! free! He lunged forward below the surface. Down he sped, rejoicing in his tininess. If he was only a little bigger, he would have been dying on the shore now. The fateful shore!",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 21,
+                  "question_type": "reading-comp",
+                  "stem": "21. Why does the author repeat 'squeezed' in line 5?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "to show that Bruno was good at squeezing"
+                    },
+                    {
+                      "label": "B",
+                      "text": "to show that everybody was squeezing"
+                    },
+                    {
+                      "label": "C",
+                      "text": "to show that Bruno was trying repeatedly"
+                    },
+                    {
+                      "label": "D",
+                      "text": "to show that Bruno was too big"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The repetition \"squeezed and squeezed\" emphasises Bruno's repeated, strenuous attempts to get through.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 22,
+                  "question_type": "reading-comp",
+                  "stem": "22. The \"pain\" mentioned in line 6 resulted from:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "depression and frustration"
+                    },
+                    {
+                      "label": "B",
+                      "text": "enormous effort to escape"
+                    },
+                    {
+                      "label": "C",
+                      "text": "attack by the monster"
+                    },
+                    {
+                      "label": "D",
+                      "text": "lashing of tails"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The pain quivered through his body after he \"pushed again, hard\" — it came from his strenuous effort to escape.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 23,
+                  "question_type": "reading-comp",
+                  "stem": "23. The monster was gradually \"closing its hands\" means:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "It was tightening its fist."
+                    },
+                    {
+                      "label": "B",
+                      "text": "It was now brushing them with its hands."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Its hands were getting powerful as they were moving towards the surface."
+                    },
+                    {
+                      "label": "D",
+                      "text": "The space inside was contracting as it was moving up."
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Closing its hands\" means the net was tightening, i.e. closing its grip like a fist.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 24,
+                  "question_type": "reading-comp",
+                  "stem": "24. The first \"cry\" mentioned in line 11 was because of:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Joy"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Frustration"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Relief"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Physical pain"
+                    },
+                    {
+                      "label": "E",
+                      "text": "End of a sad and depressing session"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "The first cry came \"as the scales tore from his back\" — a cry of physical pain, followed by a cry of joy.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 25,
+                  "question_type": "reading-comp",
+                  "stem": "25. Which of the following set of words best describe what \"Bruno\" and the \"monster\" probably are:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "an animal and a trap"
+                    },
+                    {
+                      "label": "B",
+                      "text": "a sea animal and a giant"
+                    },
+                    {
+                      "label": "C",
+                      "text": "a small sea animal and a big sea animal"
+                    },
+                    {
+                      "label": "D",
+                      "text": "fish and a fishing net"
+                    },
+                    {
+                      "label": "E",
+                      "text": "not clear from the passage"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Bruno has scales and a tail, swims, and escapes through \"holes\" while boats roar above toward shore — he is a fish and the \"monster\" with holes in its hands is a fishing net.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 26-28",
+              "instruction": "Identify the sentence(s) that is/are showing the correct form of the given word.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 26,
+                  "question_type": "word-substitution",
+                  "stem": "26. MACHINE\ni. Is it our naivety to believe that the machinery of government could actually better people's lives?\nii. The diabolical trio managed to machinate a way to enter the impenetrable fortress.\niii. The typewriter has already become an archaic machine.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "i only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "both ii and iii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "ii only"
+                    },
+                    {
+                      "label": "D",
+                      "text": "both i and iii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "i, ii, iii"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "\"machinery\", \"machinate\" (to scheme) and \"machine\" are all correct forms used correctly, so all three are right.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 27,
+                  "question_type": "word-substitution",
+                  "stem": "27. MILL\ni. If I were you, I would be very careful about what I share with her as she is a known rumour mill!\nii. The mills came about as industrialization made it possible for machines to produce on a mass scale\niii. This machine milled wheat into flour back in the days when the factory was still operational.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "i only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "both i & ii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "both ii & iii"
+                    },
+                    {
+                      "label": "D",
+                      "text": "iii only"
+                    },
+                    {
+                      "label": "E",
+                      "text": "i, ii & iii"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "\"rumour mill\", \"mills\" (factories) and \"milled\" (ground) are all correct uses, so all three.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 28,
+                  "question_type": "word-substitution",
+                  "stem": "28. AGONY\ni. After the crash of MH170, the families waited in agony to hear the latest news on whether the plane had been found.\nii. A mother can not only watch with helpless misery when her child suffers unknown agonies and writhes in pain.\niii. It makes a committee ineffectual when the members agonyze over every single decision.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "both i & ii"
+                    },
+                    {
+                      "label": "B",
+                      "text": "both ii & iii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "both i & iii"
+                    },
+                    {
+                      "label": "D",
+                      "text": "i, ii & iii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "iii only"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"agony\" and \"agonies\" are correct; (iii) misspells the verb — it should be \"agonize\", not \"agonyze\". So i and ii.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 29-30",
+              "instruction": "Identify the option where the form the given word is not correct.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 29,
+                  "question_type": "word-substitution",
+                  "stem": "29. Human",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Humanly"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Inhuman"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Humane"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Inhumane"
+                    },
+                    {
+                      "label": "E",
+                      "text": "All are correct"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "\"Humanly\", \"Inhuman\", \"Humane\" and \"Inhumane\" are all valid word forms, so all are correct.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 30,
+                  "question_type": "word-substitution",
+                  "stem": "30. Rational",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Irrationalization"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Rationalize"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Rationalization"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Rationale"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Both A & D"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Q29-30 ask for the form that is NOT correct. For \"Rational\": rationalize (B), rationalization (C) and rationale (D, a genuine word) all exist; \"Irrationalization\" (A) is not a standard word. So the incorrect form is A (E would require \"rationale\" to be wrong as well, which it is not).",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 2,
+          "source_section_label": "Section 2: Mathematics",
+          "subject": "mathematics",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": "Solve each of the following problems and mark the correct answer on your Answer Sheet. DO NOT USE A CALCULATOR. Figures are not drawn to scale.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 31,
+                  "question_type": "problem-solving",
+                  "stem": "31. Working independently, x takes 12 hours to finish a certain work. He finishes $\\frac{2\\mathrm{rd}}{3}$ of the work. The rest is finished by y whose rate is $\\frac{1}{10}^{\\text{th}}$ of x. In how many hours does y finish the work?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "40"
+                    },
+                    {
+                      "label": "B",
+                      "text": "50"
+                    },
+                    {
+                      "label": "C",
+                      "text": "60"
+                    },
+                    {
+                      "label": "D",
+                      "text": "70"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "x's rate $=1/12$; y's rate $=1/120$. The remaining work is $1/3$, so y needs $\\frac{1/3}{1/120}=40$ hours.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 32,
+                  "question_type": "problem-solving",
+                  "stem": "32. In a box, there are 60 more black marbles than red marbles. If the number of red marbles is $40\\%$ of the total number of marbles, how many marbles are there in the box?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "270"
+                    },
+                    {
+                      "label": "B",
+                      "text": "280"
+                    },
+                    {
+                      "label": "C",
+                      "text": "300"
+                    },
+                    {
+                      "label": "D",
+                      "text": "360"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Red $=40\\%$, so black $=60\\%$, and the gap $20\\%$ of total $=60\\Rightarrow$ total $=300$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 33,
+                  "question_type": "problem-solving",
+                  "stem": "33. If m and n are non-zero integers and 390m = 150n, then mn must be divisible by",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "10"
+                    },
+                    {
+                      "label": "B",
+                      "text": "45"
+                    },
+                    {
+                      "label": "C",
+                      "text": "50"
+                    },
+                    {
+                      "label": "D",
+                      "text": "65"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$390m=150n\\Rightarrow13m=5n$, so $m=5k,n=13k$ and $mn=65k^2$, divisible by 65.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 34,
+                  "question_type": "problem-solving",
+                  "stem": "34. The salary of x and y Tk. 26000 and Tk. 5000 respectively. If their salaries were increased by Tk. m then the ratio of their salary would become 5:2. What is the value of m in Taka?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "3000"
+                    },
+                    {
+                      "label": "B",
+                      "text": "4500"
+                    },
+                    {
+                      "label": "C",
+                      "text": "6000"
+                    },
+                    {
+                      "label": "D",
+                      "text": "9000"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$\\frac{26000+m}{5000+m}=\\frac52\\Rightarrow2(26000+m)=5(5000+m)\\Rightarrow52000+2m=25000+5m\\Rightarrow m=9000$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 35,
+                  "question_type": "problem-solving",
+                  "stem": "35. What is the smallest positive integer n such that the product of  $1152 \\times n$  is perfect square?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "4"
+                    },
+                    {
+                      "label": "C",
+                      "text": "6"
+                    },
+                    {
+                      "label": "D",
+                      "text": "8"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "$1152=2^7\\cdot3^2$. To make all exponents even, multiply by $2$, giving $2^8\\cdot3^2$, a perfect square. So $n=2$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 36,
+                  "question_type": "problem-solving",
+                  "stem": "36. If n is an integer greater than 5, which of the following must be divisible by 4?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$n(n+1)(n-2)$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$(n+4)(n-2)$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$n(2n+4)(n-1)$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$(n+5)(n-2)$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$n(2n+4)(n-1)=2\\,n(n-1)(n+2)$. Since $n(n-1)$ is a product of two consecutive integers it is even, so the whole expression is divisible by $2\\times2=4$. The others can be odd for some $n$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 37,
+                  "question_type": "problem-solving",
+                  "stem": "37. On a track for remote-controlled racing cars, racing car A completes the track in 55 seconds, while racing car B completes it in 35 seconds. If they both start at the same time, after how many seconds will they be side by side again?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "275"
+                    },
+                    {
+                      "label": "B",
+                      "text": "325"
+                    },
+                    {
+                      "label": "C",
+                      "text": "385"
+                    },
+                    {
+                      "label": "D",
+                      "text": "425"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "They align again after LCM(55,35) $=5\\times7\\times11=385$ seconds.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 38,
+                  "question_type": "problem-solving",
+                  "stem": "38. If x and y are integers, & 7x - 4y = 20, which of the following could be the value of x?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "6"
+                    },
+                    {
+                      "label": "B",
+                      "text": "8"
+                    },
+                    {
+                      "label": "C",
+                      "text": "9"
+                    },
+                    {
+                      "label": "D",
+                      "text": "15"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Need $7x-20$ divisible by 4. For $x=8$: $7(8)-20=36$, $y=9$ (integer). So $x=8$ works.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 39,
+                  "question_type": "problem-solving",
+                  "stem": "39. In a class there are 15 students starting from roll number 1 to 15. If you randomly pick 2 students, what is the probability that roll number of both students will be odd?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{8}{15}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{3}{5}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{4}{15}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{2}{5}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Odd rolls: 8 of them. $P=\\frac{\\binom{8}{2}}{\\binom{15}{2}}=\\frac{28}{105}=\\frac{4}{15}$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 40,
+                  "question_type": "problem-solving",
+                  "stem": "41. In a group of 100 students, 45 play football and 38 play cricket. If 72 students play either football or cricket or both, then how many students play football but not cricket?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "34"
+                    },
+                    {
+                      "label": "B",
+                      "text": "36"
+                    },
+                    {
+                      "label": "C",
+                      "text": "38"
+                    },
+                    {
+                      "label": "D",
+                      "text": "42"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Both $=45+38-72=11$. Football only $=45-11=34$. (This item is misnumbered '41' in the source; it is question 40.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 41,
+                  "question_type": "problem-solving",
+                  "stem": "41. A box contains only marbles. If  $\\frac{1}{4}$  of the marbles were removed, the box would be filled to  $\\frac{1}{3}$  of its capacity. If instead 100 marbles were added, the box would be full. How many marbles are there in the box?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "80"
+                    },
+                    {
+                      "label": "B",
+                      "text": "110"
+                    },
+                    {
+                      "label": "C",
+                      "text": "140"
+                    },
+                    {
+                      "label": "D",
+                      "text": "170"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Let marbles $M$, capacity $C$. $\\frac34 M=\\frac13 C$ and $M+100=C$. From the first, $C=\\frac94 M$, so $M+100=\\frac94 M\\Rightarrow\\frac54 M=100\\Rightarrow M=80$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 42,
+                  "question_type": "problem-solving",
+                  "stem": "42. What is the square root of 114921?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "324"
+                    },
+                    {
+                      "label": "B",
+                      "text": "333"
+                    },
+                    {
+                      "label": "C",
+                      "text": "336"
+                    },
+                    {
+                      "label": "D",
+                      "text": "339"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$339^2=114921$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 43,
+                  "question_type": "problem-solving",
+                  "stem": "43. If $z = \\frac{x + y}{2xy}$ and $0 < y < x < 1$, which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$z < 0.5$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$z > 0.5$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$z < 1$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$z > 1$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$z=\\frac{x+y}{2xy}=\\frac{1}{2y}+\\frac{1}{2x}$. Since $x,y<1$, both $\\frac{1}{2x}>\\frac12$ and $\\frac{1}{2y}>\\frac12$, so $z>1$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 44,
+                  "question_type": "problem-solving",
+                  "stem": "44. When 117 chocolates are equally distributed among x number of students, you are left with (x - 9) chocolates. Which of the following could be a value of x?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "15"
+                    },
+                    {
+                      "label": "B",
+                      "text": "18"
+                    },
+                    {
+                      "label": "C",
+                      "text": "21"
+                    },
+                    {
+                      "label": "D",
+                      "text": "24"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "117 = xq + (x - 9) gives 126 = x(q + 1), so x divides 126 (and x > 9). Of the options 18 (q = 6, remainder 9) and 21 (q = 5, remainder 12) both work; 15 and 24 do not divide 126. The item has two valid options as printed; B (18, the first valid one) is given as the key.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 45,
+                  "question_type": "problem-solving",
+                  "stem": "45. Anis drove at an average speed of 20 km/hr for some time and then at an average speed of 60 km/hr for the rest of the journey. If his average speed for the entire trip was 30 km/hr, for what fraction of the total time did he drive at 20 km/hr?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{4}{5}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{3}{4}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{2}{3}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{1}{2}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$\\frac{20t_1+60t_2}{t_1+t_2}=30\\Rightarrow30t_2=10t_1\\Rightarrow t_1=3t_2$. Fraction at 20 km/hr $=\\frac{t_1}{t_1+t_2}=\\frac{3}{4}$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 46,
+                  "question_type": "problem-solving",
+                  "stem": "46. If $|x - y| + x = y$ which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$x = 0$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$x = -y$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$x = y$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$x \\leq y$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$|x-y|=y-x\\ge0$, which holds exactly when $y\\ge x$, i.e. $x\\le y$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 47,
+                  "question_type": "problem-solving",
+                  "stem": "47. If x and y are positive integers and  $x^{4}y^{5}=512$  which of the following is the value of xy?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "4"
+                    },
+                    {
+                      "label": "C",
+                      "text": "8"
+                    },
+                    {
+                      "label": "D",
+                      "text": "10"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$512=2^9$. Writing $x=2^a,y=2^b$: $4a+5b=9$ gives $a=b=1$, so $x=y=2$ and $xy=4$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 48,
+                  "question_type": "problem-solving",
+                  "stem": "48. If Arif walks at 14 km/hr instead of 10 km/hr for a certain time, he would have walked 20 km more. If Arif walks at a speed of 10 km/hr, the distance travelled by him within that is",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "50"
+                    },
+                    {
+                      "label": "B",
+                      "text": "55"
+                    },
+                    {
+                      "label": "C",
+                      "text": "60"
+                    },
+                    {
+                      "label": "D",
+                      "text": "65"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Same time $t$: $14t-10t=4t=20\\Rightarrow t=5$ h. At 10 km/hr, distance $=10\\times5=50$ km.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 49,
+                  "question_type": "problem-solving",
+                  "stem": "49. If x is an integer and (0.5)(.005)(.05)(.005) $10^{x}$ is an integer, what is the least possible value of x?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "8"
+                    },
+                    {
+                      "label": "B",
+                      "text": "9"
+                    },
+                    {
+                      "label": "C",
+                      "text": "10"
+                    },
+                    {
+                      "label": "D",
+                      "text": "11"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The product $=5^4\\times10^{-9}=625\\times10^{-9}$. Multiplying by $10^x$ is an integer when $x-9\\ge0$, so the least $x=9$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 50,
+                  "question_type": "problem-solving",
+                  "stem": "50. The cost of two articles is in the ratio 3:2. On sale of the first, there is a loss of 40% and on sale of the second, there is a gain of 30%. What is the overall percentage of loss?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "12%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "30%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "40%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "10%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Costs 300 and 200. SP $=0.6\\times300+1.3\\times200=180+260=440$ on CP 500. Loss $=60$, i.e. $60/500=12\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 51,
+                  "question_type": "problem-solving",
+                  "stem": "51. If  $y = 4^{10} + 4^{11} + 4^{12} + 4^{13}$ , then y is divisible by which number?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "12"
+                    },
+                    {
+                      "label": "B",
+                      "text": "13"
+                    },
+                    {
+                      "label": "C",
+                      "text": "17"
+                    },
+                    {
+                      "label": "D",
+                      "text": "19"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$y=4^{10}(1+4+16+64)=4^{10}\\times85=4^{10}\\times5\\times17$, so it is divisible by 17.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 52,
+                  "question_type": "problem-solving",
+                  "stem": "52. By selling an article at 80% of its marked price, a merchant makes a loss of 12%. What will be the profit/loss made by the merchant if he sells the article at 95% of its marked price?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "5% profit"
+                    },
+                    {
+                      "label": "B",
+                      "text": "1% loss"
+                    },
+                    {
+                      "label": "C",
+                      "text": "5.5% profit"
+                    },
+                    {
+                      "label": "D",
+                      "text": "4.5% profit"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$0.8\\,MP=0.88\\,CP\\Rightarrow MP=1.1\\,CP$. At 95%: SP $=0.95\\times1.1\\,CP=1.045\\,CP$, a 4.5% profit.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 53,
+                  "question_type": "problem-solving",
+                  "stem": "53. The wages earned by Arif is 30% more than that earned by Babu. The wages earned by Salek is 60% more than that earned by Babu. How much is the wages earned by Salek more than that earned by Arif?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "23%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "18.75%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "30%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "50%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Arif $=1.3B$, Salek $=1.6B$. Salek exceeds Arif by $\\frac{1.6-1.3}{1.3}=\\frac{0.3}{1.3}\\approx23\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 54,
+                  "question_type": "problem-solving",
+                  "stem": "54. A female worker can do a job in 12 hours and a male member can do the same job in 6 hours. If equal numbers of male and female members were deployed to do that job and the team completed the job in 2 hours, how many male workers were employed?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "1"
+                    },
+                    {
+                      "label": "B",
+                      "text": "2"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3"
+                    },
+                    {
+                      "label": "D",
+                      "text": "4"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "With $n$ of each, hourly rate $=n(\\tfrac{1}{12}+\\tfrac{1}{6})=\\tfrac{n}{4}$. In 2 hours: $\\tfrac{n}{4}\\times2=1\\Rightarrow n=2$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 55,
+                  "question_type": "problem-solving",
+                  "stem": "55. In a factory, one worker can produce one piece of m in 15 minutes and one piece of n in 20 minutes. How many workers are needed to produce 200 units of m and 300 units of n in exactly 10 hours?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "12"
+                    },
+                    {
+                      "label": "B",
+                      "text": "15"
+                    },
+                    {
+                      "label": "C",
+                      "text": "18"
+                    },
+                    {
+                      "label": "D",
+                      "text": "20"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Work needed $=200\\times15+300\\times20=9000$ worker-minutes. Each worker gives $600$ min in 10 h, so $9000/600=15$ workers.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 56 to 60",
+              "instruction": "Each problem consists of a problem followed by two statements. Decide whether the data in the statements are sufficient to answer the question. Select your answer according to whether:\nA. Statement 1 alone is sufficient, but statement 2 alone is not sufficient to answer the question.\nB. Statement 2 alone is sufficient, but statement 1 alone is not sufficient to answer the question.\nC. Both statements taken together are sufficient to answer the question, but neither statement alone is sufficient.\nD. Each statement alone is sufficient\nE. Statements 1+2 together aren't sufficient, and additional data is needed to answer the question.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 56,
+                  "question_type": "data-sufficiency",
+                  "stem": "56. If x and y are both integers, and z is an odd integer?\n(1) The average of x, y and (y - 1) is an integer.\n(2) both x and y are odd.",
+                  "options": [],
+                  "answer": "Both statements together are sufficient (GMAT-style: C)",
+                  "explanation": "Read as: z is the average of x, y and (y - 1); is z an odd integer? (the page prints \"and z is an odd integer?\" with the definition of z lost). z = (x + 2y - 1)/3. (1) says only that z is an integer - not enough (it could be odd or even). (2) x, y odd makes x + 2y - 1 even, but z need not even be an integer - not enough. Together x + 2y - 1 is even and divisible by 3, hence divisible by 6, so z is an even integer: the answer to \"is z odd?\" is a definite No - sufficient. Answer C.",
+                  "images": [],
+                  "needs_review": false,
+                  "source_defect": "Printed \"If x and y are both integers, and z is an odd integer?\" - no definition of z and not a complete question."
+                },
+                {
+                  "number": 57,
+                  "question_type": "data-sufficiency",
+                  "stem": "57. Is x > 0?\n(1) $x + y = 30$\n(2) $y^2 > 10$",
+                  "options": [],
+                  "answer": "E",
+                  "explanation": "(1) $x=30-y$ with $y$ unknown — insufficient. (2) says nothing about $x$. Together, $y$ could be 25 ($x=5>0$) or 35 ($x=-5<0$), so still indeterminate — answer E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 58,
+                  "question_type": "data-sufficiency",
+                  "stem": "58. Given that $\\mathrm{x}$ is a negative number, is $\\mathrm{x} > -1$? (1) $\\mathrm{x}^3 < (1 - \\mathrm{x})$ (2) $\\mathrm{x}^4 < \\mathrm{x}^2$",
+                  "options": [],
+                  "answer": "B",
+                  "explanation": "(2) $x^4<x^2\\Rightarrow x^2<1\\Rightarrow-1<x<1$; with $x$ negative this gives $-1<x<0$, so $x>-1$ — sufficient. (1) $x^3<1-x$ holds for every negative $x$, giving no information. Answer B.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 59,
+                  "question_type": "data-sufficiency",
+                  "stem": "59. Is n an odd integer?\n(1)  $n(n + 1)(n + 2)$  is divisible by 3.\n(2)  $n(n + 1)(n + 2)$  is divisible by 4.",
+                  "options": [],
+                  "answer": "E",
+                  "explanation": "(1) Three consecutive integers are always divisible by 3 — no information. (2) Divisibility by 4 holds for all even $n$ and for odd $n$ with $n+1$ a multiple of 4 (e.g. $n=3$), so parity is not determined. Even together, insufficient — answer E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 60,
+                  "question_type": "data-sufficiency",
+                  "stem": "60. What is the total number of students in the class?\n(1) The ratio between number of male and female students is 4.\n(2) There are 24 more male students than female students.",
+                  "options": [],
+                  "answer": "C",
+                  "explanation": "(1) gives only the ratio (4:1); (2) gives only the difference. Together $M=4F$ and $M-F=24\\Rightarrow F=8,M=32$, total $40$. Both needed — answer C.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 3,
+          "source_section_label": "Section 3: Analytical Ability",
+          "subject": "analytical",
+          "groups": [
+            {
+              "source_group_label": "Questions 61 to 65",
+              "instruction": null,
+              "stimulus": {
+                "passage": "In an Automobile Exhibition exactly five cars are to be displayed on a floor with exactly five stands, arranged along a single wall and numbered consecutively 1 through 5. The cars are to be selected from a total of 8 cars --- M, N, P, Q, R, S, T & U --- and displayed one car on each stand according to the following conditions:\n- Either M or U or both must be selected.\n- If M is selected, M must be on stand 1.\n- Either R or S must be on stand 3.\n- If T is selected, P must also be selected, and T and P must then be on stands that are immediately adjacent to one another.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 61,
+                  "question_type": "puzzle",
+                  "stem": "61. Which of the following is an acceptable selection of cars to be displayed on stands 1 through 5?\n1 2 3 4 5",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "M R T P Q"
+                    },
+                    {
+                      "label": "B",
+                      "text": "N T S U Q"
+                    },
+                    {
+                      "label": "C",
+                      "text": "P T S R U"
+                    },
+                    {
+                      "label": "D",
+                      "text": "T P R S M"
+                    },
+                    {
+                      "label": "E",
+                      "text": "U N Q P T"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "In C: stand 3 is S (satisfies R-or-S-on-3), T is selected with P adjacent (P on 1, T on 2), and U is selected (satisfies M-or-U). A fails (stand 3 = T), B has T without P, D has M not on stand 1, E has stand 3 = Q.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 62,
+                  "question_type": "puzzle",
+                  "stem": "62. If T is on stand 5, which of the following pairs of cars can be on stands that are immediately adjacent to each other?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "M & P"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Q & N"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Q & P"
+                    },
+                    {
+                      "label": "D",
+                      "text": "R & T"
+                    },
+                    {
+                      "label": "E",
+                      "text": "U & R"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "T on 5 forces P on 4 (adjacent) and R/S on 3. If R is on stand 3 and U on stand 2, then U and R are adjacent, which is permissible. The other pairs cannot be placed adjacently under these constraints.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 63,
+                  "question_type": "puzzle",
+                  "stem": "63. If P is not selected and R is on stand 1, which of the following lists, in alphabetical order, those cars that must also be selected?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "M, Q, T & U"
+                    },
+                    {
+                      "label": "B",
+                      "text": "N, Q, S & T"
+                    },
+                    {
+                      "label": "C",
+                      "text": "N, Q, S & U"
+                    },
+                    {
+                      "label": "D",
+                      "text": "N, S, T & U"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Q, S, T & U"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "P not selected rules out T. R on stand 1 forces S on stand 3. M cannot be chosen (it would need stand 1, taken by R), so U must be selected. The five cars are then exactly R, N, Q, S, U — the others besides R are N, Q, S and U.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 64,
+                  "question_type": "puzzle",
+                  "stem": "64. If U is on stand 4, any of the following can be on stand 5 EXCEPT?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "T"
+                    },
+                    {
+                      "label": "B",
+                      "text": "P"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Q"
+                    },
+                    {
+                      "label": "D",
+                      "text": "R"
+                    },
+                    {
+                      "label": "E",
+                      "text": "M"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "With U on stand 4: R can be on 5 (S on 3), Q and P can be on 5 (P with T on stand 4 is not needed), but T cannot - T needs P on an adjacent stand and the only adjacent stand to 5 is 4, which holds U. That is the exception the \"U on stand 4\" condition creates, so A. (M, which must be on stand 1 if selected, is also impossible on stand 5, but that holds regardless of U and is not what the condition tests.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 65,
+                  "question_type": "puzzle",
+                  "stem": "65. If T is on stand 2, which of the following cars must be selected?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "M"
+                    },
+                    {
+                      "label": "B",
+                      "text": "N"
+                    },
+                    {
+                      "label": "C",
+                      "text": "R"
+                    },
+                    {
+                      "label": "D",
+                      "text": "S"
+                    },
+                    {
+                      "label": "E",
+                      "text": "U"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "T on stand 2 forces P adjacent on stand 1 (stand 3 must be R/S). Then M cannot be used (M needs stand 1, taken by P), so U must be selected to satisfy \"M or U\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 66 to 70",
+              "instruction": null,
+              "stimulus": {
+                "passage": "IBA Communication Club President wishes to select four members of a faculty-student committee as representatives to meet with a TV channel for partnering a reality show. The faculty-student committee consists of exactly four faculty members ---F, G, H & I --- and four students --- R, S, T & U. The president can select any of the committee members as representatives as long as he observes the following restrictions:\n- The group of four representatives must consist of exactly two faculty members and two students.\n- Either F or G must be one of the representatives, but F and G cannot both be representatives.\n- If R is a representative, H must also be a representative.\n- If T is a representative, G cannot be a representative.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 66,
+                  "question_type": "puzzle",
+                  "stem": "66. If G is a representative, which of the following can be the other three representatives?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F, S, U"
+                    },
+                    {
+                      "label": "B",
+                      "text": "H, I, R"
+                    },
+                    {
+                      "label": "C",
+                      "text": "H, R, S"
+                    },
+                    {
+                      "label": "D",
+                      "text": "H, S, T"
+                    },
+                    {
+                      "label": "E",
+                      "text": "I, R, U"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "G rules out F (not both) and T (T forbids G). C gives faculty G, H and students R, S; R is fine because H is present. A includes F, B has three faculty, D includes T, E has R without H.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 67,
+                  "question_type": "puzzle",
+                  "stem": "67. If R is a representative, which of the following CANNOT also be a representative?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "H"
+                    },
+                    {
+                      "label": "B",
+                      "text": "I"
+                    },
+                    {
+                      "label": "C",
+                      "text": "S"
+                    },
+                    {
+                      "label": "D",
+                      "text": "T"
+                    },
+                    {
+                      "label": "E",
+                      "text": "U"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "R forces H, so the two faculty are H plus exactly one of F/G. Adding I would make three faculty, which is not allowed — so I cannot be a representative.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 68,
+                  "question_type": "puzzle",
+                  "stem": "68. If G, I & S are representatives, which of the following must also be a representative?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F"
+                    },
+                    {
+                      "label": "B",
+                      "text": "H"
+                    },
+                    {
+                      "label": "C",
+                      "text": "R"
+                    },
+                    {
+                      "label": "D",
+                      "text": "T"
+                    },
+                    {
+                      "label": "E",
+                      "text": "U"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Faculty are G and I (full). G excludes T; R would need H (not available). So the second student must be U.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 69,
+                  "question_type": "puzzle",
+                  "stem": "69. If neither S nor U is a representative, which of the following is the pair of faculty members who must be representatives?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F & G"
+                    },
+                    {
+                      "label": "B",
+                      "text": "F & H"
+                    },
+                    {
+                      "label": "C",
+                      "text": "F & I"
+                    },
+                    {
+                      "label": "D",
+                      "text": "G & H"
+                    },
+                    {
+                      "label": "E",
+                      "text": "G & I"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Without S and U, the two students must be R and T. R forces H; T forbids G, so the single F/G choice is F. The faculty pair is F and H.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 70,
+                  "question_type": "puzzle",
+                  "stem": "70. If T is a representative and H is not a representative, the group of representatives would be completely determined if it were also true that",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F is a representative"
+                    },
+                    {
+                      "label": "B",
+                      "text": "I is a representative"
+                    },
+                    {
+                      "label": "C",
+                      "text": "G is not a representative"
+                    },
+                    {
+                      "label": "D",
+                      "text": "R is not a representative"
+                    },
+                    {
+                      "label": "E",
+                      "text": "U is not a representative"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "T forbids G, so F is chosen; with H excluded, the other faculty is I, giving faculty F, I. R needs H (absent), so the other student is S or U. Adding \"U is not a representative\" forces the last student to be S, determining the group.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 71 to 75",
+              "instruction": null,
+              "stimulus": {
+                "passage": "Two-way roads exist among the following towns surrounding a mountain:\n- Between M and N\n- Between M and O\n- Between O and R\n- Between R and T\n- Between R and U\n- Between T and P\n- Between P and S\nThere is also a one-way road between town P and town N, the permitted direction of travel is from P to N.\n- None of these roads intersect each other except at the towns.\n- There are no other towns or roads in the vicinity.\n- Bicycles must follow the direction established for general traffic on roads.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 71,
+                  "question_type": "puzzle",
+                  "stem": "71. To bicycle from S to N by road, it is necessary to go to or through town",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "M"
+                    },
+                    {
+                      "label": "B",
+                      "text": "T"
+                    },
+                    {
+                      "label": "C",
+                      "text": "R"
+                    },
+                    {
+                      "label": "D",
+                      "text": "U"
+                    },
+                    {
+                      "label": "E",
+                      "text": "P"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "S connects only to P, so every route from S must pass through P (e.g. S-P then P→N). Thus P is necessary.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 72,
+                  "question_type": "puzzle",
+                  "stem": "72. If a bridge on the road between M and O is washed out, making the road impossible, a bicycle would NOT be able to go by road from",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "N to M"
+                    },
+                    {
+                      "label": "B",
+                      "text": "N to S"
+                    },
+                    {
+                      "label": "C",
+                      "text": "P to M"
+                    },
+                    {
+                      "label": "D",
+                      "text": "P to S"
+                    },
+                    {
+                      "label": "E",
+                      "text": "R to M"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "With M–O gone, N connects only to M (two-way) and receives the one-way P→N. From N you can only reach M (and back), so {M,N} is cut off from the rest — N cannot reach S. (P and R can still reach M via P→N→M.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 73,
+                  "question_type": "puzzle",
+                  "stem": "73. If a rockslide temporarily makes the road between O and R impossible, then in order to reach M by road from U, a bicycle would have to go to or through a total of how many other towns besides M and U?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "3"
+                    },
+                    {
+                      "label": "C",
+                      "text": "4"
+                    },
+                    {
+                      "label": "D",
+                      "text": "5"
+                    },
+                    {
+                      "label": "E",
+                      "text": "6"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "With O–R gone, U-R-T-P→N-M is the route. The towns passed besides M and U are R, T, P and N — four towns.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 74,
+                  "question_type": "puzzle",
+                  "stem": "74. Assume that one of the road O to R closed for repairs, with the result that travel on the road goes only one way, from R to O. Construction of which of the following one-way temporary roads will enable all travels among the towns that were possible before the closing of the lane?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "from M to U"
+                    },
+                    {
+                      "label": "B",
+                      "text": "from P to R"
+                    },
+                    {
+                      "label": "C",
+                      "text": "from S to R"
+                    },
+                    {
+                      "label": "D",
+                      "text": "from S to U"
+                    },
+                    {
+                      "label": "E",
+                      "text": "from T to U"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The loss is the O→R direction. A one-way M→U road lets the M/N/O side reach the R side again (O-M→U-R…), restoring all previously possible travel.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 75,
+                  "question_type": "puzzle",
+                  "stem": "75. If a rockslide blocks a lane of the road from R to T, with the result that travel on the road can go only one way, from R to T, it will still be possible to go on a bicycle road from P to",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "N and/or S but impossible to go to M, O, R, T or U"
+                    },
+                    {
+                      "label": "B",
+                      "text": "N, S and/or T but impossible to go to M, O, R or U"
+                    },
+                    {
+                      "label": "C",
+                      "text": "M, N, O and/or T but impossible to go to S, R or U"
+                    },
+                    {
+                      "label": "D",
+                      "text": "M, O, R, S and/or T but impossible to go to N or U"
+                    },
+                    {
+                      "label": "E",
+                      "text": "M, N, O, R, S, T and/or U"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "From P: P-S, P-T, and P→N-M-O-R (then R→T and R-U) reach every other town, so P can still reach all of M, N, O, R, S, T and U.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_label": "Part II: Writing Ability [25 marks]",
+      "sections": [
+        {
+          "section_no": 4,
+          "source_section_label": "Part II: Writing Ability [25 marks]",
+          "subject": "writing",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "essay",
+                  "stem": "A. Describe a challenging decision you made recently. Why was it challenging?",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended personal essay. Describe a specific difficult decision, explain the competing considerations that made it challenging, and reflect on the outcome. No single correct answer.",
+                  "marks": 15,
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "essay",
+                  "stem": "B. Write a letter to the City Mayor or the Chairman of the Union Parishad on low you would like to mobilize your community to address the problem of rampant garbage disposal in your area. Use the space in this page and the next to answer this question.",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended formal letter. Use proper letter format, state the garbage-disposal problem, propose a community mobilisation plan, and request specific support. No single correct answer.",
+                  "marks": 10,
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    "Question 40 (football/cricket) is printed with number '41' in the source; stored as 40 (sequence 39, 40, 41).",
+    "Q56 as printed: 'If x and y are both integers, and z is an odd integer?' - no definition of z (source_defect).",
+    "Q1, Q2, Q17-20, Q21-25 passage, Q23, Q24, Q61 and Part II B corrected to printed text in the 2026-11-05 audit (see docs/verification/2015_dec.md).",
+    "Part II B prints 'on low you would like' (source typo, kept). Marks printed: A 15, B 10.",
+    "Answers and explanations are out of scope (to be regenerated by the user); stored values are unreliable."
+  ]
+}

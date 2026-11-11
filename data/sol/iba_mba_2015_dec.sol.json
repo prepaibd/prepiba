@@ -1,0 +1,643 @@
+{
+ "exam": "iba_mba_2015_dec",
+ "items": {
+  "2-31": {
+   "en": "x's rate = 1/12 work per hour, so y's rate = 1/120. After x does 2/3, 1/3 of the work remains. Time for y = (1/3) ÷ (1/120) = 40 hours.",
+   "bn": "x-এর হার = 1/12, তাই y-এর হার = 1/120। x 2/3 অংশ করার পর বাকি 1/3। y-এর সময় = (1/3) ÷ (1/120) = 40 ঘণ্টা।",
+   "answer": "A",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "2-32": {
+   "en": "Black = Red + 60 and Red = 40% of total, so Black = 60% of total. Then 60% − 40% = 20% of total = 60, so total = 300.",
+   "bn": "Black = Red + 60 এবং Red = মোটের 40%, তাই Black = মোটের 60%। অর্থাৎ 20% = 60, মোট = 300।",
+   "answer": "C",
+   "formula_ids": [
+    "pct-change",
+    "algebra"
+   ]
+  },
+  "2-33": {
+   "en": "390m = 150n gives 13m = 5n, so m = 5k and n = 13k. Then mn = 65k², which is always divisible by 65.",
+   "bn": "390m = 150n থেকে 13m = 5n, তাই m = 5k, n = 13k। তাহলে mn = 65k², যা সবসময় 65 দিয়ে বিভাজ্য।",
+   "answer": "D",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-34": {
+   "en": "(26000 + m)/(5000 + m) = 5/2 ⇒ 52000 + 2m = 25000 + 5m ⇒ 3m = 27000 ⇒ m = 9000.",
+   "bn": "(26000 + m)/(5000 + m) = 5/2 ⇒ 52000 + 2m = 25000 + 5m ⇒ 3m = 27000 ⇒ m = 9000।",
+   "answer": "D",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "2-35": {
+   "en": "1152 = 2⁷ × 3². A perfect square needs every prime power to be even, so multiply by one 2. Smallest n = 2.",
+   "bn": "1152 = 2⁷ × 3²। পূর্ণবর্গ হতে হলে প্রতিটি prime-এর power জোড় হতে হবে, তাই আরও একটি 2 লাগবে। ক্ষুদ্রতম n = 2।",
+   "answer": "A",
+   "formula_ids": [
+    "numprop",
+    "exponents"
+   ]
+  },
+  "2-36": {
+   "en": "n(2n+4)(n−1) = 2n(n+2)(n−1). Among n and n−1 one is always even, so the product has another factor 2, making it divisible by 4. Test n = 7 on the others: (n+4)(n−2) = 55 and n(n+1)(n−2) for n = 9 is 630, not divisible by 4.",
+   "bn": "n(2n+4)(n−1) = 2n(n+2)(n−1)। n ও n−1-এর একটি সবসময় জোড়, তাই আরেকটি 2 পাওয়া যায় এবং গুণফল 4 দিয়ে বিভাজ্য। অন্যগুলো test করুন: n = 7-এ (n+4)(n−2) = 55; n = 9-এ n(n+1)(n−2) = 630, 4 দিয়ে বিভাজ্য নয়।",
+   "answer": "C",
+   "formula_ids": [
+    "numprop"
+   ],
+   "trick": {
+    "en": "Plug two or three small values (n = 6, 7, 8, 9) into every option.",
+    "bn": "প্রতিটি option-এ n = 6, 7, 8, 9 বসিয়ে দেখুন।"
+   }
+  },
+  "2-37": {
+   "en": "They are side by side again after LCM(55, 35) = 385 seconds.",
+   "bn": "আবার পাশাপাশি আসবে LCM(55, 35) = 385 সেকেন্ড পর।",
+   "answer": "C",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-38": {
+   "en": "7x − 4y = 20 means 7x is a multiple of 4, so x must be a multiple of 4. Only 8 in the options is.",
+   "bn": "7x − 4y = 20 থেকে 7x অবশ্যই 4-এর গুণিতক, তাই x-ও 4-এর গুণিতক। Option-গুলোর মধ্যে শুধু 8।",
+   "answer": "B",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-39": {
+   "en": "8 odd roll numbers out of 15. P = (8/15) × (7/14) = 56/210 = 4/15.",
+   "bn": "15টির মধ্যে 8টি roll বিজোড়। P = (8/15) × (7/14) = 56/210 = 4/15।",
+   "answer": "C",
+   "formula_ids": [
+    "probability"
+   ]
+  },
+  "2-40": {
+   "en": "Both = 45 + 38 − 72 = 11. Football only = 45 − 11 = 34.",
+   "bn": "উভয়ই খেলে = 45 + 38 − 72 = 11। শুধু football = 45 − 11 = 34।",
+   "answer": "A",
+   "formula_ids": [
+    "sets"
+   ]
+  },
+  "2-41": {
+   "en": "3/4 of the marbles = 1/3 of the capacity, so marbles = (4/9)C. Adding 100 fills the box: (4/9)C + 100 = C ⇒ C = 180, marbles = 80.",
+   "bn": "marble-এর 3/4 অংশ = capacity-র 1/3, তাই marble = (4/9)C। 100 যোগ করলে box ভরে: (4/9)C + 100 = C ⇒ C = 180, marble = 80।",
+   "answer": "A",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-42": {
+   "en": "339² = 114,921 (340² = 115,600; subtract 679). So √114921 = 339.",
+   "bn": "339² = 114,921 (340² = 115,600 থেকে 679 বিয়োগ)। তাই √114921 = 339।",
+   "answer": "D",
+   "formula_ids": [
+    "exponents"
+   ],
+   "trick": {
+    "en": "Use the last digit: it ends in 1, so the root ends in 1 or 9, and 340² = 115,600 is just above.",
+    "bn": "শেষ অঙ্ক 1, তাই root-এর শেষ অঙ্ক 1 বা 9; 340² = 115,600 একটু উপরে, তাই 339।"
+   }
+  },
+  "2-43": {
+   "en": "z = (x+y)/(2xy) = 1/(2y) + 1/(2x). With 0 < y < x < 1, both 1/x and 1/y exceed 1, so z > 1/2 + 1/2 = 1.",
+   "bn": "z = (x+y)/(2xy) = 1/(2y) + 1/(2x)। 0 < y < x < 1 হলে 1/x ও 1/y দুটিই 1-এর চেয়ে বড়, তাই z > 1/2 + 1/2 = 1।",
+   "answer": "D",
+   "formula_ids": [
+    "abs-ineq"
+   ],
+   "note": "Option B (z > 0.5) is also true, but z > 1 is the stronger statement."
+  },
+  "2-44": {
+   "en": "Chocolates given out = 117 − (x − 9) = 126 − x, which must be a multiple of x, so x divides 126. Among the options, 18 works (126 ÷ 18 = 7).",
+   "bn": "বিতরণ হয়েছে 117 − (x − 9) = 126 − x, যা x-এর গুণিতক, তাই x | 126। Option-গুলোর মধ্যে 18 কাজ করে (126 ÷ 18 = 7)। (21-ও 126-কে ভাগ করে, তাই প্রশ্নটিতে দুটি option মিলে যায়।)",
+   "answer": "B",
+   "formula_ids": [
+    "numprop"
+   ],
+   "note": "Both 18 and 21 divide 126, so options B and C both fit; the earlier key B is kept."
+  },
+  "2-45": {
+   "en": "Let the fraction of time at 20 km/hr be t. 20t + 60(1 − t) = 30 ⇒ 60 − 40t = 30 ⇒ t = 3/4.",
+   "bn": "20 km/hr গতিতে সময়ের অংশ t ধরি। 20t + 60(1 − t) = 30 ⇒ 60 − 40t = 30 ⇒ t = 3/4।",
+   "answer": "B",
+   "formula_ids": [
+    "speed"
+   ]
+  },
+  "2-46": {
+   "en": "|x − y| = y − x. An absolute value is never negative, so y − x ≥ 0, i.e. x ≤ y.",
+   "bn": "|x − y| = y − x। পরম মান কখনো ঋণাত্মক হয় না, তাই y − x ≥ 0, অর্থাৎ x ≤ y।",
+   "answer": "D",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-47": {
+   "en": "512 = 2⁹. Trying x = 2: 16y⁵ = 512 ⇒ y⁵ = 32 ⇒ y = 2. So xy = 4 (x = 1 would need y⁵ = 512, which has no integer root).",
+   "bn": "512 = 2⁹। x = 2 ধরলে 16y⁵ = 512 ⇒ y⁵ = 32 ⇒ y = 2। তাই xy = 4 (x = 1 হলে y⁵ = 512, যার integer root নেই)।",
+   "answer": "B",
+   "formula_ids": [
+    "exponents"
+   ]
+  },
+  "2-48": {
+   "en": "Extra distance (14 − 10)·t = 20 ⇒ t = 5 hours. At 10 km/hr the distance = 10 × 5 = 50 km.",
+   "bn": "বাড়তি দূরত্ব (14 − 10)·t = 20 ⇒ t = 5 ঘণ্টা। 10 km/hr গতিতে দূরত্ব = 10 × 5 = 50 km।",
+   "answer": "A",
+   "formula_ids": [
+    "speed"
+   ]
+  },
+  "2-49": {
+   "en": "Written in scientific form the product is 5 × 10⁻¹ · 5 × 10⁻³ · 5 × 10⁻² · 5 × 10⁻³ = 625 × 10⁻⁹. Multiplying by 10ˣ makes it an integer first when x = 9 (625 is odd, so no smaller power works).",
+   "bn": "গুণফলটি = 5 × 10⁻¹ · 5 × 10⁻³ · 5 × 10⁻² · 5 × 10⁻³ = 625 × 10⁻⁹। 10ˣ দিয়ে গুণ করলে x = 9 হলে প্রথম integer পাওয়া যায় (625 বিজোড়, তাই ছোট power কাজ করে না)।",
+   "answer": "B",
+   "formula_ids": [
+    "exponents"
+   ]
+  },
+  "2-50": {
+   "en": "Costs 3k and 2k (total 5k). Sales: 3k × 0.6 = 1.8k and 2k × 1.3 = 2.6k, total 4.4k. Loss = 0.6k/5k = 12%.",
+   "bn": "Cost 3k ও 2k (মোট 5k)। বিক্রয়: 3k × 0.6 = 1.8k এবং 2k × 1.3 = 2.6k, মোট 4.4k। ক্ষতি = 0.6k/5k = 12%।",
+   "answer": "A",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "2-51": {
+   "en": "y = 4¹⁰(1 + 4 + 16 + 64) = 4¹⁰ × 85 = 4¹⁰ × 5 × 17, so y is divisible by 17.",
+   "bn": "y = 4¹⁰(1 + 4 + 16 + 64) = 4¹⁰ × 85 = 4¹⁰ × 5 × 17, তাই y 17 দিয়ে বিভাজ্য।",
+   "answer": "C",
+   "formula_ids": [
+    "exponents",
+    "numprop"
+   ]
+  },
+  "2-52": {
+   "en": "SP = 0.8 MP = 0.88 CP ⇒ MP = 1.1 CP. At 95% of MP: SP = 0.95 × 1.1 CP = 1.045 CP, a profit of 4.5%.",
+   "bn": "SP = 0.8 MP = 0.88 CP ⇒ MP = 1.1 CP। MP-র 95%-এ বিক্রি করলে SP = 0.95 × 1.1 CP = 1.045 CP, অর্থাৎ 4.5% লাভ।",
+   "answer": "D",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "2-53": {
+   "en": "Take Babu = 100, Arif = 130, Salek = 160. Salek's excess over Arif = 30/130 = 23.08%, about 23%.",
+   "bn": "Babu = 100, Arif = 130, Salek = 160 ধরি। Arif-এর চেয়ে Salek-এর বেশি = 30/130 = 23.08%, প্রায় 23%।",
+   "answer": "A",
+   "formula_ids": [
+    "pct-change"
+   ],
+   "trap": {
+    "en": "The base is Arif's wage, not Babu's.",
+    "bn": "Base হবে Arif-এর আয়, Babu-র নয়।"
+   }
+  },
+  "2-54": {
+   "en": "Combined rate of one female + one male = 1/12 + 1/6 = 1/4. With n of each, n/4 × 2 = 1 ⇒ n = 2 male workers.",
+   "bn": "একজন নারী + একজন পুরুষের হার = 1/12 + 1/6 = 1/4। n জোড়া হলে (n/4) × 2 = 1 ⇒ n = 2 জন পুরুষ।",
+   "answer": "B",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "2-55": {
+   "en": "In 10 hours a worker makes 40 pieces of m (15 min each) or 30 pieces of n (20 min each). Need 200/40 = 5 workers for m and 300/30 = 10 for n, total 15.",
+   "bn": "10 ঘণ্টায় একজন শ্রমিক m-এর 40টি (15 মিনিটে 1টি) অথবা n-এর 30টি (20 মিনিটে 1টি) বানায়। m-এর জন্য 200/40 = 5 জন, n-এর জন্য 300/30 = 10 জন, মোট 15 জন।",
+   "answer": "B",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "2-56": {
+   "en": "The printed stem ('and z is an odd integer?') never defines z, so the statements cannot be evaluated as written. Earlier work assumed z is the average of x, y and y − 1. We keep the stored key and flag the defect.",
+   "bn": "ছাপা প্রশ্নে z-এর কোনো সংজ্ঞা দেওয়া নেই ('and z is an odd integer?'), তাই statement-গুলো যাচাই করা যায় না। আগের key-তে z = x, y ও y − 1-এর গড় ধরা হয়েছিল। আমরা stored key রেখে source defect চিহ্নিত রাখছি।",
+   "formula_ids": [
+    "ds-method"
+   ],
+   "note": "The printed question is incomplete (z is undefined), so no answer is asserted here."
+  },
+  "2-57": {
+   "en": "Together x = 30 − y and y² > 10. y = 5 gives x = 25 > 0, but y = 40 gives x = −10 < 0. Not sufficient.",
+   "bn": "একসাথে x = 30 − y এবং y² > 10। y = 5 হলে x = 25 > 0, কিন্তু y = 40 হলে x = −10 < 0। যথেষ্ট নয়।",
+   "answer": "E",
+   "formula_ids": [
+    "ds-method"
+   ]
+  },
+  "2-58": {
+   "en": "(1) holds for every negative x (e.g. −2: −8 < 3; −0.5: −0.125 < 1.5), so it is no help. (2) x⁴ < x² means x² < 1, so −1 < x < 1; with x negative, x > −1. Statement 2 alone is sufficient.",
+   "bn": "(1) প্রতিটি ঋণাত্মক x-এর জন্য সত্য (যেমন −2: −8 < 3; −0.5: −0.125 < 1.5), তাই কোনো সাহায্য করে না। (2) x⁴ < x² মানে x² < 1, অর্থাৎ −1 < x < 1; x ঋণাত্মক হলে x > −1। শুধু statement 2-ই যথেষ্ট।",
+   "answer": "B",
+   "formula_ids": [
+    "ds-method",
+    "abs-ineq"
+   ]
+  },
+  "2-59": {
+   "en": "Three consecutive integers always include a multiple of 3, so (1) says nothing. (2) is true for n = 2 (even, product 24) and n = 3 (odd, product 60), so n can be either parity. Together still not sufficient.",
+   "bn": "পরপর তিনটি integer-এর একটি সবসময় 3-এর গুণিতক, তাই (1) থেকে কিছু জানা যায় না। (2) n = 2 (জোড়, গুণফল 24) এবং n = 3 (বিজোড়, গুণফল 60) দুটির জন্যই সত্য, তাই n জোড় বা বিজোড় দুটিই হতে পারে। একসাথেও যথেষ্ট নয়।",
+   "answer": "E",
+   "formula_ids": [
+    "ds-method",
+    "numprop"
+   ]
+  },
+  "2-60": {
+   "en": "(1) alone gives only a ratio, (2) alone gives only a difference. Together (reading the ratio as 4:1): M = 4F and M − F = 24 ⇒ F = 8, M = 32, total = 40. Both are needed.",
+   "bn": "(1) একা শুধু অনুপাত দেয়, (2) একা শুধু পার্থক্য দেয়। একসাথে (অনুপাত 4:1 ধরে): M = 4F এবং M − F = 24 ⇒ F = 8, M = 32, মোট = 40। দুটিই লাগে।",
+   "answer": "C",
+   "formula_ids": [
+    "ds-method",
+    "ratio"
+   ]
+  },
+  "3-61": {
+   "en": "Test each option against the rules. A: stand 3 is T (must be R or S). B: T is selected without P. D: M is not on stand 1. E: stand 3 is Q. C (P T S R U) has U, S on stand 3, and T next to P. Valid.",
+   "bn": "প্রতিটি option নিয়মের সাথে মিলিয়ে দেখুন। A: stand 3-এ T (R বা S হতে হবে)। B: P ছাড়া T। D: M stand 1-এ নেই। E: stand 3-এ Q। C (P T S R U)-তে U আছে, stand 3-এ S, আর T, P-এর পাশে। সঠিক।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-62": {
+   "en": "T on stand 5 forces P on stand 4. Stand 3 must be R or S, so the adjacent pairs possible are (stand 3, stand 4) = R/S with P and (stands 2, 3). U (stand 2) and R (stand 3) can be adjacent: Q, U, R, P, T works. The other pairs break a rule.",
+   "bn": "T stand 5-এ হলে P অবশ্যই stand 4-এ। stand 3-এ R বা S থাকতে হবে। U (stand 2) ও R (stand 3) পাশাপাশি থাকতে পারে: Q, U, R, P, T বৈধ। অন্য জোড়াগুলো কোনো না কোনো নিয়ম ভাঙে।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-63": {
+   "en": "No P means no T. R is on stand 1, so M (which must be on stand 1) is out and U must be selected. Stand 3 must be S. Remaining cars are N and Q. Selected: R, S, U, N, Q; those that must also be selected, alphabetically: N, Q, S, U.",
+   "bn": "P না থাকলে T-ও নেই। R stand 1-এ, তাই M (stand 1-এ থাকতে হয়) বাদ, ফলে U অবশ্যই নির্বাচিত। stand 3-এ S। বাকি গাড়ি N ও Q। তাই নির্বাচিত R, S, U, N, Q; অতিরিক্ত যেগুলো অবশ্যই: N, Q, S, U (alphabetical)।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-64": {
+   "en": "U on stand 4 means T cannot be on stand 5 (T needs P adjacent, but stand 4 is U). P, Q and R can be on stand 5. (M also cannot be on stand 5, because M must be on stand 1; the question has two exceptions.)",
+   "bn": "U stand 4-এ থাকলে T stand 5-এ থাকতে পারে না (T-র পাশে P লাগবে, কিন্তু stand 4-এ U)। P, Q, R stand 5-এ থাকতে পারে। (M-ও stand 5-এ থাকতে পারে না, কারণ M-কে stand 1-এ থাকতে হয়; তাই প্রশ্নে দুটি exception আছে।)",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ],
+   "note": "M also cannot be on stand 5 (M must be on stand 1), so options A and E both fail; the earlier key A is kept."
+  },
+  "3-65": {
+   "en": "T on stand 2 means P is on stand 1 or 3, but stand 3 must be R or S, so P is on stand 1. Then M (needs stand 1) is out, so U must be selected.",
+   "bn": "T stand 2-এ হলে P stand 1 বা 3-এ; কিন্তু stand 3-এ R বা S, তাই P stand 1-এ। তখন M (stand 1 দরকার) বাদ, তাই U অবশ্যই নির্বাচিত।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-66": {
+   "en": "G is in, so F is out. T is out (T and G cannot both be reps). A has F, B has two more faculty, D has T, E has R without H. C (H, R, S) gives G, H, R, S: valid.",
+   "bn": "G থাকলে F নেই এবং T-ও নেই (T ও G একসাথে হয় না)। A-তে F, B-তে আরও দুই faculty, D-তে T, E-তে H ছাড়া R। C (H, R, S) থেকে G, H, R, S: বৈধ।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-67": {
+   "en": "R in means H in. The two faculty reps are H and exactly one of F/G, so I cannot be a representative.",
+   "bn": "R থাকলে H থাকবে। faculty rep দুজন: H এবং F/G-এর ঠিক একজন, তাই I rep হতে পারে না।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-68": {
+   "en": "G and I fill the faculty places, so F and H are out. R needs H, so R is out; T cannot be with G, so T is out. The second student must be U.",
+   "bn": "G ও I দিয়ে faculty-র জায়গা পূর্ণ, তাই F ও H বাদ। R-এর জন্য H লাগে, তাই R বাদ; G থাকলে T বাদ। দ্বিতীয় student অবশ্যই U।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-69": {
+   "en": "Neither S nor U, so the students are R and T. R forces H; T forbids G, so the second faculty member must be F (exactly one of F/G). Faculty: F and H.",
+   "bn": "S ও U না থাকলে student R ও T। R থাকলে H; T থাকলে G নয়, তাই F (F/G-এর ঠিক একজন)। faculty: F ও H।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-70": {
+   "en": "T in forces G out, so F is in; H is out, so the other faculty is I. R needs H, so R is out; the second student is S or U. Only 'U is not a representative' fixes it (S).",
+   "bn": "T থাকলে G বাদ, তাই F আছে; H নেই, তাই অন্য faculty I। R-এর জন্য H লাগে, তাই R বাদ; দ্বিতীয় student S বা U। শুধু 'U rep নয়' বললেই S নির্ধারিত হয়।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-71": {
+   "en": "S connects only to P, so every route from S starts S → P. From P the one-way road goes to N, so P must be passed through.",
+   "bn": "S শুধু P-র সাথে যুক্ত, তাই S থেকে সব পথ S → P দিয়ে শুরু। P থেকে N-এ একমুখী রাস্তা, তাই P-র মধ্য দিয়ে যেতেই হবে।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-72": {
+   "en": "Without the M–O road, M and N are cut off from the rest. N has no road out except back to M (P → N is one-way), so N cannot reach S.",
+   "bn": "M–O রাস্তা না থাকলে M ও N বাকি অংশ থেকে বিচ্ছিন্ন। N থেকে বেরোনোর রাস্তা শুধু M-এ (P → N একমুখী), তাই N থেকে S-এ যাওয়া যায় না।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-73": {
+   "en": "With O–R blocked, the path from U to M is U → R → T → P → N → M. The towns passed (besides U and M) are R, T, P, N: 4.",
+   "bn": "O–R বন্ধ থাকলে U থেকে M-এর পথ U → R → T → P → N → M। U ও M ছাড়া মধ্যবর্তী শহর R, T, P, N: মোট 4টি।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-74": {
+   "en": "With O–R one-way R → O, nothing in the M/N/O group can reach R any more. Only a road from that group to the other side restores it; M → U is the only option from that group.",
+   "bn": "O–R শুধু R → O হলে M/N/O গোষ্ঠী থেকে আর R-এ যাওয়া যায় না। এই গোষ্ঠী থেকে অন্য পাশে যাওয়ার রাস্তা লাগে; options-এর মধ্যে M থেকে U-ই একমাত্র।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-75": {
+   "en": "With R → T only, P can still go P → S, P → N → M → O → R → U, and P → T. So P reaches M, N, O, R, S, T and U.",
+   "bn": "R → T একমুখী হলেও P থেকে P → S, P → N → M → O → R → U এবং P → T যাওয়া যায়। তাই P থেকে M, N, O, R, S, T ও U সবগুলোতেই যাওয়া যায়।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "1-1": {
+   "en": "'We have been having this discussion over and over again, but all in vain' describes a deadlock: 'at an impasse' means stuck with no way forward. 'At last straw' is wrong (the idiom is 'the last straw').",
+   "bn": "'over and over again, but all in vain' মানে আলোচনা আটকে গেছে: 'at an impasse' = অচলাবস্থায়। 'At last straw' ভুল (idiom হলো 'the last straw')।",
+   "answer": "C",
+   "rule_ids": [
+    "idiom"
+   ]
+  },
+  "1-2": {
+   "en": "'Steal someone's thunder' means take credit for another person's idea or work, which matches 'take credit for work done by others'.",
+   "bn": "'Steal someone's thunder' মানে অন্যের আইডিয়া বা কাজের কৃতিত্ব নিয়ে নেওয়া, যা 'take credit for work done by others'-এর সাথে মেলে।",
+   "answer": "D",
+   "rule_ids": [
+    "idiom"
+   ]
+  },
+  "1-3": {
+   "en": "'I wonder what's on her mind!' → 'I would give a penny for her thoughts' (idiom: I'd like to know what she is thinking).",
+   "bn": "'I wonder what's on her mind!' → 'I would give a penny for her thoughts' (idiom: সে কী ভাবছে জানতে চাই)।",
+   "answer": "E",
+   "rule_ids": [
+    "idiom"
+   ]
+  },
+  "1-4": {
+   "en": "'Jump on the bandwagon' means join a popular trend, which fits copying what others do and following trends.",
+   "bn": "'Jump on the bandwagon' মানে জনপ্রিয় ধারায় যোগ দেওয়া, যা অন্যদের অনুকরণ ও trend অনুসরণের সাথে মেলে।",
+   "answer": "A",
+   "rule_ids": [
+    "idiom"
+   ]
+  },
+  "1-5": {
+   "en": "'has been known as one of the greatest' is correct: present perfect for a reputation that continues to now. The original underlined part is the best choice.",
+   "bn": "'has been known as one of the greatest' শুদ্ধ: যে খ্যাতি এখনো চলছে তার জন্য present perfect। মূল underlined অংশই সবচেয়ে ভালো।",
+   "answer": "A",
+   "rule_ids": [
+    "tense"
+   ]
+  },
+  "1-6": {
+   "en": "'Having been rejected several times, she got totally demoralized' is correct: the perfect participle phrase refers to the subject 'she'. B has 'having being'; C, D, E break the grammar.",
+   "bn": "'Having been rejected several times, she got totally demoralized' শুদ্ধ: perfect participle phrase subject 'she'-কে বর্ণনা করে। B-তে 'having being'; C, D, E-তে grammar ভাঙে।",
+   "answer": "A",
+   "rule_ids": [
+    "dangling",
+    "gerund"
+   ]
+  },
+  "1-7": {
+   "en": "'To apply for sick leave at his office, a doctor must…' is a dangling modifier: the doctor is not the applicant. 'He has to provide proof from a doctor' makes 'he' the subject of 'to apply'.",
+   "bn": "'To apply for sick leave at his office, a doctor must…' dangling modifier: doctor আবেদনকারী নন। 'He has to provide proof from a doctor'-এ 'he'-ই 'to apply'-এর subject।",
+   "answer": "E",
+   "rule_ids": [
+    "dangling"
+   ]
+  },
+  "1-8": {
+   "en": "'None' in careful English takes a singular verb: 'none was capable'. E repeats the error 'pulling of'; B and C use the wrong tense or form.",
+   "bn": "সতর্ক ইংরেজিতে 'none'-এর সাথে singular verb: 'none was capable'। E-তে 'pulling of' ভুল; B ও C-তে tense বা form ভুল।",
+   "answer": "D",
+   "rule_ids": [
+    "sv-agree"
+   ]
+  },
+  "1-9": {
+   "en": "'Much to the surprise of everyone' is the fixed phrase; 'much' is an intensifier here.",
+   "bn": "'Much to the surprise of everyone' নির্দিষ্ট phrase; এখানে 'much' intensifier।",
+   "answer": "C",
+   "rule_ids": [
+    "countable",
+    "idiom"
+   ]
+  },
+  "1-10": {
+   "en": "'To your heart's content' means as much as you like: 'Cry to your heart's content.'",
+   "bn": "'To your heart's content' মানে যত খুশি: 'Cry to your heart's content.'",
+   "answer": "E",
+   "rule_ids": [
+    "idiom"
+   ]
+  },
+  "1-11": {
+   "en": "'The researchers were asked to find out how the merger would influence…': simple past passive, then 'would' for the reported future. 'Had been' and 'can/will' do not fit the reporting past.",
+   "bn": "'The researchers were asked to find out how the merger would influence…': past passive, তারপর reported ভবিষ্যতের জন্য 'would'। 'Had been' এবং 'can/will' reporting past-এর সাথে খাপ খায় না।",
+   "answer": "A",
+   "rule_ids": [
+    "tense",
+    "modal"
+   ]
+  },
+  "1-12": {
+   "en": "'Respect their elders and pay heed to their words': 'elders' is a noun (older people) and 'pay heed' is the collocation.",
+   "bn": "'Respect their elders and pay heed to their words': 'elders' noun (বয়োজ্যেষ্ঠরা) এবং 'pay heed' collocation।",
+   "answer": "A",
+   "rule_ids": [
+    "prep-verb",
+    "confusable"
+   ]
+  },
+  "1-13": {
+   "en": "'Stricken with grief' is the collocation. 'Struck' is used for 'struck by lightning / struck dumb', and 'felt' or 'mourning' do not fit 'with grief'.",
+   "bn": "'Stricken with grief' collocation। 'Struck' বসে 'struck by lightning / struck dumb'-এ, আর 'felt' বা 'mourning' 'with grief'-এর সাথে খাপ খায় না।",
+   "answer": "A",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-14": {
+   "en": "'Searching for greater economic opportunities': 'economic' (relating to the economy) is right; 'economical' means thrifty. 'In search for' is wrong (it is 'in search of').",
+   "bn": "'Searching for greater economic opportunities': 'economic' (অর্থনীতি সংক্রান্ত) শুদ্ধ; 'economical' মানে মিতব্যয়ী। 'In search for' ভুল (সঠিক 'in search of')।",
+   "answer": "C",
+   "rule_ids": [
+    "confusable",
+    "prep-verb"
+   ]
+  },
+  "1-15": {
+   "en": "'Standing bewildered in the crowd, the poor child began to cry': a participial phrase describing the child.",
+   "bn": "'Standing bewildered in the crowd, the poor child began to cry': শিশুটিকে বর্ণনা করা participial phrase।",
+   "answer": "D",
+   "rule_ids": [
+    "gerund",
+    "dangling"
+   ]
+  },
+  "1-16": {
+   "en": "'Exports of non-traditional items': 'of' links the noun 'exports' to what is exported.",
+   "bn": "'Exports of non-traditional items': 'of' 'exports' noun-কে কী রপ্তানি হচ্ছে তার সাথে যুক্ত করে।",
+   "answer": "B",
+   "rule_ids": [
+    "prep-noun"
+   ]
+  },
+  "1-17": {
+   "en": "'Hearing the tales of his bravery, I was really awed and impressed' has no error: the participle phrase matches the subject 'I'.",
+   "bn": "'Hearing the tales of his bravery, I was really awed and impressed' শুদ্ধ: participle phrase subject 'I'-এর সাথে মেলে।",
+   "answer": "E"
+  },
+  "1-18": {
+   "en": "'Making fun of everything and chaos creation' is not parallel. It should be 'making fun of everything and creating chaos'.",
+   "bn": "'Making fun of everything and chaos creation' parallel নয়। হবে 'making fun of everything and creating chaos'।",
+   "answer": "D",
+   "rule_ids": [
+    "parallel"
+   ]
+  },
+  "1-19": {
+   "en": "We congratulate someone ON their success, so 'because of her success' should be 'on her success'.",
+   "bn": "আমরা congratulate করি success-এর ON, তাই 'because of her success'-এর জায়গায় 'on her success' হবে।",
+   "answer": "B",
+   "rule_ids": [
+    "prep-verb"
+   ]
+  },
+  "1-20": {
+   "en": "Use 'who' for people: 'those who matter', not 'those which matter'.",
+   "bn": "মানুষের জন্য 'who': 'those who matter', 'those which matter' নয়।",
+   "answer": "D",
+   "rule_ids": [
+    "pronoun"
+   ]
+  },
+  "1-21": {
+   "en": "Repeating 'squeezed and squeezed' shows Bruno trying again and again to force himself through the hole.",
+   "bn": "'squeezed and squeezed' পুনরাবৃত্তি দেখায় Bruno বারবার ছিদ্র দিয়ে বেরোনোর চেষ্টা করছিল।",
+   "answer": "C",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-22": {
+   "en": "The pain came as Bruno pushed again, hard, to get his head through: the effort of escaping.",
+   "bn": "Bruno মাথা বের করতে আবার জোরে ঠেলল, তখনই ব্যথা: পালানোর প্রচণ্ড চেষ্টা।",
+   "answer": "B",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-23": {
+   "en": "The 'monster' is the net; 'closing its hands' means the net tightening around the fish, like a closing fist.",
+   "bn": "'Monster' হলো জাল; 'closing its hands' মানে জাল মাছগুলোর চারপাশে চেপে বসছে, মুষ্টি বন্ধ করার মতো।",
+   "answer": "A",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-24": {
+   "en": "'He gave a cry as the scales tore from his back': the first cry is of physical pain. The second cry is of joy.",
+   "bn": "'He gave a cry as the scales tore from his back': প্রথম cry শারীরিক ব্যথার। দ্বিতীয় cry আনন্দের।",
+   "answer": "D",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-25": {
+   "en": "The 'monster' hauls hundreds of creatures from the deep with 'millions of holes in its hands' and reaches the shore: a fishing net. Bruno is a small fish.",
+   "bn": "'Monster' গভীর থেকে শত শত প্রাণী টেনে তোলে, 'millions of holes' আছে এবং তীরে পৌঁছায়: জেলেদের জাল। Bruno একটি ছোট মাছ।",
+   "answer": "D",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-26": {
+   "en": "(i) machinery of government, (ii) machinate (to plot), (iii) machine: all three are correct forms.",
+   "bn": "(i) machinery of government, (ii) machinate (ষড়যন্ত্র করা), (iii) machine: তিনটি form-ই শুদ্ধ।",
+   "answer": "E",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-27": {
+   "en": "(i) 'rumour mill' (noun), (ii) 'mills' (plural noun), (iii) 'milled wheat' (verb): all correct.",
+   "bn": "(i) 'rumour mill' (noun), (ii) 'mills' (plural noun), (iii) 'milled wheat' (verb): সবগুলো শুদ্ধ।",
+   "answer": "E",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-28": {
+   "en": "(i) 'in agony' and (ii) 'agonies' are correct. (iii) 'agonyze' is not a word: the verb is 'agonize'.",
+   "bn": "(i) 'in agony' ও (ii) 'agonies' শুদ্ধ। (iii) 'agonyze' শব্দই নয়: verb হলো 'agonize'।",
+   "answer": "A",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-29": {
+   "en": "Humanly, inhuman, humane and inhumane are all real forms of 'human', so no option is incorrect.",
+   "bn": "Humanly, inhuman, humane ও inhumane সবই 'human'-এর বৈধ form, তাই কোনো option-ই ভুল নয়।",
+   "answer": "E",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-30": {
+   "en": "'Irrationalization' is not an accepted word; rationalize, rationalization and rationale are.",
+   "bn": "'Irrationalization' স্বীকৃত শব্দ নয়; rationalize, rationalization ও rationale স্বীকৃত।",
+   "answer": "A",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "4-1": {
+   "en": "Approach (personal narrative): pick one real, specific decision. Structure: (1) the situation and the options in two or three sentences. (2) Why it was hard (competing values, risks, people affected). (3) How you decided (information gathered, advice, criteria). (4) The outcome and what you learned. Close with one sentence about how you would decide today.\nUseful phrases: 'weighed the pros and cons', 'under pressure', 'in hindsight'.\nAvoid: a vague or unreal story; give concrete details.",
+   "bn": "পদ্ধতি (ব্যক্তিগত বর্ণনা): একটি বাস্তব, নির্দিষ্ট সিদ্ধান্ত বাছুন। কাঠামো: (1) দুই-তিন বাক্যে পরিস্থিতি ও বিকল্প। (2) কেন কঠিন ছিল (বিপরীতমুখী মূল্যবোধ, ঝুঁকি, প্রভাবিত মানুষ)। (3) কীভাবে সিদ্ধান্ত নিলেন (সংগৃহীত তথ্য, পরামর্শ, মানদণ্ড)। (4) ফলাফল ও কী শিখলেন। আজ হলে কীভাবে সিদ্ধান্ত নিতেন সেই এক বাক্যে শেষ করুন।\nকাজের phrase: 'weighed the pros and cons', 'under pressure', 'in hindsight'।\nএড়ান: অস্পষ্ট বা অবাস্তব গল্প; নির্দিষ্ট বিবরণ দিন।",
+   "rule_ids": [
+    "essay"
+   ]
+  },
+  "4-2": {
+   "en": "Approach (formal letter): use the layout: your address, date, the Mayor/Chairman's title and address, subject line ('Mobilising our community to stop rampant garbage disposal'), salutation ('Dear Sir'), body, closing ('Yours faithfully'), name. Body: (1) State the problem (garbage on streets, health risk, drains blocked). (2) Your plan to mobilise the community (volunteer clean-up days, awareness campaign, neighbourhood committees, school clubs). (3) The support you request (bins, regular collection, fines, awareness materials). (4) A polite request for a meeting and thanks.\nUseful phrases: 'I am writing to bring to your attention…', 'I would be grateful if…', 'community-led initiative'.\nAvoid: an informal tone or missing subject line.",
+   "bn": "পদ্ধতি (আনুষ্ঠানিক চিঠি): বিন্যাস: আপনার ঠিকানা, তারিখ, মেয়র/চেয়ারম্যানের পদবি ও ঠিকানা, subject line ('Mobilising our community to stop rampant garbage disposal'), সম্বোধন ('Dear Sir'), মূল অংশ, সমাপ্তি ('Yours faithfully'), নাম। মূল অংশ: (1) সমস্যা (রাস্তায় আবর্জনা, স্বাস্থ্যঝুঁকি, বন্ধ নালা)। (2) সম্প্রদায়কে সংগঠিত করার পরিকল্পনা (স্বেচ্ছাসেবী পরিচ্ছন্নতা দিবস, সচেতনতা প্রচারণা, পাড়া কমিটি, স্কুল ক্লাব)। (3) চাওয়া সহায়তা (বিন, নিয়মিত সংগ্রহ, জরিমানা, সচেতনতা উপকরণ)। (4) বৈঠকের বিনীত অনুরোধ ও ধন্যবাদ।\nকাজের phrase: 'I am writing to bring to your attention…', 'I would be grateful if…', 'community-led initiative'।\nএড়ান: অনানুষ্ঠানিক সুর বা subject line বাদ দেওয়া।",
+   "rule_ids": [
+    "essay"
+   ]
+  }
+ }
+}

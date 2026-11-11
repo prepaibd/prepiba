@@ -1,0 +1,203 @@
+{
+ "exam": "iba_mba_2025_dec",
+ "items": {
+  "1-1": {
+   "stem_bn": "একটি mapping grid-এ দুটি survey post, A ও B, যথাক্রমে (4, -5) ও (-8, 7) coordinate-এ অবস্থিত। একটি আলাদা সমবাহু ত্রিভুজ LMN এমনভাবে আঁকা হলো যে এর উচ্চতা (height) post A ও B-এর মধ্যকার দূরত্বের ঠিক সমান। ত্রিভুজ LMN-এর ক্ষেত্রফল কত?",
+   "bn_status": "draft",
+   "notes": "Printed 'so that it height is exactly to the distance' is non-standard; translated by intent."
+  },
+  "1-2": {
+   "stem_bn": "একটি ছোট শহরে 3300 জন নিবন্ধিত ভোটার ছিল, যাদের 75 শতাংশ একটি নির্বাচনে ভোট দিয়েছিল। Haroon 594টি ভোট পেলে সে মোট ভোটের শতকরা কত পেয়েছে?",
+   "bn_status": "draft"
+  },
+  "1-3": {
+   "stem_bn": "একজন researcher তিনটি ভিন্ন জলবায়ু অঞ্চলের (A, B, C) জন্য প্রতিটিতে পাঁচটি করে পরিমাপের তাপমাত্রার অনুপাত লিপিবদ্ধ করেন। প্রতিটি অঞ্চলের অনুপাতগুলো হলো:\n• Zone A: $\\frac{14}{15}, \\frac{15}{16}, \\frac{16}{17}, \\frac{17}{18}, \\frac{18}{19}$\n• Zone B: $\\frac{15}{14}, \\frac{16}{15}, \\frac{17}{16}, \\frac{18}{17}, \\frac{19}{18}$\n• Zone C: $\\frac{5}{13}, \\frac{6}{13}, \\frac{7}{13}, \\frac{8}{13}, \\frac{9}{13}$\nএই অঞ্চলগুলোর অনুপাতের গড় (average) ও মধ্যমার (median) সম্পর্ক সম্পর্কে নিচের কোন বক্তব্য(গুলো) সত্য?\nA. Zone A-তে অনুপাতগুলোর গড় মধ্যমার চেয়ে ছোট।\nB. Zone B-তে অনুপাতগুলোর গড় মধ্যমার চেয়ে ছোট।\nC. Zone C-তে অনুপাতগুলোর গড় মধ্যমার চেয়ে ছোট।",
+   "bn_status": "draft",
+   "options_bn": {
+    "A": "শুধু A",
+    "B": "শুধু B",
+    "C": "শুধু C",
+    "D": "B ও C",
+    "E": "A, B ও C"
+   },
+   "notes": "Statement labels A/B/C inside the stem are as printed."
+  },
+  "1-4": {
+   "stem_bn": "Fall 2025 semester-এ University of Dhaka-র ক্লাসে ভর্তি হওয়া student-দের 30% একটি science course-এ ভর্তি হয়েছিল। কোনো student একাধিক science course-এ ভর্তি না হয়ে থাকলে, এবং science-এ ভর্তি হওয়া student-দের 20% chemistry-তে ভর্তি হয়ে থাকলে, ওই semester-এ ক্লাসে ভর্তি হওয়া student-দের শতকরা কত অংশ chemistry ছাড়া অন্য science course-এ ভর্তি হয়েছিল?",
+   "bn_status": "draft"
+  },
+  "1-5": {
+   "stem_bn": "একটি car dealership শুধু full-sized ও mid-sized গাড়ি বিক্রি করে। তার একজন sales representative-এর বার্ষিক বেতন Tk. 15,000। সে প্রতিটি full-sized গাড়ি বিক্রির জন্য Tk. 800 এবং প্রতিটি mid-sized গাড়ি বিক্রির জন্য Tk. 500 commission-ও পায়। বছরে ঠিক Tk. 25,000 মোট আয় পেতে তাকে ন্যূনতম কয়টি গাড়ি বিক্রি করতে হবে?",
+   "bn_status": "draft"
+  },
+  "1-6": {
+   "stem_bn": "Sicily-র একজন কর্মচারী এমন disability benefit পাওয়ার অধিকারী যা মাসিক বেতনের প্রথম Tk. 2000-এর 60 শতাংশ এবং Tk. 2000-এর অতিরিক্ত মাসিক বেতনের 40 শতাংশের যোগফলের সমান। এই পরিকল্পনায় যে কর্মচারী Tk 1400 disability benefit পান, তার মাসিক বেতন কত টাকা?",
+   "bn_status": "draft"
+  },
+  "1-7": {
+   "stem_bn": "Transcontinental Express গড়ে 100 km/h গতিতে চলে এবং প্রতি 80 km পর 10 মিনিটের বিরতি নেয়। Novo Local Express প্রতি 20 km পর 2 মিনিটের জন্য বিরতি নেয় এবং গড়ে 50 km/h গতিতে চলে। দুটি ট্রেন একই সময়ে শুরু করলে, Transcontinental যতক্ষণে 800 km অতিক্রম করবে, ততক্ষণে Novo Local কত দূরত্ব অতিক্রম করবে?",
+   "bn_status": "draft"
+  },
+  "1-8": {
+   "stem_bn": "-5 ও 4-এর মধ্যে (দুই প্রান্তসহ) চারটি ভিন্ন integer-এর গুণফল হিসেবে প্রকাশযোগ্য সবচেয়ে ছোট integer কোনটি?",
+   "bn_status": "draft"
+  },
+  "1-9": {
+   "stem_bn": "একটি video game-এ প্রতি 6টি monster পরাজিত করার জন্য একজন player 1 rank point এবং প্রতি 9টি monster পরাজিত করার জন্য 1 badge point পায়। তবে ভগ্নাংশ rank point বা badge point নেই, অর্থাৎ 8টি monster পরাজিত করলে 1 rank point এবং শূন্য badge point পাওয়া যাবে। 'n' একটি ধনাত্মক integer যা পরাজিত monster-এর সংখ্যা নির্দেশ করে। player-এর rank point ও badge point-এর সংখ্যা একই হলে 'n' কতগুলো ভিন্ন মান নিতে পারে?",
+   "bn_status": "draft"
+  },
+  "1-10": {
+   "stem_bn": "একটি secure laboratory-র দরজা খুলতে researcher-দের চার অঙ্কের একটি security code দিতে হবে। প্রতিটি অঙ্ক 0 থেকে 9-এর যে-কোনো সংখ্যা হতে পারে। code-টিকে নিচের শর্ত পূরণ করতে হবে:\n• প্রথম অঙ্ক 4।\n• বাকি তিনটি অঙ্কের (position 2-4) ঠিক একটি 1।\n• সব অঙ্ক ভিন্ন হতে হবে (কোনো পুনরাবৃত্তি নয়)।\nকতগুলো ভিন্ন security code সম্ভব?",
+   "bn_status": "draft"
+  },
+  "1-11": {
+   "stem_bn": "Asif একটি project-এর 40% কাজ 10 দিনে করতে পারে, আর Baset সেই project-এর 60% কাজ করতে 12 দিন সময় নেয়। তারা 8 দিন একসাথে কাজ করার পর বাকি অংশ Chopol 7 দিনে শেষ করে। শুরু থেকে তিনজন একসাথে কাজ করলে project-এর 52% সম্পন্ন করতে তাদের কত সময় লাগত?",
+   "bn_status": "draft"
+  },
+  "1-12": {
+   "stem_bn": "Hamim ও Milon পালা করে air gun দিয়ে shoot করছিল। Milon প্রতি 3টি shot করলে Hamim 5টি shot করত। Hamim ও Milon-এর লক্ষ্যভেদের odds যথাক্রমে 1/3 ও 1/2। Milon-এর 27টি shot লক্ষ্যভ্রষ্ট হলে, দুজন মিলে কয়টি target ভেদ করেছে?",
+   "bn_status": "draft"
+  },
+  "1-13": {
+   "stem_bn": "একজন surveyor একটি সরল গ্রামীণ রাস্তা বরাবর তিনটি landmark --- P, Q ও R --- map করছেন, 0 চিহ্নিত একটি reference post থেকে শুরু করে, যেখানে 0<P<Q<R। post ও P-এর মধ্যে, P ও Q-এর মধ্যে এবং P ও R-এর মধ্যকার ব্যবধানগুলো যথাক্রমে 1:2:3 অনুপাত মেনে চলে। পরে তিনি একই রেখায় 15 coordinate-এ অবস্থিত একটি কাছের শহর থেকে প্রতিটি landmark-এর দূরত্ব মাপেন। তিনি দেখেন landmark Q শহর থেকে landmark P-র দূরত্বের ঠিক দ্বিগুণ দূরে। এই তথ্যের ভিত্তিতে landmark R-এর absolute coordinate মান কত?",
+   "bn_status": "draft"
+  },
+  "1-14": {
+   "stem_bn": "40 m ও 25 m বাহুবিশিষ্ট একটি আয়তাকার parking area সমান প্রস্থের একটি walkway দ্বারা বেষ্টিত। walkway-র একটি কোণে 4 m বাহুবিশিষ্ট একটি বর্গাকার flowerbed ছাড়া বাকি walkway পাকা করা হয়েছে। পাকা পথের ক্ষেত্রফল 568 m²। walkway-র প্রস্থ কত মিটার?",
+   "bn_status": "draft"
+  },
+  "1-15": {
+   "stem_bn": "দুটি high-performance server, Server Alpha ও Server Beta, একটি বিশাল dataset process করছে। নিজ নিজ ধ্রুব গতিতে একসাথে কাজ করে সার্ভার দুটি মোট data-র দুই-তৃতীয়াংশ 1 ঘণ্টা 20 মিনিটে process করেছে। হঠাৎ Server Alpha crash করে কাজ বন্ধ করে দিল। Server Beta তার ধ্রুব গতিতে একা কাজ চালিয়ে বাকি data 50 মিনিটে process করল। Server Alpha একা তার ধ্রুব গতিতে কাজ করলে সম্পূর্ণ dataset process করতে কত ঘণ্টা লাগত?",
+   "bn_status": "draft"
+  },
+  "1-16": {
+   "stem_bn": "$y = 2x + 3$ হলে, নিচের কোন interval-এ x-এর সেই মান আছে যার জন্য xy < 0?",
+   "bn_status": "draft"
+  },
+  "1-17": {
+   "stem_bn": "একটি marketing agency 60টি ভিন্ন ad campaign-এর কর্মক্ষমতা বিশ্লেষণ করছে।\n◆ 32টি campaign Social Media Ads ব্যবহার করেছে।\n♦ 35টির কম campaign Email Marketing ব্যবহার করেছে।\n♦ 12টি campaign Social Media বা Email Marketing কোনোটিই ব্যবহার করেনি।\nSocial Media Ads এবং Email Marketing উভয়ই ব্যবহার করেছে এমন campaign-এর সংখ্যা নিচের কোনটি হতে পারে?",
+   "bn_status": "draft"
+  },
+  "1-18": {
+   "stem_bn": "Solution X-এ আয়তনের হিসাবে পাঁচ শতাংশ লবণ আছে। 4% লবণযুক্ত solution পেতে 500 ঘন সেন্টিমিটার solution X-এর সাথে 3.5% লবণযুক্ত solution-এর কত ঘন সেন্টিমিটার যোগ করতে হবে?",
+   "bn_status": "draft"
+  },
+  "1-19": {
+   "stem_bn": "একটি set-এ x সংখ্যক পরপর (consecutive) integer আছে, যার মধ্যে 2 অন্তর্ভুক্ত। set-এর integer-গুলোর যোগফল -11।\nx-এর সম্ভাব্য মান(গুলো) কত?",
+   "bn_status": "draft"
+  },
+  "1-20": {
+   "stem_bn": "প্রতিটি kindle egg candy-র দাম Tk. 10। তবে একজন kindle egg candy বিক্রেতা ক্রেতাদের দুটি ফেরত দেওয়া candy shell-এর বদলে 1টি candy দেওয়ার প্রস্তাব দিয়েছে। একটি ছেলের কাছে Tk. 80 থাকলে সে কয়টি candy পেতে পারে?",
+   "bn_status": "draft"
+  },
+  "1-21": {
+   "stem_bn": "$x = \\frac{2 - \\sqrt{2}}{2 + \\sqrt{2}}$ হলে $(x - 3)^{2}$-এর মান নির্ণয় করুন।",
+   "bn_status": "draft"
+  },
+  "1-22": {
+   "stem_bn": "0, 5, 6, 7 ও 9 --- এই পাঁচটি অঙ্ক একটি security panel-এ কোনো এলোমেলো ক্রমে প্রবেশ করানো হয়, কিন্তু সিস্টেম 0 অঙ্ক দিয়ে শুরু হওয়া যে-কোনো বিন্যাস ব্লক করে দেয়। অনুমোদিত সব ক্রম থেকে randomly একটি বাছাই করা হলো। দ্বিতীয় position-এ থাকা অঙ্কটি 9 হওয়ার probability কত?",
+   "bn_status": "draft"
+  },
+  "1-23": {
+   "stem_bn": "$25^{7.5} \\times \\frac{5^{2.5}}{125^{1.5}} = 5^x$ হলে 'x'-এর মান-",
+   "bn_status": "draft"
+  },
+  "1-24": {
+   "stem_bn": "একটি factory 5টি hard drive-এর একটি ছোট batch তৈরি করেছে। দুর্ভাগ্যবশত machine error-এর কারণে 2টি drive ত্রুটিযুক্ত, বাকি 3টি পুরোপুরি ঠিকভাবে কাজ করছে। একজন quality control manager batch থেকে randomly 2টি hard drive একটির পর একটি (ফেরত না রেখে) test করার জন্য বাছাই করলেন। পরীক্ষা করা drive-গুলোর অন্তত একটি ত্রুটিযুক্ত হওয়ার probability কত?",
+   "bn_status": "draft"
+  },
+  "1-25": {
+   "stem_bn": "$y = 3x$, $y = -3x + 12$ এবং $y = 0$ রেখাগুলো coordinate plane-এ পরস্পরকে ছেদ করলে তারা একটি ত্রিভুজাকার অঞ্চল ঘিরে রাখে। এই ত্রিভুজের ক্ষেত্রফল কত?",
+   "bn_status": "draft"
+  },
+  "2-26": {
+   "stem_bn": "সাতজনের জন্য নিচের কোন schedule গ্রহণযোগ্য?\n9a.m. 9:30a.m. 10a.m. 10:30a.m. 11a.m. 11:30a.m. 12p.m.",
+   "bn_status": "draft"
+  },
+  "2-27": {
+   "stem_bn": "নিচের কে 9 a.m.-এ শুরু হওয়া interview-এর জন্য নির্ধারিত হতে পারে?",
+   "bn_status": "draft"
+  },
+  "2-28": {
+   "stem_bn": "Naveed-এর interview যদি 9:30 a.m.-এ শুরু হয়, তবে 11a.m.-এ শুরু হওয়া interview-এর জন্য অবশ্যই কে নির্ধারিত হবে?",
+   "bn_status": "draft"
+  },
+  "2-29": {
+   "stem_bn": "Mohsin-এর interview যদি Pervaiz-এর interview-এর ঠিক পরে এবং Pervaiz-এর interview যদি Naveed-এর interview-এর ঠিক পরে নির্ধারিত হয়, তবে Ghalib-এর interview-এর কত সময় পরে Junaid-এর interview শুরু হওয়ার জন্য নির্ধারিত হতে হবে?",
+   "bn_status": "draft"
+  },
+  "2-30": {
+   "stem_bn": "Tanveer যদি 9 a.m.-এ শুরু হওয়া interview-এর জন্য নির্ধারিত হয়, তবে Fahid-এর interview অবশ্যই কখন শুরু হওয়ার জন্য নির্ধারিত হবে",
+   "bn_status": "draft"
+  },
+  "2-31": {
+   "stem_bn": "Mr Rahman-এর স্ত্রী কে?",
+   "bn_status": "draft",
+   "notes": "Passage lists names as printed."
+  },
+  "2-32": {
+   "stem_bn": "2nd taxi কে নেন?",
+   "bn_status": "draft"
+  },
+  "2-33": {
+   "stem_bn": "Liza যদি Green Road-এ যান, তবে তার স্বামীর পেশা কী?",
+   "bn_status": "draft",
+   "options_bn": {
+    "A": "Banker",
+    "B": "Teacher",
+    "C": "Architect",
+    "D": "Data Analyst",
+    "E": "Civil Engineer"
+   }
+  },
+  "2-34": {
+   "stem_bn": "Nadira-র স্বামী কে?",
+   "bn_status": "draft"
+  },
+  "2-35": {
+   "stem_bn": "Bailey Road-এ কে যান?",
+   "bn_status": "draft"
+  },
+  "2-36": {
+   "stem_bn": "Psychologist: \"মানুষের মন দ্রুতগতির, উচ্চ-চাপের corporate পরিবেশে সর্বোত্তমভাবে কাজ করার জন্য ঠিকমতো সজ্জিত নয়। তাই মানুষ যদি আদৌ আবেগীয় পরিতৃপ্তি অনুভব করে, তবে তা কেবল ছোট পারিবারিক ব্যবসার মতো কম-চাপের কর্মক্ষেত্রেই অনুভব করতে পারে।\"\npsychologist-এর যুক্তিটি ত্রুটিপূর্ণ কারণ এটি কোনো সমর্থন ছাড়াই ধরে নেয় যে:",
+   "bn_status": "draft",
+   "options_bn": {
+    "A": "কম-চাপের কর্মক্ষেত্রের মূল উদ্দেশ্য আবেগীয় পরিতৃপ্তি সৃষ্টি করা।",
+    "B": "যে পরিবেশে কারো মন সর্বোত্তমভাবে কাজ করতে পারে না, সেখানে কেউ কখনো আবেগীয়ভাবে পরিতৃপ্ত অনুভব করতে পারে না।",
+    "C": "প্রতিটি বড় corporation-এরই উচ্চ-চাপের পরিবেশ আছে।",
+    "D": "যে-কেউ শান্ত, কম-চাপের পরিবেশে কাজ করলে আবেগীয় পরিতৃপ্তি অর্জন করতে পারে।",
+    "E": "সবাই ছোট, কম-চাপের ব্যবসায়িক পরিবেশে কাজ করতে ইচ্ছুক।"
+   }
+  },
+  "2-37": {
+   "stem_bn": "এটা অবশ্যই সত্য যে Coach Xabi Alonso athlete-welfare policy লঙ্ঘন করেছেন। league committee কেবল তখনই কোনো coach-কে আনুষ্ঠানিক তিরস্কার (reprimand) করে যখন coach হয় athlete-welfare policy লঙ্ঘন করেছেন, নয়তো আর্থিক অসদাচরণ করেছেন। যেহেতু একটি audit ইতোমধ্যে নিশ্চিত করেছে যে Alonso-র আর্থিক লেনদেন সম্পূর্ণ ঠিক আছে, তাই reprimand-টির ব্যাখ্যা কেবল welfare policy লঙ্ঘনের মাধ্যমেই হতে পারে। নিচের কোন যুক্তিটি একই যুক্তিধারা অনুসরণ করে?",
+   "bn_status": "draft",
+   "options_bn": {
+    "A": "একজন student তখনই আগে graduate করার অনুমতি পায় যখন সে সব honors course সম্পন্ন করেছে অথবা প্রশাসনিক অনুমোদন পেয়েছে। যেহেতু Sharika honors course নেয়নি, তাই সে নিশ্চয়ই এর বদলে অনুমোদন পেয়েছে।",
+    "B": "যে supplier দেরিতে পণ্য সরবরাহ করে অথবা ক্ষতিগ্রস্ত অবস্থায় পণ্য পাঠায়, তার কাছ থেকে লিখিত ক্ষমা চাওয়া বাধ্যতামূলক। যেহেতু Tikatuli Supplies-এর চালান কখনো ক্ষতিগ্রস্ত হয় না, তাই তারা লিখিত ক্ষমা চাইবে না।",
+    "C": "Hatirjheel Circular Road-এ যে-কোনো driver মাতাল অবস্থায় উপস্থিত হলে তাকে হয় সাথে সাথে চাকরিচ্যুত করা হবে, নয়তো অনির্দিষ্টকালের ছুটিতে পাঠানো হবে। কিন্তু যেহেতু কোনো driver কখনো এমন অবস্থায় আসে না, তাই এসব শাস্তিমূলক ব্যবস্থা মূলত অব্যবহৃত হুমকি হয়ে থাকে।",
+    "D": "কোনো দোকান তার safety certification হারায় যখনই সে হয় safety inspection-এ ব্যর্থ হয়, নয়তো audit প্রত্যাখ্যান করে। যেহেতু এ বছর কোনো দোকান audit প্রত্যাখ্যান করেনি, তাই কোনো দোকানই safety inspection-এ ব্যর্থ হয়নি।",
+    "E": "executive bonus পাওয়ার যোগ্য হতে একজন কর্মচারীকে board chair-এর সমর্থন পেতে হবে অথবা quarterly target ছাড়িয়ে যেতে হবে। Kritu chair-এর সমর্থন পেয়েছিলেন এবং bonus-এর যোগ্য ছিলেন, তাই তিনি নিশ্চয়ই target ছাড়িয়ে যাননি।"
+   }
+  },
+  "2-38": {
+   "stem_bn": "প্রযুক্তিগত অগ্রগতি ও যন্ত্রপাতির খরচ কমে যাওয়ায় গত এক দশকে algae থেকে bio-plastic তৈরি অনেক বেশি cost-efficient হয়েছে। তা সত্ত্বেও, economic threshold level --- প্রতি টন petroleum-এর যে দামে নতুন algae-ভিত্তিক bio-plastic plant চালানো নতুন petroleum-ভিত্তিক plastic plant-এর চেয়ে সস্তা হবে --- $\\$$120 প্রতি টনেই স্থির আছে। নিচের কোনটি সত্য হলে algae-ভিত্তিক উৎপাদনে উন্নত cost-efficiency কেন petroleum-মূল্যের threshold কমায়নি তা সবচেয়ে ভালোভাবে ব্যাখ্যা করতে সাহায্য করে?",
+   "bn_status": "draft",
+   "options_bn": {
+    "A": "সাম্প্রতিক বছরগুলোতে petroleum-এর বাজারদর তীব্রভাবে কমে গেছে।",
+    "B": "algae চাষের জন্য প্রয়োজনীয় পুষ্টি উপাদান আরও ব্যয়বহুল হয়ে যাওয়া সত্ত্বেও algae-processing যন্ত্রপাতির খরচ কমেছে।",
+    "C": "প্রযুক্তিগত অগ্রগতি petroleum-ভিত্তিক plastic কারখানার উৎপাদন দক্ষতাও বাড়িয়েছে।",
+    "D": "বিশ্বব্যাপী বেশিরভাগ plastic পণ্য এখনও এই দুটি পদ্ধতির কোনোটির বদলে recycled উপাদান ব্যবহার করে তৈরি হয়।",
+    "E": "petroleum-এর দাম বাড়লে, আগে পরিশোধন করা অতিরিক্ত ব্যয়বহুল ছিল এমন petroleum মজুত উত্তোলন লাভজনক হয়ে ওঠে।"
+   }
+  }
+ },
+ "groups": {
+  "2-26": {
+   "passage_bn": "একজন Human Resources Manager সাতজন candidate --- Fahid, Ghalib, Junaid, Mohsin, Naveed, Pervaiz ও Tanveer --- প্রত্যেকের সাথে একটি করে interview নির্ধারণ করছেন। প্রতিটি interview 30 মিনিট দীর্ঘ হবে এবং interview-গুলো সকাল 9 a.m. থেকে শুরু করে একটির পর একটি সাজাতে হবে, নিচের শর্ত অনুযায়ী:\n- Ghalib-এর interview অবশ্যই 9 a.m. অথবা 10:30 a.m.-এ শুরু হবে।\n- Pervaiz-এর interview অবশ্যই হয় Ghalib-এর interview-এর ঠিক পরের interview হবে, নয়তো Naveed-এর interview-এর ঠিক পরের interview হবে।\n- Naveed-এর interview অবশ্যই Mohsin-এর interview-এর পরে এবং Fahid-এর interview-এর আগে হবে।\n- Junaid-এর interview অবশ্যই Tanveer-এর interview শুরু হওয়ার ঠিক এক ঘণ্টা পরে শুরু হবে।"
+  },
+  "2-31": {
+   "passage_bn": "পাঁচজন পুরুষ ও তাদের স্ত্রীরা একই জায়গা থেকে taxi করে Dhaka-র পাঁচটি ভিন্ন এলাকায় যাচ্ছেন। প্রতিটি দম্পতির surname এক। প্রতিজন পুরুষের পেশা আলাদা। taxi-গুলো একটির পর একটি ছাড়ে, 1st থেকে 5th পর্যন্ত।\nনিচের শর্তগুলো প্রযোজ্য:\nAshish Chowdhury হলেন Binty-র স্বামী। Teacher 1st taxi নেন। Keka-র স্বামী একজন Civil Engineer। Rupa Haque Mirpur-এ যান। Mr Islam হলেন Architect। Joynal একজন Banker। Data Analyst 4th taxi নেন। Keka 3rd taxi নেন। 5th taxi Elephant Road-এ যায়। Mirpur-এর taxi Rakib Rahman-এর taxi-র ঠিক আগে ছাড়ে। Banker teacher-এর ঠিক পরে ছাড়েন কিন্তু Green Road-এ যান না। Architect Elephant Road-এ যান। Liza Ahmed Dhanmondi-তে যান না। Nadira Elephant Road-এ যান। Hasan, Joynal-এর আগে যান। 4th taxi Bailey Road-এ যায়। Tanvir, Data Analyst-এর পরে যান।"
+  }
+ }
+}

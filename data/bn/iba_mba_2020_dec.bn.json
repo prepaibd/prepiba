@@ -1,0 +1,163 @@
+{
+ "exam": "iba_mba_2020_dec",
+ "items": {
+  "1-1": {
+   "stem_bn": "a ও c ধনাত্মক integer এবং  $4a + 3 = b$  ও  $4c + 1 = d$  হলে (b+d)-এর মান নিচের কোনটি হতে পারে?",
+   "bn_status": "draft"
+  },
+  "1-2": {
+   "stem_bn": "a, b, c integer এবং $ab^{2}c^{3}d^{4}>0$ হলে নিচের কোনটি অবশ্যই ধনাত্মক?\nI. $a^{2}cd$ II. $bc^{4}d$ III. $a^{3}c^{3}d^{2}$",
+   "bn_status": "draft"
+  },
+  "1-3": {
+   "stem_bn": "$(125)^{14} \\times (48)^{8}$ কে একটি integer হিসেবে প্রকাশ করলে, তার decimal point-এর ঠিক বাঁ দিকে পরপর কতগুলো শূন্য থাকবে? [যদি $(125)^{14} \\times (48)^{8} = x$ হয়, তবে $x$-এর শেষে কতগুলো শূন্য (trailing zero) আছে?]",
+   "bn_status": "draft",
+   "notes": "The bracketed rephrase is part of the printed question."
+  },
+  "1-4": {
+   "stem_bn": "ধনাত্মক integer n কে 8 দিয়ে ভাগ করলে ভাগশেষ 3। 3n কে 8 দিয়ে ভাগ করলে ভাগশেষ কত?",
+   "bn_status": "draft"
+  },
+  "1-5": {
+   "stem_bn": "$x = (106 \\times 109 \\times 111)$ হলে $x$ কে 15 দিয়ে ভাগ করলে ভাগশেষ কত?",
+   "bn_status": "draft"
+  },
+  "1-6": {
+   "stem_bn": "$f(-0.5) = 0$ হলে নিচের কোনটি $f(x)$ হতে পারে?",
+   "bn_status": "draft"
+  },
+  "1-7": {
+   "stem_bn": "$\\{1, 6, x, 17, 20, y\\}$ নিয়ে গঠিত সংখ্যার dataset-টির সব সদস্য ধনাত্মক integer এবং $xy = 18$ হলে dataset-টির range কত?",
+   "bn_status": "draft"
+  },
+  "1-8": {
+   "stem_bn": "Shahbagh signal-এর বাতি প্রতি 120 সেকেন্ডে জ্বলে। Green road ও Bata signal-এর বাতি যথাক্রমে প্রতি 60 ও 90 সেকেন্ডে জ্বলে। সবগুলো 8:30-এ জ্বলেছে। আবার কখন তারা একসাথে জ্বলবে?",
+   "bn_status": "draft"
+  },
+  "1-9": {
+   "stem_bn": "একটি hunting lodge-এর কাছে 20টি ঘর চৌদ্দ দিন গরম রাখার মতো যথেষ্ট জ্বালানি আছে। lodge যদি 5টি খালি ঘরের heating বন্ধ করে জ্বালানি বাঁচানোর সিদ্ধান্ত নেয়, এবং প্রতিটি ঘর গরম করতে সমান জ্বালানি লাগে, তবে জ্বালানি সরবরাহ আরও কতগুলো পূর্ণ (FULL) দিন চলবে?",
+   "bn_status": "draft"
+  },
+  "1-10": {
+   "stem_bn": "একটি tank, যা 40% তেল দিয়ে ভরা ছিল, তা একটি 20 gallon বালতিতে খালি করা হলো। তেল বালতির আয়তনের 35% ভরলে, tank-টির মোট ধারণক্ষমতা কত gallon?",
+   "bn_status": "draft"
+  },
+  "1-11": {
+   "stem_bn": "গত বছর একটি পত্রিকা $\\$$50 subscription fee নিয়েছিল। এ বছর দাম 20% বাড়ানো হবে। পত্রিকাটি এ বছর 4 জন subscriber হারালেও যদি গত বছরের সমান revenue পায়, তবে গত বছর পত্রিকাটির কতজন subscriber ছিল?",
+   "bn_status": "draft"
+  },
+  "1-12": {
+   "stem_bn": "একজন salesman প্রতিটি Tk. 3200 দরে 2টি সাইকেল বিক্রি করল, একটিতে $20\\%$ লাভে এবং অন্যটিতে $20\\%$ ক্ষতিতে। সামগ্রিক লাভ বা ক্ষতির শতকরা হার কত?",
+   "bn_status": "draft"
+  },
+  "1-13": {
+   "stem_bn": "এক বছরের জন্য রাখা একটি অর্থ 12.5% সুদ দিলে, কত বছরে পুঞ্জীভূত (cumulative) সুদ মূলধনের সমান হবে?",
+   "bn_status": "draft"
+  },
+  "1-14": {
+   "stem_bn": "আটজন নারী ও দুজন পুরুষ একটি committee-তে কাজ করার জন্য উপলব্ধ। তিনজনকে বাছাই করা হলে committee-তে অন্তত একজন পুরুষ থাকার probability কত?",
+   "bn_status": "draft"
+  },
+  "1-15": {
+   "stem_bn": "একটি আয়তাকার মাঠের বাহুগুলোর অনুপাত 3:2। ক্ষেত্রফল 150 sq. cm হলে পরিসীমা কত cm নির্ণয় করুন?",
+   "bn_status": "draft"
+  },
+  "1-16": {
+   "stem_bn": "একটি সমকোণী ত্রিভুজে a > b > c এবং ক্ষেত্রফল 3 sq. cm। b-এর মানের range কত?",
+   "bn_status": "draft"
+  },
+  "1-17": {
+   "stem_bn": "একটি কোম্পানি A, B ও C --- তিনটি machine ব্যবহার করে 30 ঘণ্টা ধরে একটি নির্দিষ্ট পণ্য তৈরি করে। A প্রতি 6 ঘণ্টায় 36 unit, B প্রতি 12 ঘণ্টায় 6 unit, C প্রতি 12 ঘণ্টায় 33 unit তৈরি করে। কোম্পানিটি প্রথম 12 ঘণ্টা Machine B ও C, পরের 6 ঘণ্টা A ও B এবং বাকি সময় A ও C ব্যবহার করে পণ্য তৈরি করে। এই সময়সূচিতে মোট কত পরিমাণ পণ্য তৈরি হয়?",
+   "bn_status": "draft"
+  },
+  "1-18": {
+   "stem_bn": "Nadia একটি কলম Tk. 1 দামে কিনতে পারে। একটি promotional event-এ সে একসাথে 2টি কলম কিনলে 2nd কলমের দামে 40% discount পাবে। ওই promotional event-এ Tk. 80 দিয়ে সে কয়টি কলম কিনতে পারবে?",
+   "bn_status": "draft"
+  },
+  "1-19": {
+   "stem_bn": "16 ounce একটি birdseed jar-এর 10% sesame। jar-টিকে 20% sesame করতে কতটুকু sesame যোগ করতে হবে?",
+   "bn_status": "draft"
+  },
+  "1-20": {
+   "stem_bn": "Helen $\\$$ 252-এ একটি ticket কিনল। সে ticket-টি 1 দিন পরে কিনলে তাকে $\\$$306 দিতে হতো। সে কত দিন আগে ticket কিনেছিল?",
+   "bn_status": "draft",
+   "notes": "Table of discounts is shown in English in the viewer."
+  },
+  "1-21": {
+   "stem_bn": "একটি club-এ 60% পুরুষ এবং তাদের 2/3 অংশ games পছন্দ করে। club-এর সব সদস্য music অথবা game পছন্দ করে এবং সদস্যদের 70% games পছন্দ করলে, নারীদের শতকরা কত অংশ music পছন্দ করে?",
+   "bn_status": "draft"
+  },
+  "1-22": {
+   "stem_bn": "x ও y ধনাত্মক integer হলে, বিজোড়?\n1. X বিজোড়।\n2. xy বিজোড়",
+   "bn_status": "draft",
+   "notes": "Printed stem 'is odd?' is missing its subject (source defect); translated as printed."
+  },
+  "1-23": {
+   "stem_bn": "q কি একটি integer?\n1. 3q একটি বিজোড় সংখ্যা।\n2. 2q একটি জোড় সংখ্যা।",
+   "bn_status": "draft"
+  },
+  "2-24": {
+   "stem_bn": "Panel II নিচের কোন কোম্পানির জন্য interview নেয়?",
+   "bn_status": "draft",
+   "options_bn": {
+    "E": "এগুলোর কোনোটিই নয়"
+   }
+  },
+  "2-25": {
+   "stem_bn": "Panel V নিচের কোন প্রার্থীর interview নেয়?",
+   "bn_status": "draft",
+   "options_bn": {
+    "D": "নির্ণয় করা যায় না",
+    "E": "এগুলোর কোনোটিই নয়"
+   }
+  },
+  "2-26": {
+   "stem_bn": "Mahzabin নিচের কোন কোম্পানির জন্য interview দেয়?",
+   "bn_status": "draft",
+   "options_bn": {
+    "E": "এগুলোর কোনোটিই নয়"
+   }
+  },
+  "2-27": {
+   "stem_bn": "নিচের কে কোম্পানি C-র জন্য interview দেয়?",
+   "bn_status": "draft",
+   "options_bn": {
+    "E": "এগুলোর কোনোটিই নয়"
+   }
+  },
+  "2-28": {
+   "stem_bn": "নিচের কোন সমন্বয়টি সত্য?",
+   "bn_status": "draft",
+   "options_bn": {
+    "E": "এগুলোর কোনোটিই নয়"
+   }
+  },
+  "2-29": {
+   "stem_bn": "School board নতুন school lunch guideline-এর প্রতি সাড়া দিয়ে একটি standard meal option-এ, যেখানে আগে ছিল hamburger, fried potatoes ও milk, fried potatoes-এর বদলে ফল রেখেছে। কিন্তু guideline-এ বিশেষভাবে বলা আছে যে প্রতিটি meal-এ ফল নয়, সবজি (vegetables) থাকতে হবে।\nউপরের তথ্য নিচের কোন সিদ্ধান্তটিকে সবচেয়ে জোরালোভাবে সমর্থন করে?",
+   "bn_status": "draft",
+   "options_bn": {
+    "A": "ফল শিক্ষার্থীদের জন্য সবজির মতোই স্বাস্থ্যগুণ প্রদান করে।",
+    "B": "শিক্ষার্থীরা সবজির চেয়ে ফল খাওয়ার সম্ভাবনা বেশি।",
+    "C": "School board নতুন school guideline অনুসরণ করছে না।",
+    "D": "School board শিক্ষার্থী জনগোষ্ঠীর স্বাস্থ্যের জন্য দায়ী।",
+    "E": "নতুন school lunch guideline অপ্রয়োজনীয়ভাবে কঠোর।"
+   }
+  },
+  "2-30": {
+   "stem_bn": "অনেকে lottery-কে মজা করার ও কিছু টাকা জেতার একটি ক্ষতিহীন উপায় মনে করলেও, lottery ticket কেনা এক ধরনের জুয়া। তাই সরকারি কর্মকর্তাদের lottery ticket কেনা উচিত নয়।\nউপরের যুক্তি নিচের কোন assumption-এর উপর নির্ভর করে?",
+   "bn_status": "draft",
+   "options_bn": {
+    "A": "যারা lottery খেলে তাদের বড় অঙ্কের পুরস্কার জেতার সম্ভাবনা গাড়ি দুর্ঘটনায় মারা যাওয়ার সম্ভাবনার চেয়েও কম।",
+    "B": "কিছু সরকারি কর্মকর্তা জুয়ার চেয়ে অনেক গুরুতর অপরাধে দোষী।",
+    "C": "সরকারি কর্মকর্তাদের জুয়া খেলা উচিত নয়।",
+    "D": "অনেক সরকারি কর্মকর্তাকে সহজেই তাদের পদ নিয়ন্ত্রণকারী নিয়ম ভাঙতে প্রলুব্ধ করা যায়।",
+    "E": "বেশিরভাগ lottery বিজয়ী তাদের জয়ে প্রত্যাশার মতো সুখী হয় না।"
+   }
+  }
+ },
+ "groups": {
+  "2-24": {
+   "passage_bn": "সাতটি ভিন্ন কোম্পানি --- A, B, C, D, E, F ও G --- এর Manager নিয়োগের জন্য I থেকে VII পর্যন্ত সাতটি interview panel আছে। Asif, Tushar, Mahzabin, Tazul, Mahmood, Rakib ও Sadib --- এই সাতজন Manager পদের প্রার্থী, তবে অবশ্যই এই ক্রমে নয়।\n- Panel IV কোম্পানি A-র জন্য Rakib-এর interview নেয়।\n- Panel III Tazul-এর interview নেয়, কিন্তু কোম্পানি C বা D-র জন্য নয়।\n- Tushar কোম্পানি B-র জন্য interview দেয়, কিন্তু panel I বা II-এর কাছে নয়।\n- Panel VI কোম্পানি E-র জন্য Asif-এর interview নেয়।\n- Panel VII কোম্পানি F-এর জন্য interview নেয়।\n- Panel I Mahzabin-এর interview নেয়, কিন্তু কোম্পানি C-র জন্য নয়।\n- Panel II Mahmood-এর interview নেয় না।"
+  }
+ }
+}

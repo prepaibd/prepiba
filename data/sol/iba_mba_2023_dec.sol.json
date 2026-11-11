@@ -1,0 +1,121 @@
+{
+ "exam": "iba_mba_2023_dec",
+ "items": {
+  "1-1": {
+   "en": "Factor out 11²: the sum is 11²(1² + 2² + … + 6²). Using n(n+1)(2n+1)/6 with n = 6 gives 6·7·13/6 = 91. So the total = 121 × 91 = 11,011.",
+   "bn": "প্রথমে 11² common নিন: sum = 11²(1² + 2² + … + 6²)। n = 6 বসিয়ে n(n+1)(2n+1)/6 = 6·7·13/6 = 91। তাই মোট = 121 × 91 = 11,011।",
+   "answer": "11,011",
+   "formula_ids": [
+    "series"
+   ],
+   "trap": {
+    "en": "Do not square the sum 11+22+…+66; square each term.",
+    "bn": "11+22+…+66-এর যোগফলকে square করবেন না; প্রতিটি পদকে আলাদা করে square করতে হবে।"
+   }
+  },
+  "1-2": {
+   "en": "Each fruit must split equally among 3 friends, so each count is a multiple of 3. Counts are 4k, 2k, 3k. 4k and 2k are multiples of 3 only when k is a multiple of 3, so the least k = 3 and guavas = 2k = 6.",
+   "bn": "3 জন বন্ধুর মধ্যে সমানভাবে ভাগ করতে হলে প্রতিটি ফলের সংখ্যা 3-এর গুণিতক হতে হবে। সংখ্যাগুলো 4k, 2k, 3k। 4k ও 2k দুটিই 3 দিয়ে বিভাজ্য হয় তখনই যখন k নিজে 3-এর গুণিতক, তাই ক্ষুদ্রতম k = 3 এবং পেয়ারা = 2k = 6।",
+   "answer": "6",
+   "formula_ids": [
+    "ratio",
+    "numprop"
+   ]
+  },
+  "1-3": {
+   "en": "Divisible by both 5 and 7 means divisible by 35. Multiples of 35 in [600, 900]: 35×18 = 630 up to 35×25 = 875, i.e. k = 18 to 25, which is 25 − 18 + 1 = 8 numbers.",
+   "bn": "5 ও 7 দুটি দিয়েই বিভাজ্য মানে 35-এর গুণিতক। 600 থেকে 900-এর মধ্যে 35×18 = 630 থেকে 35×25 = 875 পর্যন্ত, অর্থাৎ k = 18 থেকে 25, মোট 25 − 18 + 1 = 8টি সংখ্যা।",
+   "answer": "8",
+   "formula_ids": [
+    "numprop"
+   ],
+   "trap": {
+    "en": "Count both ends: 'inclusive' only matters if an endpoint is a multiple; here neither 600 nor 900 is.",
+    "bn": "শুরু ও শেষ দুই প্রান্ত ধরে গুনতে ভুলবেন না (k = 18 থেকে 25, দুটিই ধরে)।"
+   }
+  },
+  "1-4": {
+   "en": "Price of 1 egg = q/p. x bananas = y eggs, so 1 banana = y·q/(p·x). m eggs + n bananas = mq/p + n·yq/(px) = q(mx + ny)/(px) taka.",
+   "bn": "1টি ডিমের দাম = q/p। x টি কলা = y টি ডিম, তাই 1টি কলার দাম = y·q/(p·x)। m টি ডিম + n টি কলা = mq/p + n·yq/(px) = q(mx + ny)/(px) টাকা।",
+   "answer": "$\\frac{q(mx+ny)}{px}$ taka",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "1-5": {
+   "en": "Let L = 4 units. K = 8, M = 1 (K is twice L; M is ¼ of L). The gap between K and M grows at 8 − 1 = 7 per unit time, and 7t = 98 gives t = 14. Total distance of all three = (8 + 4 + 1) × 14 = 182 km.",
+   "bn": "L-এর গতি 4 একক ধরি। তাহলে K = 8 (L-এর দ্বিগুণ) এবং M = 1 (L-এর ¼)। K ও M-এর ব্যবধান বাড়ে প্রতি এককে 8 − 1 = 7 হারে, 7t = 98 ⇒ t = 14। তিনজনের মোট দূরত্ব = (8 + 4 + 1) × 14 = 182 km।",
+   "answer": "182 km",
+   "formula_ids": [
+    "speed"
+   ],
+   "note": "Assumes all three run in the same direction (printed text is unclear)."
+  },
+  "1-6": {
+   "en": "Let the walkway width be w. Area of the walkway = (32 + 2w)(28 + 2w) − 32·28 = 700. Expanding gives 4w² + 120w − 700 = 0, i.e. w² + 30w − 175 = 0, so w = 5 ft.",
+   "bn": "walkway-র প্রস্থ w ধরি। walkway-র ক্ষেত্রফল = (32 + 2w)(28 + 2w) − 32·28 = 700। বিস্তার করলে 4w² + 120w − 700 = 0, অর্থাৎ w² + 30w − 175 = 0, তাই w = 5 ft।",
+   "answer": "5 ft",
+   "formula_ids": [
+    "geometry",
+    "algebra"
+   ]
+  },
+  "1-7": {
+   "en": "The painting's side = x − 2·4 = x − 8. The border area is the frame area minus the painting area = x² − (x − 8)² = 16x − 64 square inches.",
+   "bn": "ছবির বাহু = x − 2·4 = x − 8। border-এর ক্ষেত্রফল = ফ্রেমসহ মোট ক্ষেত্রফল − ছবির ক্ষেত্রফল = x² − (x − 8)² = 16x − 64 বর্গ ইঞ্চি।",
+   "answer": "$16x-64$ square inches",
+   "formula_ids": [
+    "geometry"
+   ],
+   "note": "Assumes the 4-inch border lies inside the frame's outer edge, on all four sides."
+  },
+  "1-8": {
+   "en": "For an equilateral triangle inscribed in a circle of radius R, side = R√3 = 2√3. Area = (√3/4)·(2√3)² = (√3/4)·12 = 3√3.",
+   "bn": "R ব্যাসার্ধের বৃত্তে অন্তর্লিখিত সমবাহু ত্রিভুজের বাহু = R√3 = 2√3। ক্ষেত্রফল = (√3/4)·(2√3)² = (√3/4)·12 = 3√3।",
+   "answer": "$3\\sqrt{3}$ square units",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "1-9": {
+   "en": "Men = 3/5 × 1000 = 600, women = 400. The printed conditions (men engineers = women who are both engineer and doctor; men doctors : women doctors in the same 1:1 ratio) do not by themselves fix the total number of engineers, so a unique answer needs an extra assumption about overlaps. The stored value (400) rests on such an assumption.",
+   "bn": "পুরুষ = 3/5 × 1000 = 600, নারী = 400। প্রশ্নে দেওয়া শর্তগুলো (পুরুষ engineer = engineer ও doctor উভয়ই এমন নারী; পুরুষ doctor : নারী doctor = 1:1) থেকে মোট engineer সংখ্যা একটিমাত্র মানে নির্ধারিত হয় না; overlap নিয়ে অতিরিক্ত assumption লাগে। stored 400 এমনই একটি assumption-এর উপর দাঁড়িয়ে আছে।",
+   "formula_ids": [
+    "sets",
+    "ratio"
+   ],
+   "note": "The printed question is garbled; the stored answer rests on an assumption and is not changed."
+  },
+  "1-10": {
+   "en": "Every integer's factors are integers, so statement 1 and statement 2 are always true and give no information about whether x/y is an integer. Even together they are not sufficient.",
+   "bn": "যে-কোনো integer-এর উৎপাদক (factor) সবসময় integer, তাই statement 1 ও 2 সবসময় সত্য এবং x/y integer কি না সে সম্পর্কে কোনো তথ্য দেয় না। দুটি একসাথে নিলেও যথেষ্ট নয়।",
+   "answer": "Neither statement is sufficient (GMAT-style: E)",
+   "formula_ids": [
+    "ds-method"
+   ]
+  },
+  "1-11": {
+   "en": "(1) R even ⇒ RT is even whatever T is: sufficient. (2) T odd tells nothing about R (R odd gives odd, R even gives even): not sufficient. So statement (1) alone is sufficient.",
+   "bn": "(1) R জোড় হলে T যা-ই হোক RT অবশ্যই জোড়: sufficient। (2) T বিজোড় হলে R জানা না থাকলে RT জোড় না বিজোড় বলা যায় না (R বিজোড় হলে বিজোড়, R জোড় হলে জোড়): sufficient নয়। তাই শুধু statement (1)-ই যথেষ্ট।",
+   "answer": "Statement (1) alone is sufficient; (2) alone is not (GMAT-style: A)",
+   "formula_ids": [
+    "ds-method",
+    "numprop"
+   ]
+  },
+  "2-1": {
+   "en": "Approach (argument on 'Fear of loss is the reason for loss'): take a stand (for example: agree, because fear shapes decisions). Point 1: fear makes people avoid risk and miss opportunities (a student who never applies, an investor who sells too early). Point 2: fear distorts judgement and creates self-fulfilling failure. Point 3 (concede): some caution protects us; the problem is paralysis, not prudence. Point 4: manage fear with preparation and small steps. Conclude with a balanced line.\nUseful phrases: 'self-fulfilling prophecy', 'risk aversion', 'calculated risk'.",
+   "bn": "পদ্ধতি (argument: 'Fear of loss is the reason for loss'): একটি অবস্থান নিন (যেমন: একমত, কারণ ভয় সিদ্ধান্তকে গড়ে)। Point 1: ভয় মানুষকে ঝুঁকি এড়াতে ও সুযোগ হারাতে বাধ্য করে (যে ছাত্র কখনো আবেদনই করে না, যে বিনিয়োগকারী খুব আগে বিক্রি করে ফেলে)। Point 2: ভয় বিচারবুদ্ধি বিকৃত করে এবং self-fulfilling ব্যর্থতা তৈরি করে। Point 3 (স্বীকার): কিছুটা সতর্কতা আমাদের রক্ষা করে; সমস্যা হলো অচলাবস্থা, বিচক্ষণতা নয়। Point 4: প্রস্তুতি ও ছোট ধাপে ভয় সামলানো। ভারসাম্যপূর্ণ লাইন দিয়ে শেষ করুন।\nকাজের phrase: 'self-fulfilling prophecy', 'risk aversion', 'calculated risk'।",
+   "rule_ids": [
+    "essay"
+   ]
+  },
+  "2-2": {
+   "en": "Approach (essay on 'Responsibilities of a Good Citizen'): Thesis: a good citizen balances rights with duties. Paragraph 1: define citizenship. Paragraph 2: civic duties (obeying laws, paying taxes, voting, respecting others). Paragraph 3: social duties (protecting public property and the environment, helping neighbours, honesty). Paragraph 4: why it matters for the nation. Conclusion: responsibility begins with small daily actions.\nUseful phrases: 'civic sense', 'rule of law', 'active participation'.",
+   "bn": "পদ্ধতি (essay: 'Responsibilities of a Good Citizen'): Thesis: ভালো নাগরিক অধিকার ও কর্তব্যের মধ্যে ভারসাম্য রাখেন। Paragraph 1: নাগরিকত্বের সংজ্ঞা। Paragraph 2: নাগরিক কর্তব্য (আইন মানা, কর দেওয়া, ভোট দেওয়া, অন্যকে সম্মান)। Paragraph 3: সামাজিক কর্তব্য (সরকারি সম্পদ ও পরিবেশ রক্ষা, প্রতিবেশীকে সাহায্য, সততা)। Paragraph 4: জাতির জন্য কেন গুরুত্বপূর্ণ। উপসংহার: দায়িত্ব শুরু হয় প্রতিদিনের ছোট কাজ দিয়ে।\nকাজের phrase: 'civic sense', 'rule of law', 'active participation'।",
+   "rule_ids": [
+    "essay"
+   ]
+  }
+ }
+}

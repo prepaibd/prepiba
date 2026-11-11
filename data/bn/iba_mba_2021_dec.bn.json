@@ -1,0 +1,98 @@
+{
+ "exam": "iba_mba_2021_dec",
+ "items": {
+  "1-1": {
+   "stem_bn": "তিন অঙ্কের একটি সংখ্যা তিনটি পরপর (consecutive) অঙ্ক দিয়ে গঠিত। এককের অঙ্ক শতকের অঙ্কের চেয়ে বড়। সংখ্যাটি উল্টে দিলে তা মূল সংখ্যার চেয়ে অঙ্কগুলোর যোগফলের 22 গুণ বেশি হয়। মূল সংখ্যাটি কত?",
+   "bn_status": "draft"
+  },
+  "1-2": {
+   "stem_bn": "IBA-তে marketing major নেওয়া student ও finance major নেওয়া student-এর অনুপাত 4:5। marketing major নেওয়া 2 জন student finance major নিলে অনুপাত হয় 2:3। কতজন student marketing major নিয়েছে?",
+   "bn_status": "draft",
+   "notes": "Option D is printed as '45 E.' (OCR artefact)."
+  },
+  "1-3": {
+   "stem_bn": "a-এর  $\\frac{12}{4}$  অংশ c-এর  $\\frac{25}{8}$  অংশের সমান হলে, তাদের অনুপাত কত হতে পারে?",
+   "bn_status": "draft"
+  },
+  "1-4": {
+   "stem_bn": "চিত্রে ব্যাসার্ধ $2\\sqrt{2}$ হলে AOB-এর পরিসীমা = ?",
+   "bn_status": "draft",
+   "notes": "Refers to a figure."
+  },
+  "1-5": {
+   "stem_bn": "পানি ও acid-এর 24 পরিমাণ solution-এ acid 80%। solution-এ acid 50% করতে কত পানি যোগ করতে হবে?",
+   "bn_status": "draft",
+   "notes": "Printed '24 of solution of water and acid' is unclear; translated as printed."
+  },
+  "1-6": {
+   "stem_bn": "$x = (106 \\times 190 \\times 111)$ হলে $x$ কে 15 দিয়ে ভাগ করলে ভাগশেষ কত?",
+   "bn_status": "draft"
+  },
+  "1-7": {
+   "stem_bn": "$7^{\\sqrt{x}} + 24^{\\sqrt{x}} = 25^{\\sqrt{x}}; x = ?$ (x-এর মান নির্ণয় করুন)",
+   "bn_status": "draft"
+  },
+  "1-8": {
+   "stem_bn": "$K = \\frac{19!}{16!}$ হলে নিচের কোন choice-টি সবচেয়ে ছোট, যার সাথে K-এর কোনো common prime factor নেই?",
+   "bn_status": "draft"
+  },
+  "1-9": {
+   "stem_bn": "এই চিত্রে অন্তর্লিখিত বর্গের ক্ষেত্রফল 16। shaded অংশের ক্ষেত্রফল নির্ণয় করুন?",
+   "bn_status": "draft",
+   "notes": "Refers to a figure."
+  },
+  "1-10": {
+   "stem_bn": "$p * q > 1, 4(p)7(q) = 756$। $\\mathrm{p} + \\mathrm{q} = ?$-এর মান কত?",
+   "bn_status": "draft"
+  },
+  "1-11": {
+   "stem_bn": "$a = -3, 2, 0$ এবং $b = -4, 2, -3$ হলে, $2a + b^2$ হিসেবে সর্বোচ্চ কত ফল পাওয়া যেতে পারে?",
+   "bn_status": "draft"
+  },
+  "1-12": {
+   "stem_bn": "আয়তাকার মাঠ X-এর দৈর্ঘ্য বর্গাকার মাঠ Y-এর বাহুর চেয়ে 2 km বেশি এবং মাঠ X-এর প্রস্থ মাঠ Y-এর বাহুর চেয়ে 2 km কম। $Y^{2}$ মাঠ Y-এর ক্ষেত্রফল (sq. km-এ) হলে, নিচের কোনটি মাঠ X-এর ক্ষেত্রফল (বর্গ km-এ) নির্দেশ করে?",
+   "bn_status": "draft"
+  },
+  "1-13": {
+   "stem_bn": "M-এর $\\frac{1}{4}$ অংশ N-এর 30%-এর সমান, N-এর 24% = O-এর 1/5 অংশ। O:M অনুপাত কত?",
+   "bn_status": "draft"
+  },
+  "1-14": {
+   "stem_bn": "$5x+y = 25$ যেখানে x, y integer এবং y, 25-এর সমান অথবা তার চেয়ে ছোট। কতগুলো $(x, y)$ জোড় সম্ভব?",
+   "bn_status": "draft",
+   "notes": "Printed 'Such as ... how many couple' is garbled; translated as printed."
+  },
+  "1-15": {
+   "stem_bn": "দুটি ট্রেন বিপরীত দিক থেকে Dhaka থেকে Chittagong-এর দিকে রওনা দেয়, মোট দূরত্ব 675 km এবং তারা 3 ঘণ্টা পর একে অপরকে অতিক্রম করে। $1^{\\text{st}}$ ট্রেন 16 ঘণ্টা পর এবং $2^{\\text{nd}}$ ট্রেন 25 ঘণ্টায় গন্তব্যে পৌঁছায়। সব মিলিয়ে তাদের (1+2 ট্রেন) কত সময় লাগবে?",
+   "bn_status": "draft",
+   "notes": "Printed question is garbled; translated as printed."
+  },
+  "1-16": {
+   "stem_bn": "একটি pipe A 24 মিনিটে tank ভরতে পারে, কিন্তু অন্য pipe B 40 মিনিটে tank খালি করতে পারে। 9 মিনিট পর tank-এর $\\frac{3}{4}$ অংশ ভরা হলে b বন্ধ করা হলো। a শুরু থেকে চালু থাকলে tank ভরতে কত সময় লাগবে?",
+   "bn_status": "draft",
+   "notes": "Printed question is garbled; translated as printed."
+  },
+  "1-17": {
+   "stem_bn": "$c\\left(18 + \\frac{a}{30}\\right) = 70$ , c কি integer?\ni. $a < 30$\nii. $a > 1$",
+   "bn_status": "draft"
+  },
+  "1-18": {
+   "stem_bn": "abc পরপর (consecutive) সংখ্যা, $a + b + c =$ জোড়, c কি বিজোড়? i. a integer ii. তাদের গড় 2",
+   "bn_status": "draft",
+   "notes": "Printed question is garbled; translated as printed."
+  },
+  "1-19": {
+   "stem_bn": "Professor লক্ষ করলেন, শেষ period-এ ক্লাস হওয়া $1^{\\text {st}}$ batch-এর চেয়ে বেশি student second batch-এর ফেল করেছে, অথচ second batch-এর ক্লাস ছিল second period-এ। ফলে professor সিদ্ধান্ত নিলেন ক্লাসটি আগের মতো math ক্লাসে রূপান্তর করবেন।\nউপরের তথ্য থেকে first batch-এর ভালো ফলাফলের জন্য assumption কী?",
+   "bn_status": "draft",
+   "options_bn": {
+    "A": "$1^{\\text {st}}$ batch-এর student-রা বেশি মেধাবী।",
+    "B": "$2^{\\text {nd}}$ batch মেধাবী।",
+    "C": "$1^{\\text {st}}$ batch-এর professor-রা বেশি যোগ্য।",
+    "D": "$2^{\\text {nd}}$ professor যোগ্য নন।",
+    "E": "শেষ period-এর ক্লাসে student-রা বেশি মনোযোগ দেয়।"
+   },
+   "notes": "Printed passage is garbled; translated by intent, without added facts."
+  }
+ },
+ "groups": {}
+}

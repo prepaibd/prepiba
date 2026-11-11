@@ -1,0 +1,595 @@
+{
+ "exam": "iba_mba_2018_may",
+ "items": {
+  "2-26": {
+   "en": "Volume of the rectangular box = 8 × 7 × 9 = 504 cu ft. The conical box has volume 3 × 504 = 1512. Time = 1512 ÷ 12 = 126 minutes.",
+   "bn": "আয়তাকার box-এর আয়তন = 8 × 7 × 9 = 504 cu ft। conical box-এর আয়তন 3 × 504 = 1512। সময় = 1512 ÷ 12 = 126 মিনিট।",
+   "answer": "B",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "2-27": {
+   "en": "Let the distance be d. Speeds: d/10 and d/12.5 per hour. By 7 am Karnafuli has covered d/10, leaving 0.9d. Closing speed = 0.1d + 0.08d = 0.18d, so 5 hours later: 12 pm.",
+   "bn": "দূরত্ব d ধরি। গতি: d/10 ও d/12.5 প্রতি ঘণ্টায়। সকাল 7টায় Karnafuli d/10 গেছে, বাকি 0.9d। মিলনের গতি = 0.1d + 0.08d = 0.18d, তাই 5 ঘণ্টা পর: দুপুর 12টা।",
+   "answer": "C",
+   "formula_ids": [
+    "relspeed"
+   ]
+  },
+  "2-28": {
+   "en": "Take the work as 30 units: A = 1, B = 2, C = 3 per day. Cumulative: day 1 → 1, day 2 (A+B) → 4, day 3 (A+C) → 8, day 4 → 11, day 5 → 12, day 6 (A+B+C) → 18, day 7 → 19, day 8 → 22, day 9 → 26, day 10 → 29, day 11 → 30. Completed on the 11th day.",
+   "bn": "কাজ 30 একক ধরি: A = 1, B = 2, C = 3 প্রতিদিন। ক্রমযোজিত: day 1 → 1, day 2 (A+B) → 4, day 3 (A+C) → 8, day 4 → 11, day 5 → 12, day 6 (A+B+C) → 18, day 7 → 19, day 8 → 22, day 9 → 26, day 10 → 29, day 11 → 30। কাজ শেষ হয় 11তম দিনে।",
+   "answer": "E",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "2-29": {
+   "en": "y = (x − 6)(x − 5)(x − 4)(x − 3) > 0 for x < 3 or x > 6 (and between 4 and 5). So x could be 1, 2 or 7, 8, …. None of x < 3, x < 6, 3 < x < 0 (impossible) or x > 3 must hold.",
+   "bn": "y = (x − 6)(x − 5)(x − 4)(x − 3) > 0 হয় x < 3 অথবা x > 6 হলে (এবং 4 ও 5-এর মাঝে)। তাই x = 1, 2 অথবা 7, 8, … হতে পারে। x < 3, x < 6, 3 < x < 0 (অসম্ভব) বা x > 3-এর কোনোটিই অবশ্যই সত্য নয়।",
+   "answer": "E",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-30": {
+   "en": "648 = 36²/2. Applying the same rule to 1682: 1682 = n²/2 ⇒ n² = 3364 ⇒ n = 58.",
+   "bn": "648 = 36²/2। 1682-এ একই নিয়ম: 1682 = n²/2 ⇒ n² = 3364 ⇒ n = 58।",
+   "answer": "C",
+   "formula_ids": [
+    "series"
+   ]
+  },
+  "2-31": {
+   "en": "Passed students = 15 + 30 − 1 = 44. Total = 44 + 10 (failed) + 6 (absent) = 60.",
+   "bn": "পাস করা student = 15 + 30 − 1 = 44। মোট = 44 + 10 (ফেল) + 6 (অনুপস্থিত) = 60।",
+   "answer": "C",
+   "formula_ids": [
+    "sets"
+   ]
+  },
+  "2-32": {
+   "en": "A perfect square is (2x − 3)² = 4x² − 12x + 9, so P = 12.",
+   "bn": "পূর্ণবর্গ হলো (2x − 3)² = 4x² − 12x + 9, তাই P = 12।",
+   "answer": "C",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-33": {
+   "en": "The diagonal splits the rectangle into two triangles, each with base 8 and height 4: area ½ × 8 × 4 = 16. Rectangle = 32 m².",
+   "bn": "কর্ণ আয়তক্ষেত্রকে দুটি ত্রিভুজে ভাগ করে, প্রতিটির ভূমি 8 ও উচ্চতা 4: ক্ষেত্রফল ½ × 8 × 4 = 16। আয়তক্ষেত্র = 32 m²।",
+   "answer": "A",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "2-34": {
+   "en": "For distance D: D/66 − D/69 = 1 min ⇒ D(3)/(66 × 69) = 1 ⇒ D = 1518 m. Sajib's time = 1518/66 = 23 minutes.",
+   "bn": "দূরত্ব D: D/66 − D/69 = 1 মিনিট ⇒ D(3)/(66 × 69) = 1 ⇒ D = 1518 m। Sajib-এর সময় = 1518/66 = 23 মিনিট।",
+   "answer": "D",
+   "formula_ids": [
+    "speed"
+   ]
+  },
+  "2-35": {
+   "en": "Income 5250 split 8 : 7 gives expenditure 2800 and savings 2450. Savings rise by 550 to 3000, so expenditure = 2250. New ratio savings : expenditure = 3000 : 2250 = 4 : 3.",
+   "bn": "আয় 5250-কে 8 : 7 ভাগ করলে ব্যয় 2800, সঞ্চয় 2450। সঞ্চয় 550 বেড়ে 3000, তাই ব্যয় = 2250। নতুন অনুপাত সঞ্চয় : ব্যয় = 3000 : 2250 = 4 : 3।",
+   "answer": "D",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "2-36": {
+   "en": "Let the printed price be P. With 15% commission, revenue 0.85P = 1.19 × cost ⇒ cost = 0.714P. With 10%: revenue 0.9P, so profit = 0.9P/0.714P − 1 = 26%.",
+   "bn": "Printed price P ধরি। 15% commission-এ আয় 0.85P = 1.19 × cost ⇒ cost = 0.714P। 10%-এ আয় 0.9P, তাই লাভ = 0.9P/0.714P − 1 = 26%।",
+   "answer": "C",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "2-37": {
+   "en": "Test −1 < a < b < 0: a = −0.9, b = −0.1 gives a/b = 9 (largest); a = −0.5, b = −0.45 gives a/b = 1.11 but b/(−a²) = 1.8 (largest). So the largest option changes with a and b: none of A–D is always highest.",
+   "bn": "−1 < a < b < 0 নিয়ে পরীক্ষা: a = −0.9, b = −0.1 হলে a/b = 9 (বৃহত্তম); a = −0.5, b = −0.45 হলে a/b = 1.11 কিন্তু b/(−a²) = 1.8 (বৃহত্তম)। তাই কোনটি বৃহত্তম তা a ও b অনুযায়ী বদলায়: A–D-এর কোনোটিই সবসময় সবচেয়ে বড় নয়।",
+   "answer": "E",
+   "formula_ids": [
+    "abs-ineq"
+   ],
+   "trick": {
+    "en": "Plug in two or three sets of values.",
+    "bn": "দু-তিন জোড়া মান বসিয়ে দেখুন।"
+   },
+   "note": "No single option is always largest: a/b is largest for some a, b and b/(−a²) for others."
+  },
+  "2-38": {
+   "en": "Take the hut as 36 units: man 4, woman 3, boy 2 per day. After 2 days together (18 units), 18 remain for woman + boy at 5/day = 3.6 days. The boy worked 5.6 days and produced 11.2 units, so his share = 7910 × 11.2/36 ≈ BDT 2461, which is not listed.",
+   "bn": "কুঁড়েঘর 36 একক ধরি: পুরুষ 4, নারী 3, বালক 2 প্রতিদিন। 2 দিন একসাথে কাজ করে (18 একক) বাকি 18 একক নারী + বালক দৈনিক 5 হারে 3.6 দিনে করে। বালক 5.6 দিন কাজ করেছে এবং 11.2 একক বানিয়েছে, তাই তার অংশ = 7910 × 11.2/36 ≈ BDT 2461, যা option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "2-39": {
+   "en": "Z − 8 = 2(u − 8) and Z = 1.5u ⇒ 1.5u − 8 = 2u − 16 ⇒ u = 16, Z = 24. After 16 years: 32 : 40 = 4 : 5.",
+   "bn": "Z − 8 = 2(u − 8) এবং Z = 1.5u ⇒ 1.5u − 8 = 2u − 16 ⇒ u = 16, Z = 24। 16 বছর পর: 32 : 40 = 4 : 5।",
+   "answer": "D",
+   "formula_ids": [
+    "age"
+   ]
+  },
+  "2-40": {
+   "en": "Let the time per km be a (upstream) and b (downstream): 10a + 25b = 12 and 15a + 50b = 20 ⇒ b = 0.16, a = 0.8. Speeds: upstream 1.25, downstream 6.25 km/h, so still water 3.75 and current 2.5. Current +40% = 3.5, downstream = 7.25 km/h. Time = 17.5/7.25 ≈ 2.41 h, not listed.",
+   "bn": "প্রতি km সময় a (upstream) ও b (downstream): 10a + 25b = 12 এবং 15a + 50b = 20 ⇒ b = 0.16, a = 0.8। গতি: upstream 1.25, downstream 6.25 km/h, তাই স্থির পানিতে 3.75 ও স্রোত 2.5। স্রোত +40% = 3.5, downstream = 7.25 km/h। সময় = 17.5/7.25 ≈ 2.41 ঘণ্টা, যা option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "relspeed",
+    "algebra"
+   ]
+  },
+  "2-41": {
+   "en": "ac + e: if a is odd, a, c, e are odd and odd × odd + odd is even; if a is even, a, c, e are even and the sum is even. So ac + e is always even, i.e. never odd. The other expressions can be odd.",
+   "bn": "ac + e: a বিজোড় হলে a, c, e বিজোড় এবং বিজোড় × বিজোড় + বিজোড় = জোড়; a জোড় হলে a, c, e জোড় এবং যোগফল জোড়। তাই ac + e সবসময় জোড়, কখনো বিজোড় নয়। অন্য রাশিগুলো বিজোড় হতে পারে।",
+   "answer": "D",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-42": {
+   "en": "B = A + 5, C = 150 − 2A − 5 = 145 − 2A > 60 ⇒ A < 42.5 ⇒ A ≤ 42. A = 42 gives B = 47, C = 61 (valid).",
+   "bn": "B = A + 5, C = 150 − 2A − 5 = 145 − 2A > 60 ⇒ A < 42.5 ⇒ A ≤ 42। A = 42 হলে B = 47, C = 61 (বৈধ)।",
+   "answer": "B",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-43": {
+   "en": "30 men × 120 days = 3600 man-days for half the room, so 7200 for the whole room. 1/3 of the remaining half = 1/6 of the room = 1200 man-days. 80 men take 1200/80 = 15 days.",
+   "bn": "30 জন × 120 দিন = অর্ধেক ঘরের জন্য 3600 man-day, তাই পুরো ঘরের 7200। বাকি অর্ধেকের 1/3 = ঘরের 1/6 = 1200 man-day। 80 জনের লাগে 1200/80 = 15 দিন।",
+   "answer": "A",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "2-44": {
+   "en": "Marked up: 1.5X. After 20% discount: 1.2X. Then 70% of that: 0.84X, i.e. 84% of the buying price (option B, printed '84X').",
+   "bn": "Markup: 1.5X। 20% discount-এর পর: 1.2X। তারপর তার 70%: 0.84X, অর্থাৎ কেনা দামের 84% (option B, ছাপায় '84X')।",
+   "answer": "B",
+   "formula_ids": [
+    "profit-loss"
+   ],
+   "note": "The options are printed '84X' etc.; the value is 0.84X (84% of X)."
+  },
+  "2-45": {
+   "en": "(2x + 3)(x − 1) < 0 holds between the roots: −3/2 < x < 1.",
+   "bn": "(2x + 3)(x − 1) < 0 হয় মূল দুটির মাঝে: −3/2 < x < 1।",
+   "answer": "B",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-46": {
+   "en": "Only orange = 85 − 45 − 30 + 15 = 25.",
+   "bn": "শুধু orange = 85 − 45 − 30 + 15 = 25।",
+   "answer": "C",
+   "formula_ids": [
+    "sets"
+   ]
+  },
+  "2-47": {
+   "en": "Union = 85 + 90 + 65 − 45 − 40 − 30 + 15 = 140. Add the 25 who liked none: 165 interviewed, which is not listed.",
+   "bn": "Union = 85 + 90 + 65 − 45 − 40 − 30 + 15 = 140। যারা কোনোটিই পছন্দ করেনি সেই 25 জন যোগ করে: 165 জনের সাক্ষাৎকার নেওয়া হয়েছিল, যা option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "sets"
+   ]
+  },
+  "2-48": {
+   "en": "Each 3 seconds he covers half of what is left, so he gets closer and closer but never actually reaches the wall (the total time 3 + 3 + 3 + … has no end). None of the options.",
+   "bn": "প্রতি 3 সেকেন্ডে সে বাকি দূরত্বের অর্ধেক যায়, তাই ক্রমশ কাছে আসে কিন্তু কখনো দেয়ালে পৌঁছায় না (মোট সময় 3 + 3 + 3 + … শেষ হয় না)। কোনো option-ই সঠিক নয়।",
+   "answer": "E",
+   "formula_ids": [
+    "series"
+   ]
+  },
+  "2-49": {
+   "en": "Volume added in 15 minutes = πr²h = π × 100 × 9 = 900π cu ft. Rate = 900π/15 = 60π cubic feet per minute.",
+   "bn": "15 মিনিটে যোগ হওয়া আয়তন = πr²h = π × 100 × 9 = 900π cu ft। হার = 900π/15 = 60π cubic feet per minute।",
+   "answer": "C",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "2-50": {
+   "en": "Work in man-hours: 24 men + 33 women = 24 + 11 = 35 men-equivalent; 35 × 11 × 78 = 30,030. Now 27 women = 9 men-equivalent: (m + 9) × 13 × 55 = 30,030 ⇒ m + 9 = 42 ⇒ m = 33.",
+   "bn": "কাজ man-hour-এ: 24 জন পুরুষ + 33 জন নারী = 24 + 11 = 35 পুরুষ-সমান; 35 × 11 × 78 = 30,030। এখন 27 জন নারী = 9 পুরুষ-সমান: (m + 9) × 13 × 55 = 30,030 ⇒ m + 9 = 42 ⇒ m = 33।",
+   "answer": "A",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "2-51": {
+   "en": "The shaded ring has width 1 cm, so the inner circle (and its semicircles) has radius 10 − 1 = 9 cm, which is not among the options.",
+   "bn": "shaded ring-এর প্রস্থ 1 cm, তাই ভিতরের বৃত্ত (এবং তার অর্ধবৃত্তগুলো)-র ব্যাসার্ধ 10 − 1 = 9 cm, যা option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "geometry"
+   ],
+   "note": "Uses the figure: a ring plus a diagonal bar; the intended inner radius is 10 − 1 = 9 cm."
+  },
+  "2-52": {
+   "en": "R has 3 before it, so R is 4th. Q is 9 places from R (8 between): 13th. P is 6 places from Q (5 between): 7th or 19th. 21 people behind P: total = 7 + 21 = 28 (or 19 + 21 = 40). The minimum is 28.",
+   "bn": "R-এর আগে 3 জন, তাই R 4র্থ। Q, R থেকে 9 স্থান দূরে (মাঝে 8 জন): 13তম। P, Q থেকে 6 স্থান দূরে (মাঝে 5 জন): 7ম বা 19তম। P-এর পিছনে 21 জন: মোট = 7 + 21 = 28 (বা 19 + 21 = 40)। সর্বনিম্ন 28।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-53": {
+   "en": "Let the usual duration be T hours. Late by 2 hours at start, then T/1.2 hours at the higher speed, arriving 1 hour late: 2 + T/1.2 = T + 1 ⇒ T/6 = 1 ⇒ T = 6 hours.",
+   "bn": "স্বাভাবিক সময় T ঘণ্টা ধরি। শুরুতে 2 ঘণ্টা দেরি, তারপর বাড়ানো গতিতে T/1.2 ঘণ্টা, এবং 1 ঘণ্টা দেরিতে পৌঁছানো: 2 + T/1.2 = T + 1 ⇒ T/6 = 1 ⇒ T = 6 ঘণ্টা।",
+   "answer": "A",
+   "formula_ids": [
+    "speed",
+    "algebra"
+   ]
+  },
+  "2-54": {
+   "en": "BC = 42, so AB = 42 and AD = 21. The sector ADE has angle 60°, area = (60/360) × π × 21² = 441π/6 = 231 cm² (π = 22/7).",
+   "bn": "BC = 42, তাই AB = 42 এবং AD = 21। sector ADE-এর কোণ 60°, ক্ষেত্রফল = (60/360) × π × 21² = 441π/6 = 231 cm² (π = 22/7)।",
+   "answer": "C",
+   "formula_ids": [
+    "geometry"
+   ],
+   "note": "Uses the figure: A is the centre, radius AD = half of AB."
+  },
+  "2-55": {
+   "en": "Soil volume = π × 9² × 14 = 1134π. The square field has diagonal 18√2, so side 18 and area 324. Rise = 1134π/324 = 3.5π ≈ 11 m, which is not listed.",
+   "bn": "মাটির আয়তন = π × 9² × 14 = 1134π। বর্গাকার মাঠের কর্ণ 18√2, তাই বাহু 18 এবং ক্ষেত্রফল 324। উচ্চতা বৃদ্ধি = 1134π/324 = 3.5π ≈ 11 m, যা option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "2-61": {
+   "en": "Where land is expensive, buildings tend to be multistory. If bamboo is unsuitable for multistory buildings, that explains why bamboo is not the economic choice where land values are high.",
+   "bn": "যেখানে জমির দাম বেশি সেখানে সাধারণত বহুতল ভবন হয়। বাঁশ যদি বহুতল ভবনের জন্য অনুপযুক্ত হয়, তবে জমির দাম বেশি এমন জায়গায় বাঁশ কেন লাভজনক নয় তা ব্যাখ্যা হয়।",
+   "answer": "B",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "2-62": {
+   "en": "The argument says an ageing population means fewer fast food restaurants. If the overall population keeps growing, the number of customers can still rise, which weakens the conclusion.",
+   "bn": "যুক্তিটি বলছে জনসংখ্যা বয়স্ক হলে fast food restaurant কমবে। মোট জনসংখ্যা বাড়তে থাকলে ক্রেতার সংখ্যা তবুও বাড়তে পারে, যা সিদ্ধান্তকে দুর্বল করে।",
+   "answer": "B",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "2-63": {
+   "en": "Together: the mother was 26 when the sister was born, and Shafi was born 2 years later, so she was 28 at Shafi's birth, the same as the father (28). Difference 0. Both statements are needed.",
+   "bn": "দুটি একসাথে: বোন জন্মানোর সময় মায়ের বয়স 26, Shafi তার 2 বছর পরে জন্মায়, তাই Shafi-র জন্মের সময় মায়ের বয়স 28, বাবার সমান (28)। পার্থক্য 0। দুটি statement-ই লাগে।",
+   "answer": "C",
+   "formula_ids": [
+    "ds-method",
+    "age"
+   ]
+  },
+  "2-64": {
+   "en": "II: males are 30% and 1/3 of them are married = 10% of all. Married total 60%, so married females = 50%, out of 70% females: 5/7. Sufficient alone. I (the total number) is not needed.",
+   "bn": "II: পুরুষ 30% এবং তাদের 1/3 বিবাহিত = মোটের 10%। মোট বিবাহিত 60%, তাই বিবাহিত নারী = 50%, 70% নারীর মধ্যে: 5/7। একাই যথেষ্ট। I (মোট সংখ্যা) লাগে না।",
+   "answer": "B",
+   "formula_ids": [
+    "ds-method",
+    "sets"
+   ]
+  },
+  "2-65": {
+   "en": "Baker = 0.9 Lisa. I: Baker = 1.8 Moin, so Baker/Jony = 1.8/1.4. II: Lisa = 2 Moin ⇒ Baker = 1.8 Moin, the same. Each statement alone is sufficient.",
+   "bn": "Baker = 0.9 Lisa। I: Baker = 1.8 Moin, তাই Baker/Jony = 1.8/1.4। II: Lisa = 2 Moin ⇒ Baker = 1.8 Moin, একই। প্রতিটি statement এককভাবে যথেষ্ট।",
+   "answer": "D",
+   "formula_ids": [
+    "ds-method",
+    "pct-change"
+   ]
+  },
+  "2-66": {
+   "en": "A supervisor can ask whoever owes them a favor, directly or through a chain. Without Palash: Qashem → Sohel; Tamal → Sohel; Rashed → Tamal (then → Sohel). Rashed can reach Sohel through Tamal.",
+   "bn": "একজন supervisor তার কাছে ঋণী যে-কারো কাছে সরাসরি বা শৃঙ্খল ধরে favor চাইতে পারে। Palash ছাড়া: Qashem → Sohel; Tamal → Sohel; Rashed → Tamal (তারপর → Sohel)। Rashed, Tamal-এর মাধ্যমে Sohel-এর কাছে পৌঁছাতে পারে।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-67": {
+   "en": "Operating: Palash, Rashed, Sohel, Tamal. Chains: Palash → Rashed → Tamal → Sohel. Palash for a favor from Sohel needs two intermediaries (Rashed and Tamal), so it is neither direct nor through exactly one.",
+   "bn": "কর্মরত: Palash, Rashed, Sohel, Tamal। শৃঙ্খল: Palash → Rashed → Tamal → Sohel। Sohel-এর কাছ থেকে Palash-এর favor চাইতে দুজন মধ্যস্থ (Rashed ও Tamal) লাগে, তাই এটি সরাসরিও নয়, ঠিক একজনের মাধ্যমেও নয়।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-68": {
+   "en": "No one owes Sohel anything, so Sohel has no one to ask.",
+   "bn": "কেউই Sohel-এর কাছে কোনো favor-এর জন্য ঋণী নয়, তাই Sohel কারো কাছে চাইতে পারে না।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-69": {
+   "en": "To reach Sohel through exactly one other: Palash → Qashem → Sohel and Rashed → Tamal → Sohel. So Palash and Rashed.",
+   "bn": "ঠিক একজন মধ্যস্থ দিয়ে Sohel-এ পৌঁছাতে: Palash → Qashem → Sohel এবং Rashed → Tamal → Sohel। তাই Palash ও Rashed।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-70": {
+   "en": "Qashem → Palash → Rashed → Tamal: Qashem for a favor from Tamal needs two intermediaries (Palash and Rashed), the most among the options.",
+   "bn": "Qashem → Palash → Rashed → Tamal: Tamal-এর কাছ থেকে Qashem-এর favor চাইতে দুজন মধ্যস্থ (Palash ও Rashed) লাগে, যা option-গুলোর মধ্যে সবচেয়ে বেশি।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-56": {
+   "en": "At most 4 of the 5 chairs A–E can be women (the five women cannot all sit there under the rules). Checking every valid arrangement with 4 women on A–E, chair H (on the other side) always holds a woman.",
+   "bn": "নিয়ম মানলে A–E চেয়ারে সর্বোচ্চ 4 জন নারী বসতে পারেন (পাঁচজন নারী একসাথে ওখানে বসতে পারেন না)। A–E-তে 4 জন নারী থাকে এমন সব বৈধ বিন্যাস দেখলে অন্য পাশের চেয়ার H-এ সবসময় একজন নারী থাকেন।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-57": {
+   "en": "With Tina, Sumi, Firuz, Likhon, Yasmen in A–E, Gunjan must be on the other side and cannot sit beside Firuz or break the male-seat limit, which leaves chair F or J.",
+   "bn": "A–E চেয়ারে Tina, Sumi, Firuz, Likhon, Yasmen থাকলে Gunjan অন্য পাশে বসবেন এবং Firuz-এর পাশে বা পুরুষের আসনসীমা ভেঙে বসতে পারবেন না, ফলে বাকি থাকে চেয়ার F অথবা J।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-58": {
+   "en": "With Gunjan, Yasmen, Joynal in A, B, C, Harun must sit beside Joynal (D) and Munni–Rikita must sit together on the other side, which forces Sumi into chair E.",
+   "bn": "A, B, C-তে Gunjan, Yasmen, Joynal থাকলে Harun-কে Joynal-এর পাশে (D) বসতে হয় এবং Munni–Rikita অন্য পাশে একসাথে বসবেন, যা Sumi-কে চেয়ার E-তে বাধ্য করে।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-59": {
+   "en": "A seats three men in a row (Firuz, Harun, Joynal). B puts Firuz beside Gunjan. D separates Munni and Rikita. E puts Tina beside Harun. Only C (Likhon, Munni, Rikita, Joynal, Harun) obeys every rule.",
+   "bn": "A-তে পরপর তিনজন পুরুষ (Firuz, Harun, Joynal)। B-তে Firuz ও Gunjan পাশাপাশি। D-তে Munni ও Rikita আলাদা। E-তে Tina, Harun-এর পাশে। শুধু C (Likhon, Munni, Rikita, Joynal, Harun) সব নিয়ম মানে।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-60": {
+   "en": "Joynal in G and Harun in H are side by side (required) and Firuz is in J. Chair I can be Sumi or Yasmen (Tina cannot sit beside Harun; Munni–Rikita must sit together). Yasmen is the option that works.",
+   "bn": "Joynal G-তে ও Harun H-এ পাশাপাশি (শর্ত অনুযায়ী) এবং Firuz J-তে। চেয়ার I-তে Sumi বা Yasmen বসতে পারে (Tina, Harun-এর পাশে বসতে পারে না; Munni–Rikita একসাথে বসবেন)। Option-গুলোর মধ্যে Yasmen মেলে।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "1-1": {
+   "en": "'Beginning to replace the pessimistic doctrine of universal decay' completes the contrast with 'optimistic theory of evolutionary progress'. 'Surreptitiously' (quietly, without notice) fits the gradual shift; 'revival', 'advancement' and 'uproar' do not contrast with 'optimistic progress'.",
+   "bn": "'Beginning to replace the pessimistic doctrine of universal decay' 'optimistic theory of evolutionary progress'-এর বিপরীত চিত্র সম্পূর্ণ করে। 'Surreptitiously' (নিঃশব্দে) ধীর পরিবর্তনের সাথে মেলে; 'revival', 'advancement' ও 'uproar' 'optimistic progress'-এর বিপরীত নয়।",
+   "answer": "B",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-2": {
+   "en": "If campaigns are full of misrepresentation, candour (honesty) is an 'anomaly' (an exception).",
+   "bn": "প্রচারণা ভুল উপস্থাপনায় ভরা হলে candour (সততা) একটি 'anomaly' (ব্যতিক্রম)।",
+   "answer": "C",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-3": {
+   "en": "'A finite amount of food' and chances of survival that were 'meager' make a logical, consistent pair. 'Copious … infinitesimal' and 'lavish … impracticable' contradict each other.",
+   "bn": "'A finite amount of food' ও 'meager' বাঁচার সম্ভাবনা যুক্তিসঙ্গত জোড়া। 'Copious … infinitesimal' ও 'lavish … impracticable' পরস্পরবিরোধী।",
+   "answer": "E",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-4": {
+   "en": "An 'insipid' (dull) presenter makes the audience's interest 'dwindle'. 'Vivacious/zestful' presenters would not.",
+   "bn": "'Insipid' (বিরক্তিকর) presenter-এর কারণে দর্শকের আগ্রহ 'dwindle' করে। 'Vivacious/zestful' presenter-এ তা হয় না।",
+   "answer": "D",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-5": {
+   "en": "A journalist writing on a 'contentious' issue must 'glean' (gather) information from various sources. 'Contagious' and 'divulge' do not fit.",
+   "bn": "'Contentious' বিষয়ে লিখতে সাংবাদিককে নানা উৎস থেকে তথ্য 'glean' (সংগ্রহ) করতে হয়। 'Contagious' ও 'divulge' মেলে না।",
+   "answer": "B",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-6": {
+   "en": "An 'impasse' is a deadlock, not something you look for. So III is wrong; I and II use it correctly.",
+   "bn": "'Impasse' মানে অচলাবস্থা, যা কেউ খোঁজে না। তাই III ভুল; I ও II-এ শুদ্ধ ব্যবহার।",
+   "answer": "B",
+   "rule_ids": [
+    "idiom"
+   ]
+  },
+  "1-7": {
+   "en": "A line of people is a 'queue', not a 'cue'. So I is wrong; II and III use 'cue' (a signal) correctly.",
+   "bn": "মানুষের সারি হলো 'queue', 'cue' নয়। তাই I ভুল; II ও III-এ 'cue' (সংকেত) শুদ্ধ।",
+   "answer": "A",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-8": {
+   "en": "A device that detects heat is a 'sensor', not a 'censure' (criticism). So III is wrong.",
+   "bn": "যে যন্ত্র তাপ শনাক্ত করে তা 'sensor', 'censure' (তিরস্কার) নয়। তাই III ভুল।",
+   "answer": "C",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-9": {
+   "en": "To stir up hatred or a crowd is to 'incite', not 'insight'. I and III are wrong; II uses 'insight' (understanding) correctly.",
+   "bn": "ঘৃণা বা জনতাকে উসকে দেওয়া হলো 'incite', 'insight' নয়। I ও III ভুল; II-এ 'insight' (অন্তর্দৃষ্টি) শুদ্ধ।",
+   "answer": "D",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-10": {
+   "en": "Signal lights are 'flares' (I) and the sky can 'flare' (II); 'flair' means a natural talent (III is correct). So I and II are wrong.",
+   "bn": "সংকেত-আলো হলো 'flares' (I) এবং আকাশ 'flare' করতে পারে (II); 'flair' মানে স্বাভাবিক প্রতিভা (III শুদ্ধ)। তাই I ও II ভুল।",
+   "answer": "A",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-11": {
+   "en": "The passage links emotional intelligence to empathy and more positive human interaction: understanding and responding to others' emotions.",
+   "bn": "Passage emotional intelligence-কে empathy ও ইতিবাচক মানবিক মিথস্ক্রিয়ার সাথে যুক্ত করে: অন্যের আবেগ বোঝা ও সাড়া দেওয়া।",
+   "answer": "A",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-12": {
+   "en": "Deep reading forces the brain to make connections between chapters and to the outside world.",
+   "bn": "Deep reading মস্তিষ্ককে অধ্যায়গুলোর মধ্যে এবং বাইরের জগতের সাথে সংযোগ তৈরি করতে বাধ্য করে।",
+   "answer": "D",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-13": {
+   "en": "None of A–D is implied: the passage says reading helps children, adults and the elderly; only 30 minutes a day is needed; fiction and non-fiction both help; benefits relate to quality of life.",
+   "bn": "A–D-এর কোনোটিই বলা হয়নি: passage বলে reading শিশু, প্রাপ্তবয়স্ক ও বয়স্ক সবাইকে সাহায্য করে; দিনে মাত্র 30 মিনিটই যথেষ্ট; fiction ও non-fiction দুটিই উপকারী; সুবিধা জীবনের মানের সাথে যুক্ত।",
+   "answer": "E",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-14": {
+   "en": "The passage says reading anything exposes you to new words, so vocabulary can be built by magazines and newspapers too. C contradicts it.",
+   "bn": "Passage বলে যেকোনো কিছু পড়লে নতুন শব্দ পাওয়া যায়, তাই magazine ও newspaper-এ vocabulary বাড়ে। C এর বিরোধী।",
+   "answer": "C",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-15": {
+   "en": "Cognitive reserve helps brain cells find new pathways around damaged areas so seniors can compensate for hidden damage.",
+   "bn": "Cognitive reserve ক্ষতিগ্রস্ত অংশ এড়িয়ে মস্তিষ্ক-কোষকে নতুন পথ খুঁজতে সাহায্য করে, ফলে বয়স্করা লুকানো ক্ষতি পুষিয়ে নিতে পারেন।",
+   "answer": "B",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-16": {
+   "en": "'Fell' is the simple past of 'fall': 'the baby fell back onto the soft carpet'.",
+   "bn": "'Fell' হলো 'fall'-এর simple past: 'the baby fell back onto the soft carpet'।",
+   "answer": "D",
+   "rule_ids": [
+    "tense"
+   ]
+  },
+  "1-17": {
+   "en": "'You would be a fool to consider the enemy weak': 'would be' for a hypothetical judgement.",
+   "bn": "'You would be a fool to consider the enemy weak': কাল্পনিক বিচারে 'would be'।",
+   "answer": "D",
+   "rule_ids": [
+    "modal"
+   ]
+  },
+  "1-18": {
+   "en": "Keep the narrative simple past 'found': 'found himself with the regret of his life choices in old age'. A and B misuse the verb forms; C uses the present 'finds'.",
+   "bn": "narrative-এর simple past 'found' ঠিক রাখুন: 'found himself with the regret of his life choices in old age'। A ও B-তে verb form ভুল; C-তে present 'finds'।",
+   "answer": "D",
+   "rule_ids": [
+    "tense"
+   ],
+   "note": "E ('has found himself regretting') is also grammatical; the key keeps the simple past 'found'."
+  },
+  "1-19": {
+   "en": "'After giving the students a piece of her mind, the teacher never again saw the deviant behavior' fixes the dangling modifier: the teacher is the one who gave.",
+   "bn": "'After giving the students a piece of her mind, the teacher never again saw the deviant behavior' dangling modifier ঠিক করে: যিনি বকেছেন সেই teacher-ই subject।",
+   "answer": "B",
+   "rule_ids": [
+    "dangling",
+    "voice"
+   ]
+  },
+  "1-20": {
+   "en": "'Debris' is uncountable and singular, so 'none of the debris has been cleared'.",
+   "bn": "'Debris' uncountable ও singular, তাই 'none of the debris has been cleared'।",
+   "answer": "B",
+   "rule_ids": [
+    "sv-agree"
+   ]
+  },
+  "1-21": {
+   "en": "'There is no denying that…' is the idiomatic pattern (no + -ing). 'Denial' does not fit it.",
+   "bn": "'There is no denying that…' স্বাভাবিক গঠন (no + -ing)। 'Denial' এখানে মেলে না।",
+   "answer": "A",
+   "rule_ids": [
+    "gerund"
+   ]
+  },
+  "1-22": {
+   "en": "'Ricardo failed to realize that … landlords … would make…': 'would' follows the past reporting verb 'failed'.",
+   "bn": "'Ricardo failed to realize that … landlords … would make…': past reporting verb 'failed'-এর পরে 'would'।",
+   "answer": "C",
+   "rule_ids": [
+    "modal",
+    "tense"
+   ]
+  },
+  "1-23": {
+   "en": "Use the adjective 'sure' before the noun: 'a sure sign of collusion'. 'Surely' is an adverb.",
+   "bn": "Noun-এর আগে adjective 'sure': 'a sure sign of collusion'। 'Surely' adverb।",
+   "answer": "B",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-24": {
+   "en": "'Jane had no time for others since she was too full of herself': 'since' gives the reason as a full clause.",
+   "bn": "'Jane had no time for others since she was too full of herself': 'since' পূর্ণ clause দিয়ে কারণ বোঝায়।",
+   "answer": "E",
+   "rule_ids": [
+    "conj"
+   ]
+  },
+  "1-25": {
+   "en": "'You should try and get some rest when you feel dizzy': the same condition expressed with 'when' and the present tense.",
+   "bn": "'You should try and get some rest when you feel dizzy': একই শর্ত 'when' ও present tense দিয়ে।",
+   "answer": "E",
+   "rule_ids": [
+    "conj"
+   ]
+  },
+  "3-1": {
+   "en": "Approach (argument): choose a side and defend it. Option: 'Uber has more benefits than costs.' Point 1: it gives commuters a safer, more convenient alternative where public transport is weak. Point 2: it creates income for drivers. Point 3 (concede): it may add vehicles, but many are already on the road as private cars. Point 4: congestion needs wider solutions (public transport, traffic management). Use your own experience as an example.\nUseful phrases: 'ride-hailing', 'last-mile connectivity', 'on balance'.\nAvoid: ignoring the other opinion.",
+   "bn": "পদ্ধতি (argument): একটি পক্ষ নিন এবং যুক্তি দিন। যেমন: 'Uber-এর সুবিধা ক্ষতির চেয়ে বেশি।' Point 1: যেখানে গণপরিবহন দুর্বল সেখানে নিরাপদ ও সুবিধাজনক বিকল্প। Point 2: চালকদের আয়। Point 3 (স্বীকার): যানবাহন বাড়াতে পারে, কিন্তু অনেক গাড়ি আগে থেকেই ব্যক্তিগত গাড়ি হিসেবে রাস্তায় ছিল। Point 4: যানজটের জন্য বড় সমাধান দরকার (গণপরিবহন, ট্রাফিক ব্যবস্থাপনা)। নিজের অভিজ্ঞতা উদাহরণ হিসেবে দিন।\nকাজের phrase: 'ride-hailing', 'last-mile connectivity', 'on balance'।\nএড়ান: অন্য মতটি উপেক্ষা করা।",
+   "rule_ids": [
+    "essay"
+   ]
+  },
+  "3-2": {
+   "en": "Approach (descriptive writing): name one industry (for example ICT/software, pharmaceuticals, leather, renewable energy or agro-processing) and justify it. Structure: (1) the choice and one headline fact. (2) Three reasons (demand, existing strengths, policy support). (3) What is needed (skills, infrastructure, finance). (4) Risks and a brief answer. Close with a forward-looking line.\nUseful phrases: 'export potential', 'value addition', 'competitive advantage'.\nAvoid: choosing several industries without depth.",
+   "bn": "পদ্ধতি (descriptive writing): একটি শিল্পের নাম নিন (যেমন ICT/software, pharmaceuticals, leather, renewable energy বা agro-processing) এবং যুক্তি দিন। কাঠামো: (1) পছন্দ ও একটি গুরুত্বপূর্ণ তথ্য। (2) তিনটি কারণ (চাহিদা, বিদ্যমান শক্তি, নীতিসহায়তা)। (3) কী লাগবে (দক্ষতা, অবকাঠামো, অর্থায়ন)। (4) ঝুঁকি ও সংক্ষিপ্ত উত্তর। ভবিষ্যৎমুখী একটি লাইন দিয়ে শেষ করুন।\nকাজের phrase: 'export potential', 'value addition', 'competitive advantage'।\nএড়ান: গভীরতা ছাড়া একাধিক শিল্প বাছা।",
+   "rule_ids": [
+    "essay"
+   ]
+  }
+ }
+}

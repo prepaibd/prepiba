@@ -1,0 +1,158 @@
+{
+ "sv-agree": {
+  "title_en": "Subject–verb agreement",
+  "title_bn": "Subject–verb agreement",
+  "body_en": "The verb agrees with the real subject, not the nearest noun. Each, every, either, neither, one of, none (formal) take a singular verb; 'a number of' is plural, 'the number of' is singular. Words between subject and verb do not change agreement.",
+  "body_bn": "Verb বসে আসল subject অনুযায়ী, কাছের noun অনুযায়ী নয়। Each, every, either, neither, one of, none (formal)-এর সাথে singular verb; 'a number of' plural, 'the number of' singular। Subject ও verb-এর মাঝের শব্দ agreement বদলায় না।"
+ },
+ "parallel": {
+  "title_en": "Parallelism",
+  "title_bn": "Parallelism",
+  "body_en": "Items in a list or comparison must have the same grammatical form: 'making fun of everything and creating chaos' (not 'and chaos creation'); 'to read and to write' or 'reading and writing'.",
+  "body_bn": "তালিকা বা তুলনার অংশগুলোর grammatical form একই হতে হবে: 'making fun of everything and creating chaos' ('and chaos creation' নয়); 'to read and to write' অথবা 'reading and writing'।"
+ },
+ "dangling": {
+  "title_en": "Dangling and misplaced modifiers",
+  "title_bn": "Dangling modifier",
+  "body_en": "A participle or infinitive phrase at the start of a sentence describes the subject of the main clause. 'Having been rejected, she…' works because she was rejected. 'To apply…, a doctor must…' fails because the doctor is not the applicant.",
+  "body_bn": "বাক্যের শুরুর participle বা infinitive phrase main clause-এর subject-কে বর্ণনা করে। 'Having been rejected, she…' ঠিক, কারণ সে-ই rejected। 'To apply…, a doctor must…' ভুল, কারণ doctor আবেদনকারী নন।"
+ },
+ "tense": {
+  "title_en": "Tenses and sequence of tenses",
+  "title_bn": "Tense ও sequence of tenses",
+  "body_en": "Present perfect (has/have + V3) links the past to now; past perfect (had + V3) marks the earlier of two past events. In a past-tense reporting clause, the other verbs move back (asked … how the merger would influence). Time words (since, for, already, yet) guide the choice.",
+  "body_bn": "Present perfect (has/have + V3) অতীতকে বর্তমানের সাথে যুক্ত করে; past perfect (had + V3) দুই অতীত ঘটনার আগেরটি বোঝায়। Past-tense reporting clause-এর পরে অন্য verb এক ধাপ পিছিয়ে যায় (asked … would influence)। since, for, already, yet-এর মতো সময়সূচক শব্দ সাহায্য করে।"
+ },
+ "prep-verb": {
+  "title_en": "Verb–preposition collocations",
+  "title_bn": "Verb + preposition",
+  "body_en": "Many verbs take a fixed preposition: congratulate someone ON, approve OF, depend ON, insist ON, pay heed TO, in search OF. Learn them as chunks, and watch out for look-alikes (searching FOR / in search OF, never 'in search for').",
+  "body_bn": "অনেক verb-এর সাথে নির্দিষ্ট preposition বসে: congratulate ON, approve OF, depend ON, insist ON, pay heed TO, in search OF। এগুলো একসাথে মুখস্থ করুন এবং সদৃশ ভুল এড়ান (searching FOR / in search OF, 'in search for' নয়)।"
+ },
+ "prep-noun": {
+  "title_en": "Prepositions after nouns and adjectives",
+  "title_bn": "Noun/adjective-এর পরে preposition",
+  "body_en": "Nouns and adjectives also take fixed prepositions: cause OF, reason FOR, exports OF, aware OF, capable OF, fond OF, different FROM, interested IN.",
+  "body_bn": "Noun ও adjective-এর পরেও নির্দিষ্ট preposition বসে: cause OF, reason FOR, exports OF, aware OF, capable OF, fond OF, different FROM, interested IN।"
+ },
+ "article": {
+  "title_en": "Articles and determiners",
+  "title_bn": "Article ও determiner",
+  "body_en": "Use 'a/an' for a non-specific singular countable noun, 'the' for something specific or unique, and no article for general plurals and uncountables. Use 'an' before a vowel SOUND.",
+  "body_bn": "অনির্দিষ্ট singular countable noun-এর আগে 'a/an', নির্দিষ্ট বা অনন্য কিছুর আগে 'the', আর সাধারণ plural ও uncountable-এর আগে কোনো article নয়। Vowel-এর ধ্বনির আগে 'an'।"
+ },
+ "pronoun": {
+  "title_en": "Pronouns: who, which, that and agreement",
+  "title_bn": "Pronoun: who, which, that",
+  "body_en": "Use 'who' for people, 'which' for things, 'that' for either (restrictive). A pronoun must agree with its antecedent in number and person and must clearly refer to one noun.",
+  "body_bn": "মানুষের জন্য 'who', বস্তুর জন্য 'which', আর restrictive অর্থে দুটির জন্যই 'that'। Pronoun তার antecedent-এর সাথে number ও person-এ মিলবে এবং স্পষ্টভাবে একটি noun-কে নির্দেশ করবে।"
+ },
+ "word-form": {
+  "title_en": "Word forms (derivations)",
+  "title_bn": "Word form",
+  "body_en": "Know the noun/verb/adjective/adverb family of a word: machine → machinery, machinate; agony → agonize; rational → rationalize, rationalization, rationale; human → humane, inhuman. Many 'forms' are not real words: check suffixes (-ize, -ation, -ive, -ous, -ly).",
+  "body_bn": "একটি শব্দের noun/verb/adjective/adverb পরিবার জানুন: machine → machinery, machinate; agony → agonize; rational → rationalize, rationalization, rationale; human → humane, inhuman। অনেক 'form' আসলে শব্দই নয়: suffix (-ize, -ation, -ive, -ous, -ly) যাচাই করুন।"
+ },
+ "confusable": {
+  "title_en": "Confusable words",
+  "title_bn": "বিভ্রান্তিকর শব্দ",
+  "body_en": "Look-alike adjectives and nouns carry different meanings: economic (of the economy) vs economical (thrifty); elder (older person, a title) vs elderly (aged); historic vs historical; continual vs continuous; principal vs principle.",
+  "body_bn": "দেখতে এক রকম শব্দের অর্থ আলাদা: economic (অর্থনীতি সংক্রান্ত) বনাম economical (মিতব্যয়ী); elder (বয়োজ্যেষ্ঠ) বনাম elderly (বয়স্ক); historic বনাম historical; continual বনাম continuous; principal বনাম principle।"
+ },
+ "idiom": {
+  "title_en": "Idioms and set phrases",
+  "title_bn": "Idiom ও set phrase",
+  "body_en": "Idioms cannot be changed word for word. Learn the whole phrase and its meaning (at an impasse = in a deadlock; steal someone's thunder = take the credit; jump on the bandwagon = follow a trend; a penny for your thoughts; to one's heart's content; much to the surprise of).",
+  "body_bn": "Idiom-এর শব্দ বদলানো যায় না। পুরো phrase ও অর্থ শিখুন (at an impasse = অচলাবস্থায়; steal someone's thunder = অন্যের কৃতিত্ব নেওয়া; jump on the bandwagon = জনপ্রিয় ধারা অনুসরণ করা; a penny for your thoughts; to one's heart's content; much to the surprise of)।"
+ },
+ "conj": {
+  "title_en": "Conjunctions and connectors",
+  "title_bn": "Conjunction ও connector",
+  "body_en": "Match the connector to the logic: though/although (contrast, never with 'but' in the same clause), because/since (reason), so/therefore (result), however/nevertheless (contrast between sentences), unless (negative condition).",
+  "body_bn": "Connector বসান যুক্তি অনুযায়ী: though/although (বিরোধ, একই clause-এ 'but' নয়), because/since (কারণ), so/therefore (ফল), however/nevertheless (বাক্যের মধ্যে বিরোধ), unless (নেতিবাচক শর্ত)।"
+ },
+ "modal": {
+  "title_en": "Modals and conditionals",
+  "title_bn": "Modal ও conditional",
+  "body_en": "Choose the modal by time and certainty: will/can (present or future facts), would/could (hypothetical or reported). Conditionals: if + present → will; if + past → would; if + past perfect → would have.",
+  "body_bn": "সময় ও নিশ্চয়তা অনুযায়ী modal বাছুন: will/can (বর্তমান বা ভবিষ্যৎ), would/could (কাল্পনিক বা reported)। Conditional: if + present → will; if + past → would; if + past perfect → would have।"
+ },
+ "compare": {
+  "title_en": "Comparatives and superlatives",
+  "title_bn": "Comparison",
+  "body_en": "Use -er/more for two, -est/most for three or more; 'than' with comparatives, 'as … as' for equality; do not double the comparison (more better); compare like with like.",
+  "body_bn": "দুটির জন্য -er/more, তিন বা তার বেশির জন্য -est/most; comparative-এর সাথে 'than', সমতার জন্য 'as … as'; দুবার comparison নয় (more better); সমজাতীয় জিনিসের সাথে তুলনা করুন।"
+ },
+ "gerund": {
+  "title_en": "Gerund, infinitive and participles",
+  "title_bn": "Gerund, infinitive, participle",
+  "body_en": "After prepositions use the -ing form (insist on going). After many verbs use either to-infinitive or gerund: decide to, enjoy -ing. A participial phrase ('Standing bewildered in the crowd, the child…') describes the subject.",
+  "body_bn": "Preposition-এর পরে -ing form (insist on going)। অনেক verb-এর পরে to-infinitive বা gerund: decide to, enjoy -ing। Participial phrase ('Standing bewildered in the crowd, the child…') subject-কে বর্ণনা করে।"
+ },
+ "redundancy": {
+  "title_en": "Redundancy and wordiness",
+  "title_bn": "অপ্রয়োজনীয় শব্দ",
+  "body_en": "Do not say the same thing twice (return back, repeat again, advance planning). Prefer the shorter correct form when two choices mean the same.",
+  "body_bn": "একই কথা দুবার বলবেন না (return back, repeat again, advance planning)। একই অর্থের দুটি বিকল্পে ছোট ও শুদ্ধটি বাছুন।"
+ },
+ "voice": {
+  "title_en": "Active and passive voice",
+  "title_bn": "Active ও passive voice",
+  "body_en": "Passive = be + V3 (was asked, has been known). Use it when the doer is unknown or unimportant; keep the same voice within a sentence.",
+  "body_bn": "Passive = be + V3 (was asked, has been known)। কর্তা অজানা বা গুরুত্বহীন হলে ব্যবহার করুন; এক বাক্যে voice একই রাখুন।"
+ },
+ "countable": {
+  "title_en": "Countable and uncountable nouns",
+  "title_bn": "Countable ও uncountable",
+  "body_en": "Many/few/number/fewer go with countable nouns; much/little/amount/less go with uncountable ones. 'Much' also works as an intensifier ('much to my surprise').",
+  "body_bn": "Many/few/number/fewer countable noun-এর সাথে; much/little/amount/less uncountable noun-এর সাথে। 'Much' intensifier হিসেবেও বসে ('much to my surprise')।"
+ },
+ "subjunctive": {
+  "title_en": "Subjunctive and unreal wishes",
+  "title_bn": "Subjunctive",
+  "body_en": "For unreal present situations use 'were' for all subjects (If I were you; I wish he were here); 'It is essential that he be present' (base verb after demand/suggest).",
+  "body_bn": "বাস্তবতাবিরোধী বর্তমান পরিস্থিতিতে সব subject-এর সাথে 'were' (If I were you; I wish he were here); 'It is essential that he be present' (demand/suggest-এর পরে base verb)।"
+ },
+ "rc-method": {
+  "title_en": "Reading comprehension method",
+  "title_bn": "Reading comprehension-এর পদ্ধতি",
+  "body_en": "Read the question first, then find the evidence line. The correct option paraphrases the passage; wrong options are too extreme, out of scope, or reverse a detail. For vocabulary-in-context, test the substitute in the sentence.",
+  "body_bn": "আগে প্রশ্ন পড়ুন, তারপর প্রমাণ-বাক্য খুঁজুন। সঠিক option passage-এর paraphrase; ভুল option হয় অতিরঞ্জিত, প্রসঙ্গের বাইরে, বা তথ্য উল্টে দেয়। Vocabulary-in-context-এ বিকল্পটি বাক্যে বসিয়ে দেখুন।"
+ },
+ "vocab": {
+  "title_en": "Vocabulary: meaning and context",
+  "title_bn": "Vocabulary ও context",
+  "body_en": "Decide from context first (positive/negative tone), then test word parts (prefix, root, suffix). Check collocations: stricken WITH grief, heed IS paid.",
+  "body_bn": "আগে context থেকে বুঝুন (ইতিবাচক/নেতিবাচক সুর), তারপর শব্দাংশ (prefix, root, suffix) পরীক্ষা করুন। Collocation মেলান: stricken WITH grief, heed paid TO।"
+ },
+ "essay": {
+  "title_en": "Essay and argument writing",
+  "title_bn": "Essay ও argument writing",
+  "body_en": "Plan 3–4 minutes: thesis → 2–3 supporting points with examples → conclusion. Keep paragraphs short, use linking words, and finish with time to proofread. For argument analysis, find the conclusion, list the assumptions and show how evidence could weaken them.",
+  "body_bn": "3–4 মিনিট পরিকল্পনা করুন: thesis → উদাহরণসহ 2–3টি supporting point → conclusion। ছোট paragraph, linking word ব্যবহার করুন এবং proofreading-এর সময় রাখুন। Argument analysis-এ conclusion খুঁজুন, assumption তালিকা করুন এবং দেখান কীভাবে প্রমাণ সেগুলোকে দুর্বল করতে পারে।"
+ },
+ "phrasal": {
+  "title_en": "Phrasal verbs",
+  "title_bn": "Phrasal verb",
+  "body_en": "Verb + particle changes meaning: look up (search in a reference), look at (direct your eyes), look for (search), go about (carry on), bring up (raise a topic). Learn the particle with the verb.",
+  "body_bn": "Verb + particle অর্থ বদলে দেয়: look up (অভিধানে খোঁজা), look at (তাকানো), look for (খোঁজা), go about (চালিয়ে যাওয়া), bring up (প্রসঙ্গ তোলা)। Verb-এর সাথে particle শিখুন।"
+ },
+ "collocation": {
+  "title_en": "Collocations",
+  "title_bn": "Collocation",
+  "body_en": "Some words simply go together: make a fuss, consists of, commensurate with, conducive to, in case you get. Choose the pair that native speakers use.",
+  "body_bn": "কিছু শব্দ একসাথেই বসে: make a fuss, consists of, commensurate with, conducive to, in case you get। Native speaker-রা যে জোড়া ব্যবহার করেন সেটি বাছুন।"
+ },
+ "antonym": {
+  "title_en": "Synonyms and antonyms",
+  "title_bn": "Synonym ও antonym",
+  "body_en": "Read the sentence tone first, then pick the word closest in meaning (or exactly opposite for antonyms). Use word roots (im-passive = without feeling, in-dolence = laziness) and eliminate near-synonyms.",
+  "body_bn": "আগে বাক্যের সুর বুঝুন, তারপর সবচেয়ে কাছের (বা সম্পূর্ণ বিপরীত) শব্দ বাছুন। শব্দের root কাজে লাগান (im-passive = অনুভূতিহীন, in-dolence = আলস্য) এবং কাছাকাছি অর্থের শব্দ বাদ দিন।"
+ },
+ "sequence-tense": {
+  "title_en": "Time expressions and tense",
+  "title_bn": "Time expression ও tense",
+  "body_en": "'For/since + a period up to now' needs present perfect (continuous): I have been looking for a job for a long time. 'Since when' + present perfect.",
+  "body_bn": "'For/since + এখন পর্যন্ত সময়' হলে present perfect (continuous): I have been looking for a job for a long time। 'Since when'-এর সাথে present perfect।"
+ }
+}

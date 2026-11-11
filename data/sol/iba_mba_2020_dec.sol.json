@@ -1,0 +1,291 @@
+{
+ "exam": "iba_mba_2020_dec",
+ "items": {
+  "1-1": {
+   "en": "b + d = 4a + 3 + 4c + 1 = 4(a + c + 1), a multiple of 4 that is at least 12. Among the options only 68 is a multiple of 4 (a + c = 16).",
+   "bn": "b + d = 4a + 3 + 4c + 1 = 4(a + c + 1), অর্থাৎ 4-এর গুণিতক এবং কমপক্ষে 12। Option-গুলোর মধ্যে শুধু 68, 4-এর গুণিতক (a + c = 16)।",
+   "answer": "C",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "1-2": {
+   "en": "ab²c³d⁴ > 0 forces a and c to have the same sign (b², d⁴ > 0). I and II depend on the unknown sign of d or b. III: (ac)³d² > 0 always. So III only.",
+   "bn": "ab²c³d⁴ > 0 হলে a ও c একই চিহ্নের (b², d⁴ > 0)। I ও II নির্ভর করে d বা b-এর অজানা চিহ্নের উপর। III: (ac)³d² > 0 সবসময়। তাই শুধু III।",
+   "answer": "C",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "1-3": {
+   "en": "125¹⁴ = 5⁴² and 48⁸ = 2³² × 3⁸. Each trailing zero needs one 2 and one 5, so the number of zeros = min(42, 32) = 32.",
+   "bn": "125¹⁴ = 5⁴² এবং 48⁸ = 2³² × 3⁸। প্রতিটি শেষের শূন্যের জন্য একটি 2 ও একটি 5 লাগে, তাই শূন্যের সংখ্যা = min(42, 32) = 32।",
+   "answer": "B",
+   "formula_ids": [
+    "numprop",
+    "exponents"
+   ]
+  },
+  "1-4": {
+   "en": "n ≡ 3 (mod 8) ⇒ 3n ≡ 9 ≡ 1 (mod 8). Remainder 1.",
+   "bn": "n ≡ 3 (mod 8) ⇒ 3n ≡ 9 ≡ 1 (mod 8)। ভাগশেষ 1।",
+   "answer": "A",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "1-5": {
+   "en": "Mod 15: 106 ≡ 1, 109 ≡ 4, 111 ≡ 6. Product ≡ 1 × 4 × 6 = 24 ≡ 9.",
+   "bn": "Mod 15-এ: 106 ≡ 1, 109 ≡ 4, 111 ≡ 6। গুণফল ≡ 1 × 4 × 6 = 24 ≡ 9।",
+   "answer": "D",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "1-6": {
+   "en": "f(−0.5) = 0 needs the expression to vanish at x = −0.5: 4x² − 1 = 4(0.25) − 1 = 0. The other options are 1, −4, −0.75, −2.25.",
+   "bn": "f(−0.5) = 0 হতে রাশিটি x = −0.5-এ শূন্য হতে হবে: 4x² − 1 = 4(0.25) − 1 = 0। অন্য option-গুলোর মান 1, −4, −0.75, −2.25।",
+   "answer": "C",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "1-7": {
+   "en": "With xy = 18, x and y are positive integers from (1, 18), (2, 9), (3, 6) and reverses. The maximum is always 20 and the minimum is always 1, so the range is 19.",
+   "bn": "xy = 18 হলে x, y ধনাত্মক integer: (1, 18), (2, 9), (3, 6) ও উল্টো জোড়া। সর্বোচ্চ সবসময় 20 এবং সর্বনিম্ন সবসময় 1, তাই range 19।",
+   "answer": "D",
+   "formula_ids": [
+    "average"
+   ]
+  },
+  "1-8": {
+   "en": "They flash together every LCM(120, 60, 90) = 360 s = 6 minutes: 8:30 + 6 min = 8:36.",
+   "bn": "তারা একসাথে জ্বলে প্রতি LCM(120, 60, 90) = 360 s = 6 মিনিটে: 8:30 + 6 মিনিট = 8:36।",
+   "answer": "D",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "1-9": {
+   "en": "Fuel = 20 × 14 = 280 room-days. With 15 rooms it lasts 280/15 = 18.67 days, so 4 extra FULL days (18 − 14).",
+   "bn": "জ্বালানি = 20 × 14 = 280 room-day। 15টি ঘরে চলবে 280/15 = 18.67 দিন, তাই 4টি অতিরিক্ত পূর্ণ দিন (18 − 14)।",
+   "answer": "B",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "1-10": {
+   "en": "Oil volume = 35% of 20 = 7 gallons, which is 40% of the tank. Capacity = 7/0.4 = 17.5 gallons.",
+   "bn": "তেলের আয়তন = 20-এর 35% = 7 gallon, যা tank-এর 40%। ধারণক্ষমতা = 7/0.4 = 17.5 gallon।",
+   "answer": "D",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "1-11": {
+   "en": "New price = 60. Equal revenue: 50n = 60(n − 4) ⇒ 10n = 240 ⇒ n = 24.",
+   "bn": "নতুন দাম = 60। সমান আয়: 50n = 60(n − 4) ⇒ 10n = 240 ⇒ n = 24।",
+   "answer": "E",
+   "formula_ids": [
+    "pct-change",
+    "algebra"
+   ]
+  },
+  "1-12": {
+   "en": "Cost of the first = 3200/1.2 = 2666.67; of the second = 3200/0.8 = 4000. Total cost 6666.67 vs selling 6400: loss 266.67, i.e. 4%.",
+   "bn": "প্রথমটির cost = 3200/1.2 = 2666.67; দ্বিতীয়টির = 3200/0.8 = 4000। মোট cost 6666.67, বিক্রি 6400: ক্ষতি 266.67, অর্থাৎ 4%।",
+   "answer": "C",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "1-13": {
+   "en": "Interest per year = 12.5% of principal, so equal to the principal after 100/12.5 = 8 years. 8 is not an option.",
+   "bn": "বছরে সুদ = মূলধনের 12.5%, তাই মূলধনের সমান হতে লাগে 100/12.5 = 8 বছর। 8 option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "interest"
+   ]
+  },
+  "1-14": {
+   "en": "P(at least one man) = 1 − C(8,3)/C(10,3) = 1 − 56/120 = 8/15.",
+   "bn": "P(অন্তত একজন পুরুষ) = 1 − C(8,3)/C(10,3) = 1 − 56/120 = 8/15।",
+   "answer": "E",
+   "formula_ids": [
+    "probability",
+    "combinatorics"
+   ]
+  },
+  "1-15": {
+   "en": "Sides 3k and 2k: 6k² = 150 ⇒ k = 5, so 15 and 10. Perimeter = 50 cm, not among the options.",
+   "bn": "বাহু 3k ও 2k: 6k² = 150 ⇒ k = 5, তাই 15 ও 10। পরিসীমা = 50 cm, option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "1-16": {
+   "en": "Right triangle with legs b and c (a is the hypotenuse): ½bc = 3 ⇒ bc = 6. Since b > c, b² > 6, so b > √6 (and b can be arbitrarily large).",
+   "bn": "সমকোণী ত্রিভুজের লম্ব দুটি b ও c (a অতিভুজ): ½bc = 3 ⇒ bc = 6। b > c হওয়ায় b² > 6, তাই b > √6 (এবং b যত খুশি বড় হতে পারে)।",
+   "answer": "A",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "1-17": {
+   "en": "Rates per hour: A = 6, B = 0.5, C = 2.75. First 12 h (B + C): 12 × 3.25 = 39. Next 6 h (A + B): 6 × 6.5 = 39. Last 12 h (A + C): 12 × 8.75 = 105. Total 183.",
+   "bn": "প্রতি ঘণ্টায় হার: A = 6, B = 0.5, C = 2.75। প্রথম 12 ঘণ্টা (B + C): 12 × 3.25 = 39। পরের 6 ঘণ্টা (A + B): 6 × 6.5 = 39। শেষ 12 ঘণ্টা (A + C): 12 × 8.75 = 105। মোট 183।",
+   "answer": "B",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "1-18": {
+   "en": "Two pens cost 1 + 0.6 = Tk. 1.6. With Tk. 80 she can buy 80/1.6 = 50 pairs = 100 pens.",
+   "bn": "দুটি কলমের দাম 1 + 0.6 = Tk. 1.6। Tk. 80-তে সে 80/1.6 = 50 জোড়া = 100টি কলম কিনতে পারে।",
+   "answer": "B",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "1-19": {
+   "en": "Sesame = 1.6 oz. Add x: (1.6 + x)/(16 + x) = 0.2 ⇒ 0.8x = 1.6 ⇒ x = 2 ounces.",
+   "bn": "Sesame = 1.6 oz। x যোগ করলে: (1.6 + x)/(16 + x) = 0.2 ⇒ 0.8x = 1.6 ⇒ x = 2 ounce।",
+   "answer": "C",
+   "formula_ids": [
+    "mixture"
+   ]
+  },
+  "1-20": {
+   "en": "At 30 days (30% off): 0.7P = 252 ⇒ P = 360. One day later is 29 days (15% off): 0.85 × 360 = 306. So she bought 30 days in advance.",
+   "bn": "30 দিন আগে (30% ছাড়): 0.7P = 252 ⇒ P = 360। এক দিন পরে মানে 29 দিন আগে (15% ছাড়): 0.85 × 360 = 306। তাই সে 30 দিন আগে কিনেছিল।",
+   "answer": "B",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "1-21": {
+   "en": "Males 60, males liking games 40. Total liking games 70 ⇒ 30 females like games, leaving 10 of 40 females who must like music: 25%, not among the options.",
+   "bn": "পুরুষ 60, games পছন্দ করে এমন পুরুষ 40। মোট games পছন্দ 70 ⇒ 30 জন নারী games পছন্দ করে, বাকি 40-এর মধ্যে 10 জন music পছন্দ করে: 25%, যা option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "sets"
+   ]
+  },
+  "1-22": {
+   "en": "The printed stem 'If x and y are positive integers, is odd?' has no subject, so the question cannot be answered as printed.",
+   "bn": "ছাপা প্রশ্ন 'If x and y are positive integers, is odd?'-এর কোনো subject নেই, তাই ছাপা অনুযায়ী প্রশ্নটির উত্তর দেওয়া যায় না।",
+   "formula_ids": [
+    "ds-method",
+    "numprop"
+   ],
+   "note": "The printed stem has no subject ('is odd?'), so no answer is asserted."
+  },
+  "1-23": {
+   "en": "(1) 3q odd: q = 1 (integer) or q = 1/3 (not integer): not sufficient. (2) 2q is an even integer, so q is an integer: sufficient. Answer B (statement 2 alone).",
+   "bn": "(1) 3q বিজোড়: q = 1 (integer) বা q = 1/3 (integer নয়): যথেষ্ট নয়। (2) 2q একটি জোড় integer, তাই q integer: যথেষ্ট। উত্তর B (শুধু statement 2)।",
+   "answer": "B",
+   "formula_ids": [
+    "ds-method",
+    "numprop"
+   ]
+  },
+  "2-24": {
+   "en": "Place the fixed facts: IV–Rakib–A, VI–Asif–E, VII–F, III–Tazul (not C, D). Tushar takes B but not panel I or II, so panel V. Mahzabin is panel I (not C), leaving D for panel I and G for panel III; Panel II gets C and Sadib, and Mahmood goes to VII. Panel II → company C.",
+   "bn": "নির্দিষ্ট তথ্য বসান: IV–Rakib–A, VI–Asif–E, VII–F, III–Tazul (C, D নয়)। Tushar B নেয় কিন্তু panel I বা II নয়, তাই panel V। Mahzabin panel I (C নয়), তাই I-এ D এবং III-এ G; Panel II-এ C ও Sadib, আর Mahmood VII-এ। Panel II → company C।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-25": {
+   "en": "From the full arrangement, Tushar (company B) is on panel V.",
+   "bn": "সম্পূর্ণ বিন্যাস থেকে Tushar (company B) panel V-তে।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-26": {
+   "en": "Mahzabin is on panel I, and the only company left for panel I (not C) is D.",
+   "bn": "Mahzabin panel I-এ, এবং panel I-এর জন্য (C নয়) বাকি একমাত্র company D।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-27": {
+   "en": "Company C belongs to panel II, whose candidate is Sadib.",
+   "bn": "Company C panel II-এর, যার candidate Sadib।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-28": {
+   "en": "The full arrangement: I Mahzabin–D, II Sadib–C, III Tazul–G, IV Rakib–A, V Tushar–B, VI Asif–E, VII Mahmood–F. Only 'Mahmood–VII' is true.",
+   "bn": "সম্পূর্ণ বিন্যাস: I Mahzabin–D, II Sadib–C, III Tazul–G, IV Rakib–A, V Tushar–B, VI Asif–E, VII Mahmood–F। শুধু 'Mahmood–VII' সত্য।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-29": {
+   "en": "The guidelines require vegetables in every meal. The board removed fried potatoes (a vegetable) and added fruit, which is not a vegetable. So it is not following the guidelines.",
+   "bn": "Guideline অনুযায়ী প্রতিটি meal-এ vegetable থাকতে হবে। board fried potatoes (একটি vegetable) বাদ দিয়ে ফল যোগ করেছে, যা vegetable নয়। তাই তারা guideline মানছে না।",
+   "answer": "C",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "2-30": {
+   "en": "Premise: buying lottery tickets is gambling. Conclusion: public officials shouldn't buy tickets. The missing link is that public officials shouldn't gamble.",
+   "bn": "Premise: lottery ticket কেনা জুয়া। Conclusion: সরকারি কর্মকর্তাদের ticket কেনা উচিত নয়। অনুপস্থিত যোগসূত্র: সরকারি কর্মকর্তাদের জুয়া খেলা উচিত নয়।",
+   "answer": "C",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "3-31": {
+   "en": "The passage presents invisible theater and guerrilla theater, two forms of street theater with similar origins but different approaches: a discussion of two different but aligned artistic currents. It does not rank them, summarise theater history, or say both conceal performance.",
+   "bn": "Passage দুটি street theater-কে তুলে ধরে (সমান উৎস, ভিন্ন পদ্ধতি): দুটি ভিন্ন কিন্তু সংযুক্ত শিল্পধারার আলোচনা। এটি তাদের মধ্যে তুলনামূলক ক্রম, theater-এর ইতিহাস বা দুটিই performance লুকায় এমন কথা বলে না।",
+   "answer": "A",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "3-32": {
+   "en": "A is true: invisible theater instigates political conversation and guerrilla theater aims to get people talking publicly. B is true: both take place in public places (the performance space is imposed on a public location). C is false: only guerrilla theater tends to antagonise its audience.",
+   "bn": "A সত্য: invisible theater রাজনৈতিক আলোচনা উসকে দেয় এবং guerrilla theater মানুষকে প্রকাশ্যে আলোচনায় আনতে চায়। B সত্য: দুটিই জনপরিসরে ঘটে (performance space জনস্থানে চাপিয়ে দেওয়া হয়)। C মিথ্যা: শুধু guerrilla theater দর্শককে বিরক্ত করার প্রবণতা রাখে।",
+   "answer": "A and B",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "3-33": {
+   "en": "The professors protested the university granting Reagan an honorary doctorate by mock-awarding diplomas to the least able: they implied the honour demeaned the university's intellectual standards.",
+   "bn": "Professor-রা Reagan-কে honorary doctorate দেওয়ার প্রতিবাদে সবচেয়ে অযোগ্যদের মধ্যে diploma বিতরণের নাটক করেন: ইঙ্গিত, সম্মাননাটি বিশ্ববিদ্যালয়ের বুদ্ধিবৃত্তিক মানকে খাটো করেছে।",
+   "answer": "C",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "3-34": {
+   "en": "Invisible theater relies on people not knowing it is a performance, so they engage freely. A weakens it (knowing viewers engage more) and C weakens it (scripted dialogue kills real debate). B supports it (they never realised it was theater).",
+   "bn": "Invisible theater-এর মূল ভিত্তি হলো মানুষ জানে না এটি নাটক, তাই মুক্তভাবে অংশ নেয়। A এটিকে দুর্বল করে (জেনে দেখলে বেশি অংশগ্রহণ) এবং C দুর্বল করে (scripted সংলাপ আসল বিতর্ক থামিয়ে দেয়)। B সমর্থন করে (তারা কখনো বুঝতেই পারেনি এটি নাটক)।",
+   "answer": "A and C",
+   "rule_ids": [
+    "rc-method",
+    "cr-method"
+   ]
+  },
+  "3-35": {
+   "en": "I is supported (people feel free to engage as if real). III is supported (non-performers taking action in response to the drama is documented as success). II is not: invisible theater is scripted, not simply improvisation.",
+   "bn": "I সমর্থিত (মানুষ বাস্তব মনে করে মুক্তভাবে অংশ নেয়)। III সমর্থিত (নাটকের প্রতিক্রিয়ায় দর্শকের পদক্ষেপ সাফল্য হিসেবে নথিভুক্ত)। II নয়: invisible theater scripted, শুধু improvisation নয়।",
+   "answer": "C",
+   "rule_ids": [
+    "rc-method"
+   ]
+  }
+ }
+}

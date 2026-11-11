@@ -1,0 +1,2369 @@
+{
+  "exam": {
+    "institute": "IBA (DU)",
+    "program": "MBA",
+    "session": "June 2017",
+    "source_pdf": "iba_mba_June_2017.pdf",
+    "parts_marks": {
+      "mcq": 70,
+      "writing": 30
+    }
+  },
+  "parts": [
+    {
+      "part_label": "Part I: Multiple Choice Questions [70 marks]",
+      "sections": [
+        {
+          "section_no": 1,
+          "source_section_label": "Section 1: Language and Communication",
+          "subject": "language",
+          "groups": [
+            {
+              "source_group_label": "Question 1 to 6: Fill in the Gaps",
+              "instruction": "Select the most appropriate word(s) / phase(s) to fill in the gaps.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "fill-blank",
+                  "stem": "1. An issue that poses a major challenge to the ____ to healthcare by poor people in Bangladesh ____ costs of common, over the counter medicines.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "exposure, are the rising"
+                    },
+                    {
+                      "label": "B",
+                      "text": "inclusion, is the raising"
+                    },
+                    {
+                      "label": "C",
+                      "text": "access, is the spiraling"
+                    },
+                    {
+                      "label": "D",
+                      "text": "access, are the spiraling"
+                    },
+                    {
+                      "label": "E",
+                      "text": "availability, is the dwindling"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"Access to healthcare\" fits the first blank, and the singular subject \"an issue ... is the spiraling costs\" requires \"is\", so C.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "fill-blank",
+                  "stem": "2. _ the businessmen have welcomed the move, there has been strong _ from many quarters.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "While, opposition"
+                    },
+                    {
+                      "label": "B",
+                      "text": "When, rivalry"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Though, approval"
+                    },
+                    {
+                      "label": "D",
+                      "text": "In spite of, non-cooperation"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The two clauses contrast (welcome vs. resistance), so \"While ... opposition\" fits.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "fill-blank",
+                  "stem": "3. As well as ____ immeasurable suffering, violent crime is a big ____ to economic development",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "imposing, impediment"
+                    },
+                    {
+                      "label": "B",
+                      "text": "creating, hurdle"
+                    },
+                    {
+                      "label": "C",
+                      "text": "waning, exacerbation"
+                    },
+                    {
+                      "label": "D",
+                      "text": "inflicting, obstacle"
+                    },
+                    {
+                      "label": "E",
+                      "text": "causing, trigger"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "One \"inflicts\" suffering, and crime is an \"obstacle\" to development: D.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "fill-blank",
+                  "stem": "4. ____ loyalty to an idea is easier than ____ on its implications.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Displaying, foregoing"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Professing, acting"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Exhibiting, working"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Confessing, partaking"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Feigning, handling"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"Professing loyalty\" (declaring it) contrasts with \"acting on its implications\": B.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 5,
+                  "question_type": "fill-blank",
+                  "stem": "5. The coach repeatedly reminded his star performers not to be ____ about their superior performance.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "lackluster"
+                    },
+                    {
+                      "label": "B",
+                      "text": "vain"
+                    },
+                    {
+                      "label": "C",
+                      "text": "banal"
+                    },
+                    {
+                      "label": "D",
+                      "text": "earnest"
+                    },
+                    {
+                      "label": "E",
+                      "text": "scrupulous"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Not to be \"vain\" (conceited) about superior performance fits.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 6,
+                  "question_type": "fill-blank",
+                  "stem": "6. While filling up the survey, he was very open and ____ in revealing his feelings about the organization's compensation program.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "astute"
+                    },
+                    {
+                      "label": "B",
+                      "text": "incredulous"
+                    },
+                    {
+                      "label": "C",
+                      "text": "devious"
+                    },
+                    {
+                      "label": "D",
+                      "text": "candid"
+                    },
+                    {
+                      "label": "E",
+                      "text": "virile"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Open and candid\" (frank) collocate naturally.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 7 to 13: Usage of Grammar",
+              "instruction": "For each sentence, replace the underlined parts with the option that represents the most proper usage of grammar. Choice A is the same as the underlined portion of the original sentence. If you think the original sentence is the best, choose option A.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 7,
+                  "question_type": "sentence-correction",
+                  "stem": "7. You must better wait for the instructions before starting the examination.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "You must better wait"
+                    },
+                    {
+                      "label": "B",
+                      "text": "You must rather wait"
+                    },
+                    {
+                      "label": "C",
+                      "text": "You had rather wait"
+                    },
+                    {
+                      "label": "D",
+                      "text": "You had rather waited"
+                    },
+                    {
+                      "label": "E",
+                      "text": "You had better wait"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The idiom is \"had better\" + base verb: \"You had better wait\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 8,
+                  "question_type": "sentence-correction",
+                  "stem": "8. The teacher explained to the fifth graders that they should start becoming more independent and stop expecting their parents to constantly await on them.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "await on"
+                    },
+                    {
+                      "label": "B",
+                      "text": "wait for"
+                    },
+                    {
+                      "label": "C",
+                      "text": "await"
+                    },
+                    {
+                      "label": "D",
+                      "text": "wait on"
+                    },
+                    {
+                      "label": "E",
+                      "text": "await for"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Wait on\" means to serve someone, which is the intended sense.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 9,
+                  "question_type": "sentence-correction",
+                  "stem": "9. I was scared over my wit by her sudden appearance.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "over my wit"
+                    },
+                    {
+                      "label": "B",
+                      "text": "over my wits"
+                    },
+                    {
+                      "label": "C",
+                      "text": "out by my wits"
+                    },
+                    {
+                      "label": "D",
+                      "text": "out of my wits"
+                    },
+                    {
+                      "label": "E",
+                      "text": "at my wit"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "The idiom is \"scared out of my wits\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 10,
+                  "question_type": "sentence-correction",
+                  "stem": "10. I have decide taking up golf this weekend.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "I have decide taking up golf"
+                    },
+                    {
+                      "label": "B",
+                      "text": "I have decided taking on golf"
+                    },
+                    {
+                      "label": "C",
+                      "text": "I have decide taking golf"
+                    },
+                    {
+                      "label": "D",
+                      "text": "I have decided to take up golf"
+                    },
+                    {
+                      "label": "E",
+                      "text": "I have decided taking golfing"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Decided\" takes the infinitive: \"decided to take up golf\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 11,
+                  "question_type": "sentence-correction",
+                  "stem": "11. I tried to explain to my colleague that the fight was not worth getting involved in.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "was not worth getting involved in"
+                    },
+                    {
+                      "label": "B",
+                      "text": "was not worth involving"
+                    },
+                    {
+                      "label": "C",
+                      "text": "was not worthy of involving"
+                    },
+                    {
+                      "label": "D",
+                      "text": "was not worth getting involvement"
+                    },
+                    {
+                      "label": "E",
+                      "text": "was not worthy involvement"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Worth\" is followed by a gerund; \"not worth getting involved in\" is correct, so the original (A) is best.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 12,
+                  "question_type": "sentence-correction",
+                  "stem": "12. He was aggrieved as his name not found in the list of contributors.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "was aggrieved as his name not found"
+                    },
+                    {
+                      "label": "B",
+                      "text": "was aggrieved not finding his name"
+                    },
+                    {
+                      "label": "C",
+                      "text": "was aggrieved as his name couldn't found"
+                    },
+                    {
+                      "label": "D",
+                      "text": "was aggrieved at not having find his name"
+                    },
+                    {
+                      "label": "E",
+                      "text": "was aggrieved at not having found his name"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "\"Aggrieved at\" plus the perfect gerund \"not having found\" is correct: E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 13,
+                  "question_type": "sentence-correction",
+                  "stem": "13. Yesterday, despite several attempts, I could find no better solution to the problem.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "could find no better solution"
+                    },
+                    {
+                      "label": "B",
+                      "text": "could find any better solution"
+                    },
+                    {
+                      "label": "C",
+                      "text": "can find any better solution"
+                    },
+                    {
+                      "label": "D",
+                      "text": "could found no better solution"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Yesterday\" needs past tense and \"could find no better solution\" is correct; the original (A) is best.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 14 to 16: Error identification",
+              "instruction": "Underlined parts of the following sentences may contain error. Choose the underlined portion that contains error. If there is no error select (E).",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 14,
+                  "question_type": "error-identification",
+                  "stem": "14. Diamond's principle (A) value has nothing to do (B) with science; they have (C) long been revered for (D) their beauty. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "principle"
+                    },
+                    {
+                      "label": "B",
+                      "text": "has nothing to do"
+                    },
+                    {
+                      "label": "C",
+                      "text": "they have"
+                    },
+                    {
+                      "label": "D",
+                      "text": "revered for"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "(A) should be \"principal\" (the adjective, chief) not \"principle\" (a rule/noun).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 15,
+                  "question_type": "error-identification",
+                  "stem": "15. Because the company controls (A) just one-third of market (B), any production cuts have (C) limited effect (D) on total supply. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "controls"
+                    },
+                    {
+                      "label": "B",
+                      "text": "one-third of market"
+                    },
+                    {
+                      "label": "C",
+                      "text": "have"
+                    },
+                    {
+                      "label": "D",
+                      "text": "limited effect"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "(B) needs the article: \"one-third of the market\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 16,
+                  "question_type": "error-identification",
+                  "stem": "16. In an (A) economy awash with (B) abundant cheap labour, firms face (C) too little pressure to invest on (D) labour-saving technologies. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "In an"
+                    },
+                    {
+                      "label": "B",
+                      "text": "awash with"
+                    },
+                    {
+                      "label": "C",
+                      "text": "firms face"
+                    },
+                    {
+                      "label": "D",
+                      "text": "invest on"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "The idiom is \"invest in\", not \"invest on\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 17 to 21: Passage Completion",
+              "instruction": "For each sentence, identify which underlined section is incorrect otherwise,",
+              "stimulus": {
+                "passage": "Global strategies to control (17) ____ diseases have historically included the erection of barriers to international travel and (18) ____. Keeping people with such deadly diseases outside national borders has (19) ____ as an important public health policy in the Human Immunodeficiency Virus (HIV) epidemic. Between 29 and 50 countries (20) ____ to have introduced border restrictions on HIV-positive foreigners, usually those planning an (21) ____ stay in the country such as students, workers, or seamen.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 17,
+                  "question_type": "passage-completion",
+                  "stem": "17.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "infectious"
+                    },
+                    {
+                      "label": "B",
+                      "text": "defective"
+                    },
+                    {
+                      "label": "C",
+                      "text": "infective"
+                    },
+                    {
+                      "label": "D",
+                      "text": "prolonged"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Infectious diseases\" is the standard collocation for diseases that spread.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 18,
+                  "question_type": "passage-completion",
+                  "stem": "18.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "emigration"
+                    },
+                    {
+                      "label": "B",
+                      "text": "immigrate"
+                    },
+                    {
+                      "label": "C",
+                      "text": "immigration"
+                    },
+                    {
+                      "label": "D",
+                      "text": "migration"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Barriers to travel and \"immigration\" (coming into a country) fit the public-health control context.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 19,
+                  "question_type": "passage-completion",
+                  "stem": "19.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "reemerged"
+                    },
+                    {
+                      "label": "B",
+                      "text": "merged"
+                    },
+                    {
+                      "label": "C",
+                      "text": "returned"
+                    },
+                    {
+                      "label": "D",
+                      "text": "restrained"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Page image options: reemerged, merged, returned, restrained, None. \"Keeping people ... outside national borders has reemerged as an important public health policy in the HIV epidemic\" - the policy appeared again. \"Returned\" would need \"has returned to being\"; merged and restrained do not fit. Answer A.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 20,
+                  "question_type": "passage-completion",
+                  "stem": "20.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "reports"
+                    },
+                    {
+                      "label": "B",
+                      "text": "is reported"
+                    },
+                    {
+                      "label": "C",
+                      "text": "are reported"
+                    },
+                    {
+                      "label": "D",
+                      "text": "are"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The plural subject \"countries\" takes \"are reported to have introduced\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 21,
+                  "question_type": "passage-completion",
+                  "stem": "21.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "intended"
+                    },
+                    {
+                      "label": "B",
+                      "text": "extended"
+                    },
+                    {
+                      "label": "C",
+                      "text": "unplanned"
+                    },
+                    {
+                      "label": "D",
+                      "text": "interest"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Students, workers and seamen plan an \"extended\" (long) stay, which is why restrictions target them.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 22 to 26: Word Substitution",
+              "instruction": "Select the word that is similar in meaning to the underlined word/ phrase.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 22,
+                  "question_type": "synonym",
+                  "stem": "22. I could not wait to have my findings confirmed by my supervisor.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "examined"
+                    },
+                    {
+                      "label": "B",
+                      "text": "reviewed"
+                    },
+                    {
+                      "label": "C",
+                      "text": "validated"
+                    },
+                    {
+                      "label": "D",
+                      "text": "analyzed"
+                    },
+                    {
+                      "label": "E",
+                      "text": "highlighted"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"Confirmed\" is closest to \"validated\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 23,
+                  "question_type": "synonym",
+                  "stem": "23. I was not sure about going to the party since I hardly knew anyone there.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "fastidious"
+                    },
+                    {
+                      "label": "B",
+                      "text": "vacuous"
+                    },
+                    {
+                      "label": "C",
+                      "text": "restless"
+                    },
+                    {
+                      "label": "D",
+                      "text": "ambivalent"
+                    },
+                    {
+                      "label": "E",
+                      "text": "averse"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Not sure\" (of two minds) matches \"ambivalent\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 24,
+                  "question_type": "synonym",
+                  "stem": "24. You should have notified me without delay upon arrival of the guest.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "expressly"
+                    },
+                    {
+                      "label": "B",
+                      "text": "duly"
+                    },
+                    {
+                      "label": "C",
+                      "text": "promptly"
+                    },
+                    {
+                      "label": "D",
+                      "text": "explicitly"
+                    },
+                    {
+                      "label": "E",
+                      "text": "clearly"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"Without delay\" means \"promptly\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 25,
+                  "question_type": "synonym",
+                  "stem": "25. It is not correct to judge someone based on generalized social conceptions.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "stereotypes"
+                    },
+                    {
+                      "label": "B",
+                      "text": "intuition"
+                    },
+                    {
+                      "label": "C",
+                      "text": "imagination"
+                    },
+                    {
+                      "label": "D",
+                      "text": "discrimination"
+                    },
+                    {
+                      "label": "E",
+                      "text": "tradition"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Generalized social conceptions\" are \"stereotypes\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 26,
+                  "question_type": "synonym",
+                  "stem": "26. I was rather impressed by her immaculate presentation.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "energetic"
+                    },
+                    {
+                      "label": "B",
+                      "text": "flawless"
+                    },
+                    {
+                      "label": "C",
+                      "text": "confident"
+                    },
+                    {
+                      "label": "D",
+                      "text": "sincere"
+                    },
+                    {
+                      "label": "E",
+                      "text": "impromptu"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"Immaculate\" means spotless/\"flawless\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 27 to 30: Reading Paragraph",
+              "instruction": "Read the following paragraph and answer the questions.",
+              "stimulus": {
+                "passage": "Demographic dividend is the surge in economic growth that may result from a decline in a country's mortality and fertility and the subsequent change in the age structure of the population. This decline is often accompanied by an increase in average life expectancy, which increases the size of the working-age population. In other words, it is a boost in economic productivity that occurs when there are growing numbers of people in the workforce relative to the number of dependents.\n\nBangladesh has experienced a dramatic decline in fertility and mortality during the last four decades. During the same period, life expectancy at birth has increased, thereby producing a huge shift in age structure of the population. Dependents per 100 working population declined from over 100 in 1961 to 60 in 2010. This has created a window of economic opportunity that can be expressed as demographic dividend of Bangladesh.\n\nDemographic dividend helps to provide an opportunity to improve living standards through increased capital formulation, savings and investment, female participation in labor force, improved quality of labor force and increased demand of goods and services. But the opportunity and the reality are not synonymous. For translating this opportunity into reality, the benefits of 'demographic dividend', must not be understood only in terms of additional number of jobs created. Creation of higher productivity jobs, intermediation of savings of the existing working-age population for investment in infrastructure and institutions, creation of greater opportunities for female labor force etc matter here.\n\nIt also important to take into cognizance that this dividend will not last for long as the experience of other countries has shown. The current bulge in the country's working-age population will eventually transform into a bulge in the elderly population within the next one decade or so and an ageing population scenario will emerge that requires huge resources to look after needs of the elderly. Policymakers and social scientist optimistically discuss the demographic dividend as if the benefits are imminent and within grasp. However, many developing countries, including Bangladesh, will not be able to achieve these economic benefits without appropriate politics and substantial investment in a number of areas.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 27,
+                  "question_type": "reading-comp",
+                  "stem": "27. The demographic dividend can basically be expressed as the opportunity arising from:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "A fall in the number of children expected to survive upon birth in a population."
+                    },
+                    {
+                      "label": "B",
+                      "text": "A fall in the ratio of the dependent population to the working population."
+                    },
+                    {
+                      "label": "C",
+                      "text": "A fall in the ratio of the working population to the non-working population."
+                    },
+                    {
+                      "label": "D",
+                      "text": "A reduction in life expectancy."
+                    },
+                    {
+                      "label": "E",
+                      "text": "A bulge in the elderly age group of the population."
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The passage defines it via dependents per 100 working people falling (from 100 to 60), i.e. a fall in the dependent-to-working ratio.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 28,
+                  "question_type": "reading-comp",
+                  "stem": "28. In order to reap the benefits of the demographic dividend, we must ensure all of the following EXCEPT:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "A flow of savings into productive investment"
+                    },
+                    {
+                      "label": "B",
+                      "text": "More opportunities for female worker"
+                    },
+                    {
+                      "label": "C",
+                      "text": "A greater propensity to save among the working age population"
+                    },
+                    {
+                      "label": "D",
+                      "text": "A focus on quantity of jobs created as opposed to their quality"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Sound policy formulation"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "The passage warns against understanding benefits \"only in terms of additional number of jobs\" and stresses higher-productivity jobs, so prioritising quantity over quality (D) is the exception.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 29,
+                  "question_type": "reading-comp",
+                  "stem": "29. It is important to utilize the demographic dividend fast because otherwise:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Other countries may take advantage of our dividend before we do."
+                    },
+                    {
+                      "label": "B",
+                      "text": "There might soon be an increase in the crude birth rate of the population."
+                    },
+                    {
+                      "label": "C",
+                      "text": "The aging of the current working population can cause another population shift which we are not equipped to deal with."
+                    },
+                    {
+                      "label": "D",
+                      "text": "Increasing participation of women in the labor force can lead to a rise in fertility rate."
+                    },
+                    {
+                      "label": "E",
+                      "text": "The average life expectancy of the population may take a turn for the worse."
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The passage says the working-age bulge will soon become an elderly bulge needing huge resources — an ageing shift we are unprepared for.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 30,
+                  "question_type": "reading-comp",
+                  "stem": "30. All of the following are true of the demographic dividend, EXCEPT,",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "It can facilities a period of robust economic growth."
+                    },
+                    {
+                      "label": "B",
+                      "text": "It opens a window of opportunity for better utilization of the working population."
+                    },
+                    {
+                      "label": "C",
+                      "text": "It is naturally occurring phenomenon which will produce sure economic benefits with or without policy support."
+                    },
+                    {
+                      "label": "D",
+                      "text": "It is transitory phenomenon."
+                    },
+                    {
+                      "label": "E",
+                      "text": "It can generate higher demand for goods and services and therefore have positive multiplier effects on economic growth."
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The passage stresses that benefits are NOT guaranteed without appropriate policy and investment, so C (sure benefits with or without policy) is false.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 2,
+          "source_section_label": "Section 2: Problem Solving and Analytical Ability",
+          "subject": "mathematics",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 31,
+                  "question_type": "problem-solving",
+                  "stem": "31. If x is decreased from 2 to -2, which of the following must increase?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$2 + x$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$5 - x^{2}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$1 + \\frac{1}{x}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{1}{(x-3)}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "As $x$ falls from 2 to $-2$, $x-3$ goes from $-1$ to $-5$ and $\\frac{1}{x-3}$ rises from $-1$ to $-0.2$ (monotonically increasing). The others decrease or are non-monotonic/undefined.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 32,
+                  "question_type": "problem-solving",
+                  "stem": "32. In a class of 25 students, 10 have less than 6 marbles, 10 have more than 7 marbles and 4 have more than 8 marbles. How many students have more than 5 marbles but less than 9 marbles?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "10"
+                    },
+                    {
+                      "label": "B",
+                      "text": "11"
+                    },
+                    {
+                      "label": "C",
+                      "text": "12"
+                    },
+                    {
+                      "label": "D",
+                      "text": "13"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Students with 6 or 7 marbles $=25-10(\\le5)-10(\\ge8)=5$. Students with exactly 8 $=10(\\ge8)-4(\\ge9)=6$. So 6, 7 or 8 marbles $=5+6=11$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 33,
+                  "question_type": "problem-solving",
+                  "stem": "33. A jogger running at 9 kmph alongside a railway track is 240 metres ahead of the engine of a 120 metres long train running at 45 kmph in the same direction. In how much time will be the train pass the jogger?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "3.6 sec"
+                    },
+                    {
+                      "label": "B",
+                      "text": "18 sec"
+                    },
+                    {
+                      "label": "C",
+                      "text": "36 sec"
+                    },
+                    {
+                      "label": "D",
+                      "text": "72 sec"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Relative speed $=45-9=36$ kmph $=10$ m/s. The train covers the $240+120=360$ m gap-plus-length in $360/10=36$ seconds.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 34,
+                  "question_type": "problem-solving",
+                  "stem": "34. Arif sold 100 pens, of which 50 are red and 50 are black, at tk. 48 per pen. He made a profit of 20% on the black pens and made a loss of 20% on the red pens. What was the net gain on this sale in tk.?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "0"
+                    },
+                    {
+                      "label": "B",
+                      "text": "-50"
+                    },
+                    {
+                      "label": "C",
+                      "text": "-100"
+                    },
+                    {
+                      "label": "D",
+                      "text": "-200"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Black CP $=48/1.2=40$ (profit 8 each $\\to +400$); red CP $=48/0.8=60$ (loss 12 each $\\to -600$). Net $=400-600=-200$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 35,
+                  "question_type": "problem-solving",
+                  "stem": "35. 7 years ago, Samir was 3 times as old as Saurav. In 4 years, Samir will be twice as old as Saurav. What is Saurav's present age?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "40 years"
+                    },
+                    {
+                      "label": "B",
+                      "text": "18 years"
+                    },
+                    {
+                      "label": "C",
+                      "text": "30 years"
+                    },
+                    {
+                      "label": "D",
+                      "text": "20 years"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$s-7=3(v-7)$ and $s+4=2(v+4)$. From the first $s=3v-14$; substituting gives $3v-14+4=2v+8\\Rightarrow v=18$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 36,
+                  "question_type": "problem-solving",
+                  "stem": "36. Box 1 contains 500 marbles, 24% of which are black. Box 2 contains some marble of which 10% are black. You put the marbles together in another box and found that the percentage of black marbles is 20%. How many marbles were there in box 2?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "100"
+                    },
+                    {
+                      "label": "B",
+                      "text": "150"
+                    },
+                    {
+                      "label": "C",
+                      "text": "200"
+                    },
+                    {
+                      "label": "D",
+                      "text": "250"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$\\frac{120+0.1n}{500+n}=0.2\\Rightarrow120+0.1n=100+0.2n\\Rightarrow n=200$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 37,
+                  "question_type": "problem-solving",
+                  "stem": "37. If $-8 \\leq x \\leq 2$ and $-4 \\leq y \\leq 10$ which of the following represents the range of all possible values of $xy$?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$-8 \\leq xy \\leq 20$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$-80 \\leq xy \\leq 32$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$-32 \\leq xy \\leq 20$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$-8 \\leq xy \\leq 3$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "$-80 \\leq xy \\leq 80$"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The extreme products are $(-8)(-4)=32$ (max) and $(-8)(10)=-80$ (min), so $-80\\le xy\\le32$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 38,
+                  "question_type": "problem-solving",
+                  "stem": "38. Raju has x number of books, which is 3 times as many Siam and $\\frac{1}{2}$ as many as Payel. How many books do the three of them have altogether, in terms of x?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{5x}{6}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{7x}{3}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{10x}{3}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{7x}{2}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Siam $=x/3$, Payel $=2x$. Total $=x+\\frac{x}{3}+2x=\\frac{10x}{3}$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 39,
+                  "question_type": "problem-solving",
+                  "stem": "39. If y is an integer and 15 < y < 25, which of the following could be the average (arithmetic mean) of 12, 14, 17, 23 and y?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "13.2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "15.6"
+                    },
+                    {
+                      "label": "C",
+                      "text": "16.8"
+                    },
+                    {
+                      "label": "D",
+                      "text": "18.2"
+                    },
+                    {
+                      "label": "E",
+                      "text": "19.5"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Average $=\\frac{66+y}{5}$, so $y=5\\times\\text{avg}-66$. For 16.8: $y=18$, which satisfies $15<y<25$. The others give $y$ outside the range.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 40,
+                  "question_type": "problem-solving",
+                  "stem": "40. When a positive integer x is divided by 5 the remainder is 1. When x is divided by 8, the remainder is 4. What is the smallest positive integer y, such that (x + y) is divisible by 40?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "3"
+                    },
+                    {
+                      "label": "B",
+                      "text": "4"
+                    },
+                    {
+                      "label": "C",
+                      "text": "9"
+                    },
+                    {
+                      "label": "D",
+                      "text": "13"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$x\\equiv1\\pmod5$ and $x\\equiv4\\pmod8$ give $x\\equiv36\\pmod{40}$. The smallest $y$ with $36+y\\equiv0\\pmod{40}$ is $y=4$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 41,
+                  "question_type": "problem-solving",
+                  "stem": "41. If $x \\geq -1$ and $x \\geq x^{5}$, which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$x > 1$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$0 < x < 1$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$-1 \\leq x < 0$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$x > 0$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "$x\\ge x^5$ with $x\\ge-1$ holds exactly for $x=-1$ or $0\\le x\\le1$. No single option A-D describes this whole set, so E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 42,
+                  "question_type": "problem-solving",
+                  "stem": "42. At a certain bookstore, the regular price of each book is 20% less than its listed price. If during a sale the price of each book at the store was 15% less than its regular price, the price of a book during the sale was what percent less than its listed price?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "30%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "32%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "35%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "38%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Sale price $=0.85\\times0.8\\,L=0.68\\,L$, i.e. 32% less than the listed price.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 43,
+                  "question_type": "problem-solving",
+                  "stem": "43. Silver is 26 times as heavy as Gold and Iron is 17 times as heavy as Gold. You have to prepare a mixture (of Silver & Iron) which is 23 times as heavy as Gold. What will be the ratio of Iron to Silver in the mixture?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "2:1"
+                    },
+                    {
+                      "label": "B",
+                      "text": "2:3"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3:5"
+                    },
+                    {
+                      "label": "D",
+                      "text": "1:2"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "By alligation, Iron : Silver $=(26-23):(23-17)=3:6=1:2$ (check: $\\frac{1\\cdot17+2\\cdot26}{3}=23$).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 44,
+                  "question_type": "problem-solving",
+                  "stem": "44. One year ago, the ratio of salary of Nasir and Gaurav was 5:8. Ratio between this year's and last year's salary of Nasir is 28:25 and the same for Gaurav's is 23:20. If sthe sum of their present salary is tk. 1184, the difference between their present salary:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "tk. 448"
+                    },
+                    {
+                      "label": "B",
+                      "text": "tk. 340"
+                    },
+                    {
+                      "label": "C",
+                      "text": "tk. 288"
+                    },
+                    {
+                      "label": "D",
+                      "text": "tk. 240"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Last year $5k, 8k$. Present Nasir $=5k\\times\\frac{28}{25}=\\frac{28k}{5}$, Gaurav $=8k\\times\\frac{23}{20}=\\frac{46k}{5}$. Sum $=\\frac{74k}{5}=1184\\Rightarrow k=80$, so present $448$ and $736$; difference $=288$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 45,
+                  "question_type": "problem-solving",
+                  "stem": "45. If x is an integer such that  $5 < x < 11$ ;  $7 < x < 13$ ;  $x + 2 < 12$ , then how many integers will satisfy x?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "1"
+                    },
+                    {
+                      "label": "B",
+                      "text": "2"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3"
+                    },
+                    {
+                      "label": "D",
+                      "text": "4"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The three conditions give $x>7$ and $x<10$, so $x=8$ or $9$ — 2 integers.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 46,
+                  "question_type": "problem-solving",
+                  "stem": "46. John appointed 25 persons to complete a small bridge in 40 days. After 20 days, he appointed 15 more workers and the bridge was completed 5 days earlier. If he had not appointed additional workers by how many days he would have been behind the scheduled time?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "2 days"
+                    },
+                    {
+                      "label": "B",
+                      "text": "3 days"
+                    },
+                    {
+                      "label": "C",
+                      "text": "4 days"
+                    },
+                    {
+                      "label": "D",
+                      "text": "5 days"
+                    },
+                    {
+                      "label": "E",
+                      "text": "7 days"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "In the first 20 days, $25\\times20=500$ units are done. The 40 workers then work $15$ days (finishing on day 35, five early), doing $600$ units, so total work $=1100$. Without extra workers, the remaining $600$ at 25/day takes 24 days, finishing on day 44 — i.e. 4 days behind the 40-day schedule.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 47,
+                  "question_type": "problem-solving",
+                  "stem": "47. At a certain club, the number of male members is twice that of female members. If  $\\frac{1}{4}$  of the male members are engineers and  $\\frac{1}{5}$  of the female members are engineers, what fraction of the members are non-engineers?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{13}{25}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{23}{30}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{2}{5}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{8}{19}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Let female $=f$, male $=2f$, total $=3f$. Engineers $=\\frac14(2f)+\\frac15 f=\\frac{f}{2}+\\frac{f}{5}=\\frac{7f}{10}$. Non-engineers $=3f-\\frac{7f}{10}=\\frac{23f}{10}$, i.e. $\\frac{23}{30}$ of the members.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 48,
+                  "question_type": "problem-solving",
+                  "stem": "48. Arif start from A at 10 a.m. towards B at 100 km/hr. Babu starts from A at 10:10 a.m. towards B at 120 km/hr. Babu reached B 10 min. before Arif. Calculate the distance between A and B.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "100 km"
+                    },
+                    {
+                      "label": "B",
+                      "text": "200 km"
+                    },
+                    {
+                      "label": "C",
+                      "text": "240 km"
+                    },
+                    {
+                      "label": "D",
+                      "text": "300 km"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Arif's arrival (hours after 10:00) $=D/100$; Babu's $=\\frac16+D/120$, which is 10 min $=\\frac16$ h earlier: $\\frac16+\\frac{D}{120}=\\frac{D}{100}-\\frac16\\Rightarrow\\frac13=\\frac{D}{600}\\Rightarrow D=200$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 49,
+                  "question_type": "problem-solving",
+                  "stem": "49. If $ab < 0$, then all the following must be true EXCEPT,",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{a}{b} < 0$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$a^2 + b^2 > 0$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$a^3 + b^3 < 0$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{b}{a} < 0$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$ab<0$ means $a,b$ have opposite signs, so $a/b<0$, $b/a<0$ and $a^2+b^2>0$ all hold. But $a^3+b^3$ can be positive (e.g. $a=2,b=-1$), so C need not be true.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 50,
+                  "question_type": "problem-solving",
+                  "stem": "50. The cost of 12 pencils and 10 pens is tk. 320. The cost of 20 pencils and 15 pens is tk. 500.\nWhat is the difference between the cost of a pen and a pencil?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "5"
+                    },
+                    {
+                      "label": "B",
+                      "text": "10"
+                    },
+                    {
+                      "label": "C",
+                      "text": "15"
+                    },
+                    {
+                      "label": "D",
+                      "text": "20"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$6p+5q=160$ and $4p+3q=100$ give $p=10$ (pencil) and $q=20$ (pen), so the difference is $20-10=10$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 51,
+                  "question_type": "problem-solving",
+                  "stem": "51. If x is an integer,  $y = -4x + 17$ , what is the least value of x for which y is less than 1?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "3"
+                    },
+                    {
+                      "label": "C",
+                      "text": "4"
+                    },
+                    {
+                      "label": "D",
+                      "text": "5"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$-4x+17<1\\Rightarrow x>4$, so the least integer is $x=5$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 52,
+                  "question_type": "problem-solving",
+                  "stem": "52. Arif bought a pen at a 30% discount on listed price. Few months later, he found that the price for the same pen has increased by 50% and the discount he got in taka remained the same. How much discount did Arif get in terms of the new listed price?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "10%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "15%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "20%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "22.5%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Discount in taka $=0.3L$. New listed price $=1.5L$, so the same discount is $\\frac{0.3L}{1.5L}=20\\%$ of the new price.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 53 to 55: Data Sufficiency",
+              "instruction": "Each of the questions is followed by three statements numbered I, II and III. You have to decide whether the data provided in the statement(s) is/ are sufficient to answer the given question.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 53,
+                  "question_type": "data-sufficiency",
+                  "stem": "53. What is the percent profit earned by the shopkeeper on selling the articles in his shop?\nI. Labeled price of the articles sold was 130% of the cost price.\nII. Cost price of each article was tk. 550.\nIII. A discount of 10% on labeled price was offered.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only I"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Only II"
+                    },
+                    {
+                      "label": "C",
+                      "text": "I and III"
+                    },
+                    {
+                      "label": "D",
+                      "text": "All I, II and II are required"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "SP $=$ labeled $\\times0.9=1.3\\,CP\\times0.9=1.17\\,CP$, a 17% profit — computable from I and III. The actual cost (II) is not needed for the percentage.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 54,
+                  "question_type": "data-sufficiency",
+                  "stem": "54. At what time will the train reach city X from city Y?\nI. The train crosses another train of equal length of 200 meters and running in opposite directions in 15 seconds.\nII. The train leaves city Y at 7.15 a.m. for city X situated at a distance of 558 km.\nIII. The 200 meters long train crosses a signal pole in 10 seconds.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "I only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "II only"
+                    },
+                    {
+                      "label": "C",
+                      "text": "III only"
+                    },
+                    {
+                      "label": "D",
+                      "text": "II and III only"
+                    },
+                    {
+                      "label": "E",
+                      "text": "All I, II and III are required"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "III gives the train's speed ($200/10=20$ m/s $=72$ km/h), and II gives the start time and distance, so arrival time is found from II and III. I only gives a combined (relative) speed and is not needed.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 55,
+                  "question_type": "data-sufficiency",
+                  "stem": "55. What is the two-digit number?\nI. The difference between the two-digit number and the number formed by interchanging the digits is 27.\nII. The difference between the two digits is 3.\nIII. The digit at unit's place is less than that at ten's place by 3.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "I and II only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "I and III only"
+                    },
+                    {
+                      "label": "C",
+                      "text": "All I, II and III"
+                    },
+                    {
+                      "label": "D",
+                      "text": "I and either II or III"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Cannot be determined"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "All three only establish that the tens digit exceeds the units digit by 3; many numbers (41, 52, 63, 74, 85, 96, …) satisfy this, so the unique number cannot be determined.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 56 to 61: Puzzle solving",
+              "instruction": "Answer each question based on the following condition.",
+              "stimulus": {
+                "passage": "A college has decided to appoint a four member committee to review educational policy. Eight faculty members are eligible to serve on the committee: F, G J, K, L, N, O and P. Three of the members - G, L and N - are untenured, whereas the remaining five are tenured. College policy and the personalities of the eight people in question dictate that the choice of committee members meet the following conditions:\n- The committee must be composed of exactly two tenured faculty members and exactly two untenured faculty members.\n- G and J cannot serve together.\n- If P is on the committee, then neither N nor O can be on the committee.\n- If K is on the committee, then J must be on the committee.\n- If both F and J are on the committee, then L cannot be on the committee.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 56,
+                  "question_type": "puzzle",
+                  "stem": "56. If P is on the committee, the other three members of the committee must be-",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F, G & L"
+                    },
+                    {
+                      "label": "B",
+                      "text": "F, G & N"
+                    },
+                    {
+                      "label": "C",
+                      "text": "G, J & L"
+                    },
+                    {
+                      "label": "D",
+                      "text": "G, K & L"
+                    },
+                    {
+                      "label": "E",
+                      "text": "J, K & L"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "P (tenured) bars N and O, so the two untenured must be G and L. With G on, J is out (G–J), so K is out (K needs J), and O is barred; the only remaining tenured member is F. Hence F, G and L.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 57,
+                  "question_type": "puzzle",
+                  "stem": "57. If J is on the committee, which of the following is one the faculty members who must also be on the committee?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F"
+                    },
+                    {
+                      "label": "B",
+                      "text": "K"
+                    },
+                    {
+                      "label": "C",
+                      "text": "L"
+                    },
+                    {
+                      "label": "D",
+                      "text": "O"
+                    },
+                    {
+                      "label": "E",
+                      "text": "P"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "J (tenured) bars G (G–J), so the two untenured must be L and N. Thus L must be on the committee.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 58,
+                  "question_type": "puzzle",
+                  "stem": "58. If G is on the committee, any of the following could be on the committee, EXCEPT",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "K"
+                    },
+                    {
+                      "label": "B",
+                      "text": "L"
+                    },
+                    {
+                      "label": "C",
+                      "text": "N"
+                    },
+                    {
+                      "label": "D",
+                      "text": "O"
+                    },
+                    {
+                      "label": "E",
+                      "text": "P"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "G bars J, and K requires J, so K cannot serve when G is on the committee.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 59,
+                  "question_type": "puzzle",
+                  "stem": "59. If neither F nor P is on the committee, which of the following could be a list of the committee members?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "G, J, L & O"
+                    },
+                    {
+                      "label": "B",
+                      "text": "G, K, N & O"
+                    },
+                    {
+                      "label": "C",
+                      "text": "G, L, O & N"
+                    },
+                    {
+                      "label": "D",
+                      "text": "J, K, L & O"
+                    },
+                    {
+                      "label": "E",
+                      "text": "J, L, N & O"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "E has tenured J, O and untenured L, N (2+2), with G absent (so no G–J clash), K absent, P absent. A clashes (G and J), B needs J for K, C has three untenured, D has three tenured.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 60,
+                  "question_type": "puzzle",
+                  "stem": "60. If L is not on the committee, which of the following is a list of people all either must be on the committee?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F, G & N"
+                    },
+                    {
+                      "label": "B",
+                      "text": "F, J & N"
+                    },
+                    {
+                      "label": "C",
+                      "text": "G, K & N"
+                    },
+                    {
+                      "label": "D",
+                      "text": "J, K & N"
+                    },
+                    {
+                      "label": "E",
+                      "text": "J, N & P"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "With L out, the two untenured must be G and N. G bars J, so K is out and (P bars N, N is on) P is out; the two tenured must be F and O. So F, G, N (and O) must serve — the forced set among the options is F, G & N.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 61,
+                  "question_type": "puzzle",
+                  "stem": "61. If L and O both do not serve on the committee, which of the following is a list of peoples all of who could be on the committee together?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F, G & L"
+                    },
+                    {
+                      "label": "B",
+                      "text": "F, J & N"
+                    },
+                    {
+                      "label": "C",
+                      "text": "F, N & P"
+                    },
+                    {
+                      "label": "D",
+                      "text": "G, K & N"
+                    },
+                    {
+                      "label": "E",
+                      "text": "K, L & P"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "With L and O both excluded no committee exists (the two untenured members would have to be G and N, which rules out J (G), K (needs J) and P (N) and leaves only F as a tenured member), so the condition must read \"L and O both serve\". Then P is out (P excludes O), L and one of G/N are the untenured pair, and O plus one of F/J/K the tenured pair. F, G and L (with O) satisfies every rule: two tenured (F, O), two untenured (G, L), no G-J, no K, no P, no F+J. B, C, D and E each break a rule (F+J with L, P with N/O, K without J or with G, K without J). Answer A.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 62 to 64: Puzzle solving",
+              "instruction": "Answer each question based on the following conditions.",
+              "stimulus": {
+                "passage": "Bonhi has six books to place on an empty bookshelf with three shelves. The six books are Fiction books X, Y and Z and Non-fiction, books P, Q and R. The three shelves of the bookshelf are marked 1 to 3 from top to bottom. Any of the shelves can remain empty. The placement of books must conform to the following conditions:\n- P and R cannot be on the same shelf.\n- X must be on the shelf immediately above the shelf that R is on.\n- No single shelf can hold all three Fiction books.\n- Q cannot be on shelf 2.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 62,
+                  "question_type": "puzzle",
+                  "stem": "62. If Y and Z are on shelf 2, which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Q is on shelf 1"
+                    },
+                    {
+                      "label": "B",
+                      "text": "R is on shelf 2"
+                    },
+                    {
+                      "label": "C",
+                      "text": "P is on shelf 3"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Y and P are on the same shelf"
+                    },
+                    {
+                      "label": "E",
+                      "text": "X and Q are on the same shelf"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "X cannot join Y and Z on shelf 2 (that would put all three fiction together), and X must be immediately above R, forcing X on shelf 1 and R on shelf 2. So R is on shelf 2.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 63,
+                  "question_type": "puzzle",
+                  "stem": "63. If shelf 1 remains empty, which of the following must be FALSE?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Z and X are on the same shelf"
+                    },
+                    {
+                      "label": "B",
+                      "text": "There are exactly three books on shelf 2"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Y and Z are on the same shelf"
+                    },
+                    {
+                      "label": "D",
+                      "text": "There are exactly two books on shelf 3"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Y and Q are on the same shelf"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Shelf 1 empty forces X on 2 and R on 3; Q must then be on 3 and P on 2. Shelf 3 holds R, Q and at least one of Y/Z (since X,Y,Z can't all be on shelf 2), so it has at least three books — \"exactly two on shelf 3\" must be false.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 64,
+                  "question_type": "puzzle",
+                  "stem": "64. If R and Y are on the same shelf and if one of the shelves remains empty, which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "If Z is on shelf 3, then P is on shelf 2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Q and R are on the same shelf"
+                    },
+                    {
+                      "label": "C",
+                      "text": "If Z is on shelf 2, then P is on shelf 3"
+                    },
+                    {
+                      "label": "D",
+                      "text": "X and Q are on the same shelf"
+                    },
+                    {
+                      "label": "E",
+                      "text": "If P is on shelf 2, then Z is on shelf 1"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Z can be on shelf 3 only when R (hence Y) is on shelf 3 and X on shelf 2, which forces shelf 1 empty; then P (not with R) must go on shelf 2. So \"if Z is on shelf 3, then P is on shelf 2\" always holds.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 65 to 70: Puzzle Solving",
+              "instruction": "Answer each question based on the following conditions",
+              "stimulus": {
+                "passage": "While hanging out with friends, Johny was asked to solve a puzzle that has seven different clues left with seven different friends - Farid, Kalam, Lalon, Zafar, Hasan, Mamun and Nasir. Farid, Kalam and Lalon are sitting in one group whereas Zafar, Hasan, Mamun and Nasir are sitting in another group. Johny may ask for clues from exactly three friends. To correctly solve the puzzle, Johny must conform to the following conditions:\n- The three friends asked for clues must not belong to one group only.\n- If Hasan is asked for clues, then Farid must also be asked for clues.\n- If Mamun is not asked for clues. then Zafar cannot be asked for clues.\n- Kalam and Lalon cannot both be asked for clues.\n- The three friends asked for clues must include Lalon or Nasir or both.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 65,
+                  "question_type": "puzzle",
+                  "stem": "65. Which of the following is a selection of friends asked for clues that conforms to the above mentioned conditions?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Farid, Zafar, Hasan"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Kalam, Zafar, Hasan"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Farid, Kalam, Lalon"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Farid, Lalon, Hasan"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Zafar, Mamun, Nasir"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "D includes Farid (so Hasan's requirement is met), spans both groups, includes Lalon, and avoids the Kalam–Lalon and Zafar-without-Mamun clashes. A/B break the Zafar–Mamun or Hasan–Farid rules, C is one group only (and Kalam+Lalon), E is one group only.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 66,
+                  "question_type": "puzzle",
+                  "stem": "66. If Kalam is asked for clues, which of the following must also be asked for clues?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Farid"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Zafar"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Nasir"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Hasan"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Mamun"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Kalam bars Lalon (can't both), but the selection must include Lalon or Nasir, so Nasir must be asked.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 67,
+                  "question_type": "puzzle",
+                  "stem": "67. If Mamun is asked for clues, which of the following is a pair of friends that can both also be asked for clues?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Farid and Hasan"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Kalam and Zafar"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Lalon and Hasan"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Kalam and Nasir"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Kalam and Lalon"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "{Mamun, Kalam, Nasir} spans both groups, includes Nasir (satisfying Lalon-or-Nasir), and breaks no rule. A and B lack Lalon/Nasir, C breaks Hasan–Farid, E breaks Kalam–Lalon.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 68,
+                  "question_type": "puzzle",
+                  "stem": "68. If Zafar is asked for clues, which of the following must also be asked for clues?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Farid"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Hasan"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Lalon"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Kalam"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Nasir"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Zafar forces Mamun (the Mamun-not→Zafar-not rule), so two of the three are Zafar and Mamun (group 2). The third must come from group 1 (not one group only) and must supply Lalon-or-Nasir; Nasir is group 2, so the third must be Lalon.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 69,
+                  "question_type": "puzzle",
+                  "stem": "69. If Kalam is the only one asked for clues from his group, which of the following must also be asked for clues?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Nasir and Hasan"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Nasir and Zafar"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Mamun and Hasan"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Mamun and Nasir"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Zafar and Mamun"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Only Kalam from group 1 means Lalon and Farid are out; Hasan needs Farid, so Hasan is out too. The selection must include Lalon-or-Nasir, so Nasir. The remaining group-2 pick is Mamun (Zafar would also require Mamun, making three from group 2). So Mamun and Nasir.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 70,
+                  "question_type": "puzzle",
+                  "stem": "70. If Lalon is not asked for clues, which of the following is a pair friends that can both be asked for clues?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Mamun and Farid"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Kalam and Hasan"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Farid and Zafar"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Hasan and Mamun"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Zafar and Kalam"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "With Lalon out, Nasir must be asked. {Nasir, Mamun, Farid} spans both groups and breaks no rule. The other pairs force a Hasan-without-Farid or Zafar-without-Mamun violation.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_label": "Part II: Writing Ability [30 marks]",
+      "sections": [
+        {
+          "section_no": 3,
+          "source_section_label": "Part II: Writing Ability [30 marks]",
+          "subject": "writing",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "essay",
+                  "stem": "Q-1: Critical Writing: \"It is the high time for Bangladesh to effectively utilize its youth force for national development\" - Explain.",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended critical essay. Argue why harnessing the youth (demographic dividend, skills, entrepreneurship) matters for national development, with examples and policy suggestions, and conclude. No single correct answer.",
+                  "marks": null,
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "essay",
+                  "stem": "Q-2: Story telling: \"Tell a story that directly or indirectly illustrates the type of person you are.\"",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended narrative. Tell a concrete personal story whose events reveal your character traits (resilience, integrity, curiosity, etc.). No single correct answer.",
+                  "marks": 10,
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    "Q56-61 passage prints 'F, G J, K' (comma missing); stored as printed. Q61 prints 'peoples all of who' (kept).",
+    "Q53 option D prints 'All I, II and II are required' (kept). Q30 option A prints 'facilities' (kept).",
+    "Marks printed: Part I [70 marks]; Part II [30 marks] (Q-1 20 marks, Q-2 10 marks). Q61 as printed has the 'do not serve' wording (no committee satisfies it); not changed.",
+    "Answers and explanations are out of scope (to be regenerated by the user); stored values are unreliable."
+  ]
+}

@@ -1,0 +1,358 @@
+{
+ "exam": "iba_mba_2022_dec",
+ "items": {
+  "1-1": {
+   "en": "(x + 1/x)² = 10 + 2 = 12 ⇒ x + 1/x = 2√3. x³ + 1/x³ = (2√3)³ − 3(2√3) = 18√3. Then (x² + 1/x²)(x³ + 1/x³) = (x⁵ + 1/x⁵) + (x + 1/x), so x⁵ + 1/x⁵ = 10 × 18√3 − 2√3 = 178√3.",
+   "bn": "(x + 1/x)² = 10 + 2 = 12 ⇒ x + 1/x = 2√3। x³ + 1/x³ = (2√3)³ − 3(2√3) = 18√3। তখন (x² + 1/x²)(x³ + 1/x³) = (x⁵ + 1/x⁵) + (x + 1/x), তাই x⁵ + 1/x⁵ = 10 × 18√3 − 2√3 = 178√3।",
+   "answer": "$178\\sqrt{3}$",
+   "formula_ids": [
+    "algebra"
+   ],
+   "note": "No options are printed in the source."
+  },
+  "1-2": {
+   "en": "Jasfan reaches b at 32/5 h; by then Jafran has gone 3 × 32/5 = 19.2 km, so 12.8 km from b. They close the gap at 5 + 3 = 8 km/h: 1.6 h. Jasfan walks back 5 × 1.6 = 8 km from b.",
+   "bn": "Jasfan b-তে পৌঁছায় 32/5 ঘণ্টায়; তখন Jafran 3 × 32/5 = 19.2 km গেছে, অর্থাৎ b থেকে 12.8 km দূরে। তারা 5 + 3 = 8 km/h হারে কাছে আসে: 1.6 ঘণ্টা। Jasfan b থেকে ফিরে 5 × 1.6 = 8 km দূরে মিলিত হয়।",
+   "answer": "B",
+   "formula_ids": [
+    "speed",
+    "relspeed"
+   ]
+  },
+  "1-3": {
+   "en": "Each of the 76 children needs one chocolate of each flavour. Strawberry: 2 per box ⇒ 38 boxes; apple: 4 per box ⇒ 19 boxes; banana: 5 per box ⇒ ⌈76/5⌉ = 16 boxes. Total = 38 + 19 + 16 = 73.",
+   "bn": "76 জন শিশুর প্রত্যেকের প্রতিটি flavour-এর অন্তত একটি দরকার। Strawberry: box প্রতি 2 ⇒ 38 box; apple: box প্রতি 4 ⇒ 19 box; banana: box প্রতি 5 ⇒ ⌈76/5⌉ = 16 box। মোট = 38 + 19 + 16 = 73।",
+   "answer": "73",
+   "formula_ids": [
+    "numprop"
+   ],
+   "note": "No options printed; interpretation flagged."
+  },
+  "1-4": {
+   "en": "From the figure, the triangle is isosceles with apex W = 10°, so the base angles are equal: Z = (180° − 10°)/2 = 85°.",
+   "bn": "চিত্র অনুযায়ী ত্রিভুজটি isosceles, শীর্ষ কোণ W = 10°, তাই ভূমি-কোণ দুটি সমান: Z = (180° − 10°)/2 = 85°।",
+   "answer": "$85^{\\circ}$",
+   "formula_ids": [
+    "geometry"
+   ],
+   "note": "Uses the figure (isosceles triangle with apex W); no options printed."
+  },
+  "1-5": {
+   "en": "Total = (position from top) + (position from bottom) − 1 = 24 + 20 − 1 = 43.",
+   "bn": "মোট = (উপর থেকে অবস্থান) + (নিচ থেকে অবস্থান) − 1 = 24 + 20 − 1 = 43।",
+   "answer": "43"
+  },
+  "1-6": {
+   "en": "OA ⟂ OB with radius 20. Shaded segment = quarter sector − triangle = ¼π(20)² − ½(20)(20) = 100π − 200.",
+   "bn": "OA ⟂ OB, ব্যাসার্ধ 20। shaded segment = চতুর্থাংশ sector − ত্রিভুজ = ¼π(20)² − ½(20)(20) = 100π − 200।",
+   "answer": "$100\\pi - 200$",
+   "formula_ids": [
+    "geometry"
+   ],
+   "note": "Uses the figure: OA and OB are perpendicular radii of 20."
+  },
+  "1-7": {
+   "en": "Let b blue marbles be added: (20 + b)/(90 + b) = 0.6 ⇒ 20 + b = 54 + 0.6b ⇒ 0.4b = 34 ⇒ b = 85.",
+   "bn": "b টি নীল marble যোগ করলে: (20 + b)/(90 + b) = 0.6 ⇒ 20 + b = 54 + 0.6b ⇒ 0.4b = 34 ⇒ b = 85।",
+   "answer": "85",
+   "formula_ids": [
+    "pct-change",
+    "algebra"
+   ]
+  },
+  "1-8": {
+   "en": "Let a pencil cost p and a pen 2p. Cost of 40 pens = 80p, profit = price of 20 pencils = 20p. Profit % = 20p/80p = 25%.",
+   "bn": "পেনসিলের দাম p, কলমের দাম 2p। 40টি কলমের cost = 80p, লাভ = 20টি পেনসিলের দাম = 20p। লাভ % = 20p/80p = 25%।",
+   "answer": "25%",
+   "formula_ids": [
+    "profit-loss"
+   ],
+   "note": "Taking 'rate' as the cost price; if it meant the selling price the result would be 33.3%."
+  },
+  "1-9": {
+   "en": "To maximise Ayon's share, give the other 18 people the minimum 2000 each = 36000. Then Ayon + Noyon = 14000 and Ayon = Noyon + 5000, so Noyon = 4500 and Ayon = 9500.",
+   "bn": "Ayon-এর অংশ সর্বোচ্চ করতে বাকি 18 জনকে ন্যূনতম 2000 করে = 36000 দিন। তখন Ayon + Noyon = 14000 এবং Ayon = Noyon + 5000, তাই Noyon = 4500 ও Ayon = 9500।",
+   "answer": "9500",
+   "formula_ids": [
+    "algebra"
+   ],
+   "note": "Source text is garbled; no options printed."
+  },
+  "1-10": {
+   "en": "Series a (5, 8, …, 302) has terms ≡ 2 (mod 3); series b (3, 7, …, 399) has terms ≡ 3 (mod 4). Common terms ≡ 11 (mod 12): 11, 23, …, up to 302: 25 numbers.",
+   "bn": "Series a (5, 8, …, 302)-র পদগুলো ≡ 2 (mod 3); series b (3, 7, …, 399)-র পদগুলো ≡ 3 (mod 4)। Common পদগুলো ≡ 11 (mod 12): 11, 23, …, 302 পর্যন্ত: 25টি সংখ্যা।",
+   "answer": "25",
+   "formula_ids": [
+    "series",
+    "numprop"
+   ]
+  },
+  "1-11": {
+   "en": "Rafi = 2M and Sania = 9M/5, so the average = (2M + M + 9M/5)/3 = 1.6M. Average 32 ⇒ M = 20 (whole numbers, Sania = 36). 36 and 171 give non-integer M. So only (i).",
+   "bn": "Rafi = 2M এবং Sania = 9M/5, তাই গড় = (2M + M + 9M/5)/3 = 1.6M। গড় 32 ⇒ M = 20 (পূর্ণসংখ্যা, Sania = 36)। 36 ও 171 হলে M পূর্ণসংখ্যা হয় না। তাই শুধু (i)।",
+   "answer": "D",
+   "formula_ids": [
+    "average",
+    "ratio"
+   ]
+  },
+  "1-12": {
+   "en": "Half the chord = √(13² − 5²) = 12, so the chord = 24.",
+   "bn": "chord-এর অর্ধেক = √(13² − 5²) = 12, তাই chord = 24।",
+   "answer": "C",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "1-13": {
+   "en": "Taking the parallel sides as a and a (area a·h): after one increases 30% and the height falls 25%, area = ½(1.3a + a)(0.75h) = 0.8625ah, a decrease of 13.75% (the option 13.75).",
+   "bn": "সমান্তরাল বাহু দুটি a ও a ধরলে (ক্ষেত্রফল a·h): একটি 30% বেড়ে এবং উচ্চতা 25% কমলে ক্ষেত্রফল = ½(1.3a + a)(0.75h) = 0.8625ah, অর্থাৎ 13.75% কমে (option 13.75)।",
+   "answer": "A",
+   "formula_ids": [
+    "geometry",
+    "pct-change"
+   ],
+   "note": "Printed wording ('one side of two equal and parallel sides') is odd; the key takes both parallel sides equal to a, then one increases by 30%."
+  },
+  "1-14": {
+   "en": "A square of area a has diagonal d with d² = 2a, so d = √(2a).",
+   "bn": "ক্ষেত্রফল a-বিশিষ্ট বর্গের কর্ণ d হলে d² = 2a, তাই d = √(2a)।",
+   "answer": "B",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "1-15": {
+   "en": "Each second the volume becomes 4/5 of before. After 4 s the remaining fraction = (4/5)⁴ = 256/625 and the lost fraction = 369/625. Remaining : decreased = 256 : 369.",
+   "bn": "প্রতি সেকেন্ডে আয়তন আগের 4/5 হয়। 4 সেকেন্ড পর বাকি অংশ = (4/5)⁴ = 256/625 এবং কমে যাওয়া অংশ = 369/625। বাকি : কমেছে = 256 : 369।",
+   "answer": "256 : 369",
+   "formula_ids": [
+    "pct-change"
+   ],
+   "note": "Interpretation flagged; no options printed."
+  },
+  "1-16": {
+   "en": "Minutes = 45n and taka = 12n. 45n = 12n + 132 ⇒ 33n = 132 ⇒ n = 4 classes.",
+   "bn": "মিনিট = 45n এবং টাকা = 12n। 45n = 12n + 132 ⇒ 33n = 132 ⇒ n = 4টি class।",
+   "answer": "B",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "1-17": {
+   "en": "Blue is 40% of T; moving 3 white balls to blue makes it 45%: 0.4T + 3 = 0.45T ⇒ T = 60. So 24 blue and 36 white.",
+   "bn": "নীল বল T-এর 40%; 3টি সাদা বল নীলকে দিলে 45% হয়: 0.4T + 3 = 0.45T ⇒ T = 60। তাই 24টি নীল ও 36টি সাদা।",
+   "answer": "60 (24 blue, 36 white)",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "1-18": {
+   "en": "Take 100 boats: 25 are used sailboats. Non-sailboats N: 0.4N are used. Used total = 25 + 0.4N = 33 ⇒ N = 20, so there are 80 sailboats. New sailboats = 80 − 25 = 55, which is 55/80 ≈ 69%.",
+   "bn": "100টি boat ধরি: 25টি used sailboat। non-sailboat N: 0.4N used। মোট used = 25 + 0.4N = 33 ⇒ N = 20, তাই sailboat 80টি। new sailboat = 80 − 25 = 55, যা 55/80 ≈ 69%।",
+   "answer": "E",
+   "formula_ids": [
+    "sets",
+    "pct-change"
+   ]
+  },
+  "1-19": {
+   "en": "Fresh = 70% of the 60% apples + 60% of the 40% oranges = 42% + 24% = 66%.",
+   "bn": "Fresh = 60% আপেলের 70% + 40% কমলার 60% = 42% + 24% = 66%।",
+   "answer": "B",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "1-20": {
+   "en": "CP of each = 35200/40 = 880. Required SP = 1.4 × 35200 = 49280. The 18 items at a 25% loss give 18 × 880 × 0.75 = 11880, so the 22 items must give 37400 = 22 × 880 × (1 + X/100) ⇒ 1 + X/100 = 85/44 ⇒ X ≈ 93.2%.",
+   "bn": "প্রতিটির CP = 35200/40 = 880। প্রয়োজনীয় SP = 1.4 × 35200 = 49280। 25% ক্ষতিতে 18টি দেয় 18 × 880 × 0.75 = 11880, তাই 22টিকে দিতে হবে 37400 = 22 × 880 × (1 + X/100) ⇒ 1 + X/100 = 85/44 ⇒ X ≈ 93.2%।",
+   "answer": "≈93.2%",
+   "formula_ids": [
+    "profit-loss"
+   ],
+   "note": "The result is not round; no options printed."
+  },
+  "1-21": {
+   "en": "Dulal + Farid = y and Dulal = Farid + 12 ⇒ Farid = (y − 12)/2 = y/2 − 6. After y years: y/2 − 6 + y = 3y/2 − 6.",
+   "bn": "Dulal + Farid = y এবং Dulal = Farid + 12 ⇒ Farid = (y − 12)/2 = y/2 − 6। y বছর পর: y/2 − 6 + y = 3y/2 − 6।",
+   "answer": "D",
+   "formula_ids": [
+    "age"
+   ]
+  },
+  "3-1": {
+   "en": "All eight colours are used once (pictures 1 and 4 take two each). With yellow on picture 2 and brown on picture 4, enumerating the valid colourings shows picture 1 must contain magenta.",
+   "bn": "আটটি রং প্রতিটি একবার ব্যবহৃত (picture 1 ও 4-এ দুটি করে)। picture 2-এ yellow এবং picture 4-এ brown হলে বৈধ রঙ-বিন্যাসগুলো যাচাই করলে picture 1-এ magenta থাকতেই হবে।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-2": {
+   "en": "White and red are single-colour pictures with red right after white, so they are pictures (2, 3) or (5, 6). Orange on picture 5 forces white on 2 and red on 3. Red is on picture 3.",
+   "bn": "White ও red একক রঙের picture এবং white-এর ঠিক পরে red, তাই (2, 3) অথবা (5, 6)। picture 5-এ orange হলে white 2-এ ও red 3-এ হতে বাধ্য। Red picture 3-এ।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-3": {
+   "en": "White on picture 5 puts red on picture 6. Checking the options against all valid colourings, only 'orange on picture 2 and yellow on picture 3' can be true.",
+   "bn": "picture 5-এ white হলে red picture 6-এ। সব বৈধ রঙ-বিন্যাসের সাথে option মিলিয়ে দেখলে শুধু 'picture 2-এ orange ও picture 3-এ yellow' সত্য হতে পারে।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-4": {
+   "en": "Across all valid colourings, picture 2 can be white, purple, magenta, yellow or orange: five colours.",
+   "bn": "সব বৈধ রঙ-বিন্যাসে picture 2 হতে পারে white, purple, magenta, yellow বা orange: মোট পাঁচটি রং।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-5": {
+   "en": "Reading 'comedy from the last' as shelf 5: romance–thrilling (a pair), detective–suspense (a pair) and wonderful fill shelves 1–4 and 6. Pairs need adjacent shelves, so the single book, wonderful, must be on shelf 6.",
+   "bn": "'comedy from the last'-কে shelf 5 পড়লে: romance–thrilling (জোড়া), detective–suspense (জোড়া) এবং wonderful ভরে shelf 1–4 ও 6। জোড়ার জন্য পাশাপাশি shelf লাগে, তাই একক বই wonderful অবশ্যই shelf 6-এ।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ],
+   "note": "'Comedy must be placed from the last' is read as second from the last (shelf 5), the only reading that gives single answers."
+  },
+  "3-6": {
+   "en": "Comedy is on 5 and wonderful on 6. Romance on 1 puts thrilling on 2, so detective–suspense take 3–4: suspense is on shelf 4.",
+   "bn": "Comedy 5-এ ও wonderful 6-এ। Romance 1-এ হলে thrilling 2-এ, তাই detective–suspense 3–4-এ: suspense shelf 4-এ।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-7": {
+   "en": "With comedy on 5 and wonderful on 6, shelves 1–4 hold the pairs. Romance on shelf 2 forces thrilling on 1, giving T R D S C W: every position determined. The other options leave an order open or are impossible.",
+   "bn": "Comedy 5-এ ও wonderful 6-এ হলে shelf 1–4-এ জোড়াগুলো। Romance shelf 2-এ হলে thrilling 1-এ, ফলে T R D S C W: প্রতিটি অবস্থান নির্ধারিত। অন্য option-এ ক্রম খোলা থাকে বা অসম্ভব।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-8": {
+   "en": "Suspense on 4 puts detective on 3, and romance–thrilling take shelves 1–2. So romance is on shelf 1 or 2, which the printed option D ('1 and 2') expresses.",
+   "bn": "Suspense 4-এ হলে detective 3-এ, এবং romance–thrilling shelf 1–2-এ। তাই romance shelf 1 বা 2-এ, যা ছাপা option D ('1 and 2') প্রকাশ করে।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ],
+   "note": "Option D ('1 and 2') is the printed form of 'shelf 1 or 2'."
+  },
+  "3-9": {
+   "en": "Order B (d, s, r, t, c, w): romance and thrilling are adjacent, suspense follows detective immediately, and comedy is on shelf 5. A has comedy last; C, D and E put suspense before detective.",
+   "bn": "B ক্রম (d, s, r, t, c, w): romance ও thrilling পাশাপাশি, detective-এর ঠিক পরে suspense, এবং comedy shelf 5-এ। A-তে comedy শেষে; C, D, E-তে suspense, detective-এর আগে।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-10": {
+   "en": "Shelves 2–3 can only be R, D (T R D S), T, D (R T D S), S, R (D S R T) or S, T (D S T R). Of the options, only 'rd' (romance, detective) occurs.",
+   "bn": "Shelf 2–3 হতে পারে শুধু R, D (T R D S), T, D (R T D S), S, R (D S R T) বা S, T (D S T R)। Option-গুলোর মধ্যে শুধু 'rd' (romance, detective) মেলে।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-11": {
+   "en": "The conclusion that welfare is a by-product follows only if the CSR route was already the profit-maximising choice. So the author assumes that in most CSR cases the non-CSR route would not give extra profit.",
+   "bn": "সমাজকল্যাণ by-product, এই সিদ্ধান্ত তখনই টেকে যদি CSR পথই মুনাফা-সর্বোচ্চকারী পছন্দ হয়। তাই লেখক ধরে নেন বেশিরভাগ CSR ক্ষেত্রে non-CSR পথে বাড়তি মুনাফা পাওয়া যেত না।",
+   "answer": "C",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "3-12": {
+   "en": "If rural households can spend on other needs what others spend on food and shelter, rural food and housing costs must be lower.",
+   "bn": "শহর ও শহরতলির পরিবারগুলো খাদ্য ও বাসস্থানে যা খরচ করে, গ্রামীণ পরিবার তা অন্য প্রয়োজনে ব্যয় করতে পারলে গ্রামীণ খাদ্য ও আবাসন খরচ কম।",
+   "answer": "B",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "2-1": {
+   "en": "'At the drop of a hat' is the idiom (immediately, without hesitation): 'Man nowadays looks for logic at the drop of a hat.' The other options are not words or phrases.",
+   "bn": "'At the drop of a hat' হলো idiom (সাথে সাথে, দ্বিধা ছাড়া): 'Man nowadays looks for logic at the drop of a hat.' অন্য option শব্দ বা phrase-ই নয়।",
+   "answer": "B",
+   "rule_ids": [
+    "idiom"
+   ],
+   "note": "The printed sentence is garbled; the intended idiom is 'at the drop of a hat'."
+  },
+  "2-2": {
+   "en": "'On the brink of success' is the standard phrase. 'In the brink' and 'in the brinked' are wrong, and 'in the sky' does not fit. So None of these.",
+   "bn": "'On the brink of success' সঠিক phrase। 'In the brink' ও 'in the brinked' ভুল, 'in the sky' মেলে না। তাই None of these।",
+   "answer": "E",
+   "rule_ids": [
+    "idiom",
+    "prep-noun"
+   ]
+  },
+  "2-3": {
+   "en": "The sentence needs 'dangerous' or 'harmful'. 'Danger' is a noun, 'precarious' means unstable, 'bed' and 'worst' do not fit, so the options do not give the intended answer as printed.",
+   "bn": "বাক্যে 'dangerous' বা 'harmful' লাগে। 'Danger' noun, 'precarious' মানে অস্থিতিশীল, 'bed' ও 'worst' মেলে না, তাই ছাপা অনুযায়ী option থেকে সঠিক উত্তর পাওয়া যায় না।",
+   "rule_ids": [
+    "confusable"
+   ],
+   "note": "No 'dangerous/harmful' among the options and no key is asserted."
+  },
+  "2-4": {
+   "en": "'Aluminium is such a metal which mixes in an alloy': 'which' refers to the singular 'metal', so the verb is 'mixes' (or the form 'such a metal as…'). 'Mix' is the error.",
+   "bn": "'Aluminium is such a metal which mixes in an alloy': 'which' singular 'metal'-কে নির্দেশ করে, তাই verb 'mixes'। 'Mix' ভুল।",
+   "answer": "c",
+   "rule_ids": [
+    "sv-agree",
+    "pronoun"
+   ]
+  },
+  "2-5": {
+   "en": "The context is marriage: 'wedding' under the age, not 'weeding' (removing weeds); also 'at an underage'.",
+   "bn": "প্রসঙ্গ বিয়ে: 'wedding', 'weeding' (আগাছা তোলা) নয়; আবার 'at an underage' হবে।",
+   "answer": "D",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "2-6": {
+   "en": "Third conditional with inversion: 'Had we done hard work, we would have succeeded.' (If we had done…). The printed 'had do' and 'would have been succeeded' are wrong.",
+   "bn": "Third conditional (inversion সহ): 'Had we done hard work, we would have succeeded.' (If we had done…)। ছাপা 'had do' ও 'would have been succeeded' ভুল।",
+   "answer": "A",
+   "rule_ids": [
+    "modal",
+    "tense"
+   ]
+  },
+  "2-7": {
+   "en": "E ('Rather than noticing other faults, we should look for our own') is the only grammatical, sensible sentence. The others keep the errors ('many fault of us').",
+   "bn": "E ('অন্যের দোষ না খুঁজে নিজেদের দোষ খোঁজা উচিত') একমাত্র শুদ্ধ ও যুক্তিসঙ্গত বাক্য। অন্যগুলোতে ভুল ('many fault of us') থেকে গেছে।",
+   "answer": "E",
+   "rule_ids": [
+    "parallel"
+   ],
+   "note": "The printed sentence is garbled; E is the only complete, sensible sentence."
+  },
+  "4-1": {
+   "en": "Approach (argument): take a clear stand: agree. Point 1: the Earth is a trust held for the next generation, so we must pass on resources in good condition. Point 2: evidence (climate change, deforestation, plastic, water stress). Point 3: counter-argument (growth needs resources) and rebuttal (sustainable development). Point 4: actions (renewables, conservation, responsible consumption). Conclude with the responsibility of each generation.\nUseful phrases: 'intergenerational responsibility', 'sustainable development', 'for future generations'.",
+   "bn": "পদ্ধতি (argument): পরিষ্কার অবস্থান নিন: একমত। Point 1: পৃথিবী পরবর্তী প্রজন্মের জন্য আমানত, তাই সম্পদ ভালো অবস্থায় রেখে যেতে হবে। Point 2: প্রমাণ (জলবায়ু পরিবর্তন, বন উজাড়, প্লাস্টিক, পানির সংকট)। Point 3: বিপক্ষ যুক্তি (প্রবৃদ্ধির জন্য সম্পদ লাগে) ও খণ্ডন (টেকসই উন্নয়ন)। Point 4: পদক্ষেপ (নবায়নযোগ্য শক্তি, সংরক্ষণ, দায়িত্বশীল ভোগ)। প্রতিটি প্রজন্মের দায়িত্ব দিয়ে শেষ করুন।\nকাজের phrase: 'intergenerational responsibility', 'sustainable development', 'for future generations'।",
+   "rule_ids": [
+    "essay"
+   ]
+  },
+  "4-2": {
+   "en": "Approach (essay): Thesis: family values shape character, which shapes society. Paragraph 1: define family values (honesty, respect, cooperation, care). Paragraph 2: how they influence behaviour at school and work. Paragraph 3: impact on community life (trust, reduced conflict, volunteering). Paragraph 4: threats (individualism, screen time) and how to protect values. Conclusion: strong families make a cohesive society.\nUseful phrases: 'moral foundation', 'social cohesion', 'sense of belonging'.",
+   "bn": "পদ্ধতি (essay): Thesis: পারিবারিক মূল্যবোধ চরিত্র গড়ে, চরিত্র সমাজ গড়ে। Paragraph 1: পারিবারিক মূল্যবোধের সংজ্ঞা (সততা, শ্রদ্ধা, সহযোগিতা, যত্ন)। Paragraph 2: স্কুল ও কর্মক্ষেত্রে আচরণে প্রভাব। Paragraph 3: সমাজজীবনে প্রভাব (আস্থা, কম সংঘাত, স্বেচ্ছাসেবা)। Paragraph 4: হুমকি (ব্যক্তিকেন্দ্রিকতা, screen time) ও মূল্যবোধ রক্ষার উপায়। উপসংহার: শক্তিশালী পরিবার সংহত সমাজ গড়ে।\nকাজের phrase: 'moral foundation', 'social cohesion', 'sense of belonging'।",
+   "rule_ids": [
+    "essay"
+   ]
+  }
+ }
+}

@@ -1,0 +1,1227 @@
+{
+ "exam": {
+  "institute": "IBA (DU)",
+  "program": "MBA",
+  "session": "Dec 2020",
+  "source_pdf": "iba_mba_dec_2020.pdf",
+  "parts_marks": {
+   "mcq": null,
+   "writing": null
+  }
+ },
+ "parts": [
+  {
+   "part_label": "Multiple Choice Questions",
+   "sections": [
+    {
+     "section_no": 1,
+     "source_section_label": "Section-1: Math",
+     "subject": "mathematics",
+     "groups": [
+      {
+       "source_group_label": null,
+       "instruction": null,
+       "stimulus": {
+        "passage": null,
+        "image": null,
+        "table": null
+       },
+       "questions": [
+        {
+         "number": 1,
+         "question_type": "problem-solving",
+         "stem": "1. If a and c are positive integers and  $4a + 3 = b$  and  $4c + 1 = d$ , which of the following could be the value of (b+d)?",
+         "options": [
+          {
+           "label": "A",
+           "text": "46"
+          },
+          {
+           "label": "B",
+           "text": "58"
+          },
+          {
+           "label": "C",
+           "text": "68"
+          },
+          {
+           "label": "D",
+           "text": "74"
+          },
+          {
+           "label": "E",
+           "text": "82"
+          }
+         ],
+         "answer": "C",
+         "explanation": "$b+d=(4a+3)+(4c+1)=4a+4c+4=4(a+c+1)$, so $b+d$ is a multiple of 4. Among the options only $68=4\\times17$ is a multiple of 4.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 2,
+         "question_type": "problem-solving",
+         "stem": "2. If a, b, c are integers and $ab^{2}c^{3}d^{4}>0$, which of the following must be positive?\nI. $a^{2}cd$ II. $bc^{4}d$ III. $a^{3}c^{3}d^{2}$",
+         "options": [
+          {
+           "label": "A",
+           "text": "I only"
+          },
+          {
+           "label": "B",
+           "text": "II only"
+          },
+          {
+           "label": "C",
+           "text": "III only"
+          },
+          {
+           "label": "D",
+           "text": "I and III"
+          },
+          {
+           "label": "E",
+           "text": "I, II and III"
+          }
+         ],
+         "answer": "C",
+         "explanation": "Since $b^{2}d^{4}>0$, the condition forces $a\\,c^{3}>0$, i.e. $a$ and $c$ have the same sign; $b,d$ can be either sign. III: $a^{3}c^{3}d^{2}=(ac)^{3}d^{2}$ with $ac>0$ and $d^{2}>0$, so it is always positive. I ($a^{2}cd$) and II ($bc^{4}d$) depend on the free sign of $d$ (and $b$), so they need not be positive. Only III.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 3,
+         "question_type": "problem-solving",
+         "stem": "3. If $(125)^{14} \\times (48)^{8}$ were expressed as an integer, how many consecutive zeros would that integer have immediately to the left of its decimal point? [If $(125)^{14} \\times (48)^{8} = x$, then how many trailing zeros does $x$ have?]",
+         "options": [
+          {
+           "label": "A",
+           "text": "22"
+          },
+          {
+           "label": "B",
+           "text": "32"
+          },
+          {
+           "label": "C",
+           "text": "42"
+          },
+          {
+           "label": "D",
+           "text": "50"
+          },
+          {
+           "label": "E",
+           "text": "112"
+          }
+         ],
+         "answer": "B",
+         "explanation": "$125^{14}=5^{42}$ and $48^{8}=(2^{4}\\cdot3)^{8}=2^{32}\\cdot3^{8}$. The product has $2^{32}\\cdot5^{42}\\cdot3^{8}$; trailing zeros equal $\\min(32,42)=32$.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 4,
+         "question_type": "problem-solving",
+         "stem": "4. When the positive integer n is divided by 8, the remainder is 3. What is the remainder if 3n divided by 8?",
+         "options": [
+          {
+           "label": "A",
+           "text": "1"
+          },
+          {
+           "label": "B",
+           "text": "3"
+          },
+          {
+           "label": "C",
+           "text": "5"
+          },
+          {
+           "label": "D",
+           "text": "6"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "A",
+         "explanation": "$n=8k+3$, so $3n=24k+9=8(3k+1)+1$, giving remainder 1.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 5,
+         "question_type": "problem-solving",
+         "stem": "5. If $x = (106 \\times 109 \\times 111)$, then what is the remainder when $x$ is divided by 15?",
+         "options": [
+          {
+           "label": "A",
+           "text": "1"
+          },
+          {
+           "label": "B",
+           "text": "4"
+          },
+          {
+           "label": "C",
+           "text": "7"
+          },
+          {
+           "label": "D",
+           "text": "9"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "D",
+         "explanation": "Modulo 15: $106\\equiv1$, $109\\equiv4$, $111\\equiv6$. Product $\\equiv1\\cdot4\\cdot6=24\\equiv9\\pmod{15}$.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 6,
+         "question_type": "problem-solving",
+         "stem": "6. If $f(-0.5) = 0$, which of the following could be $f(x)$?",
+         "options": [
+          {
+           "label": "A",
+           "text": "$2x + 2$"
+          },
+          {
+           "label": "B",
+           "text": "$4x - 2$"
+          },
+          {
+           "label": "C",
+           "text": "$4x^2 - 1$"
+          },
+          {
+           "label": "D",
+           "text": "$x^2 - 1$"
+          },
+          {
+           "label": "E",
+           "text": "$(-x)^2 - 2.5$"
+          }
+         ],
+         "answer": "C",
+         "explanation": "Substituting $x=-0.5$: option C gives $4(0.25)-1=0$. The others are non-zero at $x=-0.5$.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 7,
+         "question_type": "problem-solving",
+         "stem": "7. What is the range of the dataset of numbers comprised entirely of $\\{1, 6, x, 17, 20, y\\}$ if all terms in the dataset are positive integers and $xy = 18$?",
+         "options": [
+          {
+           "label": "A",
+           "text": "16"
+          },
+          {
+           "label": "B",
+           "text": "17"
+          },
+          {
+           "label": "C",
+           "text": "18"
+          },
+          {
+           "label": "D",
+           "text": "19"
+          },
+          {
+           "label": "E",
+           "text": "It cannot be determined from the information given"
+          }
+         ],
+         "answer": "D",
+         "explanation": "Positive-integer factors with $xy=18$ are all between 1 and 18, so no value exceeds 20 or falls below 1. Hence the maximum is always 20 and the minimum 1, giving range $20-1=19$.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 8,
+         "question_type": "problem-solving",
+         "stem": "8. The light at Shahbagh signal flashes every 120 seconds. The lights at Green road and Bata signal flash every 60 and 90 seconds. They all flash at 8:30. When will they flash again simultaneously?",
+         "options": [
+          {
+           "label": "A",
+           "text": "8:31"
+          },
+          {
+           "label": "B",
+           "text": "8:33"
+          },
+          {
+           "label": "C",
+           "text": "8:34"
+          },
+          {
+           "label": "D",
+           "text": "8:36"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "D",
+         "explanation": "LCM of 120, 60, 90 seconds $=360$ s $=6$ minutes, so the next simultaneous flash is at $8:30+6=8:36$.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 9,
+         "question_type": "problem-solving",
+         "stem": "9. A hunting lodge has enough fuel to keep 20 rooms heated for fourteen days. If the lodge decides to save fuel by turning off the heat in 5 unoccupied rooms, and each room requires the same amount of fuel to heat it, how many extra FULL days will the fuel supply last?",
+         "options": [
+          {
+           "label": "A",
+           "text": "3"
+          },
+          {
+           "label": "B",
+           "text": "4"
+          },
+          {
+           "label": "C",
+           "text": "5"
+          },
+          {
+           "label": "D",
+           "text": "18"
+          },
+          {
+           "label": "E",
+           "text": "19"
+          }
+         ],
+         "answer": "B",
+         "explanation": "Total fuel $=20\\times14=280$ room-days. With 15 rooms it lasts $280/15\\approx18.67$ days, i.e. 18 full days. That is $18-14=4$ extra full days.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 10,
+         "question_type": "problem-solving",
+         "stem": "10. A tank that was 40% full of oil emptied into a 20 gallon bucket. If the oil fills 35% of the bucket's volume, then what is the total capacity of the tank, in gallons?",
+         "options": [
+          {
+           "label": "A",
+           "text": "8.75"
+          },
+          {
+           "label": "B",
+           "text": "15"
+          },
+          {
+           "label": "C",
+           "text": "16"
+          },
+          {
+           "label": "D",
+           "text": "17.5"
+          },
+          {
+           "label": "E",
+           "text": "19"
+          }
+         ],
+         "answer": "D",
+         "explanation": "The oil $=35\\%$ of 20 $=7$ gallons, and that equals 40% of the tank, so the tank capacity $=7/0.4=17.5$ gallons.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 11,
+         "question_type": "problem-solving",
+         "stem": "11. Last year, a magazine charged a $\\$$50 subscription fee. This year, the price will be increased by 20%. If the magazine could lose 4 subscribers this year and still collects the same revenue as it did last year, how many subscribers did the magazine have last year?",
+         "options": [
+          {
+           "label": "A",
+           "text": "20"
+          },
+          {
+           "label": "B",
+           "text": "21"
+          },
+          {
+           "label": "C",
+           "text": "22"
+          },
+          {
+           "label": "D",
+           "text": "23"
+          },
+          {
+           "label": "E",
+           "text": "24"
+          }
+         ],
+         "answer": "E",
+         "explanation": "New fee $=\\$60$. With $n$ subscribers last year, $60(n-4)=50n\\Rightarrow10n=240\\Rightarrow n=24$.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 12,
+         "question_type": "problem-solving",
+         "stem": "12. A salesman sells 2 bicycles at Tk. 3200 each, one at profit of $20\\%$ and the other at a loss $20\\%$. What is the overall profit or loss percentage?",
+         "options": [
+          {
+           "label": "A",
+           "text": "$1\\%$ loss"
+          },
+          {
+           "label": "B",
+           "text": "$2.5\\%$ profit"
+          },
+          {
+           "label": "C",
+           "text": "$4\\%$ loss"
+          },
+          {
+           "label": "D",
+           "text": "No loss no profit"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "C",
+         "explanation": "When two items are sold at the same price, one at $+x\\%$ and one at $-x\\%$, there is always a net loss of $\\frac{x^{2}}{100}\\%=\\frac{20^{2}}{100}=4\\%$ loss.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 13,
+         "question_type": "problem-solving",
+         "stem": "13. If an amount kept for a year gives 12.5% interest, then in how many years the cumulative interest generated will be equal to the principal amount?",
+         "options": [
+          {
+           "label": "A",
+           "text": "3"
+          },
+          {
+           "label": "B",
+           "text": "5"
+          },
+          {
+           "label": "C",
+           "text": "6"
+          },
+          {
+           "label": "D",
+           "text": "7"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "E",
+         "explanation": "At 12.5% simple interest per year, the interest equals the principal (100%) after $100/12.5=8$ years, which is not among A-D, so the answer is E.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 14,
+         "question_type": "problem-solving",
+         "stem": "14. Eight women and two men are available to serve on a committee. If three people are picked, what is the probability that the committee includes at least one man?",
+         "options": [
+          {
+           "label": "A",
+           "text": "$\\frac{1}{32}$"
+          },
+          {
+           "label": "B",
+           "text": "$\\frac{1}{4}$"
+          },
+          {
+           "label": "C",
+           "text": "$\\frac{2}{5}$"
+          },
+          {
+           "label": "D",
+           "text": "$\\frac{7}{15}$"
+          },
+          {
+           "label": "E",
+           "text": "$\\frac{8}{15}$"
+          }
+         ],
+         "answer": "E",
+         "explanation": "P(at least one man) = 1 - P(no man) = 1 - C(8,3)/C(10,3) = 1 - 56/120 = 64/120 = 8/15.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 15,
+         "question_type": "problem-solving",
+         "stem": "15. The sides of a rectangular field are in the ratio 3:2. If the area is 150 sq. cm, determine the perimeter in cm?",
+         "options": [
+          {
+           "label": "A",
+           "text": "10"
+          },
+          {
+           "label": "B",
+           "text": "25"
+          },
+          {
+           "label": "C",
+           "text": "40"
+          },
+          {
+           "label": "D",
+           "text": "35"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "E",
+         "explanation": "Sides 3k and 2k: 6k^2 = 150, so k = 5 and the sides are 15 and 10. Perimeter = 2(15 + 10) = 50 cm, which is not among A-D: E.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 16,
+         "question_type": "problem-solving",
+         "stem": "16. In a right triangle, a > b > c and the area is 3 sq. cm. What is the range of values of b?",
+         "options": [
+          {
+           "label": "A",
+           "text": "$b > \\sqrt{6}$"
+          },
+          {
+           "label": "B",
+           "text": "$4 > b > 1$"
+          },
+          {
+           "label": "C",
+           "text": "$3 > b > 1$"
+          },
+          {
+           "label": "D",
+           "text": "$4 > b > 2$"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "A",
+         "explanation": "The hypotenuse is the longest side a, so b and c are the legs: (1/2)bc = 3, bc = 6. Since b > c, b^2 > bc = 6, so b > sqrt(6) (and b can be arbitrarily large with c small). Answer A.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 17,
+         "question_type": "problem-solving",
+         "stem": "17. A company makes a certain product for 30 hours using three machines A, B and C. A makes 36 units per 6 hours, B makes 6 units per 12 hours, C make 33 units per 12 hours. The company uses Machines B and C for the first 12 hours, then uses A and B for the next 6 hours and for the remaining of the time it uses A and C to make the product. What is the total amount of product made by this schedule?",
+         "options": [
+          {
+           "label": "A",
+           "text": "181"
+          },
+          {
+           "label": "B",
+           "text": "183"
+          },
+          {
+           "label": "C",
+           "text": "168"
+          },
+          {
+           "label": "D",
+           "text": "175"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "B",
+         "explanation": "Rates per hour: A = 6, B = 0.5, C = 2.75. First 12 h (B+C): 3.25 x 12 = 39. Next 6 h (A+B): 6.5 x 6 = 39. Remaining 12 h (A+C): 8.75 x 12 = 105. Total = 39 + 39 + 105 = 183.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 18,
+         "question_type": "problem-solving",
+         "stem": "18. Nadia can buy a pen at the cost of Tk. 1. During a promotional event she would get 40% discount on the cost of 2nd pen when she buys 2 pens together. How many pens she can buy during that promotional event with Tk. 80?",
+         "options": [
+          {
+           "label": "A",
+           "text": "96"
+          },
+          {
+           "label": "B",
+           "text": "100"
+          },
+          {
+           "label": "C",
+           "text": "106"
+          },
+          {
+           "label": "D",
+           "text": "112"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "B",
+         "explanation": "Two pens together cost 1 + 0.6 = Tk. 1.60. Tk. 80 buys 80/1.6 = 50 pairs = 100 pens.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 19,
+         "question_type": "problem-solving",
+         "stem": "19. A 16 ounce jar of birdseed is 10% sesame. How much sesame must be added to make the jar 20% sesame?",
+         "options": [
+          {
+           "label": "A",
+           "text": "1 ounce"
+          },
+          {
+           "label": "B",
+           "text": "1.6 ounce"
+          },
+          {
+           "label": "C",
+           "text": "2 ounce"
+          },
+          {
+           "label": "D",
+           "text": "2.4 ounce"
+          },
+          {
+           "label": "E",
+           "text": "4 ounce"
+          }
+         ],
+         "answer": "C",
+         "explanation": "Sesame now = 1.6 oz. Adding x oz: (1.6 + x)/(16 + x) = 0.2, so 1.6 + x = 3.2 + 0.2x, 0.8x = 1.6, x = 2 oz.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 20,
+         "question_type": "problem-solving",
+         "stem": "20. Helen bought a ticket for $\\$$ 252. If she'd bought it 1 day later, she would have paid $\\$$306. How many days in advance did she buy her ticket?",
+         "options": [
+          {
+           "label": "A",
+           "text": "5"
+          },
+          {
+           "label": "B",
+           "text": "30"
+          },
+          {
+           "label": "C",
+           "text": "59"
+          },
+          {
+           "label": "D",
+           "text": "60"
+          },
+          {
+           "label": "E",
+           "text": "89"
+          }
+         ],
+         "answer": "B",
+         "explanation": "Buying one day later moves to a smaller discount band, so 252 = P(1 - d1) and 306 = P(1 - d2) with 252/306 = 14/17. Only 30% and 15% fit (0.70/0.85 = 14/17), so P = 252/0.70 = $\\$$360 and 306 = 360 x 0.85. A purchase at 30% is 30-59 days in advance and one day later (29 days) gives 15%, so she bought it exactly 30 days in advance.",
+         "images": [],
+         "needs_review": false,
+         "table": {
+          "rows": [
+           [
+            "Conference Ticket Advance Discounts",
+            "5-29 days in advance",
+            "15%"
+           ],
+           [
+            "",
+            "30-59 day in advance",
+            "30%"
+           ],
+           [
+            "",
+            "60-89 day in advance",
+            "40%"
+           ]
+          ],
+          "rowspan_first_col": true
+         },
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 21,
+         "question_type": "problem-solving",
+         "stem": "21. In a club, 60% are male and 2/3 of them like games. If all the members in the club like music or game and 70% of the members like games, what percent of the females like music?",
+         "options": [
+          {
+           "label": "A",
+           "text": "11%"
+          },
+          {
+           "label": "B",
+           "text": "10%"
+          },
+          {
+           "label": "C",
+           "text": "10.5%"
+          },
+          {
+           "label": "D",
+           "text": "13%"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "E",
+         "explanation": "Take 100 members: 60 male, 40 female. Males who like games = 2/3 x 60 = 40; total who like games = 70, so females who like games = 30, leaving 40 - 30 = 10 females who must like music (everyone likes music or games). That is 10/40 = 25% of the females - not among A-D (the 2019 paper prints the same question with 25% as an option), so the answer is E.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        }
+       ]
+      },
+      {
+       "source_group_label": "Data Sufficiency:",
+       "instruction": null,
+       "stimulus": {
+        "passage": null,
+        "image": null,
+        "table": null
+       },
+       "questions": [
+        {
+         "number": 22,
+         "question_type": "data-sufficiency",
+         "stem": "22. If x and y are positive integers, is odd?\n1. X is odd.\n2. xy is odd",
+         "options": [],
+         "answer": null,
+         "explanation": "Source defect: the printed question \"is odd?\" has no subject, so no answer can be derived. Answer left null. (No standard A-E options are printed for this data-sufficiency item.)",
+         "images": [],
+         "needs_review": false,
+         "source_defect": "Printed stem \"If x and y are positive integers, is odd?\" is missing its subject.",
+         "answer_source": "derived",
+         "answer_basis": null
+        },
+        {
+         "number": 23,
+         "question_type": "data-sufficiency",
+         "stem": "23. Is q an integer?\n1. 3q is an odd number.\n2. 2q is an even number.",
+         "options": [],
+         "answer": "Statement (2) alone is sufficient (GMAT-style: B)",
+         "explanation": "(1) 3q odd: q = 1/3 (3q = 1) is not an integer, while q = 1 is, so not sufficient. (2) 2q even means 2q = 2k for an integer k, so q = k is an integer - sufficient. Standard DS options are not printed in the source.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section_no": 2,
+     "source_section_label": "Analytical Ability",
+     "subject": "analytical",
+     "groups": [
+      {
+       "source_group_label": "Interview panel puzzle (Questions 24-28)",
+       "instruction": null,
+       "stimulus": {
+        "passage": "There are seven interview panels I to VII for selecting Managers for seven different companies - A, B, C, D, E, F, and G. Asif, Tushar, Mahzabin, Tazul, Mahmood, Rakib, and Sadib are seven candidates for the post of Managers but not necessarily in the same order.\n- Panel IV takes the interview of Rakib for company A.\n- Panel III takes the interview of Tazul but not for company C or D.\n- Tushar gives the interview for company B but not to panels I or II.\n- Panel VI takes the interview of Asif for company E.\n- Panel VII takes the interview for company F.\n- Panel I takes the interview of Mahzabin but not for company C.\n- Panel II does not take the interview of Mahmood.",
+        "image": null,
+        "table": null
+       },
+       "questions": [
+        {
+         "number": 24,
+         "question_type": "puzzle",
+         "stem": "24. Panel II takes interview for which of the following companies?",
+         "options": [
+          {
+           "label": "A",
+           "text": "D"
+          },
+          {
+           "label": "B",
+           "text": "C"
+          },
+          {
+           "label": "C",
+           "text": "F"
+          },
+          {
+           "label": "D",
+           "text": "B"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "B",
+         "explanation": "Solution: Panel IV = Rakib/A; Panel VI = Asif/E; Panel VII = company F. Panel III = Tazul and not C or D, so B or G; Tushar has company B and cannot be in panels I, II, III, IV, VI or VII, so Tushar = Panel V/B, hence Tazul = Panel III/G. Panel I = Mahzabin and not C, so company D. Panel II then has company C and, since it does not take Mahmood, Sadib; Mahmood = Panel VII/F. Final: I Mahzabin-D, II Sadib-C, III Tazul-G, IV Rakib-A, V Tushar-B, VI Asif-E, VII Mahmood-F.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 25,
+         "question_type": "puzzle",
+         "stem": "25. Panel V takes interview of which of the following candidates?",
+         "options": [
+          {
+           "label": "A",
+           "text": "Tushar"
+          },
+          {
+           "label": "B",
+           "text": "Mahmood"
+          },
+          {
+           "label": "C",
+           "text": "mahzabin"
+          },
+          {
+           "label": "D",
+           "text": "Can't be determined"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "A",
+         "explanation": "Panel V takes Tushar (company B). Solution: Panel IV = Rakib/A; Panel VI = Asif/E; Panel VII = company F. Panel III = Tazul and not C or D, so B or G; Tushar has company B and cannot be in panels I, II, III, IV, VI or VII, so Tushar = Panel V/B, hence Tazul = Panel III/G. Panel I = Mahzabin and not C, so company D. Panel II then has company C and, since it does not take Mahmood, Sadib; Mahmood = Panel VII/F. Final: I Mahzabin-D, II Sadib-C, III Tazul-G, IV Rakib-A, V Tushar-B, VI Asif-E, VII Mahmood-F.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 26,
+         "question_type": "puzzle",
+         "stem": "26. Mahzabin gives interview for which of the following companies?",
+         "options": [
+          {
+           "label": "A",
+           "text": "F"
+          },
+          {
+           "label": "B",
+           "text": "G"
+          },
+          {
+           "label": "C",
+           "text": "D"
+          },
+          {
+           "label": "D",
+           "text": "A"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "C",
+         "explanation": "Mahzabin is in Panel I and interviews for company D. Solution: Panel IV = Rakib/A; Panel VI = Asif/E; Panel VII = company F. Panel III = Tazul and not C or D, so B or G; Tushar has company B and cannot be in panels I, II, III, IV, VI or VII, so Tushar = Panel V/B, hence Tazul = Panel III/G. Panel I = Mahzabin and not C, so company D. Panel II then has company C and, since it does not take Mahmood, Sadib; Mahmood = Panel VII/F. Final: I Mahzabin-D, II Sadib-C, III Tazul-G, IV Rakib-A, V Tushar-B, VI Asif-E, VII Mahmood-F.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 27,
+         "question_type": "puzzle",
+         "stem": "27. Who among the following gives interview for company C?",
+         "options": [
+          {
+           "label": "A",
+           "text": "Tushar"
+          },
+          {
+           "label": "B",
+           "text": "Tazul"
+          },
+          {
+           "label": "C",
+           "text": "Mahzabin"
+          },
+          {
+           "label": "D",
+           "text": "Sadib"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "D",
+         "explanation": "Company C is taken by Panel II, whose candidate is Sadib. Solution: Panel IV = Rakib/A; Panel VI = Asif/E; Panel VII = company F. Panel III = Tazul and not C or D, so B or G; Tushar has company B and cannot be in panels I, II, III, IV, VI or VII, so Tushar = Panel V/B, hence Tazul = Panel III/G. Panel I = Mahzabin and not C, so company D. Panel II then has company C and, since it does not take Mahmood, Sadib; Mahmood = Panel VII/F. Final: I Mahzabin-D, II Sadib-C, III Tazul-G, IV Rakib-A, V Tushar-B, VI Asif-E, VII Mahmood-F.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 28,
+         "question_type": "puzzle",
+         "stem": "28. Which of the following combinations is true?",
+         "options": [
+          {
+           "label": "A",
+           "text": "Mahmood-VII"
+          },
+          {
+           "label": "B",
+           "text": "Tazul-C-III"
+          },
+          {
+           "label": "C",
+           "text": "Tushar-B-II"
+          },
+          {
+           "label": "D",
+           "text": "Mahzabin-C-I"
+          },
+          {
+           "label": "E",
+           "text": "None of these"
+          }
+         ],
+         "answer": "A",
+         "explanation": "Only Mahmood-VII is true (Mahmood is in Panel VII for company F). Tazul is Panel III for G (not C), Tushar is Panel V (not II), and Mahzabin is Panel I for D (not C). Solution: Panel IV = Rakib/A; Panel VI = Asif/E; Panel VII = company F. Panel III = Tazul and not C or D, so B or G; Tushar has company B and cannot be in panels I, II, III, IV, VI or VII, so Tushar = Panel V/B, hence Tazul = Panel III/G. Panel I = Mahzabin and not C, so company D. Panel II then has company C and, since it does not take Mahmood, Sadib; Mahmood = Panel VII/F. Final: I Mahzabin-D, II Sadib-C, III Tazul-G, IV Rakib-A, V Tushar-B, VI Asif-E, VII Mahmood-F.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        }
+       ]
+      },
+      {
+       "source_group_label": "Critical Reasoning",
+       "instruction": null,
+       "stimulus": {
+        "passage": null,
+        "image": null,
+        "table": null
+       },
+       "questions": [
+        {
+         "number": 29,
+         "question_type": "critical-reasoning",
+         "stem": "29. The School board has responded to the new school lunch guidelines by replacing fried potatoes with fruit in a standard meal option that used to consist of a hamburger, fried potatoes, and milk. However, the guidelines specifically require that vegetables, not fruits, be included in every meal.\nThe information above most strongly supports which of the following conclusions?",
+         "options": [
+          {
+           "label": "A",
+           "text": "Fruit provides just as much health value to students as vegetables."
+          },
+          {
+           "label": "B",
+           "text": "Students are more likely to eat fruit than vegetables."
+          },
+          {
+           "label": "C",
+           "text": "The School board is not following the new school guidelines."
+          },
+          {
+           "label": "D",
+           "text": "The School board is responsible for the health of the student population."
+          },
+          {
+           "label": "E",
+           "text": "The new school lunch guidelines are unnecessarily strict."
+          }
+         ],
+         "answer": "C",
+         "explanation": "The guidelines require vegetables in every meal, but the board added fruit instead. It therefore has not complied with the guidelines — conclusion C follows directly; the others go beyond the given information.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 30,
+         "question_type": "critical-reasoning",
+         "stem": "30. While many people think of the lottery as a harmless way to have fun and possible win some money, buying lottery tickets is a form of gambling. Therefore, public officials shouldn't by lottery tickets.\nThe argument above relies upon which of the following assumptions?",
+         "options": [
+          {
+           "label": "A",
+           "text": "Individuals who play the lottery are less likely to win a big payout than they are to be killed in a car crash."
+          },
+          {
+           "label": "B",
+           "text": "Some public officials are guilty of much more serious offenses that gambling."
+          },
+          {
+           "label": "C",
+           "text": "Public officials shouldn't gamble."
+          },
+          {
+           "label": "D",
+           "text": "Many public officials are easily tempted to violate rules governing their positions."
+          },
+          {
+           "label": "E",
+           "text": "Most lottery winners are not made as happy by their winnings as they expected."
+          }
+         ],
+         "answer": "C",
+         "explanation": "The argument goes: lottery = gambling, therefore officials shouldn't play. That only follows if officials shouldn't gamble in the first place — the unstated assumption C bridges the premise and conclusion.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section_no": 3,
+     "source_section_label": "Section 3: Language and Communication",
+     "subject": "language",
+     "groups": [
+      {
+       "source_group_label": null,
+       "instruction": "Read the following paragraph and answer the questions.",
+       "stimulus": {
+        "passage": "Invisible theater and guerrilla are two forms of street theater with similar origins but very different approaches. Both forms take place exclusively in public places, but invisible theater conceals its performative nature whereas guerrilla theater flaunts it. While invisible theater creates a performance explicitly imposing a performance space onto a public place.\n\nStarting in the early 1970's, Augusto Boal and fellow actors have staged scenes regarding social issues in public or semi-public places (e.g., restaurants), crafting their dialog and action to get a verbal reaction from bystanders. Because performers and non-performers remain distinct, invisible theater returns somewhat to the model set up by traditional theater. However, there are a few key differences. The performance space is crated in public places without the awareness of non-performers. For non-performers, being beyond the performative space allows them to avoid the etiquette of theatergoing and removes that “lens” that unavoidably emerges when we feel we are viewing art or performance. If people do not suspect that they are viewing art, however, they agree free to engage with action and concepts of an unfolding drama as if these actions and concepts where real.\n\nBoal has documented various successful instances of invisible theater in which non-performers actively listen, participate in public-spirited discussion, and even take unplanned public-minded action in response to the dialogue and events set up by invisible theater performers. Because onlookers think they are witnessing real life events, because the performers are bold in their statements, because the scripted characters are very vocal about what they are doing and experiencing, invisible theater is able to instigate political conversation within an everyday context; it successfully creates public forums out of thin air.\n\nGuerrilla theater creates surprise performances in public, but is driven by the forceful imposition of “traditional” (if we can call anything about guerrilla theater “traditional”) theater. One example includes two professors of Galway’s University College who dressed in their robes and went out to the street, questioning pedestrians and awarding diplomas to the ones least able to provide good answers, as a way to protest their university’s decision to grant Ronal Reagan an honorary doctorate in law.\n\nA large part of the goal of guerrilla theater is to get publicized; its message echoed over and over in our ever-expanding network of technology interface mass media. Guerrilla theater knows it may antagonize its direct audience - it often hopes to, because conflict is more likely to be broadcast, and the goal of guerrilla theater is to get people talking publicly.",
+        "image": null,
+        "table": null
+       },
+       "questions": [
+        {
+         "number": 31,
+         "question_type": "reading-comp",
+         "stem": "31. The main point of the passage could best be described as-",
+         "options": [
+          {
+           "label": "A",
+           "text": "a discussion of two different but aligned artistic currents"
+          },
+          {
+           "label": "B",
+           "text": "an examination of which of tow art forms is more effective at prompting political action"
+          },
+          {
+           "label": "C",
+           "text": "a synopsis of the evolution of theater"
+          },
+          {
+           "label": "D",
+           "text": "a presentation of two theatrical concepts that conceal their performative nature"
+          },
+          {
+           "label": "E",
+           "text": "an overview of artistic life in public places"
+          }
+         ],
+         "answer": "A",
+         "explanation": "The passage compares two street-theater forms with similar origins but different approaches, i.e. two different but related (aligned) artistic currents. D is wrong because only invisible theater conceals its nature; B and C overstate/misstate the focus.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 32,
+         "question_type": "reading-comp",
+         "stem": "32. Consider each of the answer choices separately and indicate all that apply.\nWhich of the following is true of both invisible theater and guerrilla theater?",
+         "options": [
+          {
+           "label": "A",
+           "text": "both have a goad of encouraging discourse",
+           "label_display": "◆"
+          },
+          {
+           "label": "B",
+           "text": "both impose performance space onto public location",
+           "label_display": "◆"
+          },
+          {
+           "label": "C",
+           "text": "both antagonize their audience",
+           "label_display": "◆"
+          }
+         ],
+         "answer": "A and B",
+         "explanation": "Both forms take place in public and aim to get people talking: invisible theater is \"able to instigate political conversation\", and guerrilla theater's goal \"is to get people talking publicly\" (A true). Both impose a performance onto a public place: invisible theater \"creates a performance explicitly imposing a performance space onto a public place\", and guerrilla theater is \"driven by the forceful imposition\" of theater (B true). Only guerrilla theater antagonizes its audience; invisible theater hides its performative nature precisely so it does not (C false).",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 33,
+         "question_type": "reading-comp",
+         "stem": "33. The passage implies that the Galway professor believed which of following?",
+         "options": [
+          {
+           "label": "A",
+           "text": "Guerrilla theater was superior to invisible theater."
+          },
+          {
+           "label": "B",
+           "text": "Protesting an honor could result in the revocation of the award."
+          },
+          {
+           "label": "C",
+           "text": "Granting Ronald Reagan a degree demeaned the intellectual standard of the university."
+          },
+          {
+           "label": "D",
+           "text": "Handing out diplomas was a legal activity."
+          },
+          {
+           "label": "E",
+           "text": "Ronald Reagan's foreign policy had deleterious effects."
+          }
+         ],
+         "answer": "C",
+         "explanation": "The professors awarded diplomas to the least capable answerers to protest Reagan's honorary doctorate — mocking the award implies they felt it lowered (demeaned) the university's intellectual standard.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 34,
+         "question_type": "reading-comp",
+         "stem": "34. Consider each of the answer choices separately and indicate all that apply.\nWhich of the following, if true, would undermine the principle of invisible theater?",
+         "options": [
+          {
+           "label": "A",
+           "text": "When people knowingly view art, their heightened attention increases their perception and involvement.",
+           "label_display": "◆"
+          },
+          {
+           "label": "B",
+           "text": "Audience members watch a performance and later report to others what happened, still not knowing that the event was a theater piece.",
+           "label_display": "◆"
+          },
+          {
+           "label": "C",
+           "text": "A lively debate about public issues is brought to a halt by the imposition of scripted characters inserting theatrical dialogue",
+           "label_display": "◆"
+          }
+         ],
+         "answer": "A and C",
+         "explanation": "Invisible theater's principle is that audiences unaware they are watching a performance engage freely and genuinely, creating real public discourse. (i) undermines it: if knowing viewers engage more, concealment is pointless. (iii) undermines it: scripted theatrical dialogue halting a genuine debate shows the covert performance suppressing discourse. (ii) is consistent with the principle (the audience stays unaware), so it does not undermine it. Answer: i and iii.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        },
+        {
+         "number": 35,
+         "question_type": "reading-comp",
+         "stem": "35. Consider each of the answer choices separately ad indicate all that apply.\nWhich of the following can be inferred form the passage?\nI. When people are unaware that they are viewing a performance, they tend to act more naturally.\nII. Invisible theater is best described as improvisation.\nIII. One measure of the success of a theatrical performance can be the actions taken by the audience once the performance is over.",
+         "options": [
+          {
+           "label": "A",
+           "text": "I Only"
+          },
+          {
+           "label": "B",
+           "text": "III Only"
+          },
+          {
+           "label": "C",
+           "text": "I and III Only"
+          },
+          {
+           "label": "D",
+           "text": "II and III Only"
+          },
+          {
+           "label": "E",
+           "text": "I, II, and III"
+          }
+         ],
+         "answer": "C",
+         "explanation": "I is supported (unaware onlookers engage as if events were real). III is supported (success is shown by onlookers taking public-minded action afterward). II is not supported — invisible theater is scripted, not improvisation. So I and III only.",
+         "images": [],
+         "needs_review": false,
+         "answer_source": "derived",
+         "answer_basis": "derived_from_printed_question"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "unresolved": [
+  "Answers and explanations are not audited (out of scope; to be regenerated).",
+  "Dec 2020 PDF p2 is a phone photo of the book page (Q14-24 and the start of Section 2); images/1.jpg is identical to it. No printed answer key exists in this PDF.",
+  "Q22: printed stem \"If x and y are positive integers, is odd?\" has no subject (source_defect); answer null.",
+  "Q32/Q34 options are printed with bullet symbols; stored as A-C with label_display.",
+  "Q20 discount table is stored in the question's \"table\" field (merged first column).",
+  "Q24 puzzle is printed as one paragraph; stored as introduction plus bullet clues (same words)."
+ ]
+}

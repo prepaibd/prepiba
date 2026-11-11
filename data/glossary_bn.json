@@ -1,0 +1,17 @@
+{
+  "_note": "Draft v0.1. translate = use Bangla term; keep_english = leave English in Bangla text. Edit freely; consistency matters more than any single choice.",
+  "translate": {
+    "ratio": "অনুপাত", "proportion": "সমানুপাত", "average": "গড়", "area": "ক্ষেত্রফল",
+    "perimeter": "পরিসীমা", "radius": "ব্যাসার্ধ", "diameter": "ব্যাস", "circle": "বৃত্ত",
+    "triangle": "ত্রিভুজ", "equilateral triangle": "সমবাহু ত্রিভুজ", "inscribed": "অন্তর্লিখিত",
+    "square": "বর্গ", "rectangle": "আয়তক্ষেত্র", "divisible": "বিভাজ্য", "even": "জোড়",
+    "odd": "বিজোড়", "factor": "উৎপাদক", "multiple": "গুণিতক", "numerator": "লব",
+    "denominator": "হর", "sum": "যোগফল", "difference": "বিয়োগফল", "product": "গুণফল",
+    "speed": "গতি", "distance": "দূরত্ব", "minimum": "সর্বনিম্ন", "maximum": "সর্বোচ্চ",
+    "total": "মোট", "equal": "সমান", "inclusive": "সহ", "price": "দাম", "profit": "লাভ", "loss": "ক্ষতি"
+  },
+  "keep_english": [
+    "integer", "percentage", "probability", "data sufficiency", "statement", "border",
+    "engineer", "doctor", "walkway"
+  ]
+}

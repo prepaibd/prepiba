@@ -1,0 +1,1147 @@
+{
+  "exam": {
+    "institute": "IBA (DU)",
+    "program": "MBA",
+    "session": "Dec 2022",
+    "source_pdf": "iba_mba_dec_2022.pdf",
+    "parts_marks": {
+      "mcq": null,
+      "writing": null
+    }
+  },
+  "parts": [
+    {
+      "part_label": "Multiple Choice Questions",
+      "sections": [
+        {
+          "section_no": 1,
+          "source_section_label": "Section-1: Math",
+          "subject": "mathematics",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "problem-solving",
+                  "stem": "1. $x^{2} + \\frac{1}{x^{2}} = 10, x^{5} + \\frac{1}{x^{5}} = ?$",
+                  "options": [],
+                  "answer": "$178\\sqrt{3}$",
+                  "explanation": "$x+\\frac1x=\\sqrt{12}=2\\sqrt3$ (from $(x+\\frac1x)^2=10+2$). Then $x^3+\\frac1{x^3}=(2\\sqrt3)^3-3(2\\sqrt3)=18\\sqrt3$, and $(x^2+\\frac1{x^2})(x^3+\\frac1{x^3})=x^5+\\frac1{x^5}+(x+\\frac1x)=10\\times18\\sqrt3=180\\sqrt3$, so $x^5+\\frac1{x^5}=180\\sqrt3-2\\sqrt3=178\\sqrt3$. (No options printed.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "problem-solving",
+                  "stem": "2. If Jasfan and Jafran start their journey from a to b and their speed are 5 and 3 respectively starting their journey together, as soon as Jasfan reach point b, he turns back starts toward point a and meet Jafran on the way how far the point b do the two of them meet, if distance a to b is 32 jm.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "6"
+                    },
+                    {
+                      "label": "B",
+                      "text": "8"
+                    },
+                    {
+                      "label": "C",
+                      "text": "4"
+                    },
+                    {
+                      "label": "D",
+                      "text": "10"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "In equal time, distances are in ratio $5:3$. Jasfan goes $32+x$ and Jafran $32-x$ (meeting $x$ km from b): $\\frac{32+x}{32-x}=\\frac53\\Rightarrow x=8$ km from b.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "problem-solving",
+                  "stem": "3. Some chocolate were distribute among children. one box has 2 chocolate of strawberry flavor, 2nd box has four chocolate of Apple flavor, and other types has 5 chocolate of banana flavor distribute among 76 children each gets at least 1 of all types. How many boxes are needed?",
+                  "options": [],
+                  "answer": "73",
+                  "explanation": "Each of 76 children needs one of each flavour: strawberry needs $\\lceil76/2\\rceil=38$ boxes, apple $\\lceil76/4\\rceil=19$ boxes, banana $\\lceil76/5\\rceil=16$ boxes, total $38+19+16=73$ boxes. (No options printed; interpretation flagged.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "problem-solving",
+                  "stem": "4. $\\mathrm{W} = 10^{\\circ},\\mathrm{Z} = ?$",
+                  "options": [],
+                  "answer": "$85^{\\circ}$",
+                  "explanation": "The figure shows a triangle with the two sides of length 15 meeting at W (WA = WZ-base = 15), so it is isosceles with apex angle W = 10 deg. The angles at the other two vertices are equal: Z = (180 - 10)/2 = 85 deg. (No options printed; the figure is not to scale.)",
+                  "images": [
+                    {
+                      "fig_id": "q_p0_1",
+                      "role": "question",
+                      "path": "images/q_p0_1.png",
+                      "caption": "Isosceles triangle with two sides of 15 and angles W, Z"
+                    }
+                  ],
+                  "needs_review": false
+                },
+                {
+                  "number": 5,
+                  "question_type": "problem-solving",
+                  "stem": "5. From the top your position is 24 and from the bottom is 20, so total position holder equal to what?",
+                  "options": [],
+                  "answer": "43",
+                  "explanation": "Total $=$ (position from top) $+$ (position from bottom) $-1 = 24+20-1=43$. (No options printed.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 6,
+                  "question_type": "problem-solving",
+                  "stem": "6. O = Centre; A = 20; Shaded region = ?",
+                  "options": [],
+                  "answer": "$100\\pi - 200$",
+                  "explanation": "OA and OB are perpendicular radii (radius 20). The shaded part between chord AB and the arc is the segment $=$ sector $-$ triangle $=\\frac14\\pi(20)^2-\\frac12(20)(20)=100\\pi-200$. (No options printed.)",
+                  "images": [
+                    {
+                      "fig_id": "q_p0_2",
+                      "role": "question",
+                      "path": "images/q_p0_2.png",
+                      "caption": "Circle, centre O, with segment between chord AB and arc shaded"
+                    }
+                  ],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "problem-solving",
+                  "stem": "7. There are 20 blue Marbles and 70 white marbles in a container. How many blue marble should be added to containers so that the percentage of blue marble is 60?",
+                  "options": [],
+                  "answer": "85",
+                  "explanation": "$\\frac{20+b}{90+b}=0.6\\Rightarrow20+b=54+0.6b\\Rightarrow0.4b=34\\Rightarrow b=85$. (No options printed.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 8,
+                  "question_type": "problem-solving",
+                  "stem": "8. Pen rate is twice than pencil's. If selling the 40 pens profit is 20 pencil, what is the profit %?",
+                  "options": [],
+                  "answer": "25%",
+                  "explanation": "Taking \"rate\" as the cost price: let a pencil cost p, so a pen costs 2p. Cost of 40 pens = 80p; the profit on them equals the price of 20 pencils = 20p. Profit % = 20p / 80p = 25%. (Source has no options; if \"rate\" meant selling price the result would be 33.3%, so the wording is ambiguous.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 9,
+                  "question_type": "problem-solving",
+                  "stem": "9. Ayon has 5000 tk. more than Noyons and at least each gets 2000 tk. (average) where 20 persons and total taka is 50000, then Ayon can get at most = ?",
+                  "options": [],
+                  "answer": "9500",
+                  "explanation": "To maximise Ayon, give the other 18 people the minimum 2000 each ($=36000$). Then Ayon $+$ Noyon $=14000$ with Ayon $=$ Noyon $+5000$, so Noyon $=4500$, Ayon $=9500$. (OCR garbled; no options printed.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 10,
+                  "question_type": "problem-solving",
+                  "stem": "10. If $\\{\\mathbf{a}\\}^{100}$ and $\\{\\mathbf{b}\\}^{100}$ are 2 series such that $a = 5, 8, \\ldots, B = 3, 7, \\ldots$, How many numbers are common between a and b?",
+                  "options": [],
+                  "answer": "25",
+                  "explanation": "Series a $(5,8,\\dots,302)$ has terms $\\equiv2\\pmod3$; series b $(3,7,\\dots,399)$ has terms $\\equiv3\\pmod4$. Common terms satisfy both, i.e. $\\equiv11\\pmod{12}$: $11,23,\\dots$ up to 302, giving 25 numbers. (No options printed.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 11,
+                  "question_type": "problem-solving",
+                  "stem": "11. Rafi is twice as Mahabub and Mahabub is  $\\frac{5}{9}$  of Sania, then what can be their average:\ni. 32, ii. 36 iii. 171",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "i + ii + iii"
+                    },
+                    {
+                      "label": "B",
+                      "text": "i + iii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "ii"
+                    },
+                    {
+                      "label": "D",
+                      "text": "i"
+                    },
+                    {
+                      "label": "E",
+                      "text": "iii"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Let Mahabub $=M$; Rafi $=2M$, Sania $=\\frac{9M}{5}$. Average $=\\frac{2M+M+\\frac{9M}{5}}{3}=1.6M$. Average $=32$ needs $M=20$ (whole, with Sania $=36$), while $36$ and $171$ give non-integer $M$. So only (i) is possible.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 12,
+                  "question_type": "problem-solving",
+                  "stem": "12. Between the centre O and a chord distance is 5 km and radius is 13 km in a circular then length of chord is-",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "12"
+                    },
+                    {
+                      "label": "B",
+                      "text": "20"
+                    },
+                    {
+                      "label": "C",
+                      "text": "24"
+                    },
+                    {
+                      "label": "D",
+                      "text": "36"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Half-chord $=\\sqrt{13^2-5^2}=\\sqrt{144}=12$, so the chord is $24$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 13,
+                  "question_type": "problem-solving",
+                  "stem": "13. If the trapezium's one side of two equal and parallel sides has increased by 30%, and the height between these two parallel is decreased by 25%, overall area has increased or decreased by which percentage?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "13.75"
+                    },
+                    {
+                      "label": "B",
+                      "text": "23.5"
+                    },
+                    {
+                      "label": "C",
+                      "text": "23"
+                    },
+                    {
+                      "label": "D",
+                      "text": "24"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "With equal parallel sides $a$, increasing one by 30% makes the sum $2.3a$ (was $2a$), a factor $1.15$; height factor $0.75$. New area $=0.75\\times1.15=0.8625$ of the old, a 13.75% decrease.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 14,
+                  "question_type": "problem-solving",
+                  "stem": "14. Which of the following represents the length of the diagonal d of a square with area a?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$d = a^{2}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$d = \\sqrt{2a}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$d = 2\\sqrt{a}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$d = a\\sqrt{2}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "$d = a\\sqrt{3}$"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Side $=\\sqrt a$, so diagonal $=\\sqrt a\\cdot\\sqrt2=\\sqrt{2a}$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 15,
+                  "question_type": "problem-solving",
+                  "stem": "15. If balloon is leaked and losses of it  $\\frac{1}{5}$  of its volume in every second, what will be the ratio of the balloon size and volume decreased after 4 seconds.",
+                  "options": [],
+                  "answer": "256 : 369",
+                  "explanation": "Each second the volume becomes $\\frac45$ of before, so after 4 s the remaining fraction is $(\\frac45)^4=\\frac{256}{625}$ and the decreased fraction is $\\frac{369}{625}$. Remaining : decreased $=256:369$. (No options printed; interpretation flagged.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 16,
+                  "question_type": "problem-solving",
+                  "stem": "16. The yoga company Yoga for Life offers 45-minute classes at 12 tk. per class. If the number of minutes Randolf spent doing Yoga this month was 132 greater than the number of money he paid, how many classes did he attend?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "3"
+                    },
+                    {
+                      "label": "B",
+                      "text": "4"
+                    },
+                    {
+                      "label": "C",
+                      "text": "5"
+                    },
+                    {
+                      "label": "D",
+                      "text": "6"
+                    },
+                    {
+                      "label": "E",
+                      "text": "8"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "For $n$ classes, minutes $=45n$ and money $=12n$; $45n=12n+132\\Rightarrow33n=132\\Rightarrow n=4$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 17,
+                  "question_type": "problem-solving",
+                  "stem": "17. There are 40% blue and 60% white ball in a box. If from the white balls 3 are given to blue, blue will increase 5%, how many blue and white balls are in the box?",
+                  "options": [],
+                  "answer": "60 (24 blue, 36 white)",
+                  "explanation": "Blue is 40%; adding 3 makes it 45%: $0.4T+3=0.45T\\Rightarrow T=60$. So 24 blue and 36 white. (No options printed.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 18,
+                  "question_type": "problem-solving",
+                  "stem": "18. A certain boat sales lot sells both sailboats and boats that are not sailboats. 25% of the boats are used sailboats. Of non-sailboats, $\\frac{3}{5}$ are new. If 33% of all boats are used, approximately what percentage of the sailboats are new?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "31%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "33%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "67%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "68%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "69%"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Of 100 boats: used sailboats $=25$, total used $=33$, so used non-sailboats $=8$. Non-sailboats are $\\frac25$ used, so non-sailboats $=20$ and sailboats $=80$. New sailboats $=80-25=55$, i.e. $\\frac{55}{80}\\approx69\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 19,
+                  "question_type": "problem-solving",
+                  "stem": "19. In a transportation, 60% apples and 40% Oranges. due to some reason 40% oranges are damaged and 70% apples are fresh what % fruits were fresh?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "68"
+                    },
+                    {
+                      "label": "B",
+                      "text": "66"
+                    },
+                    {
+                      "label": "C",
+                      "text": "62"
+                    },
+                    {
+                      "label": "D",
+                      "text": "68.8"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Fresh $=0.7\\times60+0.6\\times40=42+24=66\\%$ (oranges 40% damaged $\\Rightarrow$ 60% fresh).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 20,
+                  "question_type": "problem-solving",
+                  "stem": "20. There are 40 products and all together cost price is 35200, if 22 products sale in X% profit and 18 products sale in 25% loss overall 40% profit then X equal to what?",
+                  "options": [],
+                  "answer": "≈93.2%",
+                  "explanation": "CP of each product = 35200/40 = 880. Required total SP = 1.4 x 35200 = 49280. The 18 items sold at 25% loss bring 18 x 880 x 0.75 = 11880, so the 22 items must bring 37400: 22 x 880 x (1 + X/100) = 37400 gives 1 + X/100 = 85/44, so X = 93.18% (about 93.2%). The result is not round, but the data as printed give exactly this. (No options printed.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 21,
+                  "question_type": "problem-solving",
+                  "stem": "21. The sum of the ages of Dulal and Farid is y years. If Dulal is 12 years older than Farid, how many years old will Farid be y years from now, in terms of y?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "y-6"
+                    },
+                    {
+                      "label": "B",
+                      "text": "2y-6"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{y}{2}-6$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{3y}{2}-6$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "$\\frac{5y}{2}-6$"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Farid's age now $=\\frac{y-12}{2}=\\frac{y}{2}-6$. In $y$ years: $\\frac{y}{2}-6+y=\\frac{3y}{2}-6$.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 2,
+          "source_section_label": "Section-2: Language and Communication",
+          "subject": "language",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "fill-blank",
+                  "stem": "1. Man now a days look for logic at dropped of a ....",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "at dropped of nail"
+                    },
+                    {
+                      "label": "B",
+                      "text": "at dropped of a hat"
+                    },
+                    {
+                      "label": "C",
+                      "text": "at dropped of named"
+                    },
+                    {
+                      "label": "D",
+                      "text": "at dropped of nailed"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The idiom is \"at the drop of a hat\" (instantly), so B.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "fill-blank",
+                  "stem": "2. As you do hard work, you ____ of success.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "in the brink"
+                    },
+                    {
+                      "label": "B",
+                      "text": "in the brinked"
+                    },
+                    {
+                      "label": "C",
+                      "text": "in the sky"
+                    },
+                    {
+                      "label": "D",
+                      "text": "A+B"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The idiom is \"on the brink of success\". \"in the brink\" (A) and \"in the brinked\" (B) are wrong, C is meaningless, and D (A+B) is wrong too, so the answer is E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "error-identification",
+                  "stem": "3. Smoking is ____ for men.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "danger"
+                    },
+                    {
+                      "label": "B",
+                      "text": "precarious"
+                    },
+                    {
+                      "label": "C",
+                      "text": "bed"
+                    },
+                    {
+                      "label": "D",
+                      "text": "worst"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": null,
+                  "explanation": "",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "error-identification",
+                  "stem": "4. Aluminium (a) is such a (b) metal which mix (c) an alloy (d). No error (e).",
+                  "options": [
+                    {
+                      "label": "a",
+                      "text": "Aluminium"
+                    },
+                    {
+                      "label": "b",
+                      "text": "such a"
+                    },
+                    {
+                      "label": "c",
+                      "text": "which mix"
+                    },
+                    {
+                      "label": "d",
+                      "text": "an alloy"
+                    },
+                    {
+                      "label": "e",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "c",
+                  "explanation": "\"such a metal which mix an alloy\": the relative clause needs a singular verb agreeing with \"metal\" and a proper object (\"which mixes into an alloy\" / \"which forms an alloy\"). The error is in (c) \"which mix\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 5,
+                  "question_type": "error-identification",
+                  "stem": "5. Girls (A) are now at (B) risk especially (C) health risk because of weeding in the underage (D). No error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Girls"
+                    },
+                    {
+                      "label": "B",
+                      "text": "are now at"
+                    },
+                    {
+                      "label": "C",
+                      "text": "especially"
+                    },
+                    {
+                      "label": "D",
+                      "text": "weeding in the underage"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "(D) should read \"wedding at an underage\" — \"weeding\" is the wrong word and the phrasing is incorrect.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 6,
+                  "question_type": "sentence-correction",
+                  "stem": "6. If we had do hard working, we would have been succeeded.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "had we done"
+                    },
+                    {
+                      "label": "B",
+                      "text": "if i had do hard working"
+                    },
+                    {
+                      "label": "C",
+                      "text": "if i had gone"
+                    },
+                    {
+                      "label": "D",
+                      "text": "A+C"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The correct third-conditional form is \"Had we done (hard work), we would have succeeded\", i.e. option A.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "sentence-correction",
+                  "stem": "7. In spite of many fault of us we are looking for others faults.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "despite of many fault of us we are looking for others faults"
+                    },
+                    {
+                      "label": "B",
+                      "text": "in spite of many fault of us we are looking for others faults"
+                    },
+                    {
+                      "label": "C",
+                      "text": "despite many fault of us we are looking for others faults"
+                    },
+                    {
+                      "label": "D",
+                      "text": "though many fault of us we are looking for others faults"
+                    },
+                    {
+                      "label": "E",
+                      "text": "rather than we notice other faults we should look for our faults."
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The original (\"In spite of many fault of us we are looking for others faults\") is ungrammatical and illogical. A-D keep the faulty construction (\"many fault of us\", \"others faults\"); E restates the idea logically and grammatically (\"rather than notice others' faults we should look for our own\").",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 3,
+          "source_section_label": "Section-3: Analytical Ability",
+          "subject": "analytical",
+          "groups": [
+            {
+              "source_group_label": "1st Puzzle:",
+              "instruction": null,
+              "stimulus": {
+                "passage": "A set designer will select colors for six sets that will be used for six consecutive pictures of a ballet, with each picture having a single set. The artistic director has selected eight paint colors, green, magenta, orange, purple, brown, red, white, and yellow and has asked the designer to use those colors according to the following specifications:\n- No color can be chosen for more than one set.\n- Sets in pictures 1 and 4 will be painted partly one color and partly another color; sets in the other four pictures will each be painted a single color.\n- If green is chosen for the set in any picture, brown must also be chosen for the set in that picture.\n- Purple and orange are never used in the same picture as each other.\n- Red is chosen for the set. in the picture immediately following the picture for which white is chosen, and neither of these colors is used in the same picture as any other color.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "puzzle",
+                  "stem": "1. If yellow is chosen for picture 2 and brown is one of the colors chosen for picture 4, which of the following must be one of the colors chosen for ballet 1?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Green"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Magenta"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Orange"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Purple"
+                    },
+                    {
+                      "label": "E",
+                      "text": "White"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "White and red (each single-colored and consecutive) must be pictures 5 and 6. Green must accompany brown in picture 4, leaving magenta, orange, purple for pictures 1 (two colors) and 3. Since orange and purple can't share picture 1, picture 1 must include magenta.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "puzzle",
+                  "stem": "2. If orange is chosen for picture 5, which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Green is chosen for picture 1"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Magenta is chosen for picture 4"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Purple is chosen for picture 2"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Red is chosen for picture 3"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Yellow is chosen for picture 4"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "With orange single-colored in picture 5, the only consecutive single-color slot left for white→red is pictures 2 and 3, forcing white in 2 and red in 3.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "puzzle",
+                  "stem": "3. If white is chosen for picture 5, which of the following can be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Green is chosen for picture 2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Magenta is chosen for picture 6"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Purple is chosen for picture 6"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Magenta is chosen for picture 2, and yellow is chosen for picture 3"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Orange is chosen for picture 2, and yellow is chosen for picture 3"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "White in 5 forces red in 6. Then pictures 1 and 4 (two-color) take {green,brown} and {magenta,purple}, and pictures 2,3 take the rest. Option E (orange in 2, yellow in 3) works; A puts green alone (needs brown), B/C put a color in picture 6 (red only), and D forces orange+purple together.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "puzzle",
+                  "stem": "4. For picture 2, the designer can select a color from a-maximum of how many acceptable colors?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "One"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Two"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Three"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Four"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Five"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Picture 2 is single-colored, so it cannot hold green (needs brown with it) or brown (then green has nowhere to go) or red (its white would need an impossible two-color slot). The five possible colors are magenta, orange, purple, yellow and white.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "2nd Puzzle:",
+              "instruction": null,
+              "stimulus": {
+                "passage": "There are 6 books in shelves 1 to 6: romance, thrilling, detective, suspense comedy and wonderful movie which are decorated top to bottom.\n- Romance and thrilling have to be placed next to each other\n- Suspense is placed immediately after detective\n- Comedy must be placed from the last",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 5,
+                  "question_type": "puzzle",
+                  "stem": "5. Who can place in 6 shelve",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "wonderful"
+                    },
+                    {
+                      "label": "B",
+                      "text": "comedy"
+                    },
+                    {
+                      "label": "C",
+                      "text": "suspense"
+                    },
+                    {
+                      "label": "D",
+                      "text": "romance"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Comedy must be placed from the last\" is read as second from the last, i.e. comedy on shelf 5 (this is the only reading under which every item in the set has a single answer). Then romance-thrilling (a pair), detective-suspense (a pair) and wonderful must fill shelves 1-4 and 6. Pairs need two adjacent shelves, so the single book, wonderful, must be on shelf 6 (A).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 6,
+                  "question_type": "puzzle",
+                  "stem": "6. If Romance is placed in 1 shelve, shelve 4 must be placed ____",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "wonderful"
+                    },
+                    {
+                      "label": "B",
+                      "text": "comedy"
+                    },
+                    {
+                      "label": "C",
+                      "text": "suspense"
+                    },
+                    {
+                      "label": "D",
+                      "text": "romance"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Comedy is on 5 and wonderful on 6. With romance on 1, thrilling is on 2, so detective-suspense occupy 3-4: shelf 4 holds suspense (C).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "puzzle",
+                  "stem": "7. All position can be placed, if additional ____ condition attribute",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "If wonderful is placed in second shelve"
+                    },
+                    {
+                      "label": "B",
+                      "text": "If comedy is placed in second or 3rd shelve"
+                    },
+                    {
+                      "label": "C",
+                      "text": "If Romance is placed in 5th shelve"
+                    },
+                    {
+                      "label": "D",
+                      "text": "If suspense is placed in second shelve"
+                    },
+                    {
+                      "label": "E",
+                      "text": "If Romance is placed in second shelve"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "With comedy on 5 and wonderful on 6, shelves 1-4 hold RT and DS pairs. (A) wonderful on 2 and (C) romance on 5 are impossible, (B) contradicts the comedy rule, and (D) suspense on 2 leaves romance/thrilling order open (D S R T or D S T R). (E) romance on 2: thrilling must be on 1 (on 3 would leave 1 and 4 as single shelves), so the order is T R D S C W - every position determined.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 8,
+                  "question_type": "puzzle",
+                  "stem": "8. If suspense is placed in 4 shelve, romance can be placed",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "1 or 3"
+                    },
+                    {
+                      "label": "B",
+                      "text": "1 or 4"
+                    },
+                    {
+                      "label": "C",
+                      "text": "1 or 6"
+                    },
+                    {
+                      "label": "D",
+                      "text": "1 and 2"
+                    },
+                    {
+                      "label": "E",
+                      "text": "4 and 6"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Suspense on 4 puts detective on 3, and romance-thrilling take shelves 1-2 (wonderful 6, comedy 5). Romance is therefore on 1 or 2; option D (\"1 and 2\") is the printed form of that.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 9,
+                  "question_type": "puzzle",
+                  "stem": "9. Which is the correct order in the following",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "rtdswc"
+                    },
+                    {
+                      "label": "B",
+                      "text": "dsrtcw"
+                    },
+                    {
+                      "label": "C",
+                      "text": "sdtrwc"
+                    },
+                    {
+                      "label": "D",
+                      "text": "wsdtcr"
+                    },
+                    {
+                      "label": "E",
+                      "text": "trsdwc"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Order B (detective, suspense, romance, thrilling, comedy, wonderful) has romance-thrilling adjacent, suspense immediately after detective, and comedy on shelf 5, second from the last. A has comedy last; C, D and E put suspense before detective.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 10,
+                  "question_type": "puzzle",
+                  "stem": "10. Who can be the second and third position consecutively",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "rt"
+                    },
+                    {
+                      "label": "B",
+                      "text": "rs"
+                    },
+                    {
+                      "label": "C",
+                      "text": "ds"
+                    },
+                    {
+                      "label": "D",
+                      "text": "rd"
+                    },
+                    {
+                      "label": "E",
+                      "text": "a+d"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Shelves 1-4 hold the RT and DS pairs. Shelves 2-3 can only be: R,D (T R D S), T,D (R T D S), S,R (D S R T) or S,T (D S T R). Of the options only \"rd\" (romance, detective) occurs: D.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Critical reasoning:",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 11,
+                  "question_type": "critical-reasoning",
+                  "stem": "11. Corporate social responsibility (CSR) is based on the idea that firms should act responsibly to promote public benefit and that they can profit through such activities, but this idea is inherently flawed. Companies inevitably try to maximize their profits, and social welfare is not the primary motive in most cases; for example, cases in which social welfare is delivered by serving healthier foods or by opting for fuel-efficient vehicles. Therefore, social welfare is a by-product rather than an objective in most CSR activities.\nWhich of the following is an assumption made by the author?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Products such as fuel-efficient cars are created because of consumer demands."
+                    },
+                    {
+                      "label": "B",
+                      "text": "Most CSR activities are affiliated to products such as healthier foods or fuel- efficiency."
+                    },
+                    {
+                      "label": "C",
+                      "text": "In most instances of CSR activities, it is not possible for companies to extract any additional profit by going the non-CSR route."
+                    },
+                    {
+                      "label": "D",
+                      "text": "Companies' long-term interests are oriented more toward profit acquisition than social welfare."
+                    },
+                    {
+                      "label": "E",
+                      "text": "The higher a company's desire to maximize its profits, the lower is ices prioritizing of the objective of social welfare."
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The conclusion (welfare is a by-product, not an objective) follows from \"companies maximize profit\" only if the CSR route was itself the profit-maximizing choice. If most CSR activities forwent extra profit available on the non-CSR route, the company would be sacrificing profit for welfare and welfare would be an objective. So the argument assumes C: in most CSR instances the non-CSR route would not give additional profit. D and E restate the stated premise (profit-maximizing behaviour) rather than bridge the gap.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 12,
+                  "question_type": "critical-reasoning",
+                  "stem": "12. At the same level of income, rural households in Bangladesh have more purchasing power than those of the urban or sub urban households. Some of the income urban and sub urban households use for food and shelter can be used by rural households for other needs.\nWhich of the following is best supported by the statement above?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "The average rural household includes more people than does the average urban and sub urban households."
+                    },
+                    {
+                      "label": "B",
+                      "text": "Rural households have lower food and housing costs than do either urban or sub urban households."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Sub urban households generally have more purchasing power than do either rural or urban households."
+                    },
+                    {
+                      "label": "D",
+                      "text": "The median income of urban and sub urban households is generally higher than that of rural households."
+                    },
+                    {
+                      "label": "E",
+                      "text": "All three types spend more of their income on housing than on all other purchases combined."
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "If rural households can spend on other needs what urban/suburban households must spend on food and shelter, it follows that rural food and housing costs are lower (B).",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_label": "Writing Ability",
+      "sections": [
+        {
+          "section_no": 4,
+          "source_section_label": "Writing Ability",
+          "subject": "writing",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "argument",
+                  "stem": "1. 'We do not inherit the Earth from our ancestors; we borrow it from our children' - do you agree with this statement? Describe your stand with proper logic and example.",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended argument. Take a clear stance on intergenerational stewardship of the environment, support it with reasoning and examples (sustainability, climate action), address counter-views, and conclude. No single correct answer.",
+                  "marks": null,
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "essay",
+                  "stem": "2. Write an essay on 'The impact of family values on social life'.",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended essay. Discuss how family values shape individual behaviour and wider society (ethics, cohesion, upbringing), with examples, and conclude. No single correct answer.",
+                  "marks": null,
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    "Section 2 prints a box 'Words that came in the question: 1. Spontaneously 2. Deliberate 3. Ironically 4. Plummet 5. Accentuated' after Q7 (p3); it is NOT stored in the JSON (no field for stand-alone notes) - needs your decision.",
+    "Q3 (Section 2) was missing and added from p2. Q4 and Q5 error-detection items use lower/upper-case labels as printed (a)-(e).",
+    "Many questions print no options (Section 1 Q1, Q3-10, Q15, Q17, Q20 etc.). Q4 and Q6 figures are images (not re-cropped in this pass).",
+    "Source typos kept throughout (e.g. 'jm', 'shelve', 'ices').",
+    "Answers and explanations are out of scope (to be regenerated by the user); stored values are unreliable."
+  ]
+}

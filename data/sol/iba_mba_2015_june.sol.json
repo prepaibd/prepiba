@@ -1,0 +1,627 @@
+{
+ "exam": "iba_mba_2015_june",
+ "items": {
+  "2-31": {
+   "en": "3 children + 1 man weigh the same as 6 children, so the man weighs as much as 3 children = 3 × 30 = 90 kg.",
+   "bn": "3 জন শিশু + 1 জন পুরুষ = 6 জন শিশুর ওজন, তাই পুরুষটির ওজন 3 জন শিশুর সমান = 3 × 30 = 90 kg।",
+   "answer": "D",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "2-32": {
+   "en": "Done = 6/10 + 1/5 = 8/10, so left = 2/10 = 1/5.",
+   "bn": "শেষ হয়েছে = 6/10 + 1/5 = 8/10, তাই বাকি = 2/10 = 1/5।",
+   "answer": "C"
+  },
+  "2-33": {
+   "en": "Differences are 3, 5, 7, 11, i.e. consecutive odd primes. The next difference is 13, so z = 28 + 13 = 41.",
+   "bn": "পার্থক্যগুলো 3, 5, 7, 11, অর্থাৎ পরপর বিজোড় মৌলিক সংখ্যা। পরবর্তী পার্থক্য 13, তাই z = 28 + 13 = 41।",
+   "answer": "D",
+   "formula_ids": [
+    "series"
+   ]
+  },
+  "2-34": {
+   "en": "|x − 12| = 4x needs 4x ≥ 0. Case x ≥ 12: x − 12 = 4x gives x = −4 (rejected). Case x < 12: 12 − x = 4x gives x = 12/5 = 2.4. None of the options is 2.4.",
+   "bn": "|x − 12| = 4x হলে 4x ≥ 0 হতে হবে। x ≥ 12 হলে x − 12 = 4x ⇒ x = −4 (বাতিল)। x < 12 হলে 12 − x = 4x ⇒ x = 12/5 = 2.4। Option-গুলোর কোনোটিই 2.4 নয়।",
+   "answer": "E",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-35": {
+   "en": "He is left with 1/2 × 3/4 = 3/8 of his money = 3600, so he started with 3600 × 8/3 = Tk. 9600.",
+   "bn": "তার কাছে থাকে 1/2 × 3/4 = 3/8 অংশ = 3600, তাই শুরুতে ছিল 3600 × 8/3 = Tk. 9600।",
+   "answer": "C"
+  },
+  "2-36": {
+   "en": "p(p + q) is even. If p is odd, then p + q must be even, which forces q to be odd. (If p is even, q can be anything.)",
+   "bn": "p(p + q) জোড়। p বিজোড় হলে p + q জোড় হতেই হবে, তাই q বিজোড়। (p জোড় হলে q যা-ই হোক চলবে।)",
+   "answer": "A",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-37": {
+   "en": "Profit = 420 + 30% of 2800 = 420 + 840 = 1260. As a percent of cost: 1260/2800 = 45%.",
+   "bn": "লাভ = 420 + 2800-এর 30% = 420 + 840 = 1260। cost-এর শতকরা: 1260/2800 = 45%।",
+   "answer": "C",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "2-38": {
+   "en": "Let L Lemon cakes: 40L + 25(100 − L) = 2980 ⇒ 15L = 480 ⇒ L = 32.",
+   "bn": "Lemon কেক L টি ধরি: 40L + 25(100 − L) = 2980 ⇒ 15L = 480 ⇒ L = 32।",
+   "answer": "B",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-39": {
+   "en": "x = 12 × (odd), so x² = 144 × (odd)². Then x²/9 = 16·odd², x²/12 = 12·odd², x²/36 = 4·odd² and x²·24 are all even integers. So none of the options is NOT even.",
+   "bn": "x = 12 × (বিজোড়), তাই x² = 144 × (বিজোড়)²। তাহলে x²/9 = 16·বিজোড়², x²/12 = 12·বিজোড়², x²/36 = 4·বিজোড়² এবং x²·24 সবই জোড় integer। অর্থাৎ কোনো option-ই 'জোড় নয়' এমন নয়।",
+   "answer": "E",
+   "formula_ids": [
+    "numprop"
+   ],
+   "note": "Option C is printed '(x²)24' (no fraction bar); every reading gives an even integer too."
+  },
+  "2-40": {
+   "en": "Red = 3k, black = 5k. After the change: 3.6k/(5k + 5) = 3/5 ⇒ 18k = 15k + 15 ⇒ k = 5. Red marbles = 15.",
+   "bn": "Red = 3k, black = 5k। পরিবর্তনের পর: 3.6k/(5k + 5) = 3/5 ⇒ 18k = 15k + 15 ⇒ k = 5। red marble = 15।",
+   "answer": "B",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "2-41": {
+   "en": "Adding the first two equations gives 4x = 8z, so x = 2z; y = z. Then 2x + 2y = 6z holds for every z. So y can take infinitely many values (more than 4).",
+   "bn": "প্রথম দুটি সমীকরণ যোগ করলে 4x = 8z, তাই x = 2z; আর y = z। তখন 2x + 2y = 6z যে-কোনো z-এর জন্য সত্য। তাই y-এর অসংখ্য (4-এর বেশি) মান সম্ভব।",
+   "answer": "E",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-42": {
+   "en": "Repair costs 4000. Trading in costs 8400 − 2000 = 6400. Increase = 2400/4000 = 60%.",
+   "bn": "মেরামতের খরচ 4000। trade-in করলে খরচ 8400 − 2000 = 6400। বৃদ্ধি = 2400/4000 = 60%।",
+   "answer": "B",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "2-43": {
+   "en": "X = 2Y − 3. If one X buyer switched, X − 1 = Y + 1, so X = Y + 2. Then Y + 2 = 2Y − 3 ⇒ Y = 5, X = 7. Total = 12.",
+   "bn": "X = 2Y − 3। একজন ক্রেতা X থেকে Y-তে গেলে X − 1 = Y + 1, অর্থাৎ X = Y + 2। তাহলে Y + 2 = 2Y − 3 ⇒ Y = 5, X = 7। মোট = 12।",
+   "answer": "D",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-44": {
+   "en": "Members N: 0.4N = 0.3(N + 40) ⇒ 0.1N = 12 ⇒ N = 120. Female members = 0.4 × 120 = 48.",
+   "bn": "আগের সদস্য N: 0.4N = 0.3(N + 40) ⇒ 0.1N = 12 ⇒ N = 120। নারী সদস্য = 0.4 × 120 = 48।",
+   "answer": "D",
+   "formula_ids": [
+    "pct-change",
+    "algebra"
+   ]
+  },
+  "2-45": {
+   "en": "Total work = 15 × 21 × 8 = 2520 man-hours. 21 women = 14 men. 14 × 6 × d = 2520 ⇒ d = 30 days.",
+   "bn": "মোট কাজ = 15 × 21 × 8 = 2520 man-hour। 21 জন নারী = 14 জন পুরুষ। 14 × 6 × d = 2520 ⇒ d = 30 দিন।",
+   "answer": "C",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "2-46": {
+   "en": "Average of (3x + 25), (3y + 10), (3z + 5) = 3 × 20 + (25 + 10 + 5)/3 = 60 + 13.33 = 73.33, which is not in the options.",
+   "bn": "(3x + 25), (3y + 10), (3z + 5)-এর গড় = 3 × 20 + (25 + 10 + 5)/3 = 60 + 13.33 = 73.33, যা option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "average"
+   ]
+  },
+  "2-47": {
+   "en": "n is less than m by (m − n)/m = 7/8 = 87.5%, which is not among the options (87.25% is close but wrong).",
+   "bn": "n, m-এর চেয়ে কম (m − n)/m = 7/8 = 87.5%, যা option-এ নেই (87.25% কাছাকাছি কিন্তু ভুল)।",
+   "answer": "E",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "2-48": {
+   "en": "Labeled price = 450/0.9 = 500. No discount gives 25% profit, so CP = 500/1.25 = 400. Profit at the discounted price = 50/400 = 12.5%.",
+   "bn": "Labeled price = 450/0.9 = 500। discount না দিলে 25% লাভ, তাই CP = 500/1.25 = 400। discounted price-এ লাভ = 50/400 = 12.5%।",
+   "answer": "C",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "2-49": {
+   "en": "Average rises by 2 over 8 people, so the sum rises by 16. The two women's total = 20 + 24 + 16 = 60, average 30.",
+   "bn": "8 জনের গড় 2 বাড়ায় যোগফল 16 বাড়ে। দুজন নারীর মোট বয়স = 20 + 24 + 16 = 60, গড় 30।",
+   "answer": "A",
+   "formula_ids": [
+    "average"
+   ]
+  },
+  "2-50": {
+   "en": "At price p, N = 120/p. After 40% off, 120/(0.6p) = N/0.6. N/0.6 − N = 4 ⇒ N(2/3) = 4 ⇒ N = 6.",
+   "bn": "মূল দাম p হলে N = 120/p। 40% discount-এর পর 120/(0.6p) = N/0.6। N/0.6 − N = 4 ⇒ N(2/3) = 4 ⇒ N = 6।",
+   "answer": "A",
+   "formula_ids": [
+    "pct-change"
+   ]
+  },
+  "2-51": {
+   "en": "Speed becomes 0.8 v, so time becomes t/0.8 = 1.25t. 1.25t = t + 10 ⇒ t = 40 minutes.",
+   "bn": "গতি 0.8 v হলে সময় t/0.8 = 1.25t। 1.25t = t + 10 ⇒ t = 40 মিনিট।",
+   "answer": "D",
+   "formula_ids": [
+    "speed"
+   ]
+  },
+  "2-52": {
+   "en": "x ≥ 7 and y < 12 − x. x − y is smallest for the largest y: x = 7, y = 4 gives 3 (larger x gives larger x − y).",
+   "bn": "x ≥ 7 এবং y < 12 − x। x − y সবচেয়ে ছোট হয় y সবচেয়ে বড় হলে: x = 7, y = 4 ⇒ 3 (x বাড়লে x − y বাড়ে)।",
+   "answer": "A",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-53": {
+   "en": "x < 10 gives x − 2 < 8 < 9, so 'x − 2 < 9' always holds (option D, reading z as x). The others fail: −x < −10 means x > 10; −x − 2 < 12 means x > −14; −x + 2 < −8 means x > 10.",
+   "bn": "x < 10 হলে x − 2 < 8 < 9, তাই 'x − 2 < 9' সবসময় সত্য (option D, z-কে x ধরে)। অন্যগুলো ভুল: −x < −10 মানে x > 10; −x − 2 < 12 মানে x > −14; −x + 2 < −8 মানে x > 10।",
+   "answer": "D",
+   "formula_ids": [
+    "abs-ineq"
+   ],
+   "note": "Options B–D contain printed typos ('z'); the check below assumes z means x."
+  },
+  "2-54": {
+   "en": "Sum = 35. Multiplying one number a by 3 adds 2a. New sum = 45 ⇒ 2a = 10 ⇒ a = 5.",
+   "bn": "যোগফল = 35। একটি সংখ্যা a-কে 3 দিয়ে গুণ করলে যোগফল 2a বাড়ে। নতুন যোগফল = 45 ⇒ 2a = 10 ⇒ a = 5।",
+   "answer": "B",
+   "formula_ids": [
+    "average"
+   ]
+  },
+  "2-55": {
+   "en": "xy > 0 means x, y have the same sign. I fails for x = −1, y = −2. III fails for the same values (1 − 4 < 0). II: x² + y² − xy > 0 always. So only II.",
+   "bn": "xy > 0 মানে x, y একই চিহ্নের। I ভুল (x = −1, y = −2)। III-ও একই মানে ভুল (1 − 4 < 0)। II: x² + y² − xy > 0 সবসময়। তাই শুধু II।",
+   "answer": "B",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-56": {
+   "en": "n³ + n² − n + 2 = n(n² + n − 1) + 2. Since n² + n is even, n² + n − 1 is odd, so the parity equals the parity of n. (1) n > 0 does not tell. (2) n odd ⇒ the expression is odd. Statement 2 alone is sufficient.",
+   "bn": "n³ + n² − n + 2 = n(n² + n − 1) + 2। n² + n জোড় বলে n² + n − 1 বিজোড়, তাই পুরো রাশির parity = n-এর parity। (1) n > 0 থেকে কিছু জানা যায় না। (2) n বিজোড় হলে রাশি বিজোড়। শুধু statement 2-ই যথেষ্ট।",
+   "answer": "B",
+   "formula_ids": [
+    "ds-method",
+    "numprop"
+   ]
+  },
+  "2-57": {
+   "en": "x > 5, x + y < 10, y > 1: (x, y) = (6, 2) gives 4 and (7, 2) gives 5. Not unique.",
+   "bn": "x > 5, x + y < 10, y > 1: (x, y) = (6, 2) হলে 4 আর (7, 2) হলে 5। একটিমাত্র মান নয়।",
+   "answer": "E",
+   "formula_ids": [
+    "ds-method"
+   ]
+  },
+  "2-58": {
+   "en": "(1) P = 33 or 42 (3 | P): not sufficient. (2) P = 32 or 48 (8 | P): not sufficient. Together P is a multiple of 24 above 30, so P = 48, 72, …, all above 40. Sufficient together.",
+   "bn": "(1) 3 | P হলে P = 33 বা 42: যথেষ্ট নয়। (2) 8 | P হলে P = 32 বা 48: যথেষ্ট নয়। একসাথে P, 24-এর গুণিতক এবং 30-এর বেশি, তাই P = 48, 72, …, সবই 40-এর বেশি। একসাথে যথেষ্ট।",
+   "answer": "C",
+   "formula_ids": [
+    "ds-method",
+    "numprop"
+   ]
+  },
+  "2-59": {
+   "en": "Together mn = 16 and m = 4n/3 give n² = 12, so n = ±2√3 and m + n = 7n/3 = ±14√3/3. Two different values, so the statements are not sufficient (they would be if m and n were stated to be positive).",
+   "bn": "দুটি একসাথে নিলে mn = 16 এবং m = 4n/3 থেকে n² = 12, অর্থাৎ n = ±2√3 এবং m + n = 7n/3 = ±14√3/3। দুটি ভিন্ন মান, তাই যথেষ্ট নয় (m, n ধনাত্মক বলা থাকলে যথেষ্ট হতো)।",
+   "answer": "E",
+   "formula_ids": [
+    "ds-method",
+    "ratio"
+   ],
+   "note": "Treating m, n as positive would make C correct; as printed they can be negative, giving two values."
+  },
+  "2-60": {
+   "en": "(1) xy > 0 with xyz > 0 gives z > 0, but x could be negative (x, y both negative). (2) is symmetric. Together x, y, z all share one sign and xyz > 0 forces them all positive, so x > 0.",
+   "bn": "(1) xy > 0 এবং xyz > 0 থেকে z > 0, কিন্তু x ঋণাত্মক হতে পারে (x, y দুটিই ঋণাত্মক)। (2) একই রকম। একসাথে x, y, z একই চিহ্নের এবং xyz > 0 হওয়ায় তিনটিই ধনাত্মক, তাই x > 0।",
+   "answer": "C",
+   "formula_ids": [
+    "ds-method",
+    "abs-ineq"
+   ]
+  },
+  "3-61": {
+   "en": "Object 1 is at T, so Q is not used. Object 3 cannot be at S or X, and T is taken, so it is at R or V. R works (object 2 at V). Only R is possible among the options.",
+   "bn": "Object 1 T-তে, তাই Q ব্যবহৃত হয়নি। Object 3 S বা X-এ হতে পারে না, T-ও নেওয়া, তাই R বা V। R কাজ করে (object 2 V-তে)। Option-গুলোর মধ্যে একমাত্র R সম্ভব।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-62": {
+   "en": "Check options against the rules: A has object 3 at X; B has object 2 at X; C has object 3 at S; D uses Q and T together. E (V, S, Q) passes every rule.",
+   "bn": "Option-গুলো নিয়মের সাথে মিলিয়ে দেখুন: A-তে object 3 X-এ; B-তে object 2 X-এ; C-তে object 3 S-এ; D-তে Q ও T একসাথে। E (V, S, Q) সব নিয়ম মানে।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-63": {
+   "en": "Without Q and T, sites come from R, S, V, X. R and S cannot both be used and V must be used, so X is used too. X cannot hold object 2 or 3, so object 1 is at X.",
+   "bn": "Q ও T ছাড়া site আসে R, S, V, X থেকে। R ও S একসাথে নয় এবং V লাগবেই, তাই X-ও ব্যবহৃত। X-এ object 2 বা 3 হতে পারে না, তাই object 1 X-এ।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-64": {
+   "en": "With {S, V, X}: X cannot be object 2 or 3, so X is object 1. S cannot be object 3, so S is object 2 and V is object 3. Exactly one assignment. The other sets allow several.",
+   "bn": "{S, V, X} নিলে: X-এ object 2 বা 3 হতে পারে না, তাই object 1। S-এ object 3 হতে পারে না, তাই object 2 এবং V-তে object 3। ঠিক একটি বণ্টন। অন্য সেটে একাধিক সম্ভব।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-65": {
+   "en": "X holds jellybeans and Y holds licorice. In A (J, rock candy, sourballs), Y is licorice, coat pins, toffee (together) and peppermint is the one left out. Valid. B splits coat pins from toffee; C, D, E put licorice in X.",
+   "bn": "X-এ jellybeans, Y-তে licorice। A-তে (J, rock candy, sourballs) Y হয় licorice, coat pins, toffee (একসাথে) এবং peppermint বাদ। বৈধ। B-তে coat pins ও toffee আলাদা; C, D, E-তে licorice X-এ।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-66": {
+   "en": "A (licorice, peppermint, rock candy) leaves X = jellybeans, coat pins, toffee, valid. B and C put sourballs with licorice; D puts jellybeans in Y; E separates coat pins from toffee.",
+   "bn": "A (licorice, peppermint, rock candy) হলে X = jellybeans, coat pins, toffee, বৈধ। B ও C-তে sourballs licorice-এর সাথে; D-তে jellybeans Y-তে; E-তে coat pins ও toffee আলাদা।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-67": {
+   "en": "Toffee in X means coat pins in X, so X = jellybeans, coat pins, toffee. Y = licorice + two of {peppermint, rock candy, sourballs}. Sourballs cannot be with licorice, so Y has peppermint and rock candy.",
+   "bn": "Toffee X-এ হলে coat pins-ও X-এ, তাই X = jellybeans, coat pins, toffee। Y = licorice + {peppermint, rock candy, sourballs}-এর দুটি। sourballs licorice-এর সাথে থাকতে পারে না, তাই Y-তে peppermint ও rock candy।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-68": {
+   "en": "Toffee in Y means Y = licorice, coat pins, toffee. X = jellybeans + two of {peppermint, rock candy, sourballs}, but peppermint and sourballs cannot be together. So X's pair is (peppermint, rock candy) or (rock candy, sourballs).",
+   "bn": "Toffee Y-তে হলে Y = licorice, coat pins, toffee। X = jellybeans + {peppermint, rock candy, sourballs}-এর দুটি, কিন্তু peppermint ও sourballs একসাথে নয়। তাই X-এর জোড়া (peppermint, rock candy) অথবা (rock candy, sourballs)।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-69": {
+   "en": "Aslam = 2·Bashir and Bashir = Faruk − 4. Statement II is always true. Statement III (Aslam older than Faruk) needs 2B > B + 4, i.e. B > 4, which is not guaranteed. So only II must be true.",
+   "bn": "Aslam = 2·Bashir এবং Bashir = Faruk − 4। Statement II সবসময় সত্য। Statement III (Aslam, Faruk-এর চেয়ে বড়) হতে 2B > B + 4, অর্থাৎ B > 4 লাগে, যা নিশ্চিত নয়। তাই শুধু II অবশ্যই সত্য।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ],
+   "note": "Statement I is garbled in print; the answer relies on II and III only."
+  },
+  "3-70": {
+   "en": "The conclusion says legislators avoid alienating any significant special-interest group. To judge this, you must know which groups were counted as 'major segments of the public' and which are special-interest groups; the argument assumes the latter are covered by the former.",
+   "bn": "Conclusion হলো legislator-রা কোনো উল্লেখযোগ্য special-interest group-কে বিরক্ত করবে না। এটি যাচাই করতে জানা দরকার কোন group 'public-এর major segment' হিসেবে গণনা হয়েছে এবং কোনগুলো special-interest group; যুক্তিটি ধরে নেয় দ্বিতীয়টি প্রথমটির অন্তর্ভুক্ত।",
+   "answer": "A",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "3-71": {
+   "en": "The decline is caused by recreational fishermen netting young shrimp in the estuaries. Moving them out of the estuaries removes the cause. An upper size limit does not help, since they catch small shrimp.",
+   "bn": "ক্ষতির কারণ estuary-তে শখের জেলেদের ছোট চিংড়ি ধরা। তাদের estuary থেকে সরিয়ে দিলে কারণটি দূর হয়। আকারের উর্ধ্বসীমা কাজ করবে না, কারণ তারা ছোট চিংড়িই ধরে।",
+   "answer": "E",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "3-72": {
+   "en": "X and Y together rule out T, which rules out R (R needs T). The group is X, Y plus two of {S, U, Z}. S needs U, so the groups are {X, Y, S, U} or {X, Y, U, Z}. U is in both.",
+   "bn": "X ও Y একসাথে হলে T নেই, তাই R-ও নেই (R-এর জন্য T লাগে)। group = X, Y + {S, U, Z}-এর দুটি। S-এর জন্য U লাগে, তাই {X, Y, S, U} বা {X, Y, U, Z}। দুটিতেই U আছে।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-73": {
+   "en": "S needs U, so the group is S, Z, U + one more. R would need T as well, which is two more places, so R is impossible.",
+   "bn": "S-এর জন্য U লাগে, তাই group = S, Z, U + আরও একটি। R নিলে T-ও লাগবে, অর্থাৎ আরও দুটি জায়গা, তাই R অসম্ভব।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-74": {
+   "en": "No U means no S. Choose 4 of {R, T, X, Y, Z}: the valid groups are {R, T, Y, Z} and {R, T, X, Z}. R, T, Z are always in; X appears in one and not the other.",
+   "bn": "U না থাকলে S নেই। {R, T, X, Y, Z} থেকে 4টি: বৈধ group {R, T, Y, Z} ও {R, T, X, Z}। R, T, Z সবসময় আছে; X একটিতে আছে, অন্যটিতে নেই।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-75": {
+   "en": "Check each pair: (T, S) forces U and leaves four choices for the last place; (X, Y) allows {S, U} or {U, Z}; (T, R) and (T, U) leave many groups. No pair gives exactly one group.",
+   "bn": "প্রতিটি জোড়া দেখুন: (T, S) হলে U আসে এবং শেষ জায়গার জন্য চারটি পছন্দ; (X, Y) হলে {S, U} বা {U, Z}; (T, R) ও (T, U)-তে অনেক group। কোনো জোড়াই ঠিক একটি group দেয় না।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "1-1": {
+   "en": "We 'look at the sky' and say 'on a clear night'. 'Look up' is for searching, 'in a clear night' is wrong.",
+   "bn": "আমরা 'look at the sky' বলি এবং 'on a clear night' বলি। 'Look up' খোঁজার অর্থে; 'in a clear night' ভুল।",
+   "answer": "A",
+   "rule_ids": [
+    "prep-verb"
+   ]
+  },
+  "1-2": {
+   "en": "'Look it up in a dictionary': look up = search for information in a reference book.",
+   "bn": "'Look it up in a dictionary': look up = reference বইয়ে তথ্য খোঁজা।",
+   "answer": "C",
+   "rule_ids": [
+    "phrasal"
+   ]
+  },
+  "1-3": {
+   "en": "After 'in case' we use the present tense for the future: 'in case you get lost'. 'Will get' or 'would get' are wrong after 'in case'.",
+   "bn": "'in case'-এর পরে ভবিষ্যৎ বোঝাতে present tense: 'in case you get lost'। 'Will get' বা 'would get' ভুল।",
+   "answer": "D",
+   "rule_ids": [
+    "tense"
+   ]
+  },
+  "1-4": {
+   "en": "'Make a fuss' = to make a noisy complaint over something small; it fits 'mom is only trying to help'. ('Make a scene' is also used for public drama, but 'fuss' fits the key.)",
+   "bn": "'Make a fuss' = ছোট বিষয়ে হইচই করা; 'mom is only trying to help' এর সাথে মেলে। ('Make a scene' জনসমক্ষে নাটক বোঝায়, তবে key অনুযায়ী 'fuss'।)",
+   "answer": "A",
+   "rule_ids": [
+    "collocation"
+   ]
+  },
+  "1-5": {
+   "en": "'Consists of' is followed by 'of' (the blank is followed by 'of'). 'Comprises of' is incorrect, and 'includes/contains' do not take 'of'.",
+   "bn": "'Consists of'-এর সাথে 'of' বসে (ফাঁকা জায়গার পরে 'of' আছে)। 'Comprises of' ভুল, আর 'includes/contains'-এর সাথে 'of' বসে না।",
+   "answer": "C",
+   "rule_ids": [
+    "collocation"
+   ]
+  },
+  "1-6": {
+   "en": "'Went about her business' = continued with her usual work.",
+   "bn": "'Went about her business' = স্বাভাবিক কাজ চালিয়ে যাওয়া।",
+   "answer": "D",
+   "rule_ids": [
+    "phrasal"
+   ]
+  },
+  "1-7": {
+   "en": "'Supplies' fits pharmaceutical supplies, and 'commonly thought of as weeds' is the natural collocation. The other pairs break idiom or grammar.",
+   "bn": "'Supplies' pharmaceutical supplies-এর সাথে মেলে, আর 'commonly thought of as weeds' স্বাভাবিক collocation। অন্য জোড়াগুলো idiom বা grammar ভাঙে।",
+   "answer": "D",
+   "rule_ids": [
+    "collocation",
+    "vocab"
+   ]
+  },
+  "1-8": {
+   "en": "After 'suggest', use the base verb (subjunctive): 'I suggest that we meet…'. 'Will meet' and 'will be meeting' are wrong.",
+   "bn": "'suggest'-এর পরে base verb (subjunctive): 'I suggest that we meet…'। 'Will meet' ও 'will be meeting' ভুল।",
+   "answer": "C",
+   "rule_ids": [
+    "subjunctive"
+   ]
+  },
+  "1-9": {
+   "en": "'Used to' (accustomed) is followed by an -ing form, here passive: 'not used to being invited'. 'Use to' and 'having being' are wrong.",
+   "bn": "'Used to' (অভ্যস্ত)-এর পরে -ing form, এখানে passive: 'not used to being invited'। 'Use to' ও 'having being' ভুল।",
+   "answer": "A",
+   "rule_ids": [
+    "gerund"
+   ]
+  },
+  "1-10": {
+   "en": "'Being the shortest in class, she cannot see the blackboard' is correct: the present participle matches the present 'cannot see'. A uses 'having been' (past) with a present result; B and D make the blackboard the subject of the participle.",
+   "bn": "'Being the shortest in class, she cannot see the blackboard' শুদ্ধ: present participle, present 'cannot see'-এর সাথে মেলে। A-তে 'having been' (অতীত) বর্তমান ফলের সাথে; B ও D-তে blackboard participle-এর subject হয়ে যায়।",
+   "answer": "E",
+   "rule_ids": [
+    "dangling",
+    "tense"
+   ]
+  },
+  "1-11": {
+   "en": "'Since when' takes the present perfect, and 'become' is the V3 form: 'Since when have you become…?'. 'Became' is the past form.",
+   "bn": "'Since when'-এর সাথে present perfect এবং 'become' হলো V3: 'Since when have you become…?'। 'Became' past form।",
+   "answer": "C",
+   "rule_ids": [
+    "tense",
+    "sequence-tense"
+   ]
+  },
+  "1-12": {
+   "en": "'This morning' needs a simple/continuous past for a finished event. 'I was listening to a great radio show on the way to work this morning' is correct; past perfect 'had been listening' needs an earlier reference point.",
+   "bn": "'This morning'-এর শেষ হওয়া ঘটনায় simple/continuous past লাগে। 'I was listening to a great radio show on the way to work this morning' শুদ্ধ; past perfect 'had been listening'-এর জন্য আগের কোনো reference point লাগে।",
+   "answer": "E",
+   "rule_ids": [
+    "tense"
+   ]
+  },
+  "1-13": {
+   "en": "'Repulsive' means disgusting; the opposite is 'pleasant'.",
+   "bn": "'Repulsive' মানে বিরক্তিকর; বিপরীত 'pleasant'।",
+   "answer": "C",
+   "rule_ids": [
+    "antonym"
+   ]
+  },
+  "1-14": {
+   "en": "'Trivial' means unimportant. Of the options, 'pertinent' (relevant, important to the matter) is the closest opposite.",
+   "bn": "'Trivial' মানে গুরুত্বহীন। Option-গুলোর মধ্যে 'pertinent' (প্রাসঙ্গিক, গুরুত্বপূর্ণ) সবচেয়ে কাছের বিপরীত।",
+   "answer": "A",
+   "rule_ids": [
+    "antonym"
+   ]
+  },
+  "1-15": {
+   "en": "'Furtive' means secretive and sly; the opposite is open and 'honest'.",
+   "bn": "'Furtive' মানে গোপনীয় ও ধূর্ত; বিপরীত খোলামেলা ও 'honest'।",
+   "answer": "E",
+   "rule_ids": [
+    "antonym"
+   ]
+  },
+  "1-16": {
+   "en": "'Impassive' means showing no emotion; the opposite is 'emotional'.",
+   "bn": "'Impassive' মানে আবেগহীন; বিপরীত 'emotional'।",
+   "answer": "C",
+   "rule_ids": [
+    "antonym"
+   ]
+  },
+  "1-17": {
+   "en": "'Indolence' means laziness; the opposite is 'diligence'.",
+   "bn": "'Indolence' মানে আলস্য; বিপরীত 'diligence'।",
+   "answer": "B",
+   "rule_ids": [
+    "antonym"
+   ]
+  },
+  "1-18": {
+   "en": "Paragraph 1 states all four: curious onlookers, the ship belonged to a local citizen, it was big, and 'as usual' a crowd gathered. So every option is stated: None of these.",
+   "bn": "প্রথম অনুচ্ছেদে চারটিই আছে: কৌতূহলী দর্শক, জাহাজ স্থানীয় নাগরিকের, জাহাজ বড়, আর 'as usual' ভিড় জমে। তাই প্রতিটি option বলা আছে: None of these।",
+   "answer": "E",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-19": {
+   "en": "Those on shore noticed that a young sailor was at the helm 'instead of old Captain Leclere': they expected the captain.",
+   "bn": "তীরের লোকেরা দেখল 'old Captain Leclere'-এর বদলে একজন তরুণ নাবিক হাল ধরেছে: তারা captain-কেই আশা করেছিল।",
+   "answer": "C",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-20": {
+   "en": "Dantes says: 'I, as First Mate, assumed command from then on', i.e. he was next in the chain of command.",
+   "bn": "Dantes বলে: 'I, as First Mate, assumed command from then on', অর্থাৎ command-এর ক্রমে সে-ই পরবর্তী।",
+   "answer": "D",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-21": {
+   "en": "'Keen eyes' = sharp, penetrating eyes. 'Intense' is the closest.",
+   "bn": "'Keen eyes' = তীক্ষ্ণ দৃষ্টি। 'Intense' সবচেয়ে কাছের।",
+   "answer": "E",
+   "rule_ids": [
+    "rc-method",
+    "vocab"
+   ]
+  },
+  "1-22": {
+   "en": "The passage covers the Pharaon's arrival and what happened on board (captain's death, Dantes in command, the offer). 'What happened on board the Pharaon' covers it all; the other titles are too narrow.",
+   "bn": "Passage-এ Pharaon-এর আগমন এবং জাহাজে যা ঘটেছে (captain-এর মৃত্যু, Dantes-এর command, প্রস্তাব) আছে। 'What happened on board the Pharaon' সবকিছু ধরে; অন্য title খুব সংকীর্ণ।",
+   "answer": "E",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-23": {
+   "en": "'Which' refers to 'elegance' (singular), so 'which seems to proclaim', not 'seem'.",
+   "bn": "'Which' 'elegance' (singular)-কে নির্দেশ করে, তাই 'which seems to proclaim', 'seem' নয়।",
+   "answer": "B",
+   "rule_ids": [
+    "sv-agree"
+   ]
+  },
+  "1-24": {
+   "en": "'For a long time now' calls for the present perfect continuous: 'I have been looking for a job for a long time now'.",
+   "bn": "'For a long time now'-এর সাথে present perfect continuous: 'I have been looking for a job for a long time now'।",
+   "answer": "A",
+   "rule_ids": [
+    "tense",
+    "sequence-tense"
+   ]
+  },
+  "1-25": {
+   "en": "'Commensurate with', not 'commensurate from'.",
+   "bn": "'Commensurate with', 'commensurate from' নয়।",
+   "answer": "C",
+   "rule_ids": [
+    "prep-noun"
+   ]
+  },
+  "1-26": {
+   "en": "'Conducive to', not 'conducive for'.",
+   "bn": "'Conducive to', 'conducive for' নয়।",
+   "answer": "C",
+   "rule_ids": [
+    "prep-noun"
+   ]
+  },
+  "1-27": {
+   "en": "You 'bring up' an issue at a meeting, not 'bring on'.",
+   "bn": "Meeting-এ কোনো বিষয় 'bring up' করা হয়, 'bring on' নয়।",
+   "answer": "C",
+   "rule_ids": [
+    "phrasal"
+   ]
+  },
+  "1-28": {
+   "en": "(i) parting words, (ii) taking part in, (iii) part with: all three uses are correct.",
+   "bn": "(i) parting words, (ii) taking part in, (iii) part with: তিনটি ব্যবহারই শুদ্ধ।",
+   "answer": "E",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-29": {
+   "en": "(i) 'loathsome' (adjective) and (iii) 'loathed' (verb) are correct. (ii) 'loath' is an adjective meaning unwilling; the verb is 'loathe'.",
+   "bn": "(i) 'loathsome' (adjective) ও (iii) 'loathed' (verb) শুদ্ধ। (ii) 'loath' adjective (অনিচ্ছুক); verb হলো 'loathe'।",
+   "answer": "A",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-30": {
+   "en": "(i) zealots, (ii) over-zealous and (iii) renewed zeal are all correct uses of the word family.",
+   "bn": "(i) zealots, (ii) over-zealous এবং (iii) renewed zeal শব্দ-পরিবারের তিনটি ব্যবহারই শুদ্ধ।",
+   "answer": "D",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "4-1": {
+   "en": "Approach: Thesis: labour migration is both a lifeline and a challenge for Bangladesh. Paragraph 1: introduce the scale (millions abroad, in the Gulf, Malaysia, Europe) and why people go (unemployment, wages). Paragraph 2: benefits (remittances, foreign exchange, skills). Paragraph 3: costs (recruitment fees, exploitation, brain drain, family separation). Paragraph 4: solutions (skills training, fair recruitment, safe migration, reintegration). Conclusion: managed migration can turn a necessity into national gain.\nUseful phrases: 'a double-edged sword', 'remittance inflows', 'skilled and semi-skilled workers', 'safe and orderly migration'.\nAvoid: copying slogans, long introductions, and unsupported numbers.",
+   "bn": "পদ্ধতি: Thesis: শ্রমিক অভিবাসন বাংলাদেশের জন্য একইসাথে প্রাণশক্তি ও চ্যালেঞ্জ। Paragraph 1: পরিসর (লাখ লাখ মানুষ বিদেশে: মধ্যপ্রাচ্য, মালয়েশিয়া, ইউরোপ) এবং কেন যায় (বেকারত্ব, মজুরি)। Paragraph 2: সুবিধা (remittance, বৈদেশিক মুদ্রা, দক্ষতা)। Paragraph 3: ক্ষতি (recruitment fee, শোষণ, brain drain, পরিবার থেকে বিচ্ছিন্নতা)। Paragraph 4: সমাধান (skills training, ন্যায্য recruitment, নিরাপদ অভিবাসন, ফেরার পর পুনর্বাসন)। উপসংহার: পরিচালিত অভিবাসন প্রয়োজনকে জাতীয় লাভে পরিণত করতে পারে।\nকাজের phrase: 'a double-edged sword', 'remittance inflows', 'skilled and semi-skilled workers', 'safe and orderly migration'।\nএড়ান: স্লোগান কপি, দীর্ঘ ভূমিকা, উৎসহীন সংখ্যা।",
+   "rule_ids": [
+    "essay"
+   ]
+  },
+  "4-2": {
+   "en": "Approach (argument): take a clear side (for example: 'Social media does more harm than good to the young'). Point 1 (harm): time lost, comparison and anxiety, cyberbullying, misinformation. Point 2 (counter-argument, brief): connection, learning, and opportunities. Point 3 (rebuttal): these benefits are available elsewhere and depend on guided use. Conclude with a balanced recommendation (digital literacy, limits).\nUseful phrases: 'It is widely argued that…', 'On the other hand…', 'A growing body of evidence suggests…'.\nAvoid: writing both sides without choosing one.",
+   "bn": "পদ্ধতি (argument): পরিষ্কার একটি পক্ষ নিন (যেমন: 'Social media তরুণদের জন্য ভালোর চেয়ে ক্ষতিই বেশি করে')। Point 1 (ক্ষতি): সময় নষ্ট, তুলনা ও উদ্বেগ, cyberbullying, ভুয়া তথ্য। Point 2 (বিপরীত যুক্তি, সংক্ষেপে): যোগাযোগ, শেখা, সুযোগ। Point 3 (খণ্ডন): এই সুবিধা অন্যভাবেও পাওয়া যায় এবং নির্দেশিত ব্যবহারের উপর নির্ভর করে। ভারসাম্যপূর্ণ সুপারিশ (digital literacy, সময়সীমা) দিয়ে শেষ করুন।\nকাজের phrase: 'It is widely argued that…', 'On the other hand…', 'A growing body of evidence suggests…'।\nএড়ান: কোনো পক্ষ না নিয়ে দুই পক্ষই লেখা।",
+   "rule_ids": [
+    "essay"
+   ]
+  }
+ }
+}

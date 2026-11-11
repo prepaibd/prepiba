@@ -1,0 +1,17 @@
+{
+  "exam": "iba_mba_2023_dec",
+  "status": "pilot draft - sidecar, not merged into data/questions",
+  "items": {
+    "1-1": {"stem_bn": "$11^{2} + 22^{2} + \\cdots + 66^{2} = ?$ এর মান কত?", "bn_status": "draft"},
+    "1-2": {"stem_bn": "আপেল, পেয়ারা ও কমলা 4:2:3 অনুপাতে ছিল এবং এগুলো 3 জন বন্ধুর মধ্যে সমানভাবে ভাগ করে দিতে হবে।\nপেয়ারার সর্বনিম্ন সংখ্যা কত?", "bn_status": "draft"},
+    "1-3": {"stem_bn": "600 থেকে 900 পর্যন্ত (দুই প্রান্তসহ) কতগুলো সংখ্যা 5 এবং 7 উভয় দ্বারা বিভাজ্য?", "bn_status": "draft"},
+    "1-4": {"stem_bn": "x টি কলার দাম y টি ডিমের দামের সমান। p টি ডিমের দাম = q টাকা হলে, m টি ডিম ও n টি কলার দাম কত হবে?", "bn_status": "draft"},
+    "1-5": {"stem_bn": "K, L এর দ্বিগুণ গতিতে দৌড়ায়। M দৌড়ায় L এর গতির 1/4 অংশ গতিতে। তিনজন একই সময়ে দৌড় শুরু করে। কিছু সময় পর K ও M এর মধ্যকার দূরত্ব 98 km হলে, তারা মোট কত দূরত্ব অতিক্রম করেছে?", "bn_status": "draft", "notes": "Printed text says 'three-start running'; translated as 'তিনজন ... দৌড় শুরু করে'. 'total distance they covered' could mean sum for all three; kept as printed."},
+    "1-6": {"stem_bn": "32*28 বর্গফুট আয়তাকার একটি বাগান চারদিকে সমান প্রস্থের একটি walkway দিয়ে ঘেরা হবে, যার ক্ষেত্রফল 700 বর্গফুট। walkway এর প্রস্থ কত?", "bn_status": "draft", "notes": "Printed 'which is 700 sq. ft.' is ambiguous (walkway area vs. something else); kept ambiguous."},
+    "1-7": {"stem_bn": "একটি বর্গাকার ছবি একটি ফ্রেম দিয়ে ঘেরা। ফ্রেমের বাইরের কিনারাগুলোর দৈর্ঘ্য x ইঞ্চি এবং ছবি ও ফ্রেমের মাঝে 4 ইঞ্চির একটি border আছে। border এর মোট ক্ষেত্রফল কত?", "bn_status": "draft"},
+    "1-8": {"stem_bn": "2 ব্যাসার্ধের একটি বৃত্তে একটি সমবাহু ত্রিভুজ অন্তর্লিখিত হলে ত্রিভুজটির ক্ষেত্রফল কত?", "bn_status": "draft"},
+    "1-9": {"stem_bn": "একটি ক্লাবে man engineer এর সংখ্যা এবং engineer ও doctor উভয়ই এমন woman এর সংখ্যা সমান, এবং man engineer ও (engineer ও doctor উভয়ই এমন) woman এর অনুপাত, man doctor ও woman doctor এর অনুপাতের সমান। ক্লাবের মোট 1000 জন সদস্যের 3/5 অংশ man হলে, ক্লাবে মোট engineer কত জন?", "bn_status": "draft", "notes": "Printed sentence is garbled in the source; Bangla mirrors it literally and is equally unclear."},
+    "1-10": {"stem_bn": "$\\frac{x}{y} =$ কি একটি integer?\n1. লবের উৎপাদকগুলো integer।\n2. হরের উৎপাদক integer।", "bn_status": "draft"},
+    "1-11": {"stem_bn": "RT কি জোড়?\n1. R জোড়\n2. T বিজোড়", "bn_status": "draft"}
+  }
+}

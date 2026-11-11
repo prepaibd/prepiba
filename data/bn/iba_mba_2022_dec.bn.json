@@ -1,0 +1,193 @@
+{
+ "exam": "iba_mba_2022_dec",
+ "items": {
+  "1-1": {
+   "stem_bn": "$x^{2} + \\frac{1}{x^{2}} = 10, x^{5} + \\frac{1}{x^{5}} = ?$ (শেষ রাশিটির মান নির্ণয় করুন)",
+   "bn_status": "draft"
+  },
+  "1-2": {
+   "stem_bn": "Jasfan ও Jafran a থেকে b-তে যাত্রা শুরু করে; তাদের গতি যথাক্রমে 5 ও 3, এবং তারা একসাথে যাত্রা শুরু করে। Jasfan b বিন্দুতে পৌঁছানো মাত্র ফিরতি পথে a-র দিকে রওনা দেয় এবং পথে Jafran-এর সাথে মিলিত হয়। a থেকে b-র দূরত্ব 32 jm হলে, b বিন্দু থেকে কত দূরে দুজনের দেখা হবে?",
+   "bn_status": "draft",
+   "notes": "Printed 'jm' (likely 'km') kept as printed."
+  },
+  "1-3": {
+   "stem_bn": "কিছু chocolate শিশুদের মধ্যে বিতরণ করা হলো। একটি box-এ strawberry flavor-এর 2টি chocolate আছে, 2nd box-এ Apple flavor-এর চারটি chocolate আছে, এবং অন্য ধরনের box-এ banana flavor-এর 5টি chocolate আছে; এগুলো 76 জন শিশুর মধ্যে বিতরণ করা হলো, প্রত্যেকে সব ধরনের অন্তত 1টি করে পায়। কতগুলো box লাগবে?",
+   "bn_status": "draft",
+   "notes": "Printed question is garbled; translated as printed."
+  },
+  "1-4": {
+   "stem_bn": "$\\mathrm{W} = 10^{\\circ},\\mathrm{Z} = ?$ (Z-এর মান নির্ণয় করুন)",
+   "bn_status": "draft",
+   "notes": "Refers to a figure."
+  },
+  "1-5": {
+   "stem_bn": "উপর থেকে আপনার position 24 এবং নিচ থেকে 20, তাহলে মোট position holder কতজন?",
+   "bn_status": "draft",
+   "notes": "Printed question is unclear; translated as printed."
+  },
+  "1-6": {
+   "stem_bn": "O = কেন্দ্র; A = 20; shaded অংশ = ?",
+   "bn_status": "draft",
+   "notes": "Refers to a figure."
+  },
+  "1-7": {
+   "stem_bn": "একটি container-এ 20টি নীল marble এবং 70টি সাদা marble আছে। নীল marble-এর শতকরা হার 60 করতে container-এ আরও কয়টি নীল marble যোগ করতে হবে?",
+   "bn_status": "draft"
+  },
+  "1-8": {
+   "stem_bn": "কলমের দাম পেনসিলের দামের দ্বিগুণ। 40টি কলম বিক্রি করলে লাভ 20টি পেনসিলের (দামের) সমান হলে, লাভের শতকরা হার কত?",
+   "bn_status": "draft"
+  },
+  "1-9": {
+   "stem_bn": "Ayon-এর কাছে Noyon-এর চেয়ে 5000 tk. বেশি আছে এবং প্রত্যেকে অন্তত 2000 tk. (গড়) পায়, যেখানে মানুষ 20 জন এবং মোট টাকা 50000। তাহলে Ayon সর্বোচ্চ কত পেতে পারে = ?",
+   "bn_status": "draft",
+   "notes": "Printed question is garbled; translated as printed."
+  },
+  "1-10": {
+   "stem_bn": "$\\{\\mathbf{a}\\}^{100}$ এবং $\\{\\mathbf{b}\\}^{100}$ যদি 2টি series হয় যেখানে $a = 5, 8, \\ldots, B = 3, 7, \\ldots$, তাহলে a ও b-র মধ্যে কতগুলো সংখ্যা common?",
+   "bn_status": "draft",
+   "notes": "Printed question is garbled; translated as printed."
+  },
+  "1-11": {
+   "stem_bn": "Rafi, Mahabub-এর দ্বিগুণ এবং Mahabub, Sania-র  $\\frac{5}{9}$  অংশ, তাহলে তাদের গড় কত হতে পারে:\ni. 32, ii. 36 iii. 171",
+   "bn_status": "draft"
+  },
+  "1-12": {
+   "stem_bn": "একটি বৃত্তে কেন্দ্র O থেকে একটি chord-এর দূরত্ব 5 km এবং ব্যাসার্ধ 13 km, তাহলে chord-এর দৈর্ঘ্য-",
+   "bn_status": "draft"
+  },
+  "1-13": {
+   "stem_bn": "ট্র্যাপিজিয়ামের দুটি সমান ও সমান্তরাল বাহুর একটি বাহু 30% বাড়ানো হলে এবং ওই দুই সমান্তরাল বাহুর মধ্যকার উচ্চতা 25% কমানো হলে, মোট ক্ষেত্রফল শতকরা কত বেড়েছে বা কমেছে?",
+   "bn_status": "draft",
+   "notes": "Printed 'one side of two equal and parallel sides' kept as printed."
+  },
+  "1-14": {
+   "stem_bn": "ক্ষেত্রফল a-বিশিষ্ট একটি বর্গের কর্ণ d-এর দৈর্ঘ্য নিচের কোনটি দ্বারা প্রকাশ পায়?",
+   "bn_status": "draft",
+   "notes": "Printed question has no explicit figure; translated as printed."
+  },
+  "1-15": {
+   "stem_bn": "একটি balloon লিক হয়ে প্রতি সেকেন্ডে এর আয়তনের  $\\frac{1}{5}$  অংশ হারালে, 4 সেকেন্ড পর balloon-এর size ও কমে যাওয়া আয়তনের অনুপাত কত হবে।",
+   "bn_status": "draft",
+   "notes": "Printed question is unclear; translated as printed."
+  },
+  "1-16": {
+   "stem_bn": "Yoga company Yoga for Life প্রতি class 12 tk. হারে 45 মিনিটের class দেয়। Randolf এই মাসে যত মিনিট yoga করেছে তা সে যত টাকা দিয়েছে তার চেয়ে 132 বেশি হলে, সে কয়টি class-এ উপস্থিত হয়েছিল?",
+   "bn_status": "draft"
+  },
+  "1-17": {
+   "stem_bn": "একটি box-এ 40% নীল এবং 60% সাদা বল আছে। সাদা বলগুলো থেকে 3টি নীলকে দেওয়া হলে নীল 5% বাড়বে। box-এ কয়টি নীল ও কয়টি সাদা বল আছে?",
+   "bn_status": "draft",
+   "notes": "Printed question is unclear; translated as printed."
+  },
+  "1-18": {
+   "stem_bn": "একটি নির্দিষ্ট boat sales lot sailboat এবং sailboat নয় এমন boat উভয়ই বিক্রি করে। boat-এর 25% used sailboat। non-sailboat-এর $\\frac{3}{5}$ অংশ new। সব boat-এর 33% used হলে, আনুমানিক শতকরা কত অংশ sailboat new?",
+   "bn_status": "draft"
+  },
+  "1-19": {
+   "stem_bn": "একটি পরিবহনে 60% আপেল এবং 40% কমলা। কোনো কারণে 40% কমলা নষ্ট হয়েছে এবং 70% আপেল তাজা আছে। শতকরা কত ফল তাজা ছিল?",
+   "bn_status": "draft"
+  },
+  "1-20": {
+   "stem_bn": "40টি পণ্য আছে এবং সবগুলোর cost price মিলিয়ে 35200। 22টি পণ্য X% লাভে এবং 18টি পণ্য 25% ক্ষতিতে বিক্রি করে সামগ্রিকভাবে 40% লাভ হলে X কত?",
+   "bn_status": "draft"
+  },
+  "1-21": {
+   "stem_bn": "Dulal ও Farid-এর বয়সের যোগফল y বছর। Dulal, Farid-এর চেয়ে 12 বছরের বড় হলে, y বছর পর Farid-এর বয়স কত হবে, y-এর মাধ্যমে প্রকাশ করুন।",
+   "bn_status": "draft"
+  },
+  "3-1": {
+   "stem_bn": "picture 2-এর জন্য yellow এবং picture 4-এর জন্য বাছাই করা রংগুলোর একটি brown হলে, ballet 1-এর জন্য বাছাই করা রংগুলোর একটি নিচের কোনটি অবশ্যই হবে?",
+   "bn_status": "draft"
+  },
+  "3-2": {
+   "stem_bn": "picture 5-এর জন্য orange বাছাই করা হলে নিচের কোনটি অবশ্যই সত্য?",
+   "bn_status": "draft",
+   "options_bn": {
+    "A": "picture 1-এর জন্য green বাছাই করা হয়",
+    "B": "picture 4-এর জন্য magenta বাছাই করা হয়",
+    "C": "picture 2-এর জন্য purple বাছাই করা হয়",
+    "D": "picture 3-এর জন্য red বাছাই করা হয়",
+    "E": "picture 4-এর জন্য yellow বাছাই করা হয়"
+   }
+  },
+  "3-3": {
+   "stem_bn": "picture 5-এর জন্য white বাছাই করা হলে নিচের কোনটি সত্য হতে পারে?",
+   "bn_status": "draft",
+   "options_bn": {
+    "A": "picture 2-এর জন্য green বাছাই করা হয়",
+    "B": "picture 6-এর জন্য magenta বাছাই করা হয়",
+    "C": "picture 6-এর জন্য purple বাছাই করা হয়",
+    "D": "picture 2-এর জন্য magenta এবং picture 3-এর জন্য yellow বাছাই করা হয়",
+    "E": "picture 2-এর জন্য orange এবং picture 3-এর জন্য yellow বাছাই করা হয়"
+   }
+  },
+  "3-4": {
+   "stem_bn": "picture 2-এর জন্য designer সর্বোচ্চ কতগুলো গ্রহণযোগ্য রং থেকে একটি বাছাই করতে পারেন?",
+   "bn_status": "draft"
+  },
+  "3-5": {
+   "stem_bn": "6 নম্বর shelf-এ কোনটিকে রাখা যেতে পারে",
+   "bn_status": "draft",
+   "notes": "Printed wording is non-standard; translated as printed."
+  },
+  "3-6": {
+   "stem_bn": "Romance 1 নম্বর shelf-এ থাকলে shelf 4-এ অবশ্যই ____ রাখতে হবে",
+   "bn_status": "draft"
+  },
+  "3-7": {
+   "stem_bn": "সব position-এ রাখা যেতে পারে, যদি অতিরিক্ত ____ শর্ত যোগ করা হয়",
+   "bn_status": "draft",
+   "options_bn": {
+    "A": "wonderful দ্বিতীয় shelf-এ থাকলে",
+    "B": "comedy দ্বিতীয় অথবা 3rd shelf-এ থাকলে",
+    "C": "Romance 5th shelf-এ থাকলে",
+    "D": "suspense দ্বিতীয় shelf-এ থাকলে",
+    "E": "Romance দ্বিতীয় shelf-এ থাকলে"
+   },
+   "notes": "Printed wording is non-standard; translated as printed."
+  },
+  "3-8": {
+   "stem_bn": "suspense 4 নম্বর shelf-এ থাকলে romance রাখা যেতে পারে",
+   "bn_status": "draft"
+  },
+  "3-9": {
+   "stem_bn": "নিচের কোনটি সঠিক ক্রম",
+   "bn_status": "draft"
+  },
+  "3-10": {
+   "stem_bn": "দ্বিতীয় ও তৃতীয় position-এ পরপর কারা থাকতে পারে",
+   "bn_status": "draft"
+  },
+  "3-11": {
+   "stem_bn": "Corporate social responsibility (CSR) এই ধারণার উপর ভিত্তি করে যে প্রতিষ্ঠানগুলোর দায়িত্বশীলভাবে জনকল্যাণ প্রচার করা উচিত এবং এসব কার্যক্রমের মাধ্যমে তারা লাভও করতে পারে, কিন্তু এই ধারণাটি মূলগতভাবেই ত্রুটিপূর্ণ। কোম্পানিগুলো অনিবার্যভাবেই তাদের মুনাফা সর্বোচ্চ করার চেষ্টা করে, এবং বেশিরভাগ ক্ষেত্রে সমাজকল্যাণ তাদের প্রধান উদ্দেশ্য নয়; যেমন, স্বাস্থ্যকর খাবার পরিবেশন করে বা জ্বালানি-সাশ্রয়ী যানবাহন বেছে নিয়ে সমাজকল্যাণ সাধিত হওয়ার ক্ষেত্রগুলো। অতএব, বেশিরভাগ CSR কার্যক্রমে সমাজকল্যাণ লক্ষ্য নয়, বরং একটি by-product।\nনিচের কোনটি লেখকের assumption?",
+   "bn_status": "draft",
+   "options_bn": {
+    "A": "জ্বালানি-সাশ্রয়ী গাড়ির মতো পণ্য ভোক্তার চাহিদার কারণে তৈরি হয়।",
+    "B": "বেশিরভাগ CSR কার্যক্রম স্বাস্থ্যকর খাবার বা জ্বালানি-সাশ্রয়ের মতো পণ্যের সাথে সম্পর্কিত।",
+    "C": "CSR কার্যক্রমের বেশিরভাগ ক্ষেত্রে কোম্পানিগুলোর পক্ষে non-CSR পথে গিয়ে বাড়তি কোনো মুনাফা অর্জন করা সম্ভব নয়।",
+    "D": "কোম্পানিগুলোর দীর্ঘমেয়াদি স্বার্থ সমাজকল্যাণের চেয়ে মুনাফা অর্জনের দিকে বেশি ঝুঁকে থাকে।",
+    "E": "কোম্পানির মুনাফা সর্বোচ্চ করার ইচ্ছা যত বেশি, সমাজকল্যাণের উদ্দেশ্যকে অগ্রাধিকার দেওয়ার মাত্রা তত কম।"
+   }
+  },
+  "3-12": {
+   "stem_bn": "একই আয়ের স্তরে Bangladesh-এর গ্রামীণ পরিবারগুলোর ক্রয়ক্ষমতা শহর বা শহরতলির পরিবারগুলোর চেয়ে বেশি। শহর ও শহরতলির পরিবারগুলো তাদের আয়ের যে অংশ খাদ্য ও বাসস্থানে ব্যয় করে, তার কিছু অংশ গ্রামীণ পরিবারগুলো অন্যান্য প্রয়োজনে ব্যবহার করতে পারে।\nউপরের বক্তব্য দ্বারা নিচের কোনটি সবচেয়ে ভালোভাবে সমর্থিত?",
+   "bn_status": "draft",
+   "options_bn": {
+    "A": "গড়পড়তা গ্রামীণ পরিবারে শহর ও শহরতলির গড়পড়তা পরিবারের চেয়ে বেশি মানুষ থাকে।",
+    "B": "গ্রামীণ পরিবারগুলোর খাদ্য ও আবাসন খরচ শহর বা শহরতলির পরিবারগুলোর চেয়ে কম।",
+    "C": "শহরতলির পরিবারগুলোর ক্রয়ক্ষমতা সাধারণত গ্রামীণ বা শহরের পরিবারগুলোর চেয়ে বেশি।",
+    "D": "শহর ও শহরতলির পরিবারগুলোর median আয় সাধারণত গ্রামীণ পরিবারগুলোর চেয়ে বেশি।",
+    "E": "তিন ধরনের পরিবারই আবাসনে যত খরচ করে তা অন্য সব কেনাকাটার মোট খরচের চেয়ে বেশি।"
+   }
+  }
+ },
+ "groups": {
+  "3-1": {
+   "passage_bn": "একজন set designer একটি ballet-এর ছয়টি পরপর picture-এ ব্যবহারের জন্য ছয়টি set-এর রং বাছাই করবেন, প্রতিটি picture-এ একটি করে set থাকবে। artistic director আটটি paint color --- green, magenta, orange, purple, brown, red, white ও yellow --- বেছেছেন এবং designer-কে নিচের নির্দেশনা অনুযায়ী রংগুলো ব্যবহার করতে বলেছেন:\n- কোনো রং একাধিক set-এর জন্য বাছাই করা যাবে না।\n- picture 1 ও 4-এর set আংশিক এক রঙে এবং আংশিক অন্য রঙে রং করা হবে; অন্য চারটি picture-এর প্রতিটি set একটি মাত্র রঙে রং করা হবে।\n- কোনো picture-এর set-এর জন্য green বাছাই হলে, সেই picture-এর set-এর জন্য brown-ও অবশ্যই বাছাই করতে হবে।\n- Purple ও orange কখনো একই picture-এ একসাথে ব্যবহার করা যাবে না।\n- White যে picture-এর জন্য বাছাই হয়, তার ঠিক পরের picture-এর set-এর জন্য red বাছাই করা হয়, এবং এই দুই রঙের কোনোটিই অন্য কোনো রঙের সাথে একই picture-এ ব্যবহার করা হয় না।"
+  },
+  "3-5": {
+   "passage_bn": "shelf 1 থেকে 6-এ 6টি বই আছে: romance, thrilling, detective, suspense comedy এবং wonderful movie, যেগুলো উপর থেকে নিচে সাজানো।\n- Romance ও thrilling পাশাপাশি রাখতে হবে\n- Suspense detective-এর ঠিক পরে রাখা হবে\n- Comedy-কে অবশ্যই শেষ থেকে (from the last) রাখতে হবে"
+  }
+ }
+}

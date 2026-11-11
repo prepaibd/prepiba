@@ -1,0 +1,2377 @@
+{
+  "exam": {
+    "institute": "IBA (DU)",
+    "program": "MBA",
+    "session": "May 2018",
+    "source_pdf": "iba_mba_may_2018.pdf",
+    "parts_marks": {
+      "mcq": 70,
+      "writing": 30
+    }
+  },
+  "parts": [
+    {
+      "part_label": "Part I: Multiple Choice Questions [70 marks]",
+      "sections": [
+        {
+          "section_no": 1,
+          "source_section_label": "Section 1: Language and Communication",
+          "subject": "language",
+          "groups": [
+            {
+              "source_group_label": "Questions 1 to 5:",
+              "instruction": "Select the most appropriate words(s) to fill in the gap(s).",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "fill-blank",
+                  "stem": "1. An optimistic theory of evolutionary progress was ____ beginning to replace the pessimistic doctrine of universal ____.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "blatantly ..... revival"
+                    },
+                    {
+                      "label": "B",
+                      "text": "surreptitiously ..... decay"
+                    },
+                    {
+                      "label": "C",
+                      "text": "swiftly ..... advancement"
+                    },
+                    {
+                      "label": "D",
+                      "text": "gradually ..... uproar"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of theses"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "An optimistic theory quietly (\"surreptitiously\") replacing a doctrine of universal \"decay\" fits the optimism-vs-pessimism contrast. (Matches the printed key.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "fill-blank",
+                  "stem": "2. Modern political campaigns are so full of misrepresentations, the candor is an ____.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "aphorism"
+                    },
+                    {
+                      "label": "B",
+                      "text": "anecdote"
+                    },
+                    {
+                      "label": "C",
+                      "text": "anomaly"
+                    },
+                    {
+                      "label": "D",
+                      "text": "augmentation"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Amid misrepresentations, honesty (candor) is an \"anomaly\" (an exception).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "fill-blank",
+                  "stem": "3. With such a ____ amount of food, the survivors of the plane crash thought their chance of survival was ____.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "puny ..... existential"
+                    },
+                    {
+                      "label": "B",
+                      "text": "limited ..... consequential"
+                    },
+                    {
+                      "label": "C",
+                      "text": "lavish ..... impracticable"
+                    },
+                    {
+                      "label": "D",
+                      "text": "copious ..... infinitesimal"
+                    },
+                    {
+                      "label": "E",
+                      "text": "finite ..... meager"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "A limited/finite amount of food makes the chance of survival small (\"meager\"). The printed key is E (none of A-D fits both blanks cleanly).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "fill-blank",
+                  "stem": "4. One should always strive not to be a/ an ____ presenter, who makes the audience's interest ____.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "vivacious ..... diminish"
+                    },
+                    {
+                      "label": "B",
+                      "text": "languid ..... amplify"
+                    },
+                    {
+                      "label": "C",
+                      "text": "rampant ..... flounder"
+                    },
+                    {
+                      "label": "D",
+                      "text": "insipid ..... dwindle"
+                    },
+                    {
+                      "label": "E",
+                      "text": "zestful ..... waver"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "An \"insipid\" (dull) presenter makes interest \"dwindle\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 5,
+                  "question_type": "fill-blank",
+                  "stem": "5. In order to develop his report on the ____ issue, the journalist had to ____ information from various sources.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "controversial ..... divert"
+                    },
+                    {
+                      "label": "B",
+                      "text": "contentious ..... glean"
+                    },
+                    {
+                      "label": "C",
+                      "text": "contrary ..... extract"
+                    },
+                    {
+                      "label": "D",
+                      "text": "concurrent ..... divulge"
+                    },
+                    {
+                      "label": "E",
+                      "text": "contagious ..... amend"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "A \"contentious\" (disputed) issue, and the journalist had to \"glean\" (gather) information.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 6 to 10:",
+              "instruction": "In each of the following sentences, choose the option where the underlined word(s) has been used INCORRECTLY.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 6,
+                  "question_type": "word-substitution",
+                  "stem": "6. I. Since no party was willing to compromise, an arbitrator had to be called in to break the impasse.\nII. Given that the two countries have reached an impasse on their negotiations, the war is likely to continue.\nIII. After days of fighting, the soldiers were looking for an impasse.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "II only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "III only"
+                    },
+                    {
+                      "label": "C",
+                      "text": "II and III"
+                    },
+                    {
+                      "label": "D",
+                      "text": "I and II"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "(III) misuses \"impasse\" (a deadlock); soldiers would seek a \"truce\"/\"ceasefire\". (i) and (ii) are correct.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "word-substitution",
+                  "stem": "7. I. The cue was only getting longer with the passage of time.\nII. The choir was waiting for the right cue to start their performance.\nIII. As if on cue, the sound of a vehicle starting broke the silence.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "I only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "III only"
+                    },
+                    {
+                      "label": "C",
+                      "text": "I and III"
+                    },
+                    {
+                      "label": "D",
+                      "text": "I and II"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "(I) should use \"queue\" (a line), not \"cue\". (ii) and (iii) use \"cue\" (a signal) correctly.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 8,
+                  "question_type": "word-substitution",
+                  "stem": "8. I. The pharmacy board will censure the pharmacist for not properly monitoring his drug supply.\nII. If Majed receives another censure from his boss, he will more than likely lose his job.\nIII. The security device has a heat censure which detects the presence of people and animals.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "I only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "II only"
+                    },
+                    {
+                      "label": "C",
+                      "text": "III only"
+                    },
+                    {
+                      "label": "D",
+                      "text": "II and III"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "(III) should use \"sensor\" (a detecting device), not \"censure\" (criticism).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 9,
+                  "question_type": "word-substitution",
+                  "stem": "9. I. The vile man tried to insight hatred in his children by telling them falsehoods about minority groups.\nII. He showed remarkable insight on the topic considering he had just started learning about it.\nIII. I wanted to point out he was a very good speaker and could insight a crowd.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "I only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "II only"
+                    },
+                    {
+                      "label": "C",
+                      "text": "I and II"
+                    },
+                    {
+                      "label": "D",
+                      "text": "I and III"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "(I) and (III) should use \"incite\" (to stir up), not \"insight\". (ii) uses \"insight\" (understanding) correctly.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 10,
+                  "question_type": "word-substitution",
+                  "stem": "10. I. When the crew saw flairs, they knew the other ship was in trouble.\nII. She grew uneasy and watched the sky flair with rocket and laser fire from the ongoing battle in the valley.\nIII. It is obvious from Rina's mumbling that she does not have a flair for public speaking.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "I and II"
+                    },
+                    {
+                      "label": "B",
+                      "text": "I and III"
+                    },
+                    {
+                      "label": "C",
+                      "text": "III only"
+                    },
+                    {
+                      "label": "D",
+                      "text": "I only"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No error"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "(I) and (II) should use \"flare\" (a signal / to blaze); (iii) correctly uses \"flair\" (a talent).",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 11 to 15:",
+              "instruction": "Read the following paragraph and answer the questions.",
+              "stimulus": {
+                "passage": "Here's a simple question-answer it honestly: How many hours did you spend reading books last week?\n\nThis question has arrived in thousands of U.S. homes every other year since 1992 as part of the University of Michigan's Health and Retirement Study (HRS). In 2016, when researchers at the Yale School of Public Health dug into 12 years of HRS data, a hopeful pattern emerged: People who read books-fiction or nonfiction, poetry or prose-for as little as 30 min. a day over several years were living an average of 2 years longer than people who didn't read anything at all.\n\nResearch suggests that reading is beneficial not only for the elderly, but also for children and adults. When practiced over a lifetime, reading and language-acquisition skills can support healthy brain functioning in big ways. Simply put: Word power increase brain power.\n\nBut what is it about reading books in particular that boosts our brain power whereas reading newspapers and magazines doesn't? For one, the researchers posit, chapter books encourage \"deep reading\". Unlike, say, skimming a page of headlines, reading a book of any genre forces your brain to think critically and make connections from one chapter to another, and to the outside world. Over time, the forging of new neural networks promotes quicker thinking and may provide a greater defense against the worst effects of cognitive decay.\n\nSecondly, reading books, especially fiction, has been shown to increase empathy and emotional intelligence. Developing social tools such as empathy and emotional intelligence can lead to more positive human interaction, which in turn can lower stress levels. Both of these enhance life expectancy.\n\nThat's not to say that magazines, newspaper, and Web articles are without merit. Reading anything that fills your mind and expose you to new words, phrases, and facts to carry mental benefits. New research indicates that a large vocabulary may lead to a more resilient mind by fueling what scientists call cognitive reserve. One way to think about this reserve is as your brain's ability to adapt to damage. Just as your blood cells will clot to cover a cut on your knee, cognitive reserve helps your brain cells find new mental pathways around areas damaged by stroke, dementia, and other forms of decay. It's their cognitive reserve, researchers suspect, that may allow some seniors to seamlessly compensate for hidden brain damage.\n\nSo how does one build up cognitive reserve? That's more good news for word lovers. Vocabulary is notoriously resistant to aging. and having a rich one, according to researchers, can significantly delay the manifestation of mental decline.\n\nAs science reminds us, it pays to increase your word power-today, tomorrow, and for the rest of your life.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 11,
+                  "question_type": "reading-comp",
+                  "stem": "11. What can we infer about the meaning of the term 'emotional intelligence' from the above excerpt?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Ability to better understand and respond to the emotions of others"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Ability to handle crisis situations better"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Ability to think in a more intelligence and constructive manner"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Ability to form better connections between one's internal and external world"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Ability to concentrate more on reading material"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The passage ties emotional intelligence to empathy and positive human interaction — understanding and responding to others' emotions (A). (Matches the printed key.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 12,
+                  "question_type": "reading-comp",
+                  "stem": "12. 'Deep reading' is beneficial because:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "It involves content that is more critical in nature"
+                    },
+                    {
+                      "label": "B",
+                      "text": "It covers more diverse topics than other forms of reading"
+                    },
+                    {
+                      "label": "C",
+                      "text": "It requires more time commitment form the reader"
+                    },
+                    {
+                      "label": "D",
+                      "text": "It stimulates the reader to relate the contents to broader experience in the outside world"
+                    },
+                    {
+                      "label": "E",
+                      "text": "All of the above"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Deep reading makes the brain connect chapters \"and to the outside world\" (D). (Matches the printed key.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 13,
+                  "question_type": "reading-comp",
+                  "stem": "13. Which of the following has not been implied by the above excerpt?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Reading is more beneficial for the elderly than for adults and children"
+                    },
+                    {
+                      "label": "B",
+                      "text": "One must devote long hours to reading to reap the desired benefits"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Reading fiction encourages better brain development than reading non-fiction"
+                    },
+                    {
+                      "label": "D",
+                      "text": "The impact of reading is related to the duration of one's life and not necessarily to its quality"
+                    },
+                    {
+                      "label": "E",
+                      "text": "All of the above"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "None of A-D is implied: reading benefits all ages (not just elderly), as little as 30 min/day suffices, fiction is highlighted for empathy but not \"better brain development\", and reading affects both longevity and quality. So E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 14,
+                  "question_type": "reading-comp",
+                  "stem": "14. All of the following statements about vocabulary can be inferred from the above excerpt, except:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Vocabulary is less affected by ageing than other of learning"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Vocabulary can act as the brain's shield against mental decay"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Vocabulary cannot be enhanced by reading magazines, newspapers, etc."
+                    },
+                    {
+                      "label": "D",
+                      "text": "A stronger vocabulary can promote stronger brain function"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The passage says magazines, newspapers and web articles do build vocabulary, so C contradicts it and cannot be inferred.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 15,
+                  "question_type": "reading-comp",
+                  "stem": "15. Having a cognitive reserve is helpful to the elderly because:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "It creates new mental pathways, thus allowing them to think quickly"
+                    },
+                    {
+                      "label": "B",
+                      "text": "It creates new mental pathways, thus allowing them to cover up for lost material"
+                    },
+                    {
+                      "label": "C",
+                      "text": "It helps them form better social relationships"
+                    },
+                    {
+                      "label": "D",
+                      "text": "It gives them a richer vocabulary which helps in interacting with others"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Cognitive reserve helps brain cells find new pathways around damaged areas, letting seniors compensate for (cover up) hidden damage (B).",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 16 to 20:",
+              "instruction": "For each sentence replace the underlined parts with the option that represents the proper usage of grammar.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 16,
+                  "question_type": "sentence-correction",
+                  "stem": "16. Fortunately, the baby fallen back onto the soft carpet after trying to camber up the stairs.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "the baby fallen back onto the soft carpet"
+                    },
+                    {
+                      "label": "B",
+                      "text": "the baby had fell back onto the soft carpet"
+                    },
+                    {
+                      "label": "C",
+                      "text": "the baby falls back onto the soft carpet"
+                    },
+                    {
+                      "label": "D",
+                      "text": "the baby fell back onto the soft carpet"
+                    },
+                    {
+                      "label": "E",
+                      "text": "the baby felt back onto the soft carpet"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "The simple past \"fell back\" is correct here.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 17,
+                  "question_type": "sentence-correction",
+                  "stem": "17. You had be a fool to consider the enemy weak.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "you had be a fool"
+                    },
+                    {
+                      "label": "B",
+                      "text": "you have be a fool"
+                    },
+                    {
+                      "label": "C",
+                      "text": "you should be a fool"
+                    },
+                    {
+                      "label": "D",
+                      "text": "you would be a fool"
+                    },
+                    {
+                      "label": "E",
+                      "text": "you can be a fool"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "The hypothetical takes \"you would be a fool\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 18,
+                  "question_type": "sentence-correction",
+                  "stem": "18. Jason, who had always lived the life of a hedonist, found himself regret his life choices in old age",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "found himself regret his life choices in old age"
+                    },
+                    {
+                      "label": "B",
+                      "text": "found him regretting his life choices in old age"
+                    },
+                    {
+                      "label": "C",
+                      "text": "finds him in regret of his life choices in old age"
+                    },
+                    {
+                      "label": "D",
+                      "text": "found himself with the regret of his life choices in old age"
+                    },
+                    {
+                      "label": "E",
+                      "text": "has found himself regretting his life choices in old age"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Found himself\" needs a following gerund or noun phrase; D (\"found himself with the regret of ...\") is grammatical and keeps the past tense consistent with \"had always lived\". (B uses \"him\", E shifts tense; flagged as a close call.)",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 19,
+                  "question_type": "sentence-correction",
+                  "stem": "19. After giving the students a piece of her mind, the deviant behavior was never again seen by the teacher.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "the deviant behavior was never again seen by the teacher"
+                    },
+                    {
+                      "label": "B",
+                      "text": "the teacher never again saw the deviant behavior"
+                    },
+                    {
+                      "label": "C",
+                      "text": "the teacher never again seen the deviant behavior"
+                    },
+                    {
+                      "label": "D",
+                      "text": "the deviant behavior were never again seen by the teacher"
+                    },
+                    {
+                      "label": "E",
+                      "text": "the deviant behavior would never again be seen by the teacher"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The introductory phrase refers to the teacher, so the main clause must have \"the teacher\" as subject: \"the teacher never again saw the deviant behavior\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 20,
+                  "question_type": "sentence-correction",
+                  "stem": "20. Although it has been two days since the storm, none of the debris are being cleared.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "none of the debris are being cleared"
+                    },
+                    {
+                      "label": "B",
+                      "text": "none of the debris has been cleared"
+                    },
+                    {
+                      "label": "C",
+                      "text": "none of the debrises have been cleared"
+                    },
+                    {
+                      "label": "D",
+                      "text": "none of the debris have cleared"
+                    },
+                    {
+                      "label": "E",
+                      "text": "none of the debris are clearing"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"Debris\" is uncountable (singular), so \"none of the debris has been cleared\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 21 to 25:",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 21,
+                  "question_type": "sentence-correction",
+                  "stem": "21. \"There is no denial that Richard was a great human being\". Which correction should be made to this sentence?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "replace denial with denying"
+                    },
+                    {
+                      "label": "B",
+                      "text": "replace denial with deny"
+                    },
+                    {
+                      "label": "C",
+                      "text": "omit that"
+                    },
+                    {
+                      "label": "D",
+                      "text": "change is to was"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No correction is required"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The idiom is \"There is no denying that ...\", so replace \"denial\" with \"denying\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 22,
+                  "question_type": "sentence-correction",
+                  "stem": "22. \"Ricardo failed to realize that thousands of landlords competing with each other will make different decisions than a single one.\" Which correction should be made to this sentence?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "replace than with then"
+                    },
+                    {
+                      "label": "B",
+                      "text": "omit with"
+                    },
+                    {
+                      "label": "C",
+                      "text": "replace will with would"
+                    },
+                    {
+                      "label": "D",
+                      "text": "change failed to to did not"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No correction is required"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "After the past \"failed to realize that\", sequence of tenses requires \"would make\" rather than \"will make\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 23,
+                  "question_type": "sentence-correction",
+                  "stem": "23. \"These theories explain why some industries naturally have high profits, while in other industries high profits are a surely sign of collusion.\" Which correction should be made to this sentence?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "replace why with how"
+                    },
+                    {
+                      "label": "B",
+                      "text": "change surely to sure"
+                    },
+                    {
+                      "label": "C",
+                      "text": "insert a comma after explain"
+                    },
+                    {
+                      "label": "D",
+                      "text": "change have to had"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No correction is required"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The adjective \"sure\" is needed to modify \"sign\": \"a sure sign of collusion\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 24,
+                  "question_type": "sentence-correction",
+                  "stem": "24. \"Always too full of herself, Jane had no time for others.\" If you rewrote this sentence beginning with \"Jane had no time for others\", the next words can be -",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "so she was too full of herself"
+                    },
+                    {
+                      "label": "B",
+                      "text": "so full of herself she was"
+                    },
+                    {
+                      "label": "C",
+                      "text": "to be too full of herself"
+                    },
+                    {
+                      "label": "D",
+                      "text": "because too full of herself"
+                    },
+                    {
+                      "label": "E",
+                      "text": "since she was too full of herself"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Her being full of herself is the cause, so \"Jane had no time for others since she was too full of herself\" preserves the meaning.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 25,
+                  "question_type": "sentence-correction",
+                  "stem": "25. \"If you feel dizzy, you should try to get some rest.\" If you rewrote this sentence beginning with \"You should try and get some rest\", the next words can be-",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "during dizziness"
+                    },
+                    {
+                      "label": "B",
+                      "text": "following dizzy"
+                    },
+                    {
+                      "label": "C",
+                      "text": "and be quiet when dizzy"
+                    },
+                    {
+                      "label": "D",
+                      "text": "if you felt dizzy"
+                    },
+                    {
+                      "label": "E",
+                      "text": "when you feel dizzy"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "\"You should try and get some rest when you feel dizzy\" keeps the conditional sense and present tense.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 2,
+          "source_section_label": "Section 2: Problem Solving and Analytical Ability",
+          "subject": "mathematics",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 26,
+                  "question_type": "problem-solving",
+                  "stem": "26. The length, width and depth of a rectangular box are 8 feet, 7 feet and 9 feet respectively. A hose supplies water at a rate of 12 cubic feet per minute. How much time in minutes would it take to fill a conical box whose volume is three the volume of the rectangle box?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "42"
+                    },
+                    {
+                      "label": "B",
+                      "text": "126"
+                    },
+                    {
+                      "label": "C",
+                      "text": "205"
+                    },
+                    {
+                      "label": "D",
+                      "text": "235"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Box volume $=8\\times7\\times9=504$; cone $=3\\times504=1512$; time $=1512/12=126$ min.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 27,
+                  "question_type": "problem-solving",
+                  "stem": "27. Train Karnafuli starts from Chittagong at 6 am and reaches Dhaka at 4 pm. Train Paharika Starts from Dhaka at 7am & reaches Chittagong at 7:30pm. At what time will the trains cross each other?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "11 am"
+                    },
+                    {
+                      "label": "B",
+                      "text": "11:40 am"
+                    },
+                    {
+                      "label": "C",
+                      "text": "12 pm"
+                    },
+                    {
+                      "label": "D",
+                      "text": "12:45 pm"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Karnafuli takes 10 h ($\\frac D{10}$), Paharika 12.5 h ($\\frac D{12.5}$). By 7 am Karnafuli has covered $\\frac D{10}$; the remaining $\\frac{9D}{10}$ closes at $\\frac D{10}+\\frac D{12.5}=0.18D$ per hour, in 5 h — i.e. 12 pm.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 28,
+                  "question_type": "problem-solving",
+                  "stem": "28. Three workers A, B, C working individually can complete a task in 30 days, 15 days and 10 days respectively. If A starts the task alone, and B and C helps A on every $2^{\\text{nd}}$ and $3^{\\text{rd}}$ day respectively, on which day will the task to be completed?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$10^{\\text{th}}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$12^{\\text{th}}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$14^{\\text{th}}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$15^{\\text{th}}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "In units of 1/30 of the task per day: A = 1 every day, B = 2 on days 2,4,6,..., C = 3 on days 3,6,9,... Daily work: d1 1, d2 3, d3 4, d4 3, d5 1, d6 6, d7 1, d8 3, d9 4, d10 3, d11 1. Cumulative: 1,4,8,11,12,18,19,22,26,29,30 - the task finishes on the 11th day, which is not among A-D: E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 29,
+                  "question_type": "problem-solving",
+                  "stem": "29. Given $y = (x - 6)(x - 5)(x - 4)(x - 3)$ and 'x' is a positive integer. If $y > 0$, then which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "x < 3"
+                    },
+                    {
+                      "label": "B",
+                      "text": "x < 6"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3 < x < 0"
+                    },
+                    {
+                      "label": "D",
+                      "text": "x > 3"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "$y>0$ for $x\\in\\{1,2\\}$ and $x\\ge7$; no single option A-D captures this whole set, so E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 30,
+                  "question_type": "problem-solving",
+                  "stem": "30. 648: 36 :: 1682: .... ?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "38"
+                    },
+                    {
+                      "label": "B",
+                      "text": "48"
+                    },
+                    {
+                      "label": "C",
+                      "text": "58"
+                    },
+                    {
+                      "label": "D",
+                      "text": "68"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$36^2/2=648$, so the rule is $n^2/2$; $1682=n^2/2\\Rightarrow n^2=3364\\Rightarrow n=58$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 31,
+                  "question_type": "problem-solving",
+                  "stem": "31. 6 students did not participate and 10 students failed in an exam. Among the students who passed in the exam, Abir stood $15^{\\text{th}}$ from the top and $30^{\\text{th}}$ from the bottom in the merit list. How many students were there in the class?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "44"
+                    },
+                    {
+                      "label": "B",
+                      "text": "50"
+                    },
+                    {
+                      "label": "C",
+                      "text": "60"
+                    },
+                    {
+                      "label": "D",
+                      "text": "57"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Passed $=15+30-1=44$; total $=44+10+6=60$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 32,
+                  "question_type": "problem-solving",
+                  "stem": "32. What should be the value of 'P' in order for $4x^{2} - Px + 9$ to be a square?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "20"
+                    },
+                    {
+                      "label": "B",
+                      "text": "9"
+                    },
+                    {
+                      "label": "C",
+                      "text": "12"
+                    },
+                    {
+                      "label": "D",
+                      "text": "16"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$(2x-3)^2=4x^2-12x+9$, so $P=12$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 33,
+                  "question_type": "problem-solving",
+                  "stem": "33. In a rectangle, the length of the diagonal is 8 meters and the length of the perpendicular drawn on that diagonal from the opposite corner is 4 meters. What is the area of the rectangle in square meter?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "32"
+                    },
+                    {
+                      "label": "B",
+                      "text": "16"
+                    },
+                    {
+                      "label": "C",
+                      "text": "24"
+                    },
+                    {
+                      "label": "D",
+                      "text": "12"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The diagonal splits the rectangle into two triangles; area $=2\\times\\frac12\\times8\\times4=32$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 34,
+                  "question_type": "problem-solving",
+                  "stem": "34. In a swimming competition, Saju beat Sajib by 60 seconds. If the rate of Saju's swimming is 69 meters/ minute and that of Sajib is 66 meters/ minute, how long has it taken for Sajib to complete the competition?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "20 minutes"
+                    },
+                    {
+                      "label": "B",
+                      "text": "21 minutes"
+                    },
+                    {
+                      "label": "C",
+                      "text": "22 minutes"
+                    },
+                    {
+                      "label": "D",
+                      "text": "23 minutes"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "For distance $D$: $\\frac D{66}-\\frac D{69}=1$ min $\\Rightarrow D=1518$ m; Sajib's time $=1518/66=23$ min.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 35,
+                  "question_type": "problem-solving",
+                  "stem": "35. Pavel's monthly income is tk. 5250. The ratio of his monthly expenditure to savings is 8:7. From the next month, he wants to increase his savings by tk. 550 while his monthly income will remain unchanged. What will be the new ratio of his savings to expenditure?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "3:2"
+                    },
+                    {
+                      "label": "B",
+                      "text": "2:1"
+                    },
+                    {
+                      "label": "C",
+                      "text": "8:7"
+                    },
+                    {
+                      "label": "D",
+                      "text": "4:3"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Expenditure 2800, savings 2450. New savings $=3000$, new expenditure $=2250$; ratio $3000:2250=4:3$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 36,
+                  "question_type": "problem-solving",
+                  "stem": "36. Syntax cement gives a commission of 15% on the printed price of each sack of cement if sells to its dealers and gains a profit of 19%. If the commission is decreased to 10% the new profit percentage will be:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "21%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "25%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "26%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "35%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "At 15% commission, dealer price $=0.85P=1.19\\,CP$, so $CP=\\frac{0.85P}{1.19}$. At 10% commission the price is $0.90P$, giving profit $\\frac{0.90P}{0.85P/1.19}-1=\\frac{0.90\\times1.19}{0.85}-1=26\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 37,
+                  "question_type": "problem-solving",
+                  "stem": "37. If -1 < a < b < 0, which of the following has the highest value?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{a}{b}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{b}{a}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{b}{-a^{2}}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{a^{2}}{b}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "With -1 < a < b < 0 we have |a| > |b|, both below 1. a/b = |a|/|b| > 1, but b/(-a^2) = |b|/a^2 can be larger: a = -0.5, b = -0.4 gives a/b = 1.25 and b/(-a^2) = 1.6, whereas a = -0.9, b = -0.1 gives a/b = 9 and b/(-a^2) = 0.12. No single option is always the highest, so the answer is E (None of these).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 38,
+                  "question_type": "problem-solving",
+                  "stem": "38. A man can build a hut in 9 days: a woman can build the same hut in 12 days and a boy can build that hut in 18 days. After working together for 2 days, the man left and the woman & the boy continued the work. If the total wage for this work is BDT 7910, how much the boy should receive based on the number of days worked?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "BDT 2260"
+                    },
+                    {
+                      "label": "B",
+                      "text": "BDT 3390"
+                    },
+                    {
+                      "label": "C",
+                      "text": "BDT 4520"
+                    },
+                    {
+                      "label": "D",
+                      "text": "BDT 5085"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Daily rates: man 1/9, woman 1/12, boy 1/18; together 1/4 per day, so 2 days = 1/2 of the hut. The woman and boy finish the other half at 5/36 per day = 3.6 days, so the boy works 5.6 days. Boy's share of work = 5.6/18 = 14/45, so wage = 7910 x 14/45 = BDT 2461 (sharing by days worked gives about BDT 3356). Neither equals A-D, so E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 39,
+                  "question_type": "problem-solving",
+                  "stem": "39. Eight years ago, Zahed was twice as old as Zubair. At present, Zahed is 1.5 times as old as Zubair. Sixteen years from now, what will be the ratio of Zubair's age to Zahed's age?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "5:4"
+                    },
+                    {
+                      "label": "B",
+                      "text": "6:5"
+                    },
+                    {
+                      "label": "C",
+                      "text": "5:6"
+                    },
+                    {
+                      "label": "D",
+                      "text": "4:5"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Now Zubair 16, Zahed 24 (from $1.5z-8=2(z-8)$). In 16 years: $32:40=4:5$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 40,
+                  "question_type": "problem-solving",
+                  "stem": "40. Azam can swim 10 km upstream and 25 km downstream in 12 hours. He can also swim 15 km upstream and 50 km downstream in 20 hours. How many hours will it take for him to cover 17.5 km in downstream if the rate of current increases by 40%?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "4.5 hours"
+                    },
+                    {
+                      "label": "B",
+                      "text": "4 hours"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3.5 hours"
+                    },
+                    {
+                      "label": "D",
+                      "text": "3 hours"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Let u = 1/(upstream speed), v = 1/(downstream speed): 10u + 25v = 12, 15u + 50v = 20 give u = 0.8, v = 0.16, so upstream 1.25 km/h, downstream 6.25 km/h, boat 3.75 km/h, current 2.5 km/h. With the current increased by 40% (3.5 km/h), downstream = 3.75 + 3.5 = 7.25 km/h and 17.5/7.25 = about 2.41 h, which is not among A-D: E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 41,
+                  "question_type": "problem-solving",
+                  "stem": "41. a, b, c, d and e are five consecutive integers in increasing order of value. Which one of the following expressions is not odd?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$a + b + c$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$ab + c$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$ab + d$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$ac + e$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$ac+e=a(a+2)+(a+4)=a(a+3)+4$; $a(a+3)$ is always even (consecutive-parity product), so $ac+e$ is always even (never odd).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 42,
+                  "question_type": "problem-solving",
+                  "stem": "42. 3 people are splitting a tk. 150 bill. If A pays tk. 5 less than B, while C pays more than tk. 60, what is the most A can pay, given all of them pay integer amounts?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "29"
+                    },
+                    {
+                      "label": "B",
+                      "text": "42"
+                    },
+                    {
+                      "label": "C",
+                      "text": "47"
+                    },
+                    {
+                      "label": "D",
+                      "text": "61"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$A=B-5$ and $C>60$ give $A+B<90$, so $2B-5<90\\Rightarrow B\\le47$, $A\\le42$ (with $B=47,C=61$).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 43,
+                  "question_type": "problem-solving",
+                  "stem": "43. If 30 men renovate  $\\frac{1}{2}$  of room space in 120 days, how many days would 80 men require to renovate  $\\frac{1}{3}$  of the remaining room space, assuming each person work at the same rate?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "15"
+                    },
+                    {
+                      "label": "B",
+                      "text": "30"
+                    },
+                    {
+                      "label": "C",
+                      "text": "60"
+                    },
+                    {
+                      "label": "D",
+                      "text": "120"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Full job $=30\\times120\\times2=7200$ man-days. $\\frac13$ of the remaining $\\frac12$ is $\\frac16$, i.e. 1200 man-days; with 80 men that is 15 days.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 44,
+                  "question_type": "problem-solving",
+                  "stem": "44. A salesperson bought an item for tk. X and marked it up by 50%. However, he could not sell the item during the first quarter and thus, decided to provide a discount of 20% on the marked up price. As the item remained unsold in the second quarter as well, he stated to charge 70% of the discounted value. What is the latest sales price of the item in terms of its buying price?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "60X"
+                    },
+                    {
+                      "label": "B",
+                      "text": "84X"
+                    },
+                    {
+                      "label": "C",
+                      "text": "96X"
+                    },
+                    {
+                      "label": "D",
+                      "text": "105X"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$1.5X\\times0.8\\times0.7=0.84X$, i.e. 84% of X (\"84X\" means 0.84X).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 45,
+                  "question_type": "problem-solving",
+                  "stem": "45. Find the range of values of x for which  $(2x + 3)(x - 1) < 0$ .",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$x < -\\frac{3}{2}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$-\\frac{3}{2} < x < 1$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "x > 1"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$x > -\\frac{3}{2}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The product is negative between the roots $-\\frac32$ and $1$: $-\\frac32<x<1$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 46,
+                  "question_type": "problem-solving",
+                  "stem": "46. A number of people were asked whether they liked drinks of orange, lemon or grape flavor. The responses are as follows 85 liked orange, 45 liked orange and lemon, 65 liked grapes, 40 liked lemon and grape, 90 liked lemon, 30 liked orange and grape, 15 liked all three and 25 liked none. Find the number of people who liked only orange.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "55"
+                    },
+                    {
+                      "label": "B",
+                      "text": "5"
+                    },
+                    {
+                      "label": "C",
+                      "text": "25"
+                    },
+                    {
+                      "label": "D",
+                      "text": "70"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Only orange $=85-(45-15)-(30-15)-15=85-30-15-15=25$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 47,
+                  "question_type": "problem-solving",
+                  "stem": "47. In the above problem (46), how many people were interviewed?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "120"
+                    },
+                    {
+                      "label": "B",
+                      "text": "125"
+                    },
+                    {
+                      "label": "C",
+                      "text": "140"
+                    },
+                    {
+                      "label": "D",
+                      "text": "155"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Those liking at least one $=85+90+65-45-40-30+15=140$; adding the 25 who liked none gives 165, which is not among A-D, so E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 48,
+                  "question_type": "problem-solving",
+                  "stem": "48. A person is standing 20 m away from a wall. When he walks towards the wall, he covers half the remaining distance in every 3 seconds. How long will it take him to reach the wall?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "15 sec"
+                    },
+                    {
+                      "label": "B",
+                      "text": "6 sec"
+                    },
+                    {
+                      "label": "C",
+                      "text": "6.67 sec"
+                    },
+                    {
+                      "label": "D",
+                      "text": "12 sec"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Covering half the remaining distance each interval, he only ever approaches the wall and never actually reaches it, so no finite time works — E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 49,
+                  "question_type": "problem-solving",
+                  "stem": "49. Water is poured into an empty cylindrical tank at a constant rate. In 15 minutes, the height of the water increased by 9 feet. The radius of the tank is 10 feet. What is the rate at which the water is poured?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$54\\pi$  cubic feet per minute"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$90\\pi$  cubic feet per minute"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$60\\pi$  cubic feet per minute"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$11\\pi$  feet per minute"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Volume added $=\\pi(10)^2(9)=900\\pi$ in 15 min, so rate $=900\\pi/15=60\\pi$ cubic feet per minute.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 50,
+                  "question_type": "problem-solving",
+                  "stem": "50. Working 11 hours/day, 24 men and 33 women can complete the construction of a road in 78 days. The working capacity of three women equals to that of 1 man. Now, the authority decides that the road is to be constructed in 55 days by working 13 hours/day. If there are only 27 women present, how many men will be needed?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "33"
+                    },
+                    {
+                      "label": "B",
+                      "text": "45"
+                    },
+                    {
+                      "label": "C",
+                      "text": "87"
+                    },
+                    {
+                      "label": "D",
+                      "text": "99"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "33 women $=11$ men, so the work $=35$ men $\\times11\\times78$. With 27 women $=9$ men, $(M+9)\\times13\\times55=35\\times11\\times78\\Rightarrow M+9=42\\Rightarrow M=33$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 51,
+                  "question_type": "problem-solving",
+                  "stem": "51. If the width of the shaded region in the following figure is 1 cm and the radius of the outer circle is 10 cm, find the radius of the inner semi-circle(s):",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "8 cm"
+                    },
+                    {
+                      "label": "B",
+                      "text": "7 cm"
+                    },
+                    {
+                      "label": "C",
+                      "text": "8.5 cm"
+                    },
+                    {
+                      "label": "D",
+                      "text": "3.5 cm"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The figure is a \"no entry\" sign: an outer circle of radius 10 cm with a shaded ring 1 cm wide (plus a diagonal bar). The inner circle (cut by the bar into two semicircles) therefore has radius 10 - 1 = 9 cm, which is not among A-D: E.",
+                  "images": [
+                    {
+                      "fig_id": "q_p5_1",
+                      "role": "question",
+                      "path": "images/q_p5_1.png",
+                      "caption": "Outer circle with shaded region and inner semi-circle(s)"
+                    }
+                  ],
+                  "needs_review": false
+                },
+                {
+                  "number": 52,
+                  "question_type": "problem-solving",
+                  "stem": "52. Three students P, Q and R are standing in a line. There are 5 students standing in the line between P and Q, and 8 students standing in the line between Q and R. If there are 3 students standing in the line before R, and 21 students standing in the line behind P, then what is the minimum number of students standing in the line?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "41"
+                    },
+                    {
+                      "label": "B",
+                      "text": "40"
+                    },
+                    {
+                      "label": "C",
+                      "text": "28"
+                    },
+                    {
+                      "label": "D",
+                      "text": "27"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "R has 3 students before it, so R is at position 4. Q is 9 places from R (8 between), so Q is at 13 (position -5 is impossible). P is 6 places from Q: position 7 or 19. With 21 students behind P the line has 7 + 21 = 28 students (P at 7) or 19 + 21 = 40 (P at 19). The minimum is 28 (C).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 53,
+                  "question_type": "problem-solving",
+                  "stem": "53. Train Green Arrow leaves Station A for Station B everyday at 7 pm. On a certain day, it was delayed by 2 hours. To cover up the time, it increased its average speed by $20\\%$ but still arrived at Station B 1 hour later than the schedule time. What is the usual duration of the train's journey from Station A to Station B?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "6 hours"
+                    },
+                    {
+                      "label": "B",
+                      "text": "6.5 hours"
+                    },
+                    {
+                      "label": "C",
+                      "text": "8 hours"
+                    },
+                    {
+                      "label": "D",
+                      "text": "8.5 hours"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "New time $=\\frac T{1.2}=\\frac{5T}6$; starting 2 h late and arriving 1 h late: $2+\\frac{5T}6=T+1\\Rightarrow\\frac T6=1\\Rightarrow T=6$ hours.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 54,
+                  "question_type": "problem-solving",
+                  "stem": "54. In the following figure, ABC is an equilateral triangle where points D and E are the midpoints of sides AB and AC respectively. If point A is the center of the circle and BC = 42 cm what is the area of the arc ADE?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$462 \\, cm^{2}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$346.5 \\, cm^{2}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$231 \\, cm^{2}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$154 \\, cm^{2}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The sector is centered at A with angle $60^{\\circ}$ and radius $AD=AE=21$ (half of the side 42). Area $=\\frac{60}{360}\\pi(21)^2=\\frac16\\times\\frac{22}{7}\\times441=231\\ cm^2$.",
+                  "images": [
+                    {
+                      "fig_id": "q_p6_2",
+                      "role": "question",
+                      "path": "images/q_p6_2.png",
+                      "caption": "Equilateral triangle ABC with circle centered at A through D, E"
+                    }
+                  ],
+                  "needs_review": false
+                },
+                {
+                  "number": 55,
+                  "question_type": "problem-solving",
+                  "stem": "55. A circular well with 18m inside diameter is dug out 14 m deep. The soil taken out of it has been spread out over a square shaped field with a diagonal of  $18\\sqrt{2}$ m. The level of the field will rise by how much?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "18 m"
+                    },
+                    {
+                      "label": "B",
+                      "text": "16 m"
+                    },
+                    {
+                      "label": "C",
+                      "text": "15 m"
+                    },
+                    {
+                      "label": "D",
+                      "text": "12 m"
+                    },
+                    {
+                      "label": "E",
+                      "text": "11 m"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Soil volume $=\\pi(9)^2(14)=\\frac{22}{7}\\times81\\times14=3564\\ m^3$. The square's side $=18$ (diagonal $18\\sqrt2$), area $=324\\ m^2$; rise $=3564/324=11$ m.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 56 to 60:",
+              "instruction": "Answer each question based on the following conditions.",
+              "stimulus": {
+                "passage": "Ten directors of an organization will sit for their annual meeting. The ten directors will be seated in two rows of five chairs that face each other along the two long sides of the meeting room table. The chairs are numbered consecutively from A to J with seats A through E on one side of the table and chairs F through J on the other side, with chair F opposite chair E. Five of the ten directors are men - Firuz, Gunjan, Harun, Joynal and Likhon; the rest are women - Munni, Rikita, Sumi, Tina and Yasmen. Among them Tina is the director of Industrial Sales department. Harun is the director of Consumer Sales department. Firuz and Gunjan are directors of Structured Finance and Consumer Finance department respectively. Munni and Rikita both are the directors of Production department. Joynal is the director of marketing department. The rest of the directors are independent directors of the company. The seating is governed by the following rules:\n- On each long side of the table no more than two consecutive seats can be occupied by male directors.\n- Directors of Industrial Sales and Consumer Sales departments cannot sit beside each other.\n- Directors of Structured Finance and Consumer Finance departments cannot sit beside each other.\n- Directors of Production department must sit beside each other.\n- Director of Consumer Sales department must sit beside the director of Marketing department.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 56,
+                  "question_type": "puzzle",
+                  "stem": "56. If as many female directors as possible are seated on the side that has chairs numbered A through E, which of the following statements must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Chair C is occupied by a male director"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Chair A and B are each occupied by a female director"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Chair H is occupied by a female director"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Chair D and E are each occupied by a female director"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Chair E and F are each occupied by a female director"
+                    }
+                  ],
+                  "answer": null,
+                  "explanation": "The last rule is \"Consumer Sales must sit beside the director of Marketing\" (the OCR had \"Manufacturing\"; the page image says Marketing, i.e. Joynal, Harun's partner). A row of five can hold at most 4 men with no 3 in a row (pattern M M W M M), so at most 4 women fit on A-E and the F-J row has 4 men and one woman. That woman must be in the middle chair H. Answer C.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 57,
+                  "question_type": "puzzle",
+                  "stem": "57. If Tina, Sumi, Firuz, Likhon and Yasmen are in chairs A through E, respectively, then Gunjan must be either in chair ____ or in chair ____.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F,H"
+                    },
+                    {
+                      "label": "B",
+                      "text": "F,J"
+                    },
+                    {
+                      "label": "C",
+                      "text": "G,J"
+                    },
+                    {
+                      "label": "D",
+                      "text": "H,I"
+                    },
+                    {
+                      "label": "E",
+                      "text": "H,J"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Row A-E: Tina, Sumi, Firuz, Likhon, Yasmen; Gunjan, Harun, Joynal, Munni and Rikita fill F-J. Harun-Joynal sit together (Marketing rule) and Munni-Rikita sit together, so the row is made of a pair HJ, a pair MR and Gunjan. Gunjan cannot touch the HJ pair (three men in a row), so the MR pair is between them: Gunjan is in F or J. Answer B.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 58,
+                  "question_type": "puzzle",
+                  "stem": "58. If Gunjan, Yasmen and Joynul are in chairs A through E, respectively, who must be in chair E?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Firuz"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Likhon"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Rikita"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Sumi"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Tina"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Reading \"A through E\" as the first three chairs A, B, C: Gunjan A, Yasmen B, Joynal C. Harun must sit beside Joynal, so Harun is in D. C and D are men, so E must be a woman (no three men in a row). Tina cannot sit beside Harun, and Munni/Rikita must sit together (the only neighbour of E is D, a man), so E is Sumi. Answer D.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 59,
+                  "question_type": "puzzle",
+                  "stem": "59. Which of the following can be the arrangement of directors in chairs A through E?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Firuz, Harun, Joynul, Munni, Rikita"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Firuz, Gunjan, Munni, Tina, Likhon"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Likhon, Munni, Rikita, Joynul, Harun"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Munni, Gunjan, Rikita, Joynul, Harun"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Sumi, Firuz, Tina, Harun, Joynul"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "C breaks no clear rule: Munni and Rikita (Production) are adjacent, no three males are consecutive, and Tina (Industrial Sales) is not beside Harun (Consumer Sales). A has three consecutive males, B puts Firuz beside Gunjan (Finance pair), D separates Munni and Rikita, E puts Tina beside Harun.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 60,
+                  "question_type": "puzzle",
+                  "stem": "60. If Joynul is in chair G, Harun is in chair H and Firuz is in chair J, who can be in chair I?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Likhon"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Munni"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Rikita"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Tina"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Yasmen"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Joynal G, Harun H, Firuz J: chair I must be a woman (otherwise 3+ men in a row). Tina cannot sit beside Harun (H), and Munni/Rikita would have no partner next to I (H and J are men), so Yasmen is the only possibility. Answer E.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Critical reasoning (61-62)",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 61,
+                  "question_type": "critical-reasoning",
+                  "stem": "61. As a construction material, bamboo is as strong as steel and sturdier than concrete. Moreover, in tropical areas bamboo is a much less expensive construction material than either steel or concrete and is always readily available. In tropical areas, therefore, building with bamboo makes better economic sense than building with steel or concrete, except where land values are high.\nWhich of the following, if true, most helps to explain the exception noted above?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Buildings constructed of bamboo are less likely to suffer earthquake damage than are steel and concrete buildings."
+                    },
+                    {
+                      "label": "B",
+                      "text": "Bamboo is unsuitable as a building material for multistory buildings."
+                    },
+                    {
+                      "label": "C",
+                      "text": "In order to protect it from being damaged by termite sand beetles, bamboo must be soaked, at some expense, in a preservative."
+                    },
+                    {
+                      "label": "D",
+                      "text": "In some tropical areas, bamboo is used to make the scaffolding that is used during large construction projects."
+                    },
+                    {
+                      "label": "E",
+                      "text": "Bamboo growing in an area where land values are increasing is often cleared to make way for construction."
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Where land is expensive, builders want to maximise floor space by going multistory; since bamboo is unsuitable for multistory buildings (B), steel or concrete makes better sense there — explaining the exception.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 62,
+                  "question_type": "critical-reasoning",
+                  "stem": "62. Fast food restaurants make up 60% of all restaurants in Dhaka. Customers at these restaurants tend to be young; in fact, studies have shown that the older people get the less likely they are to eat in fast-food restaurants. Since the average age of the Dhaka population is gradually rising and will continue to do so, the number of fast food restaurants is likely to decrease.\nWhich of the following, if true, most seriously weakens the argument?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Fast food restaurants in Dhaka are getting bigger, so each one can serve more customers."
+                    },
+                    {
+                      "label": "B",
+                      "text": "The overall population of Dhaka is growing steadily."
+                    },
+                    {
+                      "label": "C",
+                      "text": "As the population of Dhaka gets older, more people are eating at home."
+                    },
+                    {
+                      "label": "D",
+                      "text": "Many people who rarely eat at fast food restaurants nevertheless eat regularly in restaurants."
+                    },
+                    {
+                      "label": "E",
+                      "text": "Some older people eat at fast food restaurants more frequently than the average young person."
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "If Dhaka's overall population is growing steadily, the absolute number of young fast-food customers can stay high even as the average age rises, so the predicted decline need not occur — weakening the argument.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 63 to 65:",
+              "instruction": "Each of the following questions consists of two statements given below it numbered I and II. You have to decide whether the data provided in the statements(s) is/are sufficient to answer the given question.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 63,
+                  "question_type": "data-sufficiency",
+                  "stem": "63. When Shafi was born his father was 28 years old. What is the age difference between Shafi's parents?\nI. When Shafi's sister was born, their mother was 26 years old.\nII. Shafi's sister is 2 years older than Shafi.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only I"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Only II"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Both I and II"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Either I or II"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Cannot be determined"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "II places the sister's birth 2 years before Shafi's; with I (mother 26 then), the mother was 28 at Shafi's birth, equal to the father — so the difference is 0, but both statements are needed. C.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 64,
+                  "question_type": "data-sufficiency",
+                  "stem": "64. In a company, 70% of the employees are female and 60% of the employees are married. What fraction of the female employees are married?\nI. Total number of employees is 430.\nII. $\\frac{2}{3}$ of the male employees are single.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only I"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Only II"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Both I and II"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Either I or II"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Cannot be determined"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Males are 30%; II says $\\frac13$ of them are married $=10\\%$ of all, so female married $=60\\%-10\\%=50\\%$, i.e. $\\frac{50}{70}=\\frac57$ of females — statement II alone suffices; the total (I) is not needed.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 65,
+                  "question_type": "data-sufficiency",
+                  "stem": "65. Jony's wealth is 1.4 times Moin's wealth. Baker's wealth is 0.9 times Lisa's wealth. Baker's wealth is what percentage of Jony's wealth?\nI. Baker's wealth is 1.8 times of Moin's wealth.\nII. Lisa's wealth is twice as much as Moin.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only I"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Only II"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Both I and II"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Either I or II"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Cannot be determined"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Baker/Jony $=\\frac{\\text{Baker}}{1.4\\,\\text{Moin}}$. I directly gives Baker $=1.8$ Moin ($\\Rightarrow\\frac{1.8}{1.4}\\approx128.6\\%$); II gives Lisa $=2$ Moin $\\Rightarrow$ Baker $=0.9\\times2=1.8$ Moin — the same. So either alone suffices.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 66 to 70:",
+              "instruction": "Answer each question based on the following candidates.",
+              "stimulus": {
+                "passage": "Palash, Qashem, Rashed, Sohel, Tamal are the supervisors in the five production floors of a factory. Due to intense competition, the relationship among the supervisors has somewhat determined. As much, not all of 'hem are in good terms with each other. When a supervisor needs to use a resources that he does not have, he may only request it from a supervisor who owes him a favor. The supervisors have a list of favors owed by each other which is:\n- Palash owes a favor to Qashem\n- Palash owes a favor to Tamal\n- Qashem owes a favor to Palash\n- Rashed owes a favor to Palash\n- Sohel owes a favor to Qashem\n- Sohel owes a favor to Tamal\n- Tamal owes a favor to Rashed\nIf a supervisor is owed a favor, he can also transfer that to some other supervisor.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 66,
+                  "question_type": "puzzle",
+                  "stem": "66. If supervisors Qashem, Rashed, Sohel and Tamal are the only ones operating, which of the following request for favor can be made, either directly or through one or more of the other supervisors?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "request by Qashem for favor from Tamal"
+                    },
+                    {
+                      "label": "B",
+                      "text": "request by Tamal for favor from Rashed"
+                    },
+                    {
+                      "label": "C",
+                      "text": "request by Sohel for favor from Qashem"
+                    },
+                    {
+                      "label": "D",
+                      "text": "request by Rashed for favor from Qashem"
+                    },
+                    {
+                      "label": "E",
+                      "text": "request by Rashed for favor from Sohel"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Rashed can request from Tamal (Tamal owes Rashed), and Tamal can request from Sohel (Sohel owes Tamal); transferring, Rashed obtains a favor from Sohel via Tamal. The others have no valid chain among Q, R, S, T.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 67,
+                  "question_type": "puzzle",
+                  "stem": "67. If supervisors Palash, Rashed, Sohel and Tamal are the only ones operating, which of the following request for favor can be made NEITHER directly NOR through exactly one of the other operating supervisors?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "request by Palash for favor from Sohel"
+                    },
+                    {
+                      "label": "B",
+                      "text": "request by Palash for favor from Tamal"
+                    },
+                    {
+                      "label": "C",
+                      "text": "request by Palash for favor from Rashed"
+                    },
+                    {
+                      "label": "D",
+                      "text": "request by Rashed for favor from Sohel"
+                    },
+                    {
+                      "label": "E",
+                      "text": "request by Tamal for favor from Sohel"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Palash→Rashed→Tamal→Sohel needs two intermediaries, so Palash cannot reach Sohel directly or through exactly one supervisor. The others work directly (C, E) or through one (B via Rashed, D via Tamal).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 68,
+                  "question_type": "puzzle",
+                  "stem": "68. Which of the following supervisors CANNOT ask for favor from any of the other four supervisors?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Palash"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Qashem"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Rashed"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Sohel"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Tamal"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "A supervisor can ask only someone who owes him a favor. Nobody owes Sohel a favor, so Sohel cannot ask anyone.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 69,
+                  "question_type": "puzzle",
+                  "stem": "69. Which of the following is a complete and accurate list of supervisors that can request a favor from Sohel through exactly one other supervisor?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Palash and Qashem"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Palash and Rashed"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Qashem and Rashed"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Rashed and Tamal"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Palash, Qashem and Tamal"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Sohel owes Qashem and Tamal (direct requesters). Through one intermediary: Palash→Qashem→Sohel and Rashed→Tamal→Sohel. So Palash and Rashed.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 70,
+                  "question_type": "puzzle",
+                  "stem": "70. Which of the following request for favor requires the greatest number of intermediary request for favor?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "request by Palash for favor from Qashem"
+                    },
+                    {
+                      "label": "B",
+                      "text": "request by Qashem for favor from Rashed"
+                    },
+                    {
+                      "label": "C",
+                      "text": "request by Qashem for favor from Tamal"
+                    },
+                    {
+                      "label": "D",
+                      "text": "request by Rashed for favor from Palash"
+                    },
+                    {
+                      "label": "E",
+                      "text": "request by Rashed for favor from Sohel"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Qashem→Palash→Rashed→Tamal needs two intermediaries (Palash and Rashed), the most among the options (A is direct; B, D, E need one).",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_label": "Part II: Writing Ability [30 marks]",
+      "sections": [
+        {
+          "section_no": 3,
+          "source_section_label": "Part II: Writing Ability [30 marks]",
+          "subject": "writing",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "argument",
+                  "stem": "Question-1: Critical writing: Some opine that the commencement of Uber (a car ride hailing service) in Dhaka has increased the number of vehicles in the congested city and worsened the traffic situation. Others opine that Uber has not only been a solution to the woes of Dhaka city dwellers who have to depend on the abysmal public transport system but has also brought new employment opportunities to the city. With which of the above opinion do you agree? Support you views with reasons and/ or examples from your own experience, observations or reading.",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended argument. Pick a side on Uber's net effect in Dhaka (traffic vs. mobility/jobs), support it with reasons and examples, acknowledge the opposing view, and conclude. No single correct answer.",
+                  "marks": 15,
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "essay",
+                  "stem": "Question-2: Descriptive writing: In your opinion, which industry in Bangladesh has the highest potential for growth in the next five years and why? Discuss.",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended descriptive essay. Choose an industry (e.g. IT/ITES, RMG, pharmaceuticals, agro-processing), justify its growth potential with drivers and evidence, and conclude. No single correct answer.",
+                  "marks": 15,
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    "Seating puzzle (Q56-60): the printed last department is 'Marketing' (p7, 220 dpi); the earlier 'Manufacturing->Marketing' change is confirmed as the printed text.",
+    "Q66-70 intro prints 'has somewhat determined. As much, not all of 'hem are in good terms' (source typos kept).",
+    "Marks printed: Q1 15, Q2 15 (Part II [30 marks]).",
+    "Q51 and Q54 figures are images (not re-cropped in this pass).",
+    "Answers and explanations are out of scope (to be regenerated by the user); stored values are unreliable."
+  ]
+}

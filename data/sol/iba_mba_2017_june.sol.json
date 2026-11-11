@@ -1,0 +1,595 @@
+{
+ "exam": "iba_mba_2017_june",
+ "items": {
+  "2-31": {
+   "en": "Compare the values at x = 2 and x = −2. 2 + x: 4 → 0 (falls). 5 − x²: 1 → 1 (no change). 1 + 1/x: 1.5 → 0.5 (falls). 1/(x − 3): −1 → −0.2 (rises). So D.",
+   "bn": "x = 2 ও x = −2-তে মান তুলনা করুন। 2 + x: 4 → 0 (কমে)। 5 − x²: 1 → 1 (অপরিবর্তিত)। 1 + 1/x: 1.5 → 0.5 (কমে)। 1/(x − 3): −1 → −0.2 (বাড়ে)। তাই D।",
+   "answer": "D",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-32": {
+   "en": "10 students have 5 or fewer marbles, so 15 have more than 5. 4 have more than 8, so 15 − 4 = 11 have 6, 7 or 8 marbles.",
+   "bn": "10 জনের 5 বা তার কম marble, তাই 15 জনের 5-এর বেশি। 4 জনের 8-এর বেশি, তাই 15 − 4 = 11 জনের 6, 7 বা 8টি marble।",
+   "answer": "B",
+   "formula_ids": [
+    "sets"
+   ]
+  },
+  "2-33": {
+   "en": "Relative speed = 45 − 9 = 36 km/h = 10 m/s. Distance to cover = 240 + 120 = 360 m. Time = 36 s.",
+   "bn": "আপেক্ষিক গতি = 45 − 9 = 36 km/h = 10 m/s। অতিক্রম করতে হবে 240 + 120 = 360 m। সময় = 36 s।",
+   "answer": "C",
+   "formula_ids": [
+    "relspeed"
+   ]
+  },
+  "2-34": {
+   "en": "Black pens: CP = 48/1.2 = 40, gain 8 each → +400. Red pens: CP = 48/0.8 = 60, loss 12 each → −600. Net = −200.",
+   "bn": "Black কলম: CP = 48/1.2 = 40, প্রতিটিতে লাভ 8 → +400। Red কলম: CP = 48/0.8 = 60, প্রতিটিতে ক্ষতি 12 → −600। নিট = −200।",
+   "answer": "D",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "2-35": {
+   "en": "Samir = S, Saurav = r. S − 7 = 3(r − 7) and S + 4 = 2(r + 4). So 3r − 14 + 4 = 2r + 8 ⇒ r = 18.",
+   "bn": "Samir = S, Saurav = r। S − 7 = 3(r − 7) এবং S + 4 = 2(r + 4)। তাই 3r − 14 + 4 = 2r + 8 ⇒ r = 18।",
+   "answer": "B",
+   "formula_ids": [
+    "age"
+   ]
+  },
+  "2-36": {
+   "en": "Box 1 has 120 black. With n marbles in box 2: (120 + 0.1n)/(500 + n) = 0.2 ⇒ 120 + 0.1n = 100 + 0.2n ⇒ n = 200.",
+   "bn": "Box 1-এ 120টি black। Box 2-তে n টি marble হলে: (120 + 0.1n)/(500 + n) = 0.2 ⇒ 120 + 0.1n = 100 + 0.2n ⇒ n = 200।",
+   "answer": "C",
+   "formula_ids": [
+    "mixture"
+   ]
+  },
+  "2-37": {
+   "en": "The extremes of xy come from the corner products: (−8)(−4) = 32, (−8)(10) = −80, (2)(−4) = −8, (2)(10) = 20. So −80 ≤ xy ≤ 32.",
+   "bn": "xy-এর সর্বোচ্চ/সর্বনিম্ন মান আসে কোণার গুণফল থেকে: (−8)(−4) = 32, (−8)(10) = −80, (2)(−4) = −8, (2)(10) = 20। তাই −80 ≤ xy ≤ 32।",
+   "answer": "B",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-38": {
+   "en": "Siam = x/3, Payel = 2x. Total = x + x/3 + 2x = 10x/3.",
+   "bn": "Siam = x/3, Payel = 2x। মোট = x + x/3 + 2x = 10x/3।",
+   "answer": "C",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "2-39": {
+   "en": "Average = (66 + y)/5, so y = 5·avg − 66. For 16.8, y = 18, which fits 15 < y < 25. Other options give y outside the range.",
+   "bn": "গড় = (66 + y)/5, তাই y = 5·গড় − 66। 16.8 হলে y = 18, যা 15 < y < 25-এ পড়ে। অন্য option-এ y সীমার বাইরে যায়।",
+   "answer": "C",
+   "formula_ids": [
+    "average"
+   ],
+   "trick": {
+    "en": "Test each option by solving for y.",
+    "bn": "প্রতিটি option থেকে y বের করে সীমার সাথে মেলান।"
+   }
+  },
+  "2-40": {
+   "en": "x ≡ 1 (mod 5) and x ≡ 4 (mod 8): x = 36 works. x + y divisible by 40 ⇒ y = 4 (the smallest).",
+   "bn": "x ≡ 1 (mod 5) এবং x ≡ 4 (mod 8): x = 36 কাজ করে। x + y, 40 দিয়ে বিভাজ্য ⇒ y = 4 (ক্ষুদ্রতম)।",
+   "answer": "B",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-41": {
+   "en": "x ≥ x⁵ with x ≥ −1 holds for x = −1 and for 0 ≤ x ≤ 1. So x could be −1 or 0, and none of A–D must be true.",
+   "bn": "x ≥ −1 এবং x ≥ x⁵ সত্য হয় x = −1 এবং 0 ≤ x ≤ 1-এ। তাই x = −1 বা 0 হতে পারে, এবং A–D-এর কোনোটিই অবশ্যই সত্য নয়।",
+   "answer": "E",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-42": {
+   "en": "Final price = 0.8 × 0.85 = 0.68 of the listed price, i.e. 32% less.",
+   "bn": "চূড়ান্ত দাম = 0.8 × 0.85 = listed price-এর 0.68, অর্থাৎ 32% কম।",
+   "answer": "B",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "2-43": {
+   "en": "Alligation: Silver 26 and Iron 17, target 23. Iron : Silver = (26 − 23) : (23 − 17) = 3 : 6 = 1 : 2.",
+   "bn": "Alligation: Silver 26, Iron 17, লক্ষ্য 23। Iron : Silver = (26 − 23) : (23 − 17) = 3 : 6 = 1 : 2।",
+   "answer": "D",
+   "formula_ids": [
+    "mixture"
+   ]
+  },
+  "2-44": {
+   "en": "Last year: 5k and 8k. This year: 5k × 28/25 = 5.6k and 8k × 23/20 = 9.2k. Sum = 14.8k = 1184 ⇒ k = 80. Difference = 3.6 × 80 = 288.",
+   "bn": "গত বছর: 5k ও 8k। এ বছর: 5k × 28/25 = 5.6k এবং 8k × 23/20 = 9.2k। যোগফল = 14.8k = 1184 ⇒ k = 80। পার্থক্য = 3.6 × 80 = 288।",
+   "answer": "C",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "2-45": {
+   "en": "Combine: 5 < x < 11, 7 < x < 13, x < 10 ⇒ 7 < x < 10 ⇒ x = 8, 9. Two integers.",
+   "bn": "একসাথে: 5 < x < 11, 7 < x < 13, x < 10 ⇒ 7 < x < 10 ⇒ x = 8, 9। দুটি integer।",
+   "answer": "B",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-46": {
+   "en": "25 workers × 20 days = 500 units done. The bridge finishes at day 35 (5 days early), so the other 15 days are done by 40 workers: 600 units. Total = 1100. With 25 workers only: 1100/25 = 44 days, 4 days late.",
+   "bn": "25 জন × 20 দিন = 500 একক কাজ। সেতু শেষ হয় 35তম দিনে (5 দিন আগে), তাই বাকি 15 দিন 40 জনের কাজ: 600 একক। মোট = 1100। শুধু 25 জন হলে 1100/25 = 44 দিন, অর্থাৎ 4 দিন দেরি।",
+   "answer": "C",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "2-47": {
+   "en": "Take females = 1, males = 2 (total 3). Engineers = 2/4 + 1/5 = 0.5 + 0.2 = 0.7 of 3 members → 0.7/3 = 7/30. Non-engineers = 23/30.",
+   "bn": "নারী = 1, পুরুষ = 2 (মোট 3) ধরি। Engineer = 2/4 + 1/5 = 0.7, তাই অংশ 0.7/3 = 7/30। Non-engineer = 23/30।",
+   "answer": "B",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "2-48": {
+   "en": "d/100 − d/120 = 10 min + 10 min = 20 min = 1/3 h ⇒ d/600 = 1/3 ⇒ d = 200 km.",
+   "bn": "d/100 − d/120 = 10 মিনিট + 10 মিনিট = 20 মিনিট = 1/3 ঘণ্টা ⇒ d/600 = 1/3 ⇒ d = 200 km।",
+   "answer": "B",
+   "formula_ids": [
+    "speed"
+   ]
+  },
+  "2-49": {
+   "en": "ab < 0 means a, b have opposite signs. a/b < 0, b/a < 0 and a² + b² > 0 are always true. a³ + b³ < 0 depends on which is larger in size, so C is the exception.",
+   "bn": "ab < 0 মানে a, b বিপরীত চিহ্নের। a/b < 0, b/a < 0 এবং a² + b² > 0 সবসময় সত্য। a³ + b³ < 0 নির্ভর করে কোনটির মান বড় তার উপর, তাই C ব্যতিক্রম।",
+   "answer": "C",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-50": {
+   "en": "12p + 10n = 320 ⇒ 6p + 5n = 160; 20p + 15n = 500 ⇒ 4p + 3n = 100. Solving gives n = 20, p = 10. Difference = 10.",
+   "bn": "12p + 10n = 320 ⇒ 6p + 5n = 160; 20p + 15n = 500 ⇒ 4p + 3n = 100। সমাধান: n = 20, p = 10। পার্থক্য = 10।",
+   "answer": "B",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-51": {
+   "en": "−4x + 17 < 1 ⇒ −4x < −16 ⇒ x > 4. The least integer is 5.",
+   "bn": "−4x + 17 < 1 ⇒ −4x < −16 ⇒ x > 4। ক্ষুদ্রতম integer 5।",
+   "answer": "D",
+   "formula_ids": [
+    "abs-ineq"
+   ]
+  },
+  "2-52": {
+   "en": "Listed L: he paid 0.7L, a discount of 0.3L. The new listed price is 1.5L and the same discount 0.3L is 0.3/1.5 = 20% of it.",
+   "bn": "Listed L: সে দিয়েছিল 0.7L, discount 0.3L। নতুন listed price 1.5L এবং একই discount 0.3L তার 0.3/1.5 = 20%।",
+   "answer": "C",
+   "formula_ids": [
+    "profit-loss",
+    "pct-change"
+   ]
+  },
+  "2-53": {
+   "en": "Profit % = (SP − CP)/CP = 1.3 × 0.9 − 1 = 17%. This needs I (labelled price) and III (discount); II (the cost) is not needed.",
+   "bn": "Profit % = (SP − CP)/CP = 1.3 × 0.9 − 1 = 17%। এর জন্য I (labelled price) ও III (discount) লাগে; II (cost) লাগে না।",
+   "answer": "C",
+   "formula_ids": [
+    "ds-method",
+    "profit-loss"
+   ]
+  },
+  "2-54": {
+   "en": "Arrival time needs the speed and the departure time. III gives the speed (200 m in 10 s = 20 m/s = 72 km/h) and II gives departure and distance: 558/72 = 7.75 h. I does not fix the speed (the other train's speed is unknown). So II and III only.",
+   "bn": "পৌঁছানোর সময়ের জন্য গতি ও ছাড়ার সময় লাগে। III থেকে গতি (10 s-এ 200 m = 20 m/s = 72 km/h) এবং II থেকে ছাড়ার সময় ও দূরত্ব: 558/72 = 7.75 ঘণ্টা। I থেকে গতি নির্ধারিত হয় না (অন্য ট্রেনের গতি অজানা)। তাই শুধু II ও III।",
+   "answer": "D",
+   "formula_ids": [
+    "ds-method",
+    "speed"
+   ],
+   "note": "Statement I does not say the other train has the same speed."
+  },
+  "2-55": {
+   "en": "I and III both say tens digit − units digit = 3; II says the digits differ by 3. All give only 'difference 3', so the number could be 41, 52, 63, 74, 85 or 96. Cannot be determined.",
+   "bn": "I ও III দুটিই বলছে দশকের অঙ্ক − এককের অঙ্ক = 3; II বলছে অঙ্ক দুটির পার্থক্য 3। সবগুলো শুধু 'পার্থক্য 3' দেয়, তাই সংখ্যা 41, 52, 63, 74, 85 বা 96 হতে পারে। নির্ণয় করা যায় না।",
+   "answer": "E",
+   "formula_ids": [
+    "ds-method",
+    "numprop"
+   ]
+  },
+  "2-56": {
+   "en": "P in ⇒ N, O out. Retired members are G and L. G in ⇒ J out ⇒ K out. The second serving member is F. Others: F, G, L.",
+   "bn": "P থাকলে N, O নেই। retired সদস্য G ও L। G থাকলে J নেই ⇒ K-ও নেই। দ্বিতীয় serving সদস্য F। বাকিরা: F, G, L।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-57": {
+   "en": "J in ⇒ G out, so the retired members are L and N. With J and L, F cannot be in. So L must be on the committee.",
+   "bn": "J থাকলে G নেই, তাই retired সদস্য L ও N। J ও L থাকলে F থাকতে পারে না। তাই L অবশ্যই committee-তে।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-58": {
+   "en": "G in ⇒ J out ⇒ K out (K needs J). So K cannot be on the committee.",
+   "bn": "G থাকলে J নেই ⇒ K-ও নেই (K-এর জন্য J লাগে)। তাই K committee-তে থাকতে পারে না।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-59": {
+   "en": "A has G with J; B has K without J; C has only one serving member; D has three serving members. E (J, L, N, O) has two serving and two retired and obeys every rule.",
+   "bn": "A-তে G ও J একসাথে; B-তে J ছাড়া K; C-তে একজন serving; D-তে তিনজন serving। E (J, L, N, O)-তে দুজন serving, দুজন retired এবং সব নিয়ম মানা হয়েছে।",
+   "answer": "E",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-60": {
+   "en": "L out ⇒ the retired members are G and N. G in ⇒ J, K out; N in ⇒ P out. The serving members are F and O. So F, G, N must be on the committee.",
+   "bn": "L না থাকলে retired সদস্য G ও N। G থাকলে J, K নেই; N থাকলে P নেই। serving সদস্য F ও O। তাই F, G, N অবশ্যই committee-তে।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-61": {
+   "en": "Read as 'L and O both serve': the committee F, G, L, O (serving F, O; retired G, L) obeys every rule, so F, G and L can be together. (If L and O are both excluded, the retired members must be G and N, which forces J, K and P out and leaves no valid committee.)",
+   "bn": "'L ও O দুজনই থাকলে' পড়লে: committee F, G, L, O (serving F, O; retired G, L) সব নিয়ম মানে, তাই F, G, L একসাথে থাকতে পারে। (L ও O দুজনই বাদ গেলে retired সদস্য G ও N হতেই হবে, যা J, K ও P-কে বাদ দেয় এবং কোনো বৈধ committee থাকে না।)",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ],
+   "note": "As printed (L and O both NOT serving) no valid committee exists; the key follows the reading 'L and O both serve'."
+  },
+  "2-62": {
+   "en": "With Y and Z on shelf 2, X cannot be there (no shelf holds all three fiction books). X is directly above R, and Q is not on shelf 2. Checking every valid arrangement, R is always on shelf 2.",
+   "bn": "Y ও Z shelf 2-এ থাকলে X সেখানে থাকতে পারে না (কোনো shelf-এ তিনটি Fiction বই থাকতে পারে না)। X, R-এর ঠিক উপরে এবং Q shelf 2-এ নয়। সব বৈধ বিন্যাস দেখলে R সবসময় shelf 2-এ।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-63": {
+   "en": "Shelf 1 empty means X is on shelf 2 and R on shelf 3. P cannot be with R, so P is on shelf 2; Q cannot be on shelf 2, so Q is on shelf 3. X is on shelf 2, so Y and Z cannot both be there, so at least one is on shelf 3. Shelf 3 therefore holds R, Q and at least one fiction book: never exactly two books.",
+   "bn": "shelf 1 খালি মানে X shelf 2-এ এবং R shelf 3-এ। P, R-এর সাথে থাকতে পারে না, তাই P shelf 2-এ; Q shelf 2-এ থাকতে পারে না, তাই Q shelf 3-এ। X shelf 2-এ আছে, তাই Y ও Z দুজন সেখানে থাকতে পারে না, ফলে অন্তত একজন shelf 3-এ। তাই shelf 3-এ R, Q এবং অন্তত একটি Fiction বই: ঠিক দুটি বই কখনো নয়।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-64": {
+   "en": "With R and Y together on a shelf and one shelf empty, the only valid arrangements make 'if Z is on shelf 3, then P is on shelf 2' always true; the other options fail in some arrangement.",
+   "bn": "R ও Y একই shelf-এ এবং একটি shelf খালি থাকলে সব বৈধ বিন্যাসে 'Z shelf 3-এ হলে P shelf 2-এ' সবসময় সত্য; অন্য option কোনো না কোনো বিন্যাসে ভুল।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-65": {
+   "en": "D (Farid, Lalon, Hasan): both groups used, Hasan comes with Farid, Zafar is not asked so Mamun is not needed, Kalam and Lalon are not both asked, and Lalon is included. The others break a rule.",
+   "bn": "D (Farid, Lalon, Hasan): দুই group-ই আছে, Hasan-এর সাথে Farid আছে, Zafar নেই তাই Mamun লাগে না, Kalam ও Lalon দুজন নয়, এবং Lalon আছে। অন্যগুলো কোনো না কোনো নিয়ম ভাঙে।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-66": {
+   "en": "Kalam in ⇒ Lalon out ⇒ Nasir must be in. So Nasir must also be asked.",
+   "bn": "Kalam থাকলে Lalon নেই ⇒ Nasir অবশ্যই থাকবে। তাই Nasir-এর কাছেও clue চাইতে হবে।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-67": {
+   "en": "With Mamun in, the possible extra pairs include (Kalam, Nasir). Kalam and Nasir keep both groups present, Lalon-or-Nasir is satisfied, and no rule is broken.",
+   "bn": "Mamun থাকলে সম্ভাব্য জোড়ার একটি (Kalam, Nasir)। Kalam ও Nasir থাকলে দুই group-ই আছে, Lalon বা Nasir-এর শর্ত পূরণ হয় এবং কোনো নিয়ম ভাঙে না।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-68": {
+   "en": "Zafar in ⇒ Mamun in, and Lalon or Nasir is needed. Hasan needs Farid, which would make four friends, so Hasan is out; the only valid group is Zafar, Mamun, Lalon. So Lalon must also be asked.",
+   "bn": "Zafar থাকলে Mamun থাকবে এবং Lalon বা Nasir লাগবে। Hasan নিলে Farid লাগে, ফলে চারজন হয়ে যায়, তাই Hasan নেই; একমাত্র বৈধ group Zafar, Mamun, Lalon। তাই Lalon-কেও চাইতে হবে।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-69": {
+   "en": "Kalam is the only one asked from his group, so Farid and Lalon are out and Nasir must be in. The third friend comes from Zafar, Hasan, Mamun: Hasan needs Farid and Zafar needs Mamun (a fourth person), so it must be Mamun. Mamun and Nasir.",
+   "bn": "Kalam তার group থেকে একমাত্র, তাই Farid ও Lalon বাদ এবং Nasir থাকবে। তৃতীয়জন Zafar, Hasan, Mamun-এর একজন: Hasan-এর জন্য Farid আর Zafar-এর জন্য Mamun (চতুর্থ ব্যক্তি) লাগে, তাই Mamun-ই। অর্থাৎ Mamun ও Nasir।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "2-70": {
+   "en": "Without Lalon, Nasir must be in. Valid groups include Farid, Mamun, Nasir, so Mamun and Farid can both be asked. The other pairs break a rule.",
+   "bn": "Lalon না থাকলে Nasir থাকবে। বৈধ group-এর একটি Farid, Mamun, Nasir, তাই Mamun ও Farid দুজনের কাছেই চাওয়া যায়। অন্য জোড়াগুলো নিয়ম ভাঙে।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "1-1": {
+   "en": "The singular subject 'an issue' takes 'is', and 'access to healthcare' is the correct noun phrase: 'access, is the spiraling'. 'Exposure/inclusion' do not fit 'to healthcare', and 'are' disagrees with 'issue'.",
+   "bn": "Singular subject 'an issue'-এর সাথে 'is', এবং 'access to healthcare' সঠিক noun phrase: 'access, is the spiraling'। 'Exposure/inclusion' 'to healthcare'-এর সাথে মেলে না, আর 'are' 'issue'-এর সাথে agreement ভাঙে।",
+   "answer": "C",
+   "rule_ids": [
+    "sv-agree",
+    "prep-noun"
+   ]
+  },
+  "1-2": {
+   "en": "'While' signals contrast: businessmen welcomed it, but there was strong opposition. 'Though … approval' and 'while … rivalry' do not make the contrast.",
+   "bn": "'While' বিরোধ বোঝায়: ব্যবসায়ীরা স্বাগত জানিয়েছে, কিন্তু প্রবল বিরোধিতা ছিল। 'Though … approval' বা 'when … rivalry' বিরোধ তৈরি করে না।",
+   "answer": "A",
+   "rule_ids": [
+    "conj"
+   ]
+  },
+  "1-3": {
+   "en": "'Inflicting immeasurable suffering' and 'a big obstacle to economic development' both fit. 'Waning/exacerbation' and 'causing … trigger' do not.",
+   "bn": "'Inflicting immeasurable suffering' ও 'a big obstacle to economic development' দুটিই মেলে। 'Waning/exacerbation' ও 'causing … trigger' মেলে না।",
+   "answer": "D",
+   "rule_ids": [
+    "collocation",
+    "parallel"
+   ]
+  },
+  "1-4": {
+   "en": "'Professing' (declaring) loyalty is easier than 'acting' on its implications: the contrast between words and action.",
+   "bn": "আনুগত্য 'professing' (ঘোষণা) করা সহজ, কিন্তু তার তাৎপর্য অনুযায়ী 'acting' করা কঠিন: কথা ও কাজের বৈপরীত্য।",
+   "answer": "B",
+   "rule_ids": [
+    "parallel",
+    "vocab"
+   ]
+  },
+  "1-5": {
+   "en": "'Vain' = too proud of oneself. A coach warns stars not to be vain about their performance.",
+   "bn": "'Vain' = নিজের সম্পর্কে অতি গর্বিত। কোচ তারকাদের নিজেদের performance নিয়ে অহংকার না করতে সতর্ক করছেন।",
+   "answer": "B",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-6": {
+   "en": "'Open and candid' are near-synonyms: frank in revealing feelings.",
+   "bn": "'Open and candid' প্রায় সমার্থক: অনুভূতি প্রকাশে স্পষ্টবাদী।",
+   "answer": "D",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-7": {
+   "en": "'You had better wait' is the idiom for advice. 'Must better' and 'had rather waited' are wrong.",
+   "bn": "পরামর্শের idiom 'You had better wait'। 'Must better' ও 'had rather waited' ভুল।",
+   "answer": "E",
+   "rule_ids": [
+    "idiom"
+   ]
+  },
+  "1-8": {
+   "en": "'Wait on' means serve someone's needs: expecting parents 'to wait on them'. 'Await' takes no preposition.",
+   "bn": "'Wait on' মানে কারো প্রয়োজন মেটানো: parents 'to wait on them'। 'Await'-এর পরে preposition বসে না।",
+   "answer": "D",
+   "rule_ids": [
+    "phrasal"
+   ]
+  },
+  "1-9": {
+   "en": "'Scared out of my wits' is the idiom for extreme fear.",
+   "bn": "চরম ভয়ের idiom হলো 'scared out of my wits'।",
+   "answer": "D",
+   "rule_ids": [
+    "idiom"
+   ]
+  },
+  "1-10": {
+   "en": "'I have decided to take up golf': 'decide' takes a to-infinitive and needs the V3 form 'decided'.",
+   "bn": "'I have decided to take up golf': 'decide'-এর পরে to-infinitive এবং V3 form 'decided' লাগে।",
+   "answer": "D",
+   "rule_ids": [
+    "gerund"
+   ]
+  },
+  "1-11": {
+   "en": "'Not worth getting involved in' is correct: 'worth' is followed by an -ing form and the preposition stays at the end.",
+   "bn": "'Not worth getting involved in' শুদ্ধ: 'worth'-এর পরে -ing form এবং preposition শেষে থাকে।",
+   "answer": "A",
+   "rule_ids": [
+    "gerund",
+    "prep-verb"
+   ]
+  },
+  "1-12": {
+   "en": "'Aggrieved at not having found his name': 'at' + negative perfect gerund.",
+   "bn": "'Aggrieved at not having found his name': 'at' + negative perfect gerund।",
+   "answer": "E",
+   "rule_ids": [
+    "gerund",
+    "tense"
+   ]
+  },
+  "1-13": {
+   "en": "'Yesterday … I could find no better solution' (past with 'could') is correct.",
+   "bn": "'Yesterday … I could find no better solution' (past ও 'could') শুদ্ধ।",
+   "answer": "A",
+   "rule_ids": [
+    "tense"
+   ]
+  },
+  "1-14": {
+   "en": "'Principal value' (main), not 'principle value'; 'principle' is a rule or belief.",
+   "bn": "'Principal value' (প্রধান), 'principle value' নয়; 'principle' মানে নীতি।",
+   "answer": "A",
+   "rule_ids": [
+    "confusable"
+   ]
+  },
+  "1-15": {
+   "en": "'One-third of the market' needs the definite article.",
+   "bn": "'One-third of the market'-এ 'the' লাগে।",
+   "answer": "B",
+   "rule_ids": [
+    "article"
+   ]
+  },
+  "1-16": {
+   "en": "'Invest in', not 'invest on'.",
+   "bn": "'Invest in', 'invest on' নয়।",
+   "answer": "D",
+   "rule_ids": [
+    "prep-verb"
+   ]
+  },
+  "1-17": {
+   "en": "Diseases that spread are 'infectious'. 'Infective' is rare and 'defective' means faulty.",
+   "bn": "যে রোগ ছড়ায় তা 'infectious'। 'Infective' বিরল এবং 'defective' মানে ত্রুটিযুক্ত।",
+   "answer": "A",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-18": {
+   "en": "Barriers to international travel and 'immigration' (people coming into a country).",
+   "bn": "আন্তর্জাতিক ভ্রমণ ও 'immigration' (দেশে প্রবেশ)-এর উপর বাধা।",
+   "answer": "C",
+   "rule_ids": [
+    "word-form"
+   ]
+  },
+  "1-19": {
+   "en": "Excluding people with the disease has 're-emerged' as a policy in the HIV epidemic (as in the past). The other verbs do not fit 'as an important policy'.",
+   "bn": "রোগীদের বাইরে রাখা HIV মহামারিতে নীতি হিসেবে আবার 're-emerged' (আগেও ছিল)। অন্য verb 'as an important policy'-এর সাথে মেলে না।",
+   "answer": "A",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-20": {
+   "en": "'Between 29 and 50 countries are reported to have introduced…': plural subject with passive 'are reported'.",
+   "bn": "'Between 29 and 50 countries are reported to have introduced…': plural subject ও passive 'are reported'।",
+   "answer": "C",
+   "rule_ids": [
+    "voice",
+    "sv-agree"
+   ]
+  },
+  "1-21": {
+   "en": "Students, workers and seamen plan an 'extended' stay. 'Unplanned' contradicts 'planning'.",
+   "bn": "Student, worker ও seamen 'extended' stay পরিকল্পনা করে। 'Unplanned' 'planning'-এর বিরোধী।",
+   "answer": "B",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-22": {
+   "en": "'Confirmed' = 'validated' (shown to be correct).",
+   "bn": "'Confirmed' = 'validated' (সঠিক প্রমাণিত)।",
+   "answer": "C",
+   "rule_ids": [
+    "antonym"
+   ]
+  },
+  "1-23": {
+   "en": "'Not sure about going' = undecided, 'ambivalent'. 'Averse' means opposed.",
+   "bn": "'Not sure about going' = দ্বিধাগ্রস্ত, 'ambivalent'। 'Averse' মানে বিরোধী।",
+   "answer": "D",
+   "rule_ids": [
+    "antonym"
+   ]
+  },
+  "1-24": {
+   "en": "'Without delay' = 'promptly'.",
+   "bn": "'Without delay' = 'promptly'।",
+   "answer": "C",
+   "rule_ids": [
+    "antonym"
+   ]
+  },
+  "1-25": {
+   "en": "'Generalized social conceptions' = 'stereotypes'.",
+   "bn": "'Generalized social conceptions' = 'stereotypes'।",
+   "answer": "A",
+   "rule_ids": [
+    "antonym"
+   ]
+  },
+  "1-26": {
+   "en": "'Immaculate' = perfectly clean or without a flaw: 'flawless'.",
+   "bn": "'Immaculate' = নিখুঁত, ত্রুটিহীন: 'flawless'।",
+   "answer": "B",
+   "rule_ids": [
+    "antonym"
+   ]
+  },
+  "1-27": {
+   "en": "The demographic dividend arises when the dependants per working-age person fall, i.e. a falling ratio of dependants to workers.",
+   "bn": "Demographic dividend আসে যখন কর্মক্ষম মানুষ প্রতি নির্ভরশীলের সংখ্যা কমে, অর্থাৎ নির্ভরশীল ও কর্মীর অনুপাত কমে।",
+   "answer": "B",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-28": {
+   "en": "The passage stresses higher-productivity jobs, not just more jobs. So 'focus on quantity as opposed to quality' is what we must NOT do.",
+   "bn": "Passage বেশি উৎপাদনশীল চাকরির কথা বলে, শুধু বেশি চাকরির নয়। তাই 'quality-র বদলে quantity-তে মনোযোগ' আমাদের করা উচিত নয়।",
+   "answer": "D",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-29": {
+   "en": "The passage warns that the working-age bulge will become an ageing bulge within a decade needing huge resources: another population shift.",
+   "bn": "Passage সতর্ক করে কর্মক্ষম জনসংখ্যার ঢেউ এক দশকের মধ্যে বয়স্ক জনসংখ্যায় রূপ নেবে, যার জন্য বিপুল সম্পদ লাগবে: আরেকটি জনতাত্ত্বিক পরিবর্তন।",
+   "answer": "C",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "1-30": {
+   "en": "The passage says benefits need appropriate policy and investment; they are not automatic. So 'naturally occurring … with or without policy support' is false.",
+   "bn": "Passage বলে সুবিধা পেতে উপযুক্ত নীতি ও বিনিয়োগ লাগে; তা স্বয়ংক্রিয় নয়। তাই 'নীতির সহায়তা ছাড়াই নিশ্চিত সুবিধা' মিথ্যা।",
+   "answer": "C",
+   "rule_ids": [
+    "rc-method"
+   ]
+  },
+  "3-1": {
+   "en": "Approach (critical writing): Thesis: Bangladesh's youth are an asset only if they are educated and employed; the time to act is now. Paragraph 1: the opportunity (a large share of the population is young; the window will close). Paragraph 2: the gap (unemployment, skill mismatch, brain drain). Paragraph 3: what to do (skills and vocational training, entrepreneurship support, digital jobs, merit-based hiring). Paragraph 4: risk of delay (the demographic dividend becomes a burden). Conclusion: act with urgency.\nUseful phrases: 'demographic dividend', 'skill mismatch', 'productive employment'.\nAvoid: only describing the problem without proposing actions.",
+   "bn": "পদ্ধতি (critical writing): Thesis: শিক্ষিত ও কর্মরত হলেই বাংলাদেশের তরুণরা সম্পদ; কাজ করার সময় এখনই। Paragraph 1: সুযোগ (জনসংখ্যার বড় অংশ তরুণ; সুযোগের জানালা বন্ধ হবে)। Paragraph 2: ফাঁক (বেকারত্ব, skill mismatch, brain drain)। Paragraph 3: করণীয় (skills ও vocational training, উদ্যোক্তা সহায়তা, ডিজিটাল চাকরি, মেধাভিত্তিক নিয়োগ)। Paragraph 4: দেরির ঝুঁকি (demographic dividend বোঝায় পরিণত হয়)। উপসংহার: জরুরি ভিত্তিতে পদক্ষেপ।\nকাজের phrase: 'demographic dividend', 'skill mismatch', 'productive employment'।\nএড়ান: সমাধান ছাড়া শুধু সমস্যার বর্ণনা।",
+   "rule_ids": [
+    "essay"
+   ]
+  },
+  "3-2": {
+   "en": "Approach (story telling): pick one real incident that shows a trait (persistence, honesty, leadership). Structure: (1) A short opening scene (when, where, what was at stake). (2) The challenge or choice you faced. (3) What you did and how you felt. (4) The result and what it shows about you. Close with one sentence that names the trait without lecturing.\nTips: 150–250 words, past tense, concrete details, show rather than tell.\nAvoid: listing adjectives about yourself or inventing a dramatic story you cannot defend in an interview.",
+   "bn": "পদ্ধতি (story telling): এমন একটি বাস্তব ঘটনা বাছুন যা কোনো বৈশিষ্ট্য (অধ্যবসায়, সততা, নেতৃত্ব) দেখায়। কাঠামো: (1) ছোট একটি শুরুর দৃশ্য (কখন, কোথায়, কী ঝুঁকি)। (2) আপনার সামনে চ্যালেঞ্জ বা সিদ্ধান্ত। (3) আপনি কী করলেন ও কেমন লেগেছিল। (4) ফলাফল এবং তা আপনার সম্পর্কে কী বলে। উপদেশ না দিয়ে বৈশিষ্ট্যটির নাম নিয়ে এক বাক্যে শেষ করুন।\nপরামর্শ: 150–250 শব্দ, past tense, নির্দিষ্ট বিবরণ, বলার চেয়ে দেখানো।\nএড়ান: নিজের সম্পর্কে বিশেষণের তালিকা বা এমন নাটকীয় গল্প যা interview-তে রক্ষা করতে পারবেন না।",
+   "rule_ids": [
+    "essay"
+   ]
+  }
+ }
+}

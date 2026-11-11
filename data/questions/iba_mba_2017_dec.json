@@ -1,0 +1,2281 @@
+{
+  "exam": {
+    "institute": "IBA (DU)",
+    "program": "MBA",
+    "session": "Dec 2017",
+    "source_pdf": "iba_mba_dec_2017.pdf",
+    "parts_marks": {
+      "mcq": 70,
+      "writing": 30
+    }
+  },
+  "parts": [
+    {
+      "part_label": "Part I: Multiple Choice Questions [70 marks]",
+      "sections": [
+        {
+          "section_no": 1,
+          "source_section_label": "Section 1: Language and Communication",
+          "subject": "language",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": "Choose the most appropriate word(s)/ phrase to fill in the blanks in the following sentences.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "fill-blank",
+                  "stem": "1. The realization that ____ is a good habit is largely absent among youngsters.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "to read"
+                    },
+                    {
+                      "label": "B",
+                      "text": "to read books"
+                    },
+                    {
+                      "label": "C",
+                      "text": "to reading books"
+                    },
+                    {
+                      "label": "D",
+                      "text": "to have read book"
+                    },
+                    {
+                      "label": "E",
+                      "text": "reading"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The blank is the subject of \"is a good habit\", so a noun form is needed. The gerund \"reading\" works as a noun; the infinitive forms are awkward as the subject here.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "fill-blank",
+                  "stem": "2. I was ____ to paying tk. 200 a share for a company that generates no revenue.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "willing"
+                    },
+                    {
+                      "label": "B",
+                      "text": "averse"
+                    },
+                    {
+                      "label": "C",
+                      "text": "adverse"
+                    },
+                    {
+                      "label": "D",
+                      "text": "differ"
+                    },
+                    {
+                      "label": "E",
+                      "text": "adamant"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"Averse to\" means unwilling/reluctant, which fits paying for a revenue-less company. \"Adverse\" (unfavourable) applies to things, not a person's attitude, and does not take \"to paying\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "fill-blank",
+                  "stem": "3. I didn't mean to ____ that you're doing a bad job. You might ____ that a pay increase is imminent.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "infer; infer"
+                    },
+                    {
+                      "label": "B",
+                      "text": "imply; imply"
+                    },
+                    {
+                      "label": "C",
+                      "text": "infer; imply"
+                    },
+                    {
+                      "label": "D",
+                      "text": "imply; infer"
+                    },
+                    {
+                      "label": "E",
+                      "text": "deduce; presume"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "A speaker implies (suggests), a listener infers (concludes). \"I didn't mean to imply ...\" and \"You might infer ...\" use each verb correctly.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "fill-blank",
+                  "stem": "4. Now that all the facts have been revealed, the theory is ____.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "untenable"
+                    },
+                    {
+                      "label": "B",
+                      "text": "torturous"
+                    },
+                    {
+                      "label": "C",
+                      "text": "tortuous"
+                    },
+                    {
+                      "label": "D",
+                      "text": "reticent"
+                    },
+                    {
+                      "label": "E",
+                      "text": "bemused"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Once the facts are out, the theory can no longer be defended, i.e. it is \"untenable\". The others (torturous/painful, tortuous/twisting, reticent/reserved, bemused/confused) do not describe a theory disproved by facts.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 5,
+                  "question_type": "fill-blank",
+                  "stem": "5. There are many ____ in history which indicate that revolutions cannot be ____ forever even by the strictest of dictators.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "examples; surpassed"
+                    },
+                    {
+                      "label": "B",
+                      "text": "precedents; suppressed"
+                    },
+                    {
+                      "label": "C",
+                      "text": "occasions; tolerated"
+                    },
+                    {
+                      "label": "D",
+                      "text": "parables; sanctioned"
+                    },
+                    {
+                      "label": "E",
+                      "text": "myths; ignited"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "History provides \"precedents\" (prior cases), and revolutions cannot be \"suppressed\" (held down) forever. The pair fits both blanks in sense.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 6,
+                  "question_type": "fill-blank",
+                  "stem": "6. Ratul was so ____ by his own thoughts that he hardly seemed to notice the ____ created by the party next door.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "consumed; uproar"
+                    },
+                    {
+                      "label": "B",
+                      "text": "enchanted; ardour"
+                    },
+                    {
+                      "label": "C",
+                      "text": "enamored; placidity"
+                    },
+                    {
+                      "label": "D",
+                      "text": "imbued; rancor"
+                    },
+                    {
+                      "label": "E",
+                      "text": "inspired; humdrum"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "He was \"consumed\" (absorbed) by his thoughts and did not notice the \"uproar\" (loud commotion) of the party. The other pairs do not fit both blanks sensibly.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "fill-blank",
+                  "stem": "7. I ____ him of the situation.\nI. apprised II. appraised III. approved",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only I"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Only II"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Only III"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Both I & II"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Both II & III"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Apprise someone of\" = inform them. \"Appraise\" means to evaluate, and \"approve\" does not take \"of him of\". Only I fits.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 8,
+                  "question_type": "fill-blank",
+                  "stem": "8. The convict took advantage of ____ people.\nI. credible II. credulous III. credential",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only I"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Only II"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Only III"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Both I & III"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Both II & III"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"Credulous\" = gullible/too ready to believe, which is who a convict would exploit. \"Credible\" means believable and \"credential\" is a noun.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 9,
+                  "question_type": "fill-blank",
+                  "stem": "9. She was sacked because she had ____ the rules.\nI. flouted II. flaunted III. contravened",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only I"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Only II"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Only III"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Both I & III"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Both II & III"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"Flouted\" (openly disobeyed) and \"contravened\" (violated) both fit breaking rules. \"Flaunted\" means to show off, which does not fit. So I and III.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 10-14:",
+              "instruction": "Underlined parts of the following sentences may contain error(s) in grammar, usage or idiom. Choose the underlined portion that contains such error(s). If there is no error, select (E).",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 10,
+                  "question_type": "error-identification",
+                  "stem": "10. He thinks that certain types (A) of business (B) will continue to grow (C) to an extend (D). No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "types"
+                    },
+                    {
+                      "label": "B",
+                      "text": "of business"
+                    },
+                    {
+                      "label": "C",
+                      "text": "will continue to grow"
+                    },
+                    {
+                      "label": "D",
+                      "text": "to an extend"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "(D) should be \"to an extent\" — \"extend\" is a verb, while the noun needed here is \"extent\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 11,
+                  "question_type": "error-identification",
+                  "stem": "11. Either (A) Labu or Karim will always (B) volunteers their (C) valuable time to serve on (D) our board. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Either"
+                    },
+                    {
+                      "label": "B",
+                      "text": "always"
+                    },
+                    {
+                      "label": "C",
+                      "text": "volunteers their"
+                    },
+                    {
+                      "label": "D",
+                      "text": "serve on"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "With \"Either Labu or Karim\" the subject is singular, so the pronoun should be \"his\" not \"their\"; also after \"will\" the base form \"volunteer\" is required. The underlined error is at (C).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 12,
+                  "question_type": "error-identification",
+                  "stem": "12. Work as quick (A) as you (B) can but as carefully (C) as possible when you take (D) the test.\nNo Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "quick"
+                    },
+                    {
+                      "label": "B",
+                      "text": "as you"
+                    },
+                    {
+                      "label": "C",
+                      "text": "as carefully"
+                    },
+                    {
+                      "label": "D",
+                      "text": "you take"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Work as quick\" should be \"work as quickly\" — an adverb is needed to modify the verb \"work\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 13,
+                  "question_type": "error-identification",
+                  "stem": "13. My neighbor as well as (A) his wife always discuss (B) the family problems (C) before (D) me.\nNo Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "as well as"
+                    },
+                    {
+                      "label": "B",
+                      "text": "always discuss"
+                    },
+                    {
+                      "label": "C",
+                      "text": "the family problems"
+                    },
+                    {
+                      "label": "D",
+                      "text": "before"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The subject is \"My neighbor\" (singular); \"as well as his wife\" does not change the number, so the verb should be \"discusses\", not \"discuss\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 14,
+                  "question_type": "error-identification",
+                  "stem": "14. At presents (A), advertising is (B) one of the most strictly (C) regulated industry (D) in the U.S. No Error (E).",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "At presents"
+                    },
+                    {
+                      "label": "B",
+                      "text": "advertising is"
+                    },
+                    {
+                      "label": "C",
+                      "text": "most strictly"
+                    },
+                    {
+                      "label": "D",
+                      "text": "regulated industry"
+                    },
+                    {
+                      "label": "E",
+                      "text": "No Error"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The idiom is \"At present\" (meaning now), not \"At presents\". (Note \"one of the most ... regulated industries\" would also be more idiomatic, but the flagged underlined error is (A).)",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 15-16:",
+              "instruction": "Select the choice that best answer the question / or complete the statement in bold.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 15,
+                  "question_type": "sentence-correction",
+                  "stem": "15. Reviewers recommend this book for people who ....",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "intends to start his own business."
+                    },
+                    {
+                      "label": "B",
+                      "text": "can't read."
+                    },
+                    {
+                      "label": "C",
+                      "text": "what to explore local market dynamics."
+                    },
+                    {
+                      "label": "D",
+                      "text": "willing to build a professional."
+                    },
+                    {
+                      "label": "E",
+                      "text": "values knowledge little."
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "\"People who\" needs a plural verb and a sensible reason to recommend a book; option C (\"want to explore local market dynamics\", printed \"what to\") is the only meaningful completion. A/E use singular \"intends/values\"; B and D are illogical/ungrammatical.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 16,
+                  "question_type": "sentence-correction",
+                  "stem": "16. Did Salman leave a message?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "No, he left the office."
+                    },
+                    {
+                      "label": "B",
+                      "text": "I saw him running."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Yes, he'll leave one."
+                    },
+                    {
+                      "label": "D",
+                      "text": "No, he said he'd call later."
+                    },
+                    {
+                      "label": "E",
+                      "text": "I am not his boss."
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "The yes/no question asks whether a message was left. \"No, he said he'd call later\" directly and coherently answers it; the others are evasive or irrelevant.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 17 to 19:",
+              "instruction": "Replace the underlined segment of each sentence with the phrase which represents the most appropriate usage of grammar.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 17,
+                  "question_type": "sentence-correction",
+                  "stem": "17. Accepting one's mistake is the best way to overcoming failure.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "is the best way to overcoming failure"
+                    },
+                    {
+                      "label": "B",
+                      "text": "are the best way for overcoming failure"
+                    },
+                    {
+                      "label": "C",
+                      "text": "is at bests, the way to overcoming failure"
+                    },
+                    {
+                      "label": "D",
+                      "text": "is the best way to overcome failure"
+                    },
+                    {
+                      "label": "E",
+                      "text": "for the best is the way to overcome failure"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "\"The best way to\" is followed by the base infinitive, so \"to overcome failure\" is correct; \"to overcoming\" is wrong. Option D fixes this while keeping the singular verb \"is\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 18,
+                  "question_type": "sentence-correction",
+                  "stem": "18. Socializing is not easy those who are introverts all their lives.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "those who are introverts all their lives"
+                    },
+                    {
+                      "label": "B",
+                      "text": "those who have been introverts all their lives"
+                    },
+                    {
+                      "label": "C",
+                      "text": "those whom have been introverts in their"
+                    },
+                    {
+                      "label": "D",
+                      "text": "those who has been introverts all their lives"
+                    },
+                    {
+                      "label": "E",
+                      "text": "those having been an introvert all his life"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "A lifelong state continuing to now takes the present perfect, and \"who\" (subject) with plural \"those\" takes \"have been\": \"those who have been introverts all their lives\".",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 19,
+                  "question_type": "sentence-correction",
+                  "stem": "19. Having witnessed the misfortunes of the refugees, I was thankful for my blessing.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Having witnessed the misfortunes of the refugees"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Having witnessed for the misfortunes of the refugees"
+                    },
+                    {
+                      "label": "C",
+                      "text": "After having witness the misfortunes of the refugees"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Being witnesses to the misfortunes of the refugees"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Being one of the witness to the misfortunes of the refugees"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "The original phrase correctly modifies \"I\": \"Having witnessed the misfortunes of the refugees, I ...\". B adds a wrong preposition, C misuses \"witness\", D uses plural \"witnesses\" for a single \"I\", and E uses singular \"witness\" after \"one of the\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 20 - 21",
+              "instruction": "Identify the sentence(s) showing the incorrect use of the underlined word.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 20,
+                  "question_type": "word-substitution",
+                  "stem": "20. i. The problem is such that any complacent mechanic should be able to fix it.\nii. The student grew complacent about the challenges ahead. with disastrous results.\niii. The government should not have a complacent attitude towards unemployment.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only i"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Both ii and iii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Only iii"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Both i and ii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Both i and iii"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "\"Complacent\" means smugly self-satisfied. In (ii) and (iii) it is used correctly. In (i) it is wrong — a mechanic who can fix the problem would be \"competent/capable\", not \"complacent\". So only (i) is incorrect.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 21,
+                  "question_type": "word-substitution",
+                  "stem": "21. i. The ability to discern between right and wrong is critical for a human being.\nii. The proposed factory shutdown caused significant discern among the workforce.\niii. The rising rate of crime was matter of great discern for the society.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Only ii"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Both ii and iii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Only iii"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Both i and ii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Both i and iii"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "\"Discern\" is a verb (to perceive/distinguish), used correctly in (i). In (ii) and (iii) it is wrongly used as a noun (where \"concern/discord\" is meant). So (ii) and (iii) are incorrect.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 22 - 25:",
+              "instruction": "Answer the Question based on the following passage.",
+              "stimulus": {
+                "passage": "We routinely make sense of the world using types - broad categories of thing with common characteristics. This allows us to categorize things in a meaning way and in turn draw conclusions and extrapolate information about something based on previous experience of things of the same, or similar, type. This is commonly done with people and is not, by definition, negative. For example, we assign certain traits to roles such as parent, businessperson, pensioner and so on. Stereotypes on the other hand, while classifying people in a similar manner, reduce the person to those simplified and exaggerated characteristics, admit no possibility of change, and insist that these characteristics are natural. Any complexity is ignored and denied, and it is implied that everything that is necessary to know about the person can be known by referring to the traits of the stereotype. In essence, a stereotype declares “this is what you are, and this is all you are”.\n\nStereotyping also deploys a strategy of splitting - where those who do not fit society's norms are excluded, deeming them to be the 'Other'. This denies the possibility of any meaningful discourse about them or with them, and ensures their continued exclusion. Stereotypes lead to social categorization, which is one of the reasons for prejudice attitudes (i.e. \"them\" and \"us\" mentally) which leads to in groups and out groups. This proves most effective when gross inequalities of power allow the dominant group to employ the strategy without challenge.\n\nIs stereotyping harmful in the workplace? Quite simply, the answer is “Yes”. What happens when you make stereotypical assumptions about people is that you subconsciously start to look for thing to confirm your beliefs and overtime you might pick up on one or two isolated incidents that cause you to justify or confirm your assumptions. If teamwork and collaboration are necessary for a company’s success, stereotyping is a major problem. Employees who act based on stereotypes rather than putting faith in the abilities and effort of coworkers impede group progress. It can prevent an employee from asking for support or offering it to a particular employee. A man may not ask a woman in his team for help, for instance, if he believes that she isn’t capable of understanding the task and concepts because she’s female. Again, if married worker in a group believe in the stereotype that their colleagues who are single have no outside responsibilities, the latter may be expected to do the lion’s share of the work, leading to perceptions of inequity.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 22,
+                  "question_type": "reading-comp",
+                  "stem": "22. Based on the passage, stereotyping essentially involves:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Determining what roles should be played by different individuals in society"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Attempts at belitting an individual or group"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Using only a handful of attributes to form one's entire impression of an individual or group"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Deploying power over a minority individual or group"
+                    },
+                    {
+                      "label": "E",
+                      "text": "All of the above"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The passage defines a stereotype as reducing a person to \"simplified and exaggerated characteristics\" and implying everything about them can be known from those traits — i.e. using only a handful of attributes to form the whole impression.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 23,
+                  "question_type": "reading-comp",
+                  "stem": "23. Which of the following is not an example of stereotyping?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Employing graduates from only a specific business school based on the belief that they are all high performers"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Ruling out a female employee's eligibility for promotion after seeing her dissatisfactory performance records"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Assigning only routine work to older employees since they are not familiar with changes taking place in the business environment"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Ridiculing a male nurse for his unusual environment"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of the above"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Stereotyping judges people by group traits rather than evidence. Option B bases the decision on the employee's actual performance records, not a group assumption, so it is not stereotyping.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 24,
+                  "question_type": "reading-comp",
+                  "stem": "24. All of the following statements explain why stereotypes lead to \"splitting\" except:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "They form complex views about individuals which may not be true"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Only certain characteristics are deemed to be appropriate for certain categories of people"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Individuals who display incompatibility with norms are considered to be non-conformists"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Belonging to the in-group may depend on compatibility with norms"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Stereotypes form simplified (not complex) views, so A contradicts the passage and is the exception; the others describe how norm-based exclusion (\"splitting\") arises.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 25,
+                  "question_type": "reading-comp",
+                  "stem": "25. Stereotyping can harm workplace productivity by:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "causing an individual to form judgments about another based on criteria unrelated to performance"
+                    },
+                    {
+                      "label": "B",
+                      "text": "promoting unfair work distribution"
+                    },
+                    {
+                      "label": "C",
+                      "text": "reducing the spirit of collaboration and teamwork"
+                    },
+                    {
+                      "label": "D",
+                      "text": "making it more difficult for people from different races, genders, religious groups etc. to work together"
+                    },
+                    {
+                      "label": "E",
+                      "text": "All of the above"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The passage describes all of these harms — judging on irrelevant criteria, inequitable workload, reduced collaboration, and friction across groups — so \"All of the above\".",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 2,
+          "source_section_label": "Section 2: Mathematics",
+          "subject": "mathematics",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": "Solve each of the following problems and mark the correct answer on your Answer Sheet. DO NOT USE A CALCULATOR. Figures are not drawn to scale.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 26,
+                  "question_type": "problem-solving",
+                  "stem": "26. If selling price is doubled, profit triples. Find the profit in percentage.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "50"
+                    },
+                    {
+                      "label": "B",
+                      "text": "100"
+                    },
+                    {
+                      "label": "C",
+                      "text": "150"
+                    },
+                    {
+                      "label": "D",
+                      "text": "200"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Let cost $C$, selling price $S$, profit $P=S-C$. Doubling the price triples profit: $2S-C=3(S-C)\\Rightarrow2S-C=3S-3C\\Rightarrow S=2C$. Profit $=S-C=C$, so profit $\\%=C/C=100\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 27,
+                  "question_type": "problem-solving",
+                  "stem": "27. A is three years older than B who is twice as old as C. If the total of the ages of A, B and C is 38, how old is B.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "10"
+                    },
+                    {
+                      "label": "B",
+                      "text": "12"
+                    },
+                    {
+                      "label": "C",
+                      "text": "14"
+                    },
+                    {
+                      "label": "D",
+                      "text": "15"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "$A=B+3$ and $B=2C\\Rightarrow C=B/2$. Then $(B+3)+B+B/2=38\\Rightarrow2.5B=35\\Rightarrow B=14$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 28,
+                  "question_type": "problem-solving",
+                  "stem": "28. The cost price of two articles, P and Q are in the ratio 5:7 and their selling prices, in the ratio2:5 respectively. If the losses of both the products are the same, what is the ratio between the cost price and the selling price of Q?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "5:4"
+                    },
+                    {
+                      "label": "B",
+                      "text": "7:3"
+                    },
+                    {
+                      "label": "C",
+                      "text": "8:3"
+                    },
+                    {
+                      "label": "D",
+                      "text": "15:4"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Let CP $=5k,7k$ and SP $=2m,5m$. Equal losses: $5k-2m=7k-5m\\Rightarrow3m=2k\\Rightarrow m=\\tfrac{2k}{3}$. For Q, CP:SP $=7k:5m=7k:\\tfrac{10k}{3}=21:10$, which is not among A-D, so the answer is E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 29,
+                  "question_type": "problem-solving",
+                  "stem": "29. In a race, the speeds of A and B are in the ratio 3:4, A takes 30 minutes more than B takes to reach the destination. What is the time taken by A to reach the destination in hours?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "1"
+                    },
+                    {
+                      "label": "B",
+                      "text": "1.5"
+                    },
+                    {
+                      "label": "C",
+                      "text": "2"
+                    },
+                    {
+                      "label": "D",
+                      "text": "3"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Time is inversely proportional to speed, so $t_A:t_B=4:3$. The difference $4x-3x=x=30$ min, so $t_A=4x=120$ min $=2$ hours.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 30,
+                  "question_type": "problem-solving",
+                  "stem": "30. Two train starting at the same time from 2 stations 200 km apart and going towards each other at a distance of 110 km from one of the stations. What is the ratio of their speeds?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "11:9"
+                    },
+                    {
+                      "label": "B",
+                      "text": "13:11"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3:2"
+                    },
+                    {
+                      "label": "D",
+                      "text": "7:5"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "They start together and meet after the same time, so the speed ratio equals the ratio of distances covered: one covers 110 km, the other $200-110=90$ km, giving $110:90=11:9$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 31,
+                  "question_type": "problem-solving",
+                  "stem": "31. The average of ten numbers is x and the average of five of the members is y. if the average of the remaining five is z, then",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$x = y + z$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$z = x + 2y$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$x = 2y + 2x$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$2x = y + z$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Total $=10x=5y+5z$, so $2x=y+z$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 32,
+                  "question_type": "problem-solving",
+                  "stem": "32. A is twice as good a workman as B and is therefore able to finish a job in 18 days less than B.\nIn how many days they can finish the job working together?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "8"
+                    },
+                    {
+                      "label": "B",
+                      "text": "12"
+                    },
+                    {
+                      "label": "C",
+                      "text": "15"
+                    },
+                    {
+                      "label": "D",
+                      "text": "18"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "A is twice as fast, so A's time is half of B's: let A $=t$, B $=2t$. Then $2t-t=t=18$, so A $=18$, B $=36$ days. Together: $\\frac{1}{18}+\\frac{1}{36}=\\frac{3}{36}=\\frac{1}{12}$, i.e. 12 days.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 33,
+                  "question_type": "problem-solving",
+                  "stem": "33. In a club, 20% of members are below 25 years of age. The number of members above 25 years of age is 16, which is two- third of number of members of 25 years of age. What is the total number of members in the club?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "50"
+                    },
+                    {
+                      "label": "B",
+                      "text": "52"
+                    },
+                    {
+                      "label": "C",
+                      "text": "60"
+                    },
+                    {
+                      "label": "D",
+                      "text": "72"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Members above 25 $=16=\\tfrac23$ of those exactly 25, so exactly-25 members $=24$. Below 25 is 20% of the total $T$, i.e. $0.2T$. Then $T=0.2T+24+16\\Rightarrow0.8T=40\\Rightarrow T=50$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 34,
+                  "question_type": "problem-solving",
+                  "stem": "34. Given that EF = 5cm and AB = 12cm, what is the area of the parallelogram in sq.cm?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "30"
+                    },
+                    {
+                      "label": "B",
+                      "text": "45"
+                    },
+                    {
+                      "label": "C",
+                      "text": "60"
+                    },
+                    {
+                      "label": "D",
+                      "text": "72"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "In the figure EF is the perpendicular height between the parallel sides AB and CD, and AB is the base. Area $=$ base $\\times$ height $=12\\times5=60$ sq cm.",
+                  "images": [
+                    {
+                      "fig_id": "q_p4_1",
+                      "role": "question",
+                      "path": "images/q_p4_1.png",
+                      "caption": "Parallelogram with base AB and height EF"
+                    }
+                  ],
+                  "needs_review": false
+                },
+                {
+                  "number": 35,
+                  "question_type": "problem-solving",
+                  "stem": "35. Two numbers individually are less than the third number by 60% and 74% respectively. By what percentage is the second number less than the first?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "18"
+                    },
+                    {
+                      "label": "B",
+                      "text": "27"
+                    },
+                    {
+                      "label": "C",
+                      "text": "30"
+                    },
+                    {
+                      "label": "D",
+                      "text": "35"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Let the third number be 100. First $=40$, second $=26$. The second is less than the first by $\\frac{40-26}{40}\\times100=\\frac{14}{40}\\times100=35\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 36,
+                  "question_type": "problem-solving",
+                  "stem": "36. In a class, 200 chocolates were distributed equally among the students in such a way that the number of chocolates received by each student is $12.5\\%$ of the total number of the students. How many chocolates did each student receive?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "4"
+                    },
+                    {
+                      "label": "B",
+                      "text": "5"
+                    },
+                    {
+                      "label": "C",
+                      "text": "8"
+                    },
+                    {
+                      "label": "D",
+                      "text": "10"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Let there be $n$ students, each getting $c=0.125n$ chocolates. Total $=nc=200\\Rightarrow0.125n^2=200\\Rightarrow n^2=1600\\Rightarrow n=40$, so $c=0.125\\times40=5$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 37,
+                  "question_type": "problem-solving",
+                  "stem": "37. If 30% of (x - y) = 20% of (x + y), then what is the ratio of x to y?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "5:1"
+                    },
+                    {
+                      "label": "B",
+                      "text": "3:1"
+                    },
+                    {
+                      "label": "C",
+                      "text": "4:1"
+                    },
+                    {
+                      "label": "D",
+                      "text": "5:2"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "$0.3(x-y)=0.2(x+y)\\Rightarrow0.3x-0.3y=0.2x+0.2y\\Rightarrow0.1x=0.5y\\Rightarrow x:y=5:1$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 38,
+                  "question_type": "problem-solving",
+                  "stem": "38. If x is a product of 4 consecutive integers, and x is divisible by 11, which of the following is not necessarily a divisor of x?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "12"
+                    },
+                    {
+                      "label": "B",
+                      "text": "22"
+                    },
+                    {
+                      "label": "C",
+                      "text": "24"
+                    },
+                    {
+                      "label": "D",
+                      "text": "33"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "A product of 4 consecutive integers is always divisible by $4!=24$ (hence also by 12), and it contains a factor of 3. Given 11 divides it, $22=2\\cdot11$ and $33=3\\cdot11$ also divide it. So all of 12, 22, 24, 33 are necessarily divisors — the answer is E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 39,
+                  "question_type": "problem-solving",
+                  "stem": "39. In a group, 30% of the men are more than 25 years old and 80% of the men are less than or equal to 50 years old. Twenty percentage of all men play football. If 20% of the men above the age of 50 play football, what percentage of the football players are less than or equal to 50 years?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "50%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "60%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "75%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "80%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Take 100 men. Since 80% are $\\le50$, 20 are $>50$. Football players $=20$. Players among the $>50$ group $=20\\%\\times20=4$, so players $\\le50=20-4=16$. Thus $\\frac{16}{20}=80\\%$ of football players are $\\le50$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 40,
+                  "question_type": "problem-solving",
+                  "stem": "40. In an exam, A scoring 40% marks fails by 10 marks, B scoring 50% marks gets 10 more than the passing marks. What was the total mark in the exam?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "88"
+                    },
+                    {
+                      "label": "B",
+                      "text": "100"
+                    },
+                    {
+                      "label": "C",
+                      "text": "160"
+                    },
+                    {
+                      "label": "D",
+                      "text": "200"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Let total $T$ and pass mark $P$. $0.4T=P-10$ and $0.5T=P+10$. Subtracting, $0.1T=20\\Rightarrow T=200$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 41,
+                  "question_type": "problem-solving",
+                  "stem": "41. The weight of a box is estimated by three persons. According to A, the weight lies between 50 and 60 kgs. According to B, the weight is more than 45 kgs but less than 58 kgs. C estimates that the weight cannot be greater than 56 kgs. If all of them are correct in their estimation, what is the average of different probable weights of the box?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "52"
+                    },
+                    {
+                      "label": "B",
+                      "text": "53"
+                    },
+                    {
+                      "label": "C",
+                      "text": "54"
+                    },
+                    {
+                      "label": "D",
+                      "text": "55"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "All three ranges overlap on $50<\\text{weight}\\le56$. Taking the integer probable weights in this range (51,52,53,54,55,56) their average is $\\frac{51+56}{2}=53.5$; taking the overlap bounds $50$ and $56$ gives $\\frac{50+56}{2}=53$. The intended answer is 53.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 42,
+                  "question_type": "problem-solving",
+                  "stem": "42. The average age of 8 students is 20. The average age of first two students is 19 and that of the next three students is 21. If the age of the sixth student is less than that of the seventh and eighth student by 2 and 3 respectively, then find the age of the eighth student.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "18"
+                    },
+                    {
+                      "label": "B",
+                      "text": "21"
+                    },
+                    {
+                      "label": "C",
+                      "text": "24"
+                    },
+                    {
+                      "label": "D",
+                      "text": "27"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Total age $=8\\times20=160$. First two $=38$, next three $=63$, so students 6,7,8 sum to $59$. Let 8th $=e$; then 7th $=e-1$ and 6th $=e-3$. $(e-3)+(e-1)+e=59\\Rightarrow3e=63\\Rightarrow e=21$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 43,
+                  "question_type": "problem-solving",
+                  "stem": "43. Arif went to a restaurant along with his 5 friends. He paid Tk. 100 and all the other paid an equal amount. The average bill per person was Tk. 10 more than what was paid by each of his friends. How much money did each of his friends pays?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "30"
+                    },
+                    {
+                      "label": "B",
+                      "text": "32"
+                    },
+                    {
+                      "label": "C",
+                      "text": "36"
+                    },
+                    {
+                      "label": "D",
+                      "text": "40"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "There are 6 people. Let each friend pay $x$. Average $=\\frac{100+5x}{6}=x+10\\Rightarrow100+5x=6x+60\\Rightarrow x=40$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 44,
+                  "question_type": "problem-solving",
+                  "stem": "44. A train when moves at an average speed of 75 km/hr. reaches its destination on time. When its average speed becomes 50 km/hr. it takes 1 more hour to reach its destination. Find the length of journey the journey in km.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "150"
+                    },
+                    {
+                      "label": "B",
+                      "text": "180"
+                    },
+                    {
+                      "label": "C",
+                      "text": "200"
+                    },
+                    {
+                      "label": "D",
+                      "text": "240"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "$\\frac{d}{50}-\\frac{d}{75}=1\\Rightarrow d\\left(\\frac{3-2}{150}\\right)=1\\Rightarrow\\frac{d}{150}=1\\Rightarrow d=150$ km.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 45,
+                  "question_type": "problem-solving",
+                  "stem": "45. In a box, 40% of the pens are red. If half of the red pens are removes, the percentage of red pens in the box will be:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "20%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "22.5%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "25%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "30%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Take 100 pens: 40 red. Removing half the red leaves 20 red out of $100-20=80$ pens, i.e. $\\frac{20}{80}=25\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 46,
+                  "question_type": "problem-solving",
+                  "stem": "46. In the figure $\\angle ABC = 24^{\\circ}$, and $\\angle FCE = \\angle BCD$. Find $\\angle ECF$.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$33^{\\circ}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$35^{\\circ}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$44^{\\circ}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$52^{\\circ}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Triangle ABC is right-angled at A with $\\angle ABC=24^{\\circ}$, so $\\angle ACB=66^{\\circ}$. CE is the upward extension of AC and CF is the upward extension of CD, so $\\angle ECF$ and $\\angle ACD$ are vertical angles and are equal. Given $\\angle FCE=\\angle BCD$, this means $\\angle ACD=\\angle BCD$, so CD bisects $\\angle ACB=66^{\\circ}$, giving $\\angle ECF=\\angle ACD=33^{\\circ}$.",
+                  "images": [
+                    {
+                      "fig_id": "q_p5_2",
+                      "role": "question",
+                      "path": "images/q_p5_2.png",
+                      "caption": "Right angle at A; cevians from C to D and B"
+                    }
+                  ],
+                  "needs_review": false
+                },
+                {
+                  "number": 47,
+                  "question_type": "problem-solving",
+                  "stem": "47. In a group of civil, mechanical and electrical engineers, all but 20 are civil engineers, all but 15 are mechanical engineers, and all but 25 are electrical engineers. How many of them are electrical engineers?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "5"
+                    },
+                    {
+                      "label": "B",
+                      "text": "10"
+                    },
+                    {
+                      "label": "C",
+                      "text": "15"
+                    },
+                    {
+                      "label": "D",
+                      "text": "20"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Let civil $=C$, mechanical $=M$, electrical $=E$. \"All but 20 are civil\" gives $M+E=20$; similarly $C+E=15$ and $C+M=25$. Adding: $2(C+M+E)=60\\Rightarrow$ total $=30$. Then $E=30-(C+M)=30-25=5$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 48,
+                  "question_type": "problem-solving",
+                  "stem": "48. If -1<x<1 and x≠0, which of the following must be true?\nI.  $x^{3}<x^{2}$  II.  $x^{5}<1-x$  III.  $x^{4}<x^{2}$",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "I only"
+                    },
+                    {
+                      "label": "B",
+                      "text": "I and II only"
+                    },
+                    {
+                      "label": "C",
+                      "text": "II and III only"
+                    },
+                    {
+                      "label": "D",
+                      "text": "I and III only"
+                    },
+                    {
+                      "label": "E",
+                      "text": "I, II and III"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "For $-1<x<1,\\,x\\ne0$: I is true ($x^3<x^2$ since $x^2>0$ and $x<1$, and $x^3<0<x^2$ when $x<0$). III is true ($x^4=x^2\\cdot x^2<x^2$ because $x^2<1$). II fails, e.g. $x=0.9$ gives $x^5=0.59$ but $1-x=0.1$. So I and III only.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 49,
+                  "question_type": "problem-solving",
+                  "stem": "49. Babu made a profit of 20% by selling a product. If he had purchased that product for 10% less and sold it at a profit of 40%, he would have received Tk. 24 more. What was his original selling price in taka?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "400"
+                    },
+                    {
+                      "label": "B",
+                      "text": "480"
+                    },
+                    {
+                      "label": "C",
+                      "text": "520"
+                    },
+                    {
+                      "label": "D",
+                      "text": "600"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Let cost $=C$. Original SP $=1.2C$. New SP $=1.4\\times0.9C=1.26C$. The difference $1.26C-1.2C=0.06C=24\\Rightarrow C=400$, so original SP $=1.2\\times400=480$.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 50 - 55:",
+              "instruction": "Each question is followed by two statements. Decide whether the data in the statements are sufficient to answer the question. Select your answer according to whether:\nA. Statement 1 alone is sufficient, but statement 2 alone is not sufficient to answer the question.\nB. Statement 2 alone is sufficient, statement 1 alone is not sufficient to answer the question.\nC. Both statements taken together are sufficient to answer the question, but neither statement alone is sufficient.\nD. Each statement alone is sufficient.\nE. Statements 1+2 together aren't sufficient, and additional data is needed to answer the question.",
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 50,
+                  "question_type": "data-sufficiency",
+                  "stem": "50. If $x, y$ and $z$ are integers, is xyz an even number?\n1. $xy + z$ is odd 2. $x + y + z$ is even",
+                  "options": [],
+                  "answer": "D",
+                  "explanation": "$xyz$ is even iff at least one of $x,y,z$ is even. (1) $xy+z$ odd means either $xy$ even (so some factor even) or $xy$ odd with $z$ even — either way a factor is even, so $xyz$ is even: sufficient. (2) $x+y+z$ even means 0 or 2 of them are odd, so at least one is even, making $xyz$ even: sufficient. Each alone is sufficient — answer D.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 51,
+                  "question_type": "data-sufficiency",
+                  "stem": "51. A solution consists of only water and sugar. The ratio of sugar to water in the solution is 5:2. How much amount of water should be added to the solution (in kgs) so that the resulting solution contains $50\\%$ sugar?\n1. Total quantity of the resulting solution contains $50\\%$ sugar.\n2. 54 kgs of water needs to be added to the original solution.",
+                  "options": [],
+                  "answer": "B",
+                  "explanation": "With sugar:water $=5:2$, for 50% sugar the water to add is $w=3a$ where the original sugar is $5a$ — but $a$ (the original quantity) is unknown. Statement (1) merely restates the 50% condition: insufficient. Statement (2) directly gives the amount to add, 54 kg: sufficient. Answer B.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 52,
+                  "question_type": "data-sufficiency",
+                  "stem": "52. If $\\frac{x}{6} + \\frac{y}{2} = z$, what is the value of $z$? 1. $x + y = 4$ 2. $x + 2z = 7$",
+                  "options": [],
+                  "answer": "C",
+                  "explanation": "$z=\\frac{x+3y}{6}$. (1) $x+y=4$ alone cannot give $x+3y$. (2) substituting $z$ gives $\\frac{4x}{3}+y=7$, one equation in two unknowns. Together with (1) we solve $x=9,y=-5$, so $z=-1$. Both needed, neither alone — answer C.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 53,
+                  "question_type": "data-sufficiency",
+                  "stem": "53. Of a group of 48 students, how many have at least one pen or at least one pencil, but not both?\n1. The number of students having at least one pen and at least one pencil is 6.\n2. The number of students having no pen and no pencil is 18.",
+                  "options": [],
+                  "answer": "C",
+                  "explanation": "\"Exactly one\" $=48-(\\text{both})-(\\text{neither})$. (1) gives both $=6$ only; (2) gives neither $=18$ only. Together: $48-6-18=24$. Both needed, neither alone — answer C.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 54,
+                  "question_type": "data-sufficiency",
+                  "stem": "54. If x is an integer between 0 and 10, is y less than the average (arithmetic mean) of x and 10?\n1. $(10 - y) < y - \\frac{(x + 10)}{2}$\n2. y is times as large as x",
+                  "options": [],
+                  "answer": "A",
+                  "explanation": "The question asks whether y < (x+10)/2. Statement 1: (10 - y) < y - (x+10)/2 gives 20 - 2y < 2y - x - 10, i.e. y > (x+30)/4. Since x < 10, (x+30)/4 > (x+10)/2, so y > (x+10)/2 and the answer is a definite \"No\": sufficient. Statement 2 is incomplete in the source (\"y is __ times as large as x\", number missing) and cannot be used. Answer A.",
+                  "images": [],
+                  "needs_review": false,
+                  "source_defect": "Statement 2 is printed \"y is times as large as x\" (number missing)."
+                },
+                {
+                  "number": 55,
+                  "question_type": "data-sufficiency",
+                  "stem": "55. If sx is an integer, is x - 2y an integer? 1. x is divisible by 20 2. y is 5 percent of x",
+                  "options": [],
+                  "answer": "C",
+                  "explanation": "With $y=0.05x$, $x-2y=0.9x$. Statement (1) alone fixes $x$ (a multiple of 20) but says nothing about $y$, so $x-2y$ is undetermined. Statement (2) alone defines $y$ but $0.9x$ need not be an integer. Together: $x=20k,\\,y=k$, so $x-2y=18k$, an integer. Both needed — answer C.",
+                  "images": [],
+                  "needs_review": false,
+                  "source_defect": "Stem is printed \"If sx is an integer\" (as printed)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_no": 3,
+          "source_section_label": "Section 3: Analytical Ability",
+          "subject": "analytical",
+          "groups": [
+            {
+              "source_group_label": "Questions 56 to 60:",
+              "instruction": null,
+              "stimulus": {
+                "passage": "The members of Bangladesh Public Service Commission and the members of Bangladesh Judicial Service Commission are to be selected from exactly six qualified candidates. The six candidates are U, V, W, X, Y and Z. The following rules apply.\n- Each commission must have exactly three members.\n- The two commissions must have at least one member in common.\n- U cannot be on a commission with X.\n- If X is elected for a commission, Y must also be selected for that commission.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 56,
+                  "question_type": "puzzle",
+                  "stem": "56. If the members of the Public Service Commission are selected first, which of the following could be those selected?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "U, V and X"
+                    },
+                    {
+                      "label": "B",
+                      "text": "U, X and Z"
+                    },
+                    {
+                      "label": "C",
+                      "text": "V, W and X"
+                    },
+                    {
+                      "label": "D",
+                      "text": "V, X and Y"
+                    },
+                    {
+                      "label": "E",
+                      "text": "W, X and Z"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "U cannot share a commission with X, ruling out A and B. If X is on a commission, Y must be too, ruling out C and E (which have X but no Y). D (V, X, Y) satisfies both rules.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 57,
+                  "question_type": "puzzle",
+                  "stem": "57. If the members of the Public Service Commission are V, W and Z and if the Judicial Service Commission is to have as many members in common with the Public Service Commission as the allow, the Judicial Service Commission must consist of",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "U, V and W"
+                    },
+                    {
+                      "label": "B",
+                      "text": "V, W and Z"
+                    },
+                    {
+                      "label": "C",
+                      "text": "V, X and Z"
+                    },
+                    {
+                      "label": "D",
+                      "text": "W, Y and Z"
+                    },
+                    {
+                      "label": "E",
+                      "text": "X, Y and Z"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "No rule forbids the two commissions from sharing members, so to maximise overlap the Judicial Service Commission can be identical to the Public Service Commission: V, W and Z (three members in common).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 58,
+                  "question_type": "puzzle",
+                  "stem": "58. If U, V and W make up the Public Service Commission and W, Y and Z make up the Judicial Service Commission, which of these commission members could surrender his or her place on a commission to X without necessitating any other membership changes?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "U"
+                    },
+                    {
+                      "label": "B",
+                      "text": "V"
+                    },
+                    {
+                      "label": "C",
+                      "text": "W"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Y"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Z"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "X needs Y in its commission and cannot share with U. On the PSC (U,V,W) adding X fails (U present). On the JSC (W,Y,Z), replacing Z with X gives (W,Y,X): X is with Y, no U, and it still shares W with the PSC — valid. Replacing W would leave no common member with the PSC. So only Z can yield to X.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 59,
+                  "question_type": "puzzle",
+                  "stem": "59. If U and X are each selected for a commission and only Z is selected for both commission, which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "V is selected for the same commission as W"
+                    },
+                    {
+                      "label": "B",
+                      "text": "W is selected for the same commission as Y"
+                    },
+                    {
+                      "label": "C",
+                      "text": "W is selected for the same commission as X"
+                    },
+                    {
+                      "label": "D",
+                      "text": "U is selected for the same commission as Y"
+                    },
+                    {
+                      "label": "E",
+                      "text": "X is selected for the same commission as Y"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "U and X must be on different commissions (they cannot be together). Since X is selected, Y must be on X's commission. Therefore X is always on the same commission as Y.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 60,
+                  "question_type": "puzzle",
+                  "stem": "60. If X and Z are both selected for the Public Service Commission and if U is selected for the Judicial Service Commission, each of the following pairs of people could be the other two members of the Judicial Service Commission EXCEPT?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "V and W"
+                    },
+                    {
+                      "label": "B",
+                      "text": "V and Z"
+                    },
+                    {
+                      "label": "C",
+                      "text": "W and Y"
+                    },
+                    {
+                      "label": "D",
+                      "text": "W and Z"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Y and Z"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "X on the PSC forces Y onto the PSC, so PSC $=\\{X,Y,Z\\}$. The JSC contains U (who cannot be with X) and must share at least one member with $\\{X,Y,Z\\}$ — so it needs Y or Z. Pair \"V and W\" gives JSC $=\\{U,V,W\\}$, which shares nobody with the PSC: not allowed. The other pairs each include Y or Z.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 61 to 64:",
+              "instruction": null,
+              "stimulus": {
+                "passage": "Five couples got married last month, each on a different day of the week, except for Saturday and Sundays. The names of the ladies are Aisha, Chobi, Kamrun, Fatima and Lima, while the names of the gentlemen are Pathan, Riyad, Shams, Bijoy and Obaid. Read the following clues and answer the questions that follow:\n- Aisha was married on Monday, but not to Obaid\n- Shams got married on Wednesday and Riyad on Friday\n- Bijoy and Fatima got married the day after Kamrun's wedding\n- Riyad did not marry Lima",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 61,
+                  "question_type": "puzzle",
+                  "stem": "61. Riyad was married to whom?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Aisha"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Chobi"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Kamrun"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Fatima"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Lima"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "The weddings are Mon-Fri. Aisha = Monday; Shams = Wednesday, Riyad = Friday. \"Bijoy and Fatima married the day after Kamrun\" forces Kamrun = Wednesday (married to Shams) and Bijoy + Fatima = Thursday. Aisha is not married to Obaid and Bijoy is on Thursday, so Monday's groom is Pathan and Obaid is on Tuesday. Chobi and Lima remain for Tuesday and Friday. The page image has a fourth clue (lost in the OCR): \"Riyad did not marry Lima\". So Riyad (Friday) married Chobi.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 62,
+                  "question_type": "puzzle",
+                  "stem": "62. Kamrun was married to whom?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Pathan"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Riyad"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Shams"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Bijoy"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Obaid"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Kamrun must be on Wednesday (so that Bijoy and Fatima can marry on Thursday, the day after). Wednesday's gentleman is Shams, so Kamrun married Shams.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 63,
+                  "question_type": "puzzle",
+                  "stem": "63. Among the gentlemen, who got married on Tuesday?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Pathan"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Riyad"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Shams"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Bijoy"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Obaid"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Monday=Pathan (Aisha's husband, not Obaid; Bijoy is Thursday), Wednesday=Shams, Thursday=Bijoy, Friday=Riyad. The only gentleman left for Tuesday is Obaid.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 64,
+                  "question_type": "puzzle",
+                  "stem": "64. Pathan got married to whom?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Aisha"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Lima"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Kamrun"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Chobi"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Cannot be determined"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "Monday's couple is Aisha and (since not Obaid, and the other gentlemen are placed elsewhere) Pathan. So Pathan married Aisha.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "Questions 65 - 70:",
+              "instruction": null,
+              "stimulus": {
+                "passage": "A manager who has exactly four projects --- F, G, H and I --- to undertake in a given month has made the following determinations:\n- F has priority over G.\n- H has priority over I.\n- If one project has priority over another, the project with priority must be started earlier than the other one.",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 65,
+                  "question_type": "puzzle",
+                  "stem": "65. Given only the determinations above, each of the following is a possible in which the four projects could be started EXCEPT:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F, G, H, I"
+                    },
+                    {
+                      "label": "B",
+                      "text": "F, H, G, I"
+                    },
+                    {
+                      "label": "C",
+                      "text": "F, H, I, G"
+                    },
+                    {
+                      "label": "D",
+                      "text": "H, F, I, G"
+                    },
+                    {
+                      "label": "E",
+                      "text": "H, G, F, I"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "The only constraints are F before G and H before I. In option E (H, G, F, I), G comes before F, violating \"F before G\". All other orders respect both constraints.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 66,
+                  "question_type": "puzzle",
+                  "stem": "66. If each of the projects takes equally long to complete, it must be true that-",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F is completed before H is completed"
+                    },
+                    {
+                      "label": "B",
+                      "text": "F is completed before I is completed"
+                    },
+                    {
+                      "label": "C",
+                      "text": "G is completed before H is completed"
+                    },
+                    {
+                      "label": "D",
+                      "text": "H is completed before G is completed"
+                    },
+                    {
+                      "label": "E",
+                      "text": "H is completed before I is completed"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "With equal durations, completion order matches start order. H is always started before I (and finishes before it), so \"H is completed before I\" must be true. The other relations are not forced.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 67,
+                  "question_type": "puzzle",
+                  "stem": "67. There would be exactly one order in which the four projects would have to be started if it were determined that",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "F has priority over H"
+                    },
+                    {
+                      "label": "B",
+                      "text": "F has priority over I"
+                    },
+                    {
+                      "label": "C",
+                      "text": "H has priority over G"
+                    },
+                    {
+                      "label": "D",
+                      "text": "I has priority over F"
+                    },
+                    {
+                      "label": "E",
+                      "text": "I has priority over G"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Adding \"I before F\" to \"F before G\" and \"H before I\" chains them into H < I < F < G, a single total order (H, I, F, G). The other additions leave two or more valid orders.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 68,
+                  "question_type": "critical-reasoning",
+                  "stem": "68. Bangladesh's annual food production slightly exceeds the amount of food required to provide a minimally adequate diet for its population. To predict that insufficient food production will cause a hunger crisis in the future is nonsense. Any hunger crisis will result from a distribution problem rather than a production problem.\nThe statement above assumes which of the following?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Bangladesh's food requirements are greater than they will be in the future."
+                    },
+                    {
+                      "label": "B",
+                      "text": "A shortfall in Bangladesh's food production can be prevented by a better distribution system."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Bangladesh's food production will continue to be sufficient to meet or exceed need."
+                    },
+                    {
+                      "label": "D",
+                      "text": "The distribution of Bangladesh's existing food supply will be improved in the future."
+                    },
+                    {
+                      "label": "E",
+                      "text": "Bangladesh hunger crisis will not exist in the future."
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "The argument moves from \"production currently exceeds need\" to \"future crises can't be a production problem\". That only follows if production will keep meeting or exceeding need in the future — the unstated assumption in C.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 69,
+                  "question_type": "critical-reasoning",
+                  "stem": "69. Kona is shorter than Jui, but she is taller than Enam. Sonia is shorter than Jui, and she is shorter than Enam. Wasif is taller than Sonia, but shorter than Jui.\nIf the statements above are true, one can validly conclude that Bulu is shorter than Kona if it is true that:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Kona is equal in height to Wasif"
+                    },
+                    {
+                      "label": "B",
+                      "text": "Wasif is equal in height to Bulu"
+                    },
+                    {
+                      "label": "C",
+                      "text": "Bulu is taller than Sonia, but shorter than Wasif"
+                    },
+                    {
+                      "label": "D",
+                      "text": "Bulu is shorter than Jui, but taller than Enam"
+                    },
+                    {
+                      "label": "E",
+                      "text": "Wasif is taller than Bulu but shorter than Enam"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "We know Enam < Kona. Option E gives Bulu < Wasif < Enam, so Bulu < Enam < Kona, hence Bulu < Kona. The other options do not pin Bulu below Kona.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 70,
+                  "question_type": "critical-reasoning",
+                  "stem": "70. \"This year's flood may cause famine.\" Which of the following statement weakens the statement above?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "Flood has caused huge loss of crop."
+                    },
+                    {
+                      "label": "B",
+                      "text": "Government has already signed several rice and grain import deals with different countries."
+                    },
+                    {
+                      "label": "C",
+                      "text": "Bangladesh is actively considering to impose economic embargo on Myanmar, a major rice exporting country."
+                    },
+                    {
+                      "label": "D",
+                      "text": "India has already hiked price of rice artificially."
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "A famine requires a food shortage. Option B (import deals already signed) ensures food supply despite crop loss, directly weakening the claim that the flood will cause famine. A strengthens it; C and D would worsen supply.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_label": "Part II: Writing Ability [30 marks]",
+      "sections": [
+        {
+          "section_no": 4,
+          "source_section_label": "Part II: Writing Ability [30 marks]",
+          "subject": "writing",
+          "groups": [
+            {
+              "source_group_label": "A. Write an Essay of \"Respect Yourself by Respecting Others\"",
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "essay",
+                  "stem": "A. Write an Essay of \"Respect Yourself by Respecting Others\"",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended essay. Introduce the idea that self-respect and respect for others are linked, develop 3-4 points (mutual dignity, empathy, how respecting others earns respect, consequences of disrespect) with examples, and conclude. No single correct answer.",
+                  "marks": 20,
+                  "needs_review": false
+                }
+              ]
+            },
+            {
+              "source_group_label": "B. Thematic Writing:",
+              "instruction": "Prepare a thematic write-up using the following words/ phrases. You may use one word/ phrase more than once. You may also change the form of the underline the given word/phrases as and when used. Give an appropriate title of your write-up. To maintain coherence, you may write some sentences without using the words/ phrases given in the list.",
+              "stimulus": {
+                "passage": "List of Words: Children, Examination, Future, Government, Nation, Primary Education, Quality, Stress, Teacher, Textbook",
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 2,
+                  "question_type": "essay",
+                  "stem": "B. Thematic Writing:\nInstruction: Prepare a thematic write-up using the following words/ phrases. You may use one word/ phrase more than once. You may also change the form of the underline the given word/ phrases as and when used. Give an appropriate title of your write-up. To maintain coherence, you may write some sentences without using the words/ phrases given in the list.\nList of Words: Children, Examination, Future, Government, Nation, Primary Education, Quality, Stress, Teacher, Textbook\nTitle:",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended thematic write-up. Choose a title (e.g. on improving primary education) and weave in the listed words coherently, covering the role of teachers, textbooks, examinations, government and quality in shaping children and the nation's future. No single correct answer.",
+                  "marks": 10,
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    "Q61-64 clue 'Riyad did not marry Lima' IS printed (p7); the earlier 'added clue' concern is cleared.",
+    "Q54 statement 2 prints 'y is times as large as x' (number missing); Q55 prints 'If sx is an integer' (both flagged source_defect, kept as printed).",
+    "Q34 and Q46 figures are images (not re-cropped in this pass). Marks printed: Part I [70 marks]; Part II [30 marks] (A 20, B 10).",
+    "Answers and explanations are out of scope (to be regenerated by the user); stored values are unreliable."
+  ]
+}

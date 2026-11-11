@@ -1,0 +1,181 @@
+{
+ "exam": "iba_mba_2021_dec",
+ "items": {
+  "1-1": {
+   "en": "Digits n, n+1, n+2 (unit digit larger): the number is 111n + 12 and the reversal is 111n + 210. Difference = 198 = 22 × (3n + 3) ⇒ n = 2. The number is 234.",
+   "bn": "অঙ্ক n, n+1, n+2 (এককের অঙ্ক বড়): সংখ্যা 111n + 12 এবং উল্টানো সংখ্যা 111n + 210। পার্থক্য = 198 = 22 × (3n + 3) ⇒ n = 2। সংখ্যাটি 234।",
+   "answer": "A",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "1-2": {
+   "en": "Marketing : finance = 4k : 5k. After 2 move: (4k − 2)/(5k + 2) = 2/3 ⇒ 12k − 6 = 10k + 4 ⇒ k = 5. Marketing = 20.",
+   "bn": "Marketing : finance = 4k : 5k। 2 জন গেলে: (4k − 2)/(5k + 2) = 2/3 ⇒ 12k − 6 = 10k + 4 ⇒ k = 5। Marketing = 20।",
+   "answer": "C",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "1-3": {
+   "en": "(12/4)a = (25/8)c ⇒ 3a = 3.125c ⇒ a/c = 25/24. So a : c = 25 : 24.",
+   "bn": "(12/4)a = (25/8)c ⇒ 3a = 3.125c ⇒ a/c = 25/24। তাই a : c = 25 : 24।",
+   "answer": "B",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "1-4": {
+   "en": "Triangle AOB has OA = OB = 2√2 at a right angle, so AB = √(8 + 8) = 4. Perimeter = 2√2 + 2√2 + 4 = 4√2 + 4.",
+   "bn": "ত্রিভুজ AOB-তে OA = OB = 2√2 এবং কোণ সমকোণ, তাই AB = √(8 + 8) = 4। পরিসীমা = 2√2 + 2√2 + 4 = 4√2 + 4।",
+   "answer": "A",
+   "formula_ids": [
+    "geometry"
+   ],
+   "note": "Uses the figure: OA and OB are perpendicular radii."
+  },
+  "1-5": {
+   "en": "Acid = 0.8 × 24 = 19.2. For 50% acid, total = 38.4, so water added = 38.4 − 24 = 14.4.",
+   "bn": "Acid = 0.8 × 24 = 19.2। 50% acid-এর জন্য মোট = 38.4, তাই যোগ করতে হবে পানি = 38.4 − 24 = 14.4।",
+   "answer": "C",
+   "formula_ids": [
+    "mixture"
+   ]
+  },
+  "1-6": {
+   "en": "Mod 15: 106 ≡ 1, 190 ≡ 10, 111 ≡ 6, and 1 × 10 × 6 = 60 ≡ 0. The remainder is 0, which is not an option.",
+   "bn": "Mod 15: 106 ≡ 1, 190 ≡ 10, 111 ≡ 6, এবং 1 × 10 × 6 = 60 ≡ 0। ভাগশেষ 0, যা option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "1-7": {
+   "en": "Try √x = 2: 7² + 24² = 49 + 576 = 625 = 25². So √x = 2 and x = 4.",
+   "bn": "√x = 2 চেষ্টা করুন: 7² + 24² = 49 + 576 = 625 = 25²। তাই √x = 2 এবং x = 4।",
+   "answer": "C",
+   "formula_ids": [
+    "exponents"
+   ]
+  },
+  "1-8": {
+   "en": "K = 19 × 18 × 17, with prime factors 2, 3, 17, 19. 19 shares 19 and 34 = 2 × 17 shares 2 and 17. 77 = 7 × 11 and 115 = 5 × 23 share no prime with K; the smaller is 77.",
+   "bn": "K = 19 × 18 × 17, মৌলিক উৎপাদক 2, 3, 17, 19। 19 নিজেই 19 ধরে এবং 34 = 2 × 17 ধরে 2 ও 17। 77 = 7 × 11 এবং 115 = 5 × 23-এর K-এর সাথে কোনো common মৌলিক উৎপাদক নেই; এদের মধ্যে ছোট 77।",
+   "answer": "C",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "1-9": {
+   "en": "The inscribed square has area 16, so side 4 and radius = diagonal/2 = 2√2. The shaded segment below CD (a 90° chord) = quarter sector − right triangle = ¼π(2√2)² − ½(2√2)² = 2π − 4.",
+   "bn": "অন্তর্লিখিত বর্গের ক্ষেত্রফল 16, তাই বাহু 4 এবং ব্যাসার্ধ = কর্ণ/2 = 2√2। CD-র নিচে shaded segment (90° chord) = চতুর্থাংশ sector − সমকোণী ত্রিভুজ = ¼π(2√2)² − ½(2√2)² = 2π − 4।",
+   "answer": "$2\\pi - 4$",
+   "formula_ids": [
+    "geometry"
+   ],
+   "note": "Uses the figure: the shaded part is the circular segment below side CD."
+  },
+  "1-10": {
+   "en": "Reading 4(p)·7(q) = 756 as 4p × 7q = 28pq = 756 ⇒ pq = 27. With positive integers other than the pair (1, 27), p and q are 3 and 9, so p + q = 12.",
+   "bn": "4(p)·7(q) = 756-কে 4p × 7q = 28pq = 756 ⇒ pq = 27 পড়লে, positive integer হিসেবে (1, 27) ছাড়া p, q হলো 3 ও 9, তাই p + q = 12।",
+   "answer": "A",
+   "formula_ids": [
+    "algebra"
+   ],
+   "note": "Reads '4(p)7(q)' as 4p × 7q; with p, q positive integers, pq = 27 gives p + q = 12 (3 and 9)."
+  },
+  "1-11": {
+   "en": "2a + b² is largest for a = 2 and b = −4 (b² = 16): 4 + 16 = 20.",
+   "bn": "2a + b² সর্বোচ্চ হয় a = 2 ও b = −4 (b² = 16) হলে: 4 + 16 = 20।",
+   "answer": "A",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "1-12": {
+   "en": "Let Y have side s, so s² = y². X has length s + 2 and width s − 2: area = s² − 4 = y² − 4.",
+   "bn": "Y-এর বাহু s, তাই s² = y²। X-এর দৈর্ঘ্য s + 2 ও প্রস্থ s − 2: ক্ষেত্রফল = s² − 4 = y² − 4।",
+   "answer": "A",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "1-13": {
+   "en": "M/4 = 0.3N ⇒ M = 1.2N. 0.24N = O/5 ⇒ O = 1.2N. So O : M = 1 : 1.",
+   "bn": "M/4 = 0.3N ⇒ M = 1.2N। 0.24N = O/5 ⇒ O = 1.2N। তাই O : M = 1 : 1।",
+   "answer": "1:1",
+   "formula_ids": [
+    "ratio",
+    "pct-change"
+   ],
+   "note": "No options are printed in the source."
+  },
+  "1-14": {
+   "en": "y = 25 − 5x with y ≤ 25 means x ≥ 0. For non-negative integers: x = 0 to 5 gives (0, 25), (1, 20), (2, 15), (3, 10), (4, 5), (5, 0): 6 pairs. (If x, y had to be positive, there would be 4.)",
+   "bn": "y = 25 − 5x এবং y ≤ 25 মানে x ≥ 0। অঋণাত্মক integer-এর জন্য: x = 0 থেকে 5 পর্যন্ত (0, 25), (1, 20), (2, 15), (3, 10), (4, 5), (5, 0): 6 জোড়া। (x, y ধনাত্মক হতে হলে 4 জোড়া।)",
+   "answer": "6 pairs (taking x, y as non-negative integers)",
+   "formula_ids": [
+    "algebra"
+   ],
+   "note": "The source does not say 'non-negative'; with positive integers it would be 4 pairs."
+  },
+  "1-15": {
+   "en": "Taking 16 h and 25 h as the full journey times, the speeds are 675/16 and 675/25. Together they close the 675 km in 1/(1/16 + 1/25) = 400/41 h ≈ 9.76 h. (The stated '3 hours' conflicts with these speeds and is not used.)",
+   "bn": "16 ঘণ্টা ও 25 ঘণ্টাকে পুরো যাত্রার সময় ধরলে গতি 675/16 ও 675/25। তারা একসাথে 675 km পার করে 1/(1/16 + 1/25) = 400/41 ঘণ্টা ≈ 9.76 ঘণ্টায়। ('3 ঘণ্টা' এই গতির সাথে মেলে না, তাই ব্যবহার করা হয়নি।)",
+   "answer": "400/41 hours (about 9.76 h, i.e. 9 h 45 min)",
+   "formula_ids": [
+    "relspeed"
+   ],
+   "note": "The printed 'cross after 3 hours' cannot be reconciled with 16 h and 25 h; the key uses the journey times only."
+  },
+  "1-16": {
+   "en": "Taking the printed fact as the state when B is closed: after 9 minutes the tank is 3/4 full and only A (1/24 per minute) runs. The remaining 1/4 needs (1/4) × 24 = 6 more minutes, so 15 minutes in total from the start. (The printed 3/4 is not consistent with A and B both running for 9 minutes.)",
+   "bn": "ছাপা তথ্যটিকে B বন্ধ হওয়ার অবস্থা ধরলে: 9 মিনিট পর tank 3/4 ভরা এবং শুধু A (মিনিটে 1/24) চলছে। বাকি 1/4 ভরতে লাগে (1/4) × 24 = 6 মিনিট, অর্থাৎ শুরু থেকে মোট 15 মিনিট। (A ও B 9 মিনিট একসাথে চললে ছাপা 3/4 মেলে না।)",
+   "answer": "6 more minutes (15 minutes in total)",
+   "formula_ids": [
+    "work"
+   ],
+   "note": "The stated 3/4 after 9 minutes does not match A and B running together; it is taken as the state when B is closed."
+  },
+  "1-17": {
+   "en": "c = 70/(18 + a/30) = 2100/(540 + a). Alone, (1) a < 30 gives c = 4 at a = −15 but not at a = 0; (2) a > 1 gives c = 3 at a = 160 but not at a = 2. Together 541 < 540 + a < 570, so c is between about 3.68 and 3.88: never an integer, a definite 'no'.",
+   "bn": "c = 70/(18 + a/30) = 2100/(540 + a)। আলাদাভাবে (1) a < 30: a = −15 হলে c = 4 কিন্তু a = 0 হলে নয়; (2) a > 1: a = 160 হলে c = 3 কিন্তু a = 2 হলে নয়। একসাথে 541 < 540 + a < 570, তাই c প্রায় 3.68 থেকে 3.88-এর মধ্যে: কখনো integer নয়, নির্দিষ্ট 'না'।",
+   "answer": "Both statements together are sufficient, neither alone (GMAT-style: C)",
+   "formula_ids": [
+    "ds-method"
+   ]
+  },
+  "1-18": {
+   "en": "For consecutive integers a, a + 1, a + 2 the sum 3(a + 1) is even only when a is odd, which makes c = a + 2 odd. Statement i (integers) already gives this, and statement ii (average 2, so 1, 2, 3) gives c = 3, odd. Each alone is sufficient.",
+   "bn": "পরপর integer a, a + 1, a + 2-এর যোগফল 3(a + 1) জোড় হয় শুধু a বিজোড় হলে, ফলে c = a + 2 বিজোড়। statement i (integer) থেকেই এটি পাওয়া যায়, আর statement ii (গড় 2, অর্থাৎ 1, 2, 3) থেকে c = 3, বিজোড়। প্রতিটি এককভাবে যথেষ্ট।",
+   "answer": "Each statement alone is sufficient (GMAT-style: D)",
+   "formula_ids": [
+    "ds-method",
+    "numprop"
+   ],
+   "note": "Assumes a, b, c are consecutive integers in increasing order."
+  },
+  "1-19": {
+   "en": "The professor saw the second-period batch fail more than the last-period batch, and reverted to the earlier class slot. That rests on the assumption that students pay more attention in the last period (E).",
+   "bn": "Professor দেখলেন second-period batch, শেষ period-এর batch-এর চেয়ে বেশি ফেল করেছে এবং আগের class slot-এ ফিরে গেলেন। এটি এই assumption-এর উপর নির্ভর করে যে শেষ period-এর class-এ student-রা বেশি মনোযোগ দেয় (E)।",
+   "answer": "E",
+   "formula_ids": [
+    "cr-method"
+   ]
+  },
+  "2-1": {
+   "en": "Approach (thematic writing: retirement): Title: 'Planning Today for an Active Retirement'. Weave the words in a clear flow: retirement → income stops, so planning and savings matter → pension and investment give steady income → spending habits and a small business can sustain active lives → the goal is happiness, not only money. Underline each word used (retirement, pension, income, happiness, spending, investment, savings, business, planning, active lives). Write 2–3 short paragraphs and add a few linking sentences without list words.",
+   "bn": "পদ্ধতি (thematic writing: অবসর): Title: 'Planning Today for an Active Retirement'। শব্দগুলো পরিষ্কার প্রবাহে বুনুন: retirement → income বন্ধ হয়, তাই planning ও savings জরুরি → pension ও investment নিয়মিত আয় দেয় → spending-এর অভ্যাস ও ছোট business active lives টিকিয়ে রাখে → লক্ষ্য শুধু টাকা নয়, happiness। ব্যবহৃত প্রতিটি শব্দের নিচে দাগ দিন (retirement, pension, income, happiness, spending, investment, savings, business, planning, active lives)। 2–3টি ছোট paragraph লিখুন এবং তালিকার শব্দ ছাড়া কিছু সংযোগ-বাক্য দিন।",
+   "rule_ids": [
+    "essay"
+   ]
+  },
+  "2-2": {
+   "en": "Approach (explain a quotation): Thesis: a person's origin does not decide their worth; their choices and effort do. Paragraph 1: restate the quote in your own words. Paragraph 2: why background is not destiny (examples of people who rose from humble beginnings). Paragraph 3: the role of effort, education and character. Paragraph 4: a balanced note (opportunity still matters; society should widen it). Conclusion: what we become is our own achievement.\nUseful phrases: 'self-made', 'overcome adversity', 'level the playing field'.",
+   "bn": "পদ্ধতি (উক্তি ব্যাখ্যা): Thesis: মানুষের উৎস তার মূল্য ঠিক করে না; তার পছন্দ ও প্রচেষ্টা ঠিক করে। Paragraph 1: উক্তিটি নিজের ভাষায় বলুন। Paragraph 2: পটভূমি কেন নিয়তি নয় (সাধারণ অবস্থা থেকে উঠে আসা মানুষের উদাহরণ)। Paragraph 3: প্রচেষ্টা, শিক্ষা ও চরিত্রের ভূমিকা। Paragraph 4: ভারসাম্যপূর্ণ মন্তব্য (সুযোগ এখনো গুরুত্বপূর্ণ; সমাজকে তা বিস্তৃত করতে হবে)। উপসংহার: আমরা যা হয়ে উঠি তা আমাদেরই অর্জন।\nকাজের phrase: 'self-made', 'overcome adversity', 'level the playing field'।",
+   "rule_ids": [
+    "essay"
+   ]
+  }
+ }
+}

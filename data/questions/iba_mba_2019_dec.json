@@ -1,0 +1,706 @@
+{
+  "exam": {
+    "institute": "IBA (DU)",
+    "program": "MBA",
+    "session": "Dec 2019",
+    "source_pdf": "iba_mba_dec_2019.pdf",
+    "parts_marks": {
+      "mcq": 70,
+      "writing": 30
+    }
+  },
+  "parts": [
+    {
+      "part_label": "Part I: Multiple Choice Questions [70 marks]",
+      "sections": [
+        {
+          "section_no": 1,
+          "source_section_label": "Section-1: Math",
+          "subject": "mathematics",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "problem-solving",
+                  "stem": "1. XYZ+ZY = 333, if X = 3, Y > Z and X, Y, Z all are distinct single digit positive integer then what could be the value of XY?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "0"
+                    },
+                    {
+                      "label": "B",
+                      "text": "1"
+                    },
+                    {
+                      "label": "C",
+                      "text": "2"
+                    },
+                    {
+                      "label": "D",
+                      "text": "3"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "With the 3-digit number XYZ = 300+10Y+Z and the 2-digit ZY = 10Z+Y: 300+11Y+11Z = 333, so Y+Z = 3. Y>Z with distinct positive digits gives Y=2, Z=1 (X=3): 321+12 = 333. The printed answer key gives D (=3), which is the value of X; the \"XY\" in the stem is a misprint for the single quantity X (the only option equal to a solved digit that matches the key). Answer D.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "problem-solving",
+                  "stem": "2. Nahiyan and moon's salary was 43200 and 28800 respectively, both their salary got increased by X and now ratio of their salary is 7:5. Find the value of X.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "5400"
+                    },
+                    {
+                      "label": "B",
+                      "text": "7200"
+                    },
+                    {
+                      "label": "C",
+                      "text": "8800"
+                    },
+                    {
+                      "label": "D",
+                      "text": "12000"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$\\frac{43200+X}{28800+X}=\\frac75\\Rightarrow5(43200+X)=7(28800+X)\\Rightarrow216000+5X=201600+7X\\Rightarrow2X=14400\\Rightarrow X=7200$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 3,
+                  "question_type": "problem-solving",
+                  "stem": "3. The perimeter of rectangular x is 240, length of rectangular x is 10 m more than rectangular y, the width of rectangular x is 10 meter less than rectangular y. If rectangular y is a square, find area of rectangular x.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "3000"
+                    },
+                    {
+                      "label": "B",
+                      "text": "3200"
+                    },
+                    {
+                      "label": "C",
+                      "text": "3500"
+                    },
+                    {
+                      "label": "D",
+                      "text": "4000"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Rectangle x: $L+W=120$. Let the square y have side $s$; then $L=s+10,\\,W=s-10$, so $L+W=2s=120\\Rightarrow s=60$. Thus $L=70,\\,W=50$ and area $=70\\times50=3500$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 4,
+                  "question_type": "problem-solving",
+                  "stem": "4. One bought x number of pen at a rate of 7 tk and 2x number of another pen at rate of 10 tk. He sold them at 96 tk/ dozen and made loss 720 tk. How many pens he bought?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "825"
+                    },
+                    {
+                      "label": "B",
+                      "text": "720"
+                    },
+                    {
+                      "label": "C",
+                      "text": "603"
+                    },
+                    {
+                      "label": "D",
+                      "text": "240"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Cost $=7x+10(2x)=27x$; total pens $=3x$ sold at $96/12=8$ tk each for revenue $24x$. Loss $=27x-24x=3x=720\\Rightarrow x=240$, so total pens $=3x=720$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 5,
+                  "question_type": "problem-solving",
+                  "stem": "5. In a recruitment, a company selects male 60%. 75% of male are from commerce background and 75% of female are from non-commerce backgroun(D) Number of total members 80. What percent is chosen from commerce background?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "40"
+                    },
+                    {
+                      "label": "B",
+                      "text": "44"
+                    },
+                    {
+                      "label": "C",
+                      "text": "50"
+                    },
+                    {
+                      "label": "D",
+                      "text": "55"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Of 80: males $=48$, females $=32$. Commerce males $=0.75\\times48=36$; commerce females $=25\\%\\times32=8$. Total commerce $=44$, i.e. $44/80=55\\%$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 6,
+                  "question_type": "problem-solving",
+                  "stem": "6. Company PQR has 3 machines. Machine A take 5 minutes to produce the item, machine b takes 12 minutes to produce 2 and machine c takes 10 minutes to produce the item. If they run simultaneously how many hours will it take to produce 294 of the said item?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "10"
+                    },
+                    {
+                      "label": "B",
+                      "text": "10.5"
+                    },
+                    {
+                      "label": "C",
+                      "text": "11"
+                    },
+                    {
+                      "label": "D",
+                      "text": "630"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Rates per hour: A $=60/5=12$, B $=2\\times(60/12)=10$, C $=60/10=6$. Combined $=28$ items/hr, so $294/28=10.5$ hours.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 7,
+                  "question_type": "problem-solving",
+                  "stem": "7. In a group of 1200 people, 80% were women, a certain amount of women left and new percentage of women is 70%, how many women left the group?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "200"
+                    },
+                    {
+                      "label": "B",
+                      "text": "280"
+                    },
+                    {
+                      "label": "C",
+                      "text": "36"
+                    },
+                    {
+                      "label": "D",
+                      "text": "400"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Women $=960$. If $w$ leave: $\\frac{960-w}{1200-w}=0.7\\Rightarrow960-w=840-0.7w\\Rightarrow0.3w=120\\Rightarrow w=400$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 8,
+                  "question_type": "problem-solving",
+                  "stem": "8. $(x^{2}+3)$ when divided by 32 and remainder is 7 and if x is a positive integer then which of the following must also be an integer?\ni. $\\frac{x}{2}$    ii. $\\frac{x}{4}$    iii. $\\frac{x}{6}$",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "i"
+                    },
+                    {
+                      "label": "B",
+                      "text": "ii"
+                    },
+                    {
+                      "label": "C",
+                      "text": "i & iii"
+                    },
+                    {
+                      "label": "D",
+                      "text": "iii"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "$x^{2}+3\\equiv7\\pmod{32}\\Rightarrow x^{2}\\equiv4\\pmod{32}$. The solutions are $x\\equiv2\\pmod4$ (e.g. 2, 6, 10, 14), so $x$ is even and $x/2$ is always an integer, while $x/4$ and $x/6$ are not. Only i.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 9,
+                  "question_type": "problem-solving",
+                  "stem": "9. If  $3x - 2 \\geq 1$ , what is the least possible value of  $3x + 2$ ?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "5"
+                    },
+                    {
+                      "label": "B",
+                      "text": "3"
+                    },
+                    {
+                      "label": "C",
+                      "text": "2"
+                    },
+                    {
+                      "label": "D",
+                      "text": "1"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "$3x-2\\ge1\\Rightarrow3x\\ge3$, so $3x+2\\ge5$; the least value is 5.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 10,
+                  "question_type": "problem-solving",
+                  "stem": "10. 5 times of a number is equal 2 times of cube of the number less than 6. What is the square of the number?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{1}{4}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "2"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{9}{4}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "4"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "Reading it as \"5 times the number equals 2 times its cube, minus 6\": $5n=2n^{3}-6\\Rightarrow2n^{3}-5n-6=0$. Testing $n=2$: $16-10-6=0$, so $n=2$ and $n^{2}=4$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 11,
+                  "question_type": "problem-solving",
+                  "stem": "11. If average of a, b, c, d is 5 and a < b < c < d what is the greatest possible value of d if all of them are positive integer?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "15"
+                    },
+                    {
+                      "label": "B",
+                      "text": "16"
+                    },
+                    {
+                      "label": "C",
+                      "text": "14"
+                    },
+                    {
+                      "label": "D",
+                      "text": "17"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Sum $=20$. To maximise $d$, minimise the distinct smaller integers $a,b,c=1,2,3$, giving $d=20-6=14$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 12,
+                  "question_type": "problem-solving",
+                  "stem": "12. Integer x when divided by y, quotient is 11 and remainder is 4, and x is divided by 16 quotient is 4 and remainder is y. Find the value of X.",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "60"
+                    },
+                    {
+                      "label": "B",
+                      "text": "70"
+                    },
+                    {
+                      "label": "C",
+                      "text": "80"
+                    },
+                    {
+                      "label": "D",
+                      "text": "90"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "$x=11y+4$ and $x=16\\cdot4+y=64+y$. So $11y+4=64+y\\Rightarrow10y=60\\Rightarrow y=6$, and $x=70$ (remainders $4<6$ and $6<16$ are valid).",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 13,
+                  "question_type": "problem-solving",
+                  "stem": "13. By selling 60 oranges at 624 taka, loss is equal to cost price of 8 oranges, the cost price of one orange is:",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "10"
+                    },
+                    {
+                      "label": "B",
+                      "text": "10.5"
+                    },
+                    {
+                      "label": "C",
+                      "text": "11"
+                    },
+                    {
+                      "label": "D",
+                      "text": "11.5"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "E",
+                  "explanation": "Let cost per orange $=c$. Loss $=60c-624=8c\\Rightarrow52c=624\\Rightarrow c=12$, which is not among A-D, so the answer is E.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 14,
+                  "question_type": "problem-solving",
+                  "stem": "14. In a charity 70 people contributes 11500 taka, 100 per men and 200 per women, find the number of women that contributed",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "36"
+                    },
+                    {
+                      "label": "B",
+                      "text": "40"
+                    },
+                    {
+                      "label": "C",
+                      "text": "42"
+                    },
+                    {
+                      "label": "D",
+                      "text": "45"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$m+w=70$ and $100m+200w=11500\\Rightarrow m+2w=115$. Subtracting gives $w=45$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 15,
+                  "question_type": "problem-solving",
+                  "stem": "15. In a picnic, a went P% at a rate 20km/hr and remaining at a rate of 30km/hr. What is his avg speed?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$\\frac{6000}{p+200}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$\\frac{p+200}{6000}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$\\frac{100-p}{30}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$\\frac{6000}{p-200}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "For 100 units of distance, time $=\\frac{P}{20}+\\frac{100-P}{30}=\\frac{3P+2(100-P)}{60}=\\frac{P+200}{60}$. Average speed $=\\frac{100}{(P+200)/60}=\\frac{6000}{P+200}$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 16,
+                  "question_type": "problem-solving",
+                  "stem": "16. Average of 3 positive integer a, b, c is 111; If b is 2 more than c, then which of the following must be true?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "a is odd"
+                    },
+                    {
+                      "label": "B",
+                      "text": "b is odd"
+                    },
+                    {
+                      "label": "C",
+                      "text": "a is even"
+                    },
+                    {
+                      "label": "D",
+                      "text": "b is even"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "A",
+                  "explanation": "$a+b+c=333$ (odd). With $b=c+2$: $a+2c+2=333\\Rightarrow a+2c=331$, so $a=331-2c$ is odd. Thus a is odd.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 17,
+                  "question_type": "problem-solving",
+                  "stem": "17. A company bought $7.3 * 10^{5}$ papers , research department use $8.9 * 10^{3}$ papers , papers left is",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "$1.6 * 10^{2}$"
+                    },
+                    {
+                      "label": "B",
+                      "text": "$1.6 * 10^{4}$"
+                    },
+                    {
+                      "label": "C",
+                      "text": "$7.2 * 10^{3}$"
+                    },
+                    {
+                      "label": "D",
+                      "text": "$7.2 * 10^{5}$"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "D",
+                  "explanation": "$730000-8900=721100\\approx7.2\\times10^{5}$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 18,
+                  "question_type": "problem-solving",
+                  "stem": "18. A 16-ounce jar birdseed is $10\\%$ sesame. How much sesame must be added to make the jar $20\\%$\nsesame?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "1 ounce"
+                    },
+                    {
+                      "label": "B",
+                      "text": "1.6 ounce"
+                    },
+                    {
+                      "label": "C",
+                      "text": "2 ounce"
+                    },
+                    {
+                      "label": "D",
+                      "text": "2.4 ounce"
+                    },
+                    {
+                      "label": "E",
+                      "text": "4 ounce"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Sesame $=1.6$ oz. Adding $s$ oz of sesame: $\\frac{1.6+s}{16+s}=0.2\\Rightarrow1.6+s=3.2+0.2s\\Rightarrow0.8s=1.6\\Rightarrow s=2$.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 19,
+                  "question_type": "problem-solving",
+                  "stem": "19. Helen bought a ticket for $\\$$ 252. If she'd bought it 1 day later, she would have paid $\\$$306. How many days in advance did she buy her ticket?\nConference Ticket Advance Discounts: ♦ 5-29 days in advance 15%\n♦ 30-59 day in advance 30% ♦ 60-89 day in advance 40%",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "5"
+                    },
+                    {
+                      "label": "B",
+                      "text": "30"
+                    },
+                    {
+                      "label": "C",
+                      "text": "59"
+                    },
+                    {
+                      "label": "D",
+                      "text": "60"
+                    },
+                    {
+                      "label": "E",
+                      "text": "89"
+                    }
+                  ],
+                  "answer": "B",
+                  "explanation": "Buying one day later means fewer days in advance and a smaller discount. Crossing the 30-day boundary: at 30 days the 30% discount gives $0.7F=252\\Rightarrow F=360$; at 29 days the 15% discount gives $0.85\\times360=306$. So she bought 30 days in advance.",
+                  "images": [],
+                  "needs_review": false
+                },
+                {
+                  "number": 20,
+                  "question_type": "problem-solving",
+                  "stem": "20. In a club, 60% are male and $\\frac{2}{3}$ of them like games. If all the members in the club like music or game and 70% of the members like games, what percent of the females like music?",
+                  "options": [
+                    {
+                      "label": "A",
+                      "text": "15%"
+                    },
+                    {
+                      "label": "B",
+                      "text": "25.5%"
+                    },
+                    {
+                      "label": "C",
+                      "text": "25%"
+                    },
+                    {
+                      "label": "D",
+                      "text": "12%"
+                    },
+                    {
+                      "label": "E",
+                      "text": "None of these"
+                    }
+                  ],
+                  "answer": "C",
+                  "explanation": "Take 100 members: 60 male, 40 female. Males who like games $=\\frac23\\times60=40$. Total who like games $=70$, so females who like games $=30$, leaving $40-30=10$ females who like music — i.e. $\\frac{10}{40}=25\\%$ of the females.",
+                  "images": [],
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_label": "Part II: Writing Ability [30 marks]",
+      "sections": [
+        {
+          "section_no": 2,
+          "source_section_label": "Part II: Writing Ability [30 marks]",
+          "subject": "writing",
+          "groups": [
+            {
+              "source_group_label": null,
+              "instruction": null,
+              "stimulus": {
+                "passage": null,
+                "image": null,
+                "table": null
+              },
+              "questions": [
+                {
+                  "number": 1,
+                  "question_type": "essay",
+                  "stem": "1. The greatest glory in living lies not in never falling, but in rising every time we fall.",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended essay on resilience. Interpret the quote (success is measured by recovering from failure, not avoiding it), support with reasoning and examples, and conclude. No single correct answer.",
+                  "marks": 15,
+                  "needs_review": false
+                },
+                {
+                  "number": 2,
+                  "question_type": "essay",
+                  "stem": "2. Self-employment",
+                  "options": [],
+                  "answer": null,
+                  "explanation": "Open-ended essay on self-employment. Discuss its meaning, advantages (independence, income potential, job creation), challenges (risk, capital, uncertainty) and relevance for the economy, then conclude. No single correct answer.",
+                  "marks": 15,
+                  "needs_review": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    "Q19 discount bullets are printed in a staggered two-line layout; stored in left-to-right reading order (5-29, 30-59, 60-89 days).",
+    "Q5 prints 'backgroun(D)' (kept). Q17 prints '*' for multiplication (kept).",
+    "Marks printed: Part I [70 marks] (only 20 math questions present in this source), Part II [30 marks] (15 + 15).",
+    "Answers and explanations are out of scope (to be regenerated by the user); stored values are unreliable."
+  ]
+}

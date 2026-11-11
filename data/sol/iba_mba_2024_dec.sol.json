@@ -1,0 +1,354 @@
+{
+ "exam": "iba_mba_2024_dec",
+ "items": {
+  "2-9": {
+   "en": "P(neither red nor purple) = 0.85, so white + yellow = 0.85 × 60 = 51. Yellow = 51 − 40 = 11.",
+   "bn": "P(red বা purple নয়) = 0.85, তাই white + yellow = 0.85 × 60 = 51। Yellow = 51 − 40 = 11।",
+   "answer": "D",
+   "formula_ids": [
+    "probability"
+   ]
+  },
+  "2-10": {
+   "en": "Line M passes through (0, −3) and (4, 0): slope = 3/4. A parallel line has slope 3/4 and a positive Y-intercept. 4y − 3x = 4 gives y = 3x/4 + 1: slope 3/4, intercept +1. That is C.",
+   "bn": "Line M (0, −3) ও (4, 0) বিন্দু দিয়ে যায়: ঢাল = 3/4। সমান্তরাল রেখার ঢাল 3/4 এবং Y-অক্ষের ধনাত্মক ছেদক। 4y − 3x = 4 থেকে y = 3x/4 + 1: ঢাল 3/4, ছেদক +1। এটি C।",
+   "answer": "C",
+   "formula_ids": [
+    "geometry",
+    "algebra"
+   ],
+   "note": "Uses the figure: line M passes through (0, −3) and (4, 0)."
+  },
+  "2-11": {
+   "en": "(xΩzΩ144) means x^z divides 144 but x^(z+1) does not. 144 = 2⁴ × 3². x = 2 (z = 4), x = 3 (z = 2), x = 4 (z = 2, 16 | 144, 64 ∤ 144) and x = 6 (z = 2, 36 | 144, 216 ∤ 144) are all possible. So none is NOT a possible value.",
+   "bn": "(xΩzΩ144) মানে x^z, 144-কে ভাগ করে কিন্তু x^(z+1) করে না। 144 = 2⁴ × 3²। x = 2 (z = 4), x = 3 (z = 2), x = 4 (z = 2, 16 | 144, 64 ∤ 144) এবং x = 6 (z = 2, 36 | 144, 216 ∤ 144) সবই সম্ভব। তাই 'সম্ভব নয়' এমন কোনোটিই নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "numprop",
+    "exponents"
+   ]
+  },
+  "2-12": {
+   "en": "Take 100 papers: B = p at tk 1, A = 100 − p at tk 1.25. Revenue from B = p; total = p + 1.25(100 − p) = 125 − 0.25p. r = 100p/(125 − 0.25p) = 400p/(500 − p).",
+   "bn": "100টি কাগজ ধরি: B = p (tk 1 দরে), A = 100 − p (tk 1.25 দরে)। B থেকে আয় = p; মোট = p + 1.25(100 − p) = 125 − 0.25p। r = 100p/(125 − 0.25p) = 400p/(500 − p)।",
+   "answer": "C",
+   "formula_ids": [
+    "pct-change",
+    "algebra"
+   ]
+  },
+  "2-13": {
+   "en": "First 5 km at 12 km/h takes 25 min. The remaining 5 km took 55 − 25 = 30 min, i.e. 10 km/h.",
+   "bn": "প্রথম 5 km 12 km/h গতিতে লাগে 25 মিনিট। বাকি 5 km লেগেছে 55 − 25 = 30 মিনিট, অর্থাৎ 10 km/h।",
+   "answer": "C",
+   "formula_ids": [
+    "speed"
+   ]
+  },
+  "2-14": {
+   "en": "Minutes = 45n, taka = 12n. 45n = 12n + 132 ⇒ 33n = 132 ⇒ n = 4 classes.",
+   "bn": "মিনিট = 45n, টাকা = 12n। 45n = 12n + 132 ⇒ 33n = 132 ⇒ n = 4টি class।",
+   "answer": "A",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-15": {
+   "en": "Perimeter 2(50 + w) = 0.44 × 50w ⇒ 100 + 2w = 22w ⇒ w = 5. Area = 250 sq ft, cost = 250 × 425 = 106,250.",
+   "bn": "পরিসীমা 2(50 + w) = 0.44 × 50w ⇒ 100 + 2w = 22w ⇒ w = 5। ক্ষেত্রফল = 250 sq ft, খরচ = 250 × 425 = 106,250।",
+   "answer": "C",
+   "formula_ids": [
+    "geometry"
+   ]
+  },
+  "2-16": {
+   "en": "Akil = A, Kibria = A + 5. After the gift: A + 10 = 4(A − 5) ⇒ 3A = 30 ⇒ A = 10.",
+   "bn": "Akil = A, Kibria = A + 5। দেওয়ার পর: A + 10 = 4(A − 5) ⇒ 3A = 30 ⇒ A = 10।",
+   "answer": "C",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-17": {
+   "en": "One worker folds 60/(12 × 9) = 5/9 sheet per minute. 27 workers fold 15 per minute, so 180 sheets take 12 minutes, which is not listed.",
+   "bn": "একজন শ্রমিক মিনিটে 60/(12 × 9) = 5/9 কাপড় ভাঁজ করে। 27 জন মিনিটে 15টি, তাই 180টি লাগে 12 মিনিট, যা option-এ নেই।",
+   "answer": "E",
+   "formula_ids": [
+    "work"
+   ]
+  },
+  "2-18": {
+   "en": "Expanding, the cross terms cancel: (x − 2)² + (x − 1)² + x² + (x + 1)² + (x + 2)² = 5x² + 2(4 + 1) = 5x² + 10.",
+   "bn": "বিস্তার করলে x-এর পদগুলো কাটাকাটি হয়: (x − 2)² + (x − 1)² + x² + (x + 1)² + (x + 2)² = 5x² + 2(4 + 1) = 5x² + 10।",
+   "answer": "B",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-19": {
+   "en": "Weight of 50 balls = 100 lbs. With the container the average is 2.05 over 51 items: 104.55. Container = 4.55 lbs.",
+   "bn": "50টি বলের ওজন = 100 lbs। container সহ 51টির গড় 2.05: মোট 104.55। Container = 4.55 lbs।",
+   "answer": "C",
+   "formula_ids": [
+    "average"
+   ]
+  },
+  "2-20": {
+   "en": "With 10 colours in a repeating cycle, 20 candies give each colour twice; the 21st candy is the third of some colour. That is 21 candies = 7 sets of three, costing 7 × 25 = tk 175.",
+   "bn": "10টি রঙের পুনরাবৃত্ত চক্রে 20টি candy-তে প্রতিটি রং দুবার আসে; 21তম candy কোনো একটি রঙের তৃতীয়টি। অর্থাৎ 21টি candy = তিনটির 7টি সেট, খরচ 7 × 25 = tk 175।",
+   "answer": "C",
+   "formula_ids": [
+    "combinatorics"
+   ]
+  },
+  "2-21": {
+   "en": "37 : 43 differ by 6 parts = 300, so 1 part = 50. Giraffes = 37 × 50 = 1850.",
+   "bn": "37 : 43-এর পার্থক্য 6 ভাগ = 300, তাই 1 ভাগ = 50। Giraffe = 37 × 50 = 1850।",
+   "answer": "B",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "2-22": {
+   "en": "SP = 1.1c. With cost 0.9c and SP = 1.1c − 5 the profit is 20%: 1.1c − 5 = 1.08c ⇒ 0.02c = 5 ⇒ c = 250.",
+   "bn": "SP = 1.1c। cost 0.9c এবং SP = 1.1c − 5 হলে লাভ 20%: 1.1c − 5 = 1.08c ⇒ 0.02c = 5 ⇒ c = 250।",
+   "answer": "B",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "2-23": {
+   "en": "Reading the age data as 60% of members ≤ 60 (so 40% above 60): engineers = 40% of members; engineers above 60 = 25% × 40% = 10%, so engineers ≤ 60 = 30%. Non-engineers = 60%, of whom above 60 = 40% − 10% = 30%, so ≤ 60 = 30%. Required = 30/60 = 50%.",
+   "bn": "বয়সের তথ্যকে 60% সদস্যের বয়স ≤ 60 (তাই 40% > 60) পড়লে: engineer = সদস্যের 40%; 60-এর বেশি বয়সী engineer = 25% × 40% = 10%, তাই ≤ 60 বয়সী engineer = 30%। Non-engineer = 60%, তাদের মধ্যে 60-এর বেশি = 40% − 10% = 30%, তাই ≤ 60 = 30%। নির্ণেয় = 30/60 = 50%।",
+   "answer": "A (50%)",
+   "formula_ids": [
+    "sets",
+    "pct-change"
+   ],
+   "note": "The printed age data conflict ('more than 20' vs 'above 60'); the key reads '60% of the members are 60 or younger'."
+  },
+  "2-24": {
+   "en": "As printed, 15 workers finishing in exactly 40 days leaves no slack. The reading that gives a clean option: 15 workers would finish the job in 35 days (525 worker-days) and the deadline is 40 days. After d days with 15 workers and (40 − d) days with 10: 15d + 10(40 − d) = 525 ⇒ d = 25.",
+   "bn": "ছাপা অনুযায়ী 15 জন ঠিক 40 দিনে কাজ শেষ করলে বাড়তি সময় থাকে না। যে পাঠ পরিষ্কার option দেয়: 15 জন 35 দিনে (525 জন-দিন) কাজ শেষ করতে পারে এবং সময়সীমা 40 দিন। d দিন 15 জন এবং (40 − d) দিন 10 জন: 15d + 10(40 − d) = 525 ⇒ d = 25।",
+   "answer": "B (25 days)",
+   "formula_ids": [
+    "work"
+   ],
+   "note": "As printed (15 workers finish in exactly 40 days) no slack exists; the key takes 35 days for 15 workers as the intended reading."
+  },
+  "2-25": {
+   "en": "x³ − x + 1 = (x − 1)x(x + 1) + 1: a product of three consecutive integers is even, so the expression is always odd.",
+   "bn": "x³ − x + 1 = (x − 1)x(x + 1) + 1: পরপর তিনটি integer-এর গুণফল জোড়, তাই রাশিটি সবসময় বিজোড়।",
+   "answer": "C",
+   "formula_ids": [
+    "numprop"
+   ]
+  },
+  "2-26": {
+   "en": "6x + 5y = 0.7 × 10y = 7y ⇒ 6x = 2y ⇒ y/x = 3.",
+   "bn": "6x + 5y = 0.7 × 10y = 7y ⇒ 6x = 2y ⇒ y/x = 3।",
+   "answer": "C",
+   "formula_ids": [
+    "algebra"
+   ]
+  },
+  "2-27": {
+   "en": "Let cycling c and walking w (km/h). 48/c + 10/w = 6.5 and 40/c + 18/w = 6.5 + 4/3. Multiplying by 5 and 6 and subtracting: 58/w = 14.5 ⇒ w = 4, then c = 12. Ratio 12 : 4 = 3 : 1.",
+   "bn": "সাইকেলের গতি c, হাঁটার গতি w (km/h)। 48/c + 10/w = 6.5 এবং 40/c + 18/w = 6.5 + 4/3। 5 ও 6 দিয়ে গুণ করে বিয়োগ করলে 58/w = 14.5 ⇒ w = 4, তখন c = 12। অনুপাত 12 : 4 = 3 : 1।",
+   "answer": "B",
+   "formula_ids": [
+    "speed",
+    "algebra"
+   ]
+  },
+  "2-28": {
+   "en": "Values in the ratio 7 : 2 : 3 of 360 are 210, 60 and 90. Number of tk 5 notes = 60/5 = 12.",
+   "bn": "মূল্যের অনুপাত 7 : 2 : 3, মোট 360: 210, 60 ও 90। tk 5-এর note = 60/5 = 12টি।",
+   "answer": "B",
+   "formula_ids": [
+    "ratio"
+   ]
+  },
+  "2-29": {
+   "en": "Selling price = 1.8c. New cost = 1.2c. Profit = 0.6c/1.2c = 50%.",
+   "bn": "Selling price = 1.8c। নতুন cost = 1.2c। লাভ = 0.6c/1.2c = 50%।",
+   "answer": "C",
+   "formula_ids": [
+    "profit-loss"
+   ]
+  },
+  "2-30": {
+   "en": "Sum now = 56 + 3 × 8 = 80 = 20k ⇒ k = 4: ages 20, 28, 32. Eight years later: 28, 36, 40.",
+   "bn": "এখন যোগফল = 56 + 3 × 8 = 80 = 20k ⇒ k = 4: বয়স 20, 28, 32। আট বছর পর: 28, 36, 40।",
+   "answer": "B",
+   "formula_ids": [
+    "age",
+    "ratio"
+   ]
+  },
+  "2-31": {
+   "en": "With C = (0, 0), D = (w, 0), A = (0, h), B = (w, h): equal areas of EBF and FBD give EF = FD, and CE = EF, so E, F trisect CD (e = w/3, f = 2w/3). Line BF meets XY at x = 5w/6, so QY = w/6 = 2 ⇒ w = 12 (e = 4, f = 8). ABEC = ½h(12 + 4) = 8h; BEF = ½(4)h = 2h. Ratio 4 : 1.",
+   "bn": "C = (0, 0), D = (w, 0), A = (0, h), B = (w, h) ধরি: EBF ও FBD-র ক্ষেত্রফল সমান হওয়ায় EF = FD, আর CE = EF, তাই E, F, CD-কে তিন সমান ভাগ করে (e = w/3, f = 2w/3)। BF রেখা XY-কে x = 5w/6-এ ছেদ করে, তাই QY = w/6 = 2 ⇒ w = 12 (e = 4, f = 8)। ABEC = ½h(12 + 4) = 8h; BEF = ½(4)h = 2h। অনুপাত 4 : 1।",
+   "answer": "A",
+   "formula_ids": [
+    "geometry"
+   ],
+   "note": "Uses the figure: rectangle ABDC with E, F on CD."
+  },
+  "2-32": {
+   "en": "x + y = 10. (1) y > 4 allows y = 4.5 (x > y) and y = 6 (x < y): not sufficient. (2) 4x + 6y < 50 ⇒ 40 + 2y < 50 ⇒ y < 5 ⇒ x > 5 > y: sufficient. Statement II alone.",
+   "bn": "x + y = 10। (1) y > 4 হলে y = 4.5 (x > y) ও y = 6 (x < y) দুটিই সম্ভব: যথেষ্ট নয়। (2) 4x + 6y < 50 ⇒ 40 + 2y < 50 ⇒ y < 5 ⇒ x > 5 > y: যথেষ্ট। শুধু statement II।",
+   "answer": "B",
+   "formula_ids": [
+    "ds-method"
+   ]
+  },
+  "2-33": {
+   "en": "Profit on two pizzas equals profit on one at regular price: (R − c) + (D − c) = R − c ⇒ D = c, the cost to prepare. Statement II gives c = 400. Statement II alone is sufficient; the regular price is not needed.",
+   "bn": "দুটি pizza-তে লাভ = regular price-এ একটি বিক্রির লাভ: (R − c) + (D − c) = R − c ⇒ D = c, অর্থাৎ তৈরির খরচ। Statement II থেকে c = 400। শুধু statement II-ই যথেষ্ট; regular price লাগে না।",
+   "answer": "B",
+   "formula_ids": [
+    "ds-method"
+   ]
+  },
+  "3-34": {
+   "en": "Enumerating every valid issue plan: J needs K in its issue, M needs O in the previous issue (so M cannot be in winter), O and P never together, no author in consecutive issues, each issue has at least two articles. Winter can be exactly L, N, O (the other lists break a rule: e.g. J without K, or M in winter).",
+   "bn": "প্রতিটি বৈধ issue-পরিকল্পনা যাচাই করলে: J-এর সাথে K লাগে, M-এর আগের issue-তে O লাগে (তাই M winter-এ থাকতে পারে না), O ও P একসাথে নয়, কোনো লেখক পরপর issue-তে নয়, প্রতি issue-তে অন্তত দুটি লেখা। Winter হতে পারে ঠিক L, N, O (অন্য তালিকা নিয়ম ভাঙে: যেমন K ছাড়া J বা winter-এ M)।",
+   "answer": "D",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-35": {
+   "en": "Winter = J, K, so neither appears in spring (no consecutive issues). M needs O in the preceding issue, so M cannot be in spring (O is not in winter) and must go in fall, which needs O in spring. So spring must contain O: only L and O works (L, N lacks O; M, P puts M in spring; J, K, P repeats J, K; L, O, P puts O with P).",
+   "bn": "Winter = J, K, তাই spring-এ দুজন কেউই নেই (পরপর issue নয়)। M-এর ঠিক আগের issue-তে O লাগে, তাই M spring-এ থাকতে পারে না (winter-এ O নেই) এবং fall-এ যাবে, যার জন্য spring-এ O লাগে। অতএব spring-এ O থাকতেই হবে: শুধু L ও O চলে (L, N-এ O নেই; M, P-তে M spring-এ; J, K, P-তে J, K পুনরাবৃত্তি; L, O, P-তে O ও P একসাথে)।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-36": {
+   "en": "M needs O in the immediately preceding issue, but nothing precedes winter. So M cannot contribute to the winter issue.",
+   "bn": "M-এর জন্য ঠিক আগের issue-তে O লাগে, কিন্তু winter-এর আগে কোনো issue নেই। তাই M winter issue-তে লিখতে পারে না।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-37": {
+   "en": "Winter = K, L, P, so none of them can be in spring. J needs K in its issue, so J must be in fall with K. M cannot be in winter or spring (it needs O in the preceding issue, and winter has no O), so M goes in fall with O in spring. Every valid plan therefore has K in fall.",
+   "bn": "Winter = K, L, P, তাই এদের কেউ spring-এ থাকতে পারে না। J-এর issue-তে K লাগে, তাই J অবশ্যই K-র সাথে fall-এ। M winter বা spring-এ থাকতে পারে না (আগের issue-তে O লাগে, আর winter-এ O নেই), তাই M fall-এ এবং O spring-এ। অতএব প্রতিটি বৈধ পরিকল্পনায় K fall-এ।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-38": {
+   "en": "Fall = K, L, M means M needs O in spring, and K and L cannot be in spring. The remaining authors N and O form the spring issue exactly: N and O.",
+   "bn": "Fall = K, L, M হলে M-এর জন্য spring-এ O লাগে, এবং K ও L spring-এ থাকতে পারে না। বাকি লেখক N ও O ঠিকভাবে spring issue গঠন করে: N ও O।",
+   "answer": "C",
+   "formula_ids": [
+    "puzzle-method"
+   ]
+  },
+  "3-39": {
+   "en": "G selected excludes D, so the five come from A, B, C, E, F, G with G in: exactly one of A, B, C, E, F is left out. C cannot be left out (then F would be selected without C). Only C is forced. The printed option B reads 'O' (a misprint for C).",
+   "bn": "G নির্বাচিত হলে D বাদ, তাই পাঁচজন আসে A, B, C, E, F, G থেকে, G সহ: A, B, C, E, F-এর ঠিক একজন বাদ। C বাদ যেতে পারে না (তখন C ছাড়া F থাকত)। শুধু C বাধ্যতামূলক। ছাপা option B-তে 'O' আছে (C-এর misprint)।",
+   "answer": "B",
+   "formula_ids": [
+    "puzzle-method"
+   ],
+   "note": "Printed option B reads 'O', a misprint for C; only C is forced."
+  },
+  "3-40": {
+   "en": "A, B, E are fixed; the other two come from C, D, F, G with exactly one of D or G. F would need C and leave no room for D/G, so the pair is {C, D} or {C, G}. Of the printed options, C and D is the intended key.",
+   "bn": "A, B, E নির্দিষ্ট; বাকি দুজন আসে C, D, F, G থেকে, D বা G-এর ঠিক একজন। F-এর জন্য C লাগে এবং D/G-এর জায়গা থাকে না, তাই জোড়া {C, D} বা {C, G}। ছাপা option-গুলোর মধ্যে C ও D-ই নির্ধারিত key।",
+   "answer": "A",
+   "formula_ids": [
+    "puzzle-method"
+   ],
+   "note": "Options D and E are misprinted; A (C and D) is taken as the key (C and G would also fit)."
+  },
+  "1-1": {
+   "en": "Mill wrote the essay to support utilitarianism and to respond to 'misconceptions' about it: critics' wrong ideas are things one responds to. 'Acclamations' (praise) and 'appraisals' do not need a response.",
+   "bn": "Mill প্রবন্ধটি লিখেছেন utilitarianism-কে সমর্থন করতে এবং এর বিষয়ে 'misconceptions'-এর উত্তর দিতে: সমালোচকদের ভুল ধারণার উত্তর দিতে হয়। 'Acclamations' (প্রশংসা) ও 'appraisals'-এর উত্তর দিতে হয় না।",
+   "answer": "misconceptions",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-2": {
+   "en": "Actions are right 'as they tend to promote happiness', the opposite of 'produce the reverse of happiness'. 'Preclude' means prevent, so it reverses the meaning.",
+   "bn": "কাজ ঠিক 'as they tend to promote happiness', যা 'produce the reverse of happiness'-এর বিপরীত। 'Preclude' মানে প্রতিরোধ, অর্থ উল্টে যায়।",
+   "answer": "promote",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-3": {
+   "en": "Mill argues that utilitarianism 'coincides with' natural social sentiments (agrees with them). 'Conflicts with' would contradict the argument that people would naturally accept it.",
+   "bn": "Mill বলেন utilitarianism স্বাভাবিক সামাজিক অনুভূতির সাথে 'coincides' (মিলে যায়)। 'Conflicts with' হলে 'মানুষ স্বাভাবিকভাবে গ্রহণ করবে' যুক্তির বিরোধ হয়।",
+   "answer": "coincides",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-4": {
+   "en": "'People would naturally internalize these standards as morally binding' means accept them as their own. 'Initiate' and 'instrumentalize' do not fit.",
+   "bn": "'People would naturally internalize these standards as morally binding' মানে এগুলোকে নিজের বলে গ্রহণ করা। 'Initiate' ও 'instrumentalize' মেলে না।",
+   "answer": "internalize",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-5": {
+   "en": "Critics say the theory does not provide 'adequate' protection for individual rights. 'Inadequate' would create a double negative, and 'abundant' is too strong.",
+   "bn": "সমালোচকরা বলেন theory ব্যক্তি-অধিকারের 'adequate' সুরক্ষা দেয় না। 'Inadequate' হলে double negative হয়, আর 'abundant' অতিরিক্ত জোরালো।",
+   "answer": "adequate",
+   "rule_ids": [
+    "vocab"
+   ]
+  },
+  "1-6": {
+   "en": "'Jet stream anomalies' are unusual deviations from the normal pattern: 'aberrations'.",
+   "bn": "'Jet stream anomalies' হলো স্বাভাবিক ধারা থেকে অস্বাভাবিক বিচ্যুতি: 'aberrations'।",
+   "answer": "aberrations (irregularities / deviations)",
+   "rule_ids": [
+    "vocab",
+    "rc-method"
+   ]
+  },
+  "1-7": {
+   "en": "'Paleo-' means ancient, so a paleoclimatologist studies past climates, using evidence such as tree rings.",
+   "bn": "'Paleo-' মানে প্রাচীন, তাই paleoclimatologist অতীতের জলবায়ু নিয়ে গবেষণা করেন, যেমন tree ring-এর প্রমাণ ব্যবহার করে।",
+   "answer": "A scientist who studies past/ancient climates",
+   "rule_ids": [
+    "word-form",
+    "rc-method"
+   ]
+  },
+  "1-8": {
+   "en": "'Frequency of plagues, storms…' means how often they occur: 'prevalence' / rate of occurrence.",
+   "bn": "'Frequency of plagues, storms…' মানে কত ঘন ঘন ঘটে: 'prevalence' / ঘটার হার।",
+   "answer": "prevalence (rate of occurrence)",
+   "rule_ids": [
+    "vocab",
+    "rc-method"
+   ]
+  },
+  "4-1": {
+   "en": "Approach (argument): 'Globalization is not a global friendship, rather global competition and conflict'. Decide on a clear position (for example: partly agree). Point 1: economic competition (jobs, supply chains, unequal gains). Point 2: conflict and cultural pressure (trade wars, cultural homogenisation). Point 3 (counter): cooperation and benefits (trade, technology, shared problems like climate and health). Point 4: your verdict (globalization is both; its outcome depends on rules and fairness). Use one example from Bangladesh (garment exports).\nUseful phrases: 'interdependence', 'unequal gains', 'level playing field'.",
+   "bn": "পদ্ধতি (argument): 'Globalization বিশ্ববন্ধুত্ব নয়, বরং বৈশ্বিক প্রতিযোগিতা ও সংঘাত'। পরিষ্কার অবস্থান নিন (যেমন: আংশিক একমত)। Point 1: অর্থনৈতিক প্রতিযোগিতা (চাকরি, supply chain, অসম লাভ)। Point 2: সংঘাত ও সাংস্কৃতিক চাপ (বাণিজ্য যুদ্ধ, সংস্কৃতির একরূপতা)। Point 3 (বিপক্ষ): সহযোগিতা ও সুবিধা (বাণিজ্য, প্রযুক্তি, জলবায়ু ও স্বাস্থ্যের মতো যৌথ সমস্যা)। Point 4: আপনার সিদ্ধান্ত (globalization উভয়ই; ফল নির্ভর করে নিয়ম ও ন্যায্যতার উপর)। বাংলাদেশ থেকে একটি উদাহরণ দিন (গার্মেন্টস রপ্তানি)।\nকাজের phrase: 'interdependence', 'unequal gains', 'level playing field'।",
+   "rule_ids": [
+    "essay"
+   ]
+  },
+  "4-2": {
+   "en": "Approach (explain a quotation): the printed quote ('Need brings Greed; if Greed spoils, it spoils breed') is unclear, so state your reading first: needs are natural, but when they grow into greed, they harm the person and the next generation ('breed'). Paragraph 1: restate it in your own words. Paragraph 2: need vs greed (sufficiency vs excess). Paragraph 3: how greed spoils (corruption, exploitation, broken trust, passed on to children). Paragraph 4: how to stay with need (contentment, ethics, example from parents). Conclusion: limit wants to protect values.\nUseful phrases: 'insatiable greed', 'moral decay', 'contentment'.",
+   "bn": "পদ্ধতি (উক্তি ব্যাখ্যা): ছাপা উক্তি ('Need brings Greed; if Greed spoils, it spoils breed') অস্পষ্ট, তাই আগে আপনার পাঠ লিখুন: প্রয়োজন স্বাভাবিক, কিন্তু তা লোভে বাড়লে ব্যক্তি ও পরবর্তী প্রজন্ম ('breed') ক্ষতিগ্রস্ত হয়। Paragraph 1: উক্তিটি নিজের ভাষায় বলুন। Paragraph 2: need বনাম greed (পর্যাপ্ততা বনাম আতিশয্য)। Paragraph 3: লোভ কীভাবে নষ্ট করে (দুর্নীতি, শোষণ, ভাঙা আস্থা, সন্তানদের মধ্যে ছড়ানো)। Paragraph 4: প্রয়োজনের মধ্যে থাকার উপায় (সন্তুষ্টি, নৈতিকতা, বাবা-মায়ের আদর্শ)। উপসংহার: মূল্যবোধ রক্ষায় চাহিদা সীমিত রাখুন।\nকাজের phrase: 'insatiable greed', 'moral decay', 'contentment'।",
+   "rule_ids": [
+    "essay"
+   ]
+  }
+ }
+}
